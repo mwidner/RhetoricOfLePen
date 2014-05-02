@@ -1,0 +1,108 @@
+{
+  "width": 800,
+  "height": 400,
+  "padding": {"top": 10, "left": 50, "bottom": 100, "right": 50},
+  "data": [
+    {
+      "name": "table",
+      "values": [
+        {"x":"France", "y":1079},
+        {"x":"devoir", "y":555},
+        {"x":"peuple", "y":464},
+        {"x":"politique", "y":266},
+        {"x":"droit", "y":212},
+        {"x":"nation", "y":182},
+        {"x":"travail", "y":127},
+        {"x":"euro", "y":119},
+        {"x":"classe", "y":115},
+        {"x":"protection", "y":98},
+        {"x":"mondialisation", "y":89},
+        {"x":"mot", "y":79},
+        {"x":"vote", "y":75},
+        {"x":"famille", "y":72},
+        {"x":"immigration", "y":71},
+        {"x":"avenir", "y":65},
+        {"x":"culture", "y":56},
+        {"x":"finance", "y":55},
+        {"x":"Europe", "y":53},
+        {"x":"patriotisme", "y":52},
+        {"x":"parole", "y":42},
+        {"x":"morale", "y":40},
+        {"x":"chef", "y":40},
+        {"x":"caste", "y":39},
+        {"x":"islamiste", "y":32},
+        {"x":"patriote", "y":26},
+        {"x":"migratoire", "y":22},
+        {"x":"genre", "y":20},
+        {"x":"patriotique", "y":18},
+        {"x":"patronat", "y":18},
+        {"x":"musulman", "y":9},
+        {"x":"islam", "y":5},
+        {"x":"religieux", "y":2}
+
+
+      ]
+    }
+  ],
+  "scales": [
+    {
+      "name": "x",
+      "type": "ordinal",
+      "range": "width",
+      "domain": {"data": "table", "field": "data.x"}
+    },
+    {
+      "name": "y",
+      "range": "height",
+      "nice": true,
+      "domain": {"data": "table", "field": "data.y"}
+    }
+  ],
+  "axes": [
+    {"type": "x", "scale": "x", 
+    "properties": {
+       "ticks": {
+         "stroke": {"value": "steelblue"}
+       },
+       "majorTicks": {
+         "strokeWidth": {"value": 2}
+       },
+       "labels": {
+         "fill": {"value": "steelblue"},
+         "angle": {"value": 50},
+         "fontSize": {"value": 14},
+         "align": {"value": "left"},
+         "baseline": {"value": "middle"},
+         "dx": {"value": 3}
+       },
+       "title": {
+         "fontSize": {"value": 16}
+       },
+       "axis": {
+         "stroke": {"value": "#333"},
+         "strokeWidth": {"value": 1.5}
+       }
+     }},
+    {"type": "y", "scale": "y"}
+  ],
+  "marks": [
+    {
+      "type": "rect",
+      "from": {"data": "table"},
+      "properties": {
+        "enter": {
+          "x": {"scale": "x", "field": "data.x"},
+          "width": {"scale": "x", "band": true, "offset": -1},
+          "y": {"scale": "y", "field": "data.y"},
+          "y2": {"scale": "y", "value": 0}
+        },
+        "update": {
+          "fill": {"value": "steelblue"}
+        },
+        "hover": {
+          "fill": {"value": "red"}
+        }
+      }
+    }
+  ]
+}

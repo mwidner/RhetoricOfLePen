@@ -1,0 +1,10 @@
+0	0.26009	etat liberté nation république peuple autorité faut se valeurs loi ordre contre respect publique intérêt culture démocratie public société 
+1	0.82637	non moi oui ai bien dire m crois suis dit ailleurs ben pense était gens eh faire ont monsieur 
+2	0.20045	immigration droit justice sarkozy étrangers immigrés insécurité prison police délinquance peine nicolas société délinquants banlieues gauche clandestins ville nationalité 
+3	0.23267	sociale plus travail école enfants retraite jeunes ans social euros millions publics logement toujours formation éducation milliards système famille 
+4	0.21033	europe guerre france européenne monde peuples nations européen union frontières états armée unis algérie européens histoire effet souveraineté mondiale 
+5	0.488	euro pays plus économique français france non entreprises pouvoir faut aujourd milliards économie faire etat monnaie monsieur bien européenne 
+6	0.45342	national front politique président se ump gauche m lui chirac parti élections campagne élection électeurs candidats tour pen contre 
+7	0.37271	france peuple français chers histoire nation ont toujours veux amis projet avenir avons sommes toutes se oui aujourd compatriotes 
+8	0.06874	paysans agriculture bruxelles agricole r agriculteurs va m campagnes e nature mesures recherche fin capitalisme agricoles millions chine ruralité 
+9	1.34675	plus français ont se pays politique france bien hui faire ans aujourd leurs entre vie faut pouvoir eux temps 

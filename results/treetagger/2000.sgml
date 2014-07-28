@@ -1,0 +1,3785 @@
+<s>
+<PONCT:S>
+Non	ADV	non
+,	PUN	,
+</PONCT:S>
+<NP>
+certains	PRO:IND	certain
+</NP>
+<VN>
+l'	PRO:PER	la|le
+espèrent	VER:pres	espérer
+</VN>
+<COORD>
+mais	KON	mais
+</COORD>
+<NP>
+ce	PRO:DEM	ce
+</NP>
+<VN>
+n'	ADV	ne
+est	VER:pres	être
+pas	ADV	pas
+</VN>
+<NP>
+le	DET:ART	le
+cas	NOM	cas
+,	PUN	,
+</NP>
+<NP>
+Dieu	NOM	Dieu
+merci	NOM	merci
+</NP>
+.	SENT	.
+</s>
+<s>
+<VN>
+Nous	PRO:PER	nous
+avons	VER:pres	avoir
+évidemment	ADV	évidemment
+subi	VER:pper	subir
+</VN>
+<NP>
+une	DET:ART	un
+épreuve	NOM	épreuve
+</NP>
+<AP>
+très	ADV	très
+dure	VER:subp	durer
+</AP>
+<PP>
+par	PRP	par
+<PP>
+le	DET:ART	le
+<PP>
+fait	NOM	fait
+<PP>
+d'	PRP	de
+<NP>
+une	DET:ART	un
+trahison	NOM	trahison
+</NP>
+</PP>
+</PP>
+</PP>
+</PP>
+<AP>
+intérieure	ADJ	intérieur
+…	PUN	…
+</AP>
+<VPpart>
+Oui	VER:pper	<unknown>
+,	PUN	,
+</VPpart>
+<VN>
+c'	PRO:DEM	ce
+est	VER:pres	être
+</VN>
+<NP>
+cela	PRO:DEM	cela
+</NP>
+.	SENT	.
+</s>
+<s>
+<VN>
+Y	PRO:PER	y
+a	VER:pres	avoir
+déjà	ADV	déjà
+plus	ADV	plus
+</VN>
+<PP>
+d'	PRP	de
+<NP>
+un	DET:ART	un
+an	NOM	an
+</NP>
+</PP>
+<COORD>
+et	KON	et
+</COORD>
+<VN>
+nous	PRO:PER	nous
+avons	VER:pres	avoir
+</VN>
+<VPpart>
+consacré	VER:pper	consacrer
+</VPpart>
+<NP>
+ces	PRO:DEM	ce
+mois	NOM	moi|mois
+</NP>
+<PP>
+à	PRP	à
+<NP>
+la	DET:ART	le
+reconstruction	NOM	reconstruction
+,	PUN	,
+</NP>
+</PP>
+<PP>
+à	PRP	à
+<NP>
+la	DET:ART	le
+convalescence	NOM	convalescence
+</NP>
+</PP>
+<PP>
+en	PRP	en
+<NP>
+<NP>
+quelque	PRO:IND	quelque
+sorte	NOM	sorte
+</NP>
+<COORD>
+et	KON	et
+</COORD>
+<NP>
+tout	PRO:IND	tout
+le	DET:ART	le
+monde	NOM	monde
+</NP>
+</NP>
+</PP>
+<VN>
+aura	VER:futu	avoir
+</VN>
+<NP>
+l'	DET:ART	le
+occasion	NOM	occasion
+</NP>
+<VPinf>
+de	PRP	de
+</VPinf>
+<VN>
+voir	VER:infi	voir
+</VN>
+<PP>
+à	PRP	à
+<NP>
+notre	DET:POS	notre
+congrès	NOM	congrès
+</NP>
+</PP>
+<AP>
+national	ADJ	national
+</AP>
+<AP>
+ordinaire	ADJ	ordinaire
+,	PUN	,
+</AP>
+<NP>
+qui	PRO:REL	qui
+</NP>
+<VN>
+se	PRO:PER	se
+passe	VER:pres	passer
+</VN>
+<NP>
+tous	PRO:IND	tout
+les	DET:ART	le
+trois	NUM	trois
+ans	NOM	an
+</NP>
+<Ssub>
+que	KON	que
+</Ssub>
+<NP>
+le	DET:ART	le
+Front	NAM	<unknown>
+National	NAM	<unknown>
+</NP>
+<VN>
+est	VER:pres	être
+</VN>
+<AP>
+bien	ADV	bien
+présent	ADJ	présent
+</AP>
+<COORD>
+et	KON	et
+</COORD>
+<AP>
+prêt	ADJ	prêt
+</AP>
+<PP>
+au	PRP:det	au
+<NP>
+prochain	ADJ	prochain
+combat	NOM	combat
+</NP>
+</PP>
+<AP>
+politique	ADJ	politique
+</AP>
+<PP>
+de	PRP	de
+<NP>
+2001	NUM	@card@
+</NP>
+</PP>
+<COORD>
+et	KON	et
+</COORD>
+<PP>
+de	PRP	de
+<NP>
+2002	NUM	@card@
+</NP>
+</PP>
+.	SENT	.
+</s>
+<s>
+<NP>
+Non	INT	non
+</NP>
+.	SENT	.
+</s>
+<s>
+<VN>
+Je	PRO:PER	je
+voudrais	VER:cond	vouloir
+</VN>
+<VN>
+vous	PRO:PER	vous
+rappeler	VER:infi	rappeler
+qu'	KON	que
+</VN>
+<PP>
+aux	PRP:det	au
+<NP>
+élections	NOM	élection
+</NP>
+</PP>
+<AP>
+européennes	ADJ	européen
+,	PUN	,
+</AP>
+<VN>
+nous	PRO:PER	nous
+étions	VER:impf	être
+</VN>
+<VPpart>
+crédités	VER:pper	créditer
+</VPpart>
+<PP>
+de	PRP	de
+<NP>
+18	NUM	@card@
+</NP>
+</PP>
+<PP>
+à	PRP	à
+<NP>
+20	NUM	@card@
+</NP>
+</PP>
+<NP>
+%	SYM	%
+</NP>
+<COORD>
+et	KON	et
+</COORD>
+<Ssub>
+que	KON	que
+</Ssub>
+<NP>
+la	DET:ART	le
+rupture	NOM	rupture
+,	PUN	,
+</NP>
+<NP>
+la	DET:ART	le
+trahison	NOM	trahison
+</NP>
+<VN>
+nous	PRO:PER	nous
+a	VER:pres	avoir
+ramenés	VER:pper	ramener
+en	PRP	en
+effet	NOM	effet
+</VN>
+<PP>
+à	PRP	à
+<NP>
+un	DET:ART	un
+chiffre	NOM	chiffre
+</NP>
+</PP>
+<AdP>
+beaucoup	ADV	beaucoup
+plus	ADV	plus
+bas	ADV	bas
+</AdP>
+<COORD>
+et	KON	et
+</COORD>
+<VN>
+a	VER:pres	avoir
+permis	VER:pper	permettre
+justement	ADV	justement
+</VN>
+<NP>
+l'	DET:ART	le
+émergence	NOM	émergence
+</NP>
+<PP>
+du	PRP:det	du
+<NP>
+RPF	NAM	<unknown>
+,	PUN	,
+</NP>
+</PP>
+<NP>
+la	DET:ART	le
+victoire	NOM	victoire
+</NP>
+<PP>
+des	PRP:det	du
+<NP>
+chasseurs	NOM	chasseur
+,	PUN	,
+</NP>
+</PP>
+<NP>
+etc	ABR	etc
+</NP>
+.	SENT	.
+</s>
+<s>
+<NP>
+,	PUN	,
+</NP>
+<NP>
+toutes	PRO:IND	tout
+choses	NOM	chose
+</NP>
+<NP>
+qui	PRO:REL	qui
+</NP>
+<VN>
+ne	ADV	ne
+se	PRO:PER	se
+seraient	VER:cond	être
+pas	ADV	pas
+produites	VER:pper	produire
+</VN>
+<Ssub>
+si	KON	si
+</Ssub>
+<NP>
+le	DET:ART	le
+Front	NAM	<unknown>
+</NP>
+<AP>
+National	NAM	<unknown>
+</AP>
+<VN>
+avait	VER:impf	avoir
+été	VER:pper	être
+en	PRP	en
+état	NOM	état
+</VN>
+<VPinf>
+de	PRP	de
+</VPinf>
+<VN>
+combattre	VER:infi	combattre
+</VN>
+.	SENT	.
+</s>
+<s>
+<COORD>
+Et	KON	et
+</COORD>
+<VN>
+c'	PRO:DEM	ce
+est	VER:pres	être
+sans	PRP	sans
+doute	NOM	doute
+pas	ADV	pas
+</VN>
+<AP>
+innocent	ADJ	innocent
+</AP>
+<Ssub>
+si	KON	si
+</Ssub>
+<NP>
+cette	PRO:DEM	ce
+scission	NOM	scission
+</NP>
+<VN>
+est	VER:pres	être
+</VN>
+<VPpart>
+intervenue	VER:pper	intervenir
+précisément	ADV	précisément
+</VPpart>
+<PP>
+pendant	PRP	pendant
+<NP>
+la	DET:ART	le
+campagne	NOM	campagne
+</NP>
+</PP>
+<AP>
+européenne	ADJ	européen
+</AP>
+.	SENT	.
+</s>
+<s>
+<VPpart>
+En	PRP	en
+partie	NOM	partie
+</VPpart>
+<Ssub>
+,	PUN	,
+oui	INT	oui
+</Ssub>
+.	SENT	.
+</s>
+<s>
+<VN>
+Assez	ADV	assez
+</VN>
+<PP>
+en	PRP	en
+<NP>
+tous	PRO:IND	tout
+les	DET:ART	le
+cas	NOM	cas
+</NP>
+</PP>
+<VPinf>
+pour	PRP	pour
+</VPinf>
+<VN>
+franchir	VER:infi	franchir
+</VN>
+<NP>
+la	DET:ART	le
+barre	NOM	barre
+</NP>
+<PP>
+des	PRP:det	du
+<NP>
+5	NUM	@card@
+</NP>
+</PP>
+<NP>
+%	SYM	%
+</NP>
+<NP>
+qui	PRO:REL	qui
+</NP>
+<VN>
+leur	PRO:PER	lui
+a	VER:pres	avoir
+permis	VER:pper	permettre
+</VN>
+<VPinf>
+d'	PRP	de
+</VPinf>
+<VN>
+avoir	VER:infi	avoir
+</VN>
+<NP>
+une	DET:ART	un
+représentation	NOM	représentation
+</NP>
+<PP>
+à	PRP	à
+<NP>
+l'	DET:ART	le
+</NP>
+</PP>
+Europe	NAM	Europe
+.	SENT	.
+</s>
+<s>
+<NP>
+Oh	INT	oh
+</NP>
+<VN>
+,	PUN	,
+pas	ADV	pas
+</VN>
+<PP>
+du	PRP:det	du
+<NP>
+tout	ADV	tout
+</NP>
+</PP>
+<COORD>
+mais	KON	mais
+</COORD>
+<VN>
+je	PRO:PER	je
+constate	VER:pres	constater
+</VN>
+<Ssub>
+que	KON	que
+</Ssub>
+<NP>
+les	DET:ART	le
+socialistes	NOM	socialiste
+</NP>
+<NP>
+qui	PRO:REL	qui
+</NP>
+<VN>
+mettent	VER:pres	mettre
+en	PRP	en
+œuvre	NOM	œuvre
+</VN>
+<PP>
+contre	PRP	contre
+<NP>
+nous	PRO:PER	nous
+ce	PRO:DEM	ce
+</NP>
+</PP>
+<Ssub>
+qu'	PRO:REL	que
+</Ssub>
+<VN>
+ils	PRO:PER	il
+appellent	VER:pres	appeler
+</VN>
+<NP>
+le	DET:ART	le
+harcèlement	NOM	harcèlement
+</NP>
+<AP>
+démocratique	ADJ	démocratique
+,	PUN	,
+c'est-à-dire	ADV	c'est-à-dire
+</AP>
+<NP>
+ces	PRO:DEM	ce
+méthodes-là	NOM	<unknown>
+</NP>
+<COORD>
+mais	KON	mais
+</COORD>
+<PP>
+à	PRP	à
+<NP>
+longueur	NOM	longueur
+d'	PRP	de
+année	NOM	année
+,	PUN	,
+</NP>
+</PP>
+<VN>
+s'	PRO:PER	se
+en	PRO:PER	en
+trouvent	VER:pres	trouver
+choqués	VER:pper	choquer
+</VN>
+<Ssub>
+quand	KON	quand
+</Ssub>
+<VN>
+ils	PRO:PER	il
+en	PRO:PER	en
+sont	VER:pres	être
+</VN>
+<NP>
+les	DET:ART	le
+victimes	NOM	victime
+,	PUN	,
+évidemment	ADV	évidemment
+</NP>
+.	SENT	.
+</s>
+<s>
+<NP>
+Ah	INT	ah
+,	PUN	,
+moi	PRO:PER	moi
+</NP>
+<VN>
+j'	PRO:PER	je
+en	PRO:PER	en
+avais	VER:impf	avoir
+reçu	VER:pper	recevoir
+</VN>
+<Sint>
+,	PUN	,
+bien	ADV	bien
+sûr	ADJ	sûr
+</Sint>
+.	SENT	.
+</s>
+<s>
+<PP>
+A	PRP	à
+<NP>
+Mantes-la-Jolie	NOM	<unknown>
+,	PUN	,
+</NP>
+</PP>
+<AP>
+bien	ADV	bien
+sûr	ADJ	sûr
+</AP>
+<Ssub>
+que	KON	que
+</Ssub>
+<VN>
+j'	PRO:PER	je
+en	PRO:PER	en
+ai	VER:pres	avoir
+reçu	VER:pper	recevoir
+</VN>
+.	SENT	.
+</s>
+<s>
+<COORD>
+Et	KON	et
+</COORD>
+<VN>
+c'	PRO:DEM	ce
+est	VER:pres	être
+</VN>
+<NP>
+moi	PRO:PER	moi
+</NP>
+<NP>
+qui	PRO:REL	qui
+</NP>
+<VN>
+ai	VER:pres	avoir
+été	VER:pper	être
+condamné	VER:pper	condamner
+,	PUN	,
+</VN>
+<PP>
+de	PRP	de
+<NP>
+surcroit	NOM	<unknown>
+</NP>
+</PP>
+.	SENT	.
+</s>
+<s>
+<PONCT:S>
+Oui	INT	oui
+</PONCT:S>
+<Sint>
+,	PUN	,
+</Sint>
+<VN>
+c'	PRO:DEM	ce
+est	VER:pres	être
+</VN>
+<NP>
+ça	PRO:DEM	cela
+</NP>
+.	SENT	.
+</s>
+<s>
+<VN>
+Je	PRO:PER	je
+le	PRO:PER	le
+conteste	VER:pres	contester
+en	PRP	en
+tout	PRO:IND	tout
+cas	NOM	cas
+</VN>
+.	SENT	.
+</s>
+<s>
+<VN>
+Je	PRO:PER	je
+le	PRO:PER	le
+conteste	VER:pres	contester
+</VN>
+<Ssub>
+parce	KON	parce
+que	KON	que
+</Ssub>
+<NP>
+cette	PRO:DEM	ce
+décision	NOM	décision
+</NP>
+<VN>
+a	VER:pres	avoir
+été	VER:pper	être
+prise	VER:pper	prendre
+</VN>
+<PP>
+à	PRP	à
+<NP>
+mon	DET:POS	mon
+avis	NOM	avis
+</NP>
+</PP>
+<PP>
+à	PRP	à
+<PP>
+l'	DET:ART	le
+<PP>
+inverse	NOM	inverse
+<PP>
+de	PRP	de
+<NP>
+nos	DET:POS	notre
+lois	NOM	loi
+,	PUN	,
+</NP>
+</PP>
+</PP>
+</PP>
+</PP>
+<PP>
+de	PRP	de
+<NP>
+notre	DET:POS	notre
+tradition	NOM	tradition
+</NP>
+</PP>
+<AP>
+juridique	ADJ	juridique
+</AP>
+<COORD>
+et	KON	et
+</COORD>
+<PP>
+de	PRP	de
+<NP>
+la	DET:ART	le
+législation	NOM	législation
+européenne	ADJ	européen
+</NP>
+</PP>
+.	SENT	.
+</s>
+<s>
+<PP>
+Par	PRP	par
+<NP>
+conséquent	ADJ	conséquent
+,	PUN	,
+</NP>
+</PP>
+<VN>
+je	PRO:PER	je
+fais	VER:pres	faire
+évidemment	ADV	évidemment
+appel	NOM	appel
+,	PUN	,
+</VN>
+<NP>
+un	DET:ART	un
+recours	NOM	recours
+</NP>
+<PP>
+devant	PRP	devant
+<NP>
+le	DET:ART	le
+Conseil	NAM	<unknown>
+d'	PRP	de
+Etat	NAM	Etat
+(	PUN	(
+</NP>
+</PP>
+<VN>
+j'	PRO:PER	je
+ai	VER:pres	avoir
+</VN>
+<NP>
+deux	NUM	deux
+mois	NOM	moi|mois
+</NP>
+<VPinf>
+pour	PRP	pour
+</VPinf>
+<VN>
+le	PRO:PER	le
+faire	VER:infi	faire
+)	PUN	)
+</VN>
+<COORD>
+et	KON	et
+ensuite	ADV	ensuite
+,	PUN	,
+</COORD>
+<VN>
+je	PRO:PER	je
+traduirai	VER:futu	traduire
+</VN>
+<NP>
+cela	PRO:DEM	cela
+</NP>
+<PP>
+devant	PRP	devant
+<NP>
+les	DET:ART	le
+juridictions	NOM	juridiction
+</NP>
+</PP>
+<AP>
+européennes	ADJ	européen
+</AP>
+<COORD>
+car	KON	car
+</COORD>
+<VN>
+je	PRO:PER	je
+pense	VER:pres	penser
+</VN>
+<Ssub>
+qu'	KON	que
+</Ssub>
+<VN>
+il	PRO:PER	il
+y	PRO:PER	y
+a	VER:pres	avoir
+eu	VER:pper	avoir
+</VN>
+<PP>
+tout	ADV	tout
+<PP>
+au	PRP:det	au
+<PP>
+long	NOM	long
+<PP>
+de	PRP	de
+<NP>
+cette	PRO:DEM	ce
+affaire	NOM	affaire
+</NP>
+</PP>
+</PP>
+</PP>
+</PP>
+<PP>
+de	PRP	de
+<NP>
+Mantes-la-Jolie	NOM	<unknown>
+</NP>
+</PP>
+<NP>
+une	DET:ART	un
+série	NOM	série
+</NP>
+<PP>
+d'	PRP	de
+<NP>
+illégalités	NOM	illégalité
+,	PUN	,
+</NP>
+</PP>
+<PP>
+de	PRP	de
+<NP>
+violations	NOM	violation
+</NP>
+</PP>
+<PP>
+du	PRP:det	du
+<NP>
+droit	NOM	droit
+</NP>
+</PP>
+<COORD>
+et	KON	et
+</COORD>
+<PP>
+de	PRP	de
+<NP>
+la	DET:ART	le
+loi	NOM	loi
+</NP>
+</PP>
+<COORD>
+et	KON	et
+d'ailleurs	ADV	d'ailleurs
+,	PUN	,
+</COORD>
+<VN>
+c'	PRO:DEM	ce
+est	VER:pres	être
+confirmé	VER:pper	confirmer
+,	PUN	,
+</VN>
+<Ssub>
+si	KON	si
+</Ssub>
+<VN>
+j'	PRO:PER	je
+ose	VER:pres	oser
+</VN>
+<VN>
+dire	VER:infi	dire
+,	PUN	,
+</VN>
+<PP>
+par	PRP	par
+<NP>
+M.	NOM	monsieur
+Baron	NAM	Baron
+Crespo	NAM	<unknown>
+,	PUN	,
+</NP>
+</PP>
+<NP>
+le	DET:ART	le
+président	NOM	président
+</NP>
+<PP>
+du	PRP:det	du
+<NP>
+groupe	NOM	groupe
+</NP>
+</PP>
+<AP>
+socialiste	ADJ	socialiste
+</AP>
+<PP>
+du	PRP:det	du
+<NP>
+Parlement	NOM	parlement
+</NP>
+</PP>
+<AP>
+Européen	ADJ	européen
+</AP>
+<NP>
+qui	PRO:REL	qui
+</NP>
+<VN>
+a	VER:pres	avoir
+dit	VER:pper	dire
+"	PUN:cit	"
+</VN>
+<NP>
+la	DET:ART	le
+présence	NOM	présence
+</NP>
+<PP>
+de	PRP	de
+<NP>
+Le	DET:ART	le
+Pen	NAM	<unknown>
+ici	ADV	ici
+</NP>
+</PP>
+<VN>
+était	VER:impf	être
+</VN>
+<NP>
+une	DET:ART	un
+provocation	NOM	provocation
+,	PUN	,
+eh	INT	eh
+</NP>
+<AdP>
+bien	ADV	bien
+,	PUN	,
+</AdP>
+<NP>
+Jospin	NAM	<unknown>
+</NP>
+<VN>
+a	VER:pres	avoir
+bien	ADV	bien
+fait	VER:pper	faire
+</VN>
+<PP>
+de	PRP	de
+<NP>
+nous	PRO:PER	nous
+</NP>
+</PP>
+<VN>
+en	PRP	en
+débarrasser	VER:infi	débarrasser
+"	PUN:cit	"
+</VN>
+.	SENT	.
+</s>
+<s>
+<VN>
+Autrement	ADV	autrement
+dit	VER:pper	dire
+,	PUN	,
+</VN>
+<VN>
+c'	PRO:DEM	ce
+est	VER:pres	être
+bien	ADV	bien
+</VN>
+<NP>
+l'	DET:ART	le
+ennemi	NOM	ennemi
+</NP>
+<AP>
+politique	ADJ	politique
+</AP>
+<PP>
+des	PRP:det	du
+<NP>
+socialistes	NOM	socialiste
+</NP>
+</PP>
+<COORD>
+et	KON	et
+</COORD>
+<PP>
+des	PRP:det	du
+<NP>
+communistes	NOM	communiste
+</NP>
+</PP>
+<NP>
+qui	PRO:REL	qui
+</NP>
+<VN>
+a	VER:pres	avoir
+été	VER:pper	être
+sanctionné	VER:pper	sanctionner
+</VN>
+<PP>
+d'	PRP	de
+<NP>
+une	DET:ART	un
+manière	NOM	manière
+</NP>
+</PP>
+<NP>
+que	PRO:REL	que
+</NP>
+<VN>
+je	PRO:PER	je
+trouve	VER:pres	trouver
+</VN>
+<AP>
+extravagante	ADJ	extravagant
+</AP>
+<COORD>
+car	KON	car
+</COORD>
+<Ssub>
+si	KON	si
+</Ssub>
+<NP>
+les	DET:ART	le
+mandats	NOM	mandat
+</NP>
+<AP>
+parlementaires	ADJ	parlementaire
+</AP>
+<VN>
+sont	VER:pres	être
+</VN>
+<PP>
+à	PRP	à
+<NP>
+la	DET:ART	le
+disposition	NOM	disposition
+</NP>
+</PP>
+<PP>
+des	PRP:det	du
+<NP>
+gouvernants	NOM	gouvernant
+,	PUN	,
+</NP>
+</PP>
+<VPinf>
+comment	ADV	comment
+</VPinf>
+<COORD>
+peut	VER:pres	pouvoir
+</COORD>
+<VN>
+-il	PRO:PER	il
+y	PRO:PER	y
+</VN>
+<VN>
+avoir	VER:infi	avoir
+</VN>
+<NP>
+une	DET:ART	un
+opposition	NOM	opposition
+</NP>
+?	SENT	?
+</s>
+<s>
+<NP>
+Le	DET:ART	le
+conseil	NOM	conseil
+</NP>
+<VN>
+ne	ADV	ne
+sera	VER:futu	être
+peut-être	ADV	peut-être
+pas	ADV	pas
+constitué	VER:pper	constituer
+</VN>
+<PP>
+de	PRP	de
+<NP>
+la	DET:ART	le
+même	ADJ	même
+manière	NOM	manière
+</NP>
+</PP>
+<COORD>
+et	KON	et
+puis	ADV	puis
+peut-être	ADV	peut-être
+</COORD>
+<Ssub>
+que	KON	que
+</Ssub>
+<NP>
+ça	PRO:DEM	cela
+porte	ADJ	porte
+conseil	NOM	conseil
+,	PUN	,
+</NP>
+<NP>
+l'	DET:ART	le
+expérience	NOM	expérience
+</NP>
+<VN>
+porte	VER:pres	porter
+</VN>
+<NP>
+conseil	NOM	conseil
+</NP>
+.	SENT	.
+</s>
+<s>
+<VN>
+Il	PRO:PER	il
+peut	VER:pres	pouvoir
+</VN>
+<VPinf>
+y	PRO:PER	y
+</VPinf>
+<VN>
+avoir	VER:infi	avoir
+</VN>
+<NP>
+une	DET:ART	un
+autre	ADJ	autre
+disposition	NOM	disposition
+</NP>
+.	SENT	.
+</s>
+<s>
+<PP>
+En	PRP	en
+<NP>
+l'	DET:ART	le
+occurrence	NOM	occurrence
+,	PUN	,
+</NP>
+</PP>
+<NP>
+cette	PRO:DEM	ce
+affaire	NOM	affaire
+</NP>
+<VN>
+n'	ADV	ne
+est	VER:pres	être
+pas	ADV	pas
+finie	VER:pper	finir
+,	PUN	,
+</VN>
+<AdP>
+très	ADV	très
+loin	ADV	loin
+</AdP>
+<NP>
+de	PRP	de
+là	ADV	là
+</NP>
+!	SENT	!
+</s>
+<s>
+<NP>
+Non	ADV	non
+,	PUN	,
+</NP>
+<NP>
+non	ADV	non
+</NP>
+.	SENT	.
+</s>
+<s>
+<VN>
+Je	PRO:PER	je
+ne	ADV	ne
+suis	VER:pres	suivre|être
+pas	ADV	pas
+du	PRP:det	du
+tout	ADV	tout
+remplacé	VER:pper	remplacer
+</VN>
+<PP>
+pour	PRP	pour
+<NP>
+l'	DET:ART	le
+instant	NOM	instant
+</NP>
+</PP>
+.	SENT	.
+</s>
+<s>
+<NP>
+Non	INT	non
+</NP>
+.	SENT	.
+</s>
+<s>
+<NP>
+Ah	INT	ah
+,	PUN	,
+</NP>
+<VN>
+on	PRO:PER	on
+verra	VER:futu	voir
+bien	ADV	bien
+</VN>
+.	SENT	.
+</s>
+<s>
+<NP>
+Non	INT	non
+</NP>
+.	SENT	.
+</s>
+<s>
+<NP>
+Ben	ADV	ben
+,	PUN	,
+</NP>
+<VN>
+je	PRO:PER	je
+serais	VER:cond	être
+</VN>
+.	SENT	.
+</s>
+<s>
+<VN>
+C'	PRO:DEM	ce
+est	VER:pres	être
+</VN>
+<PP>
+du	PRP:det	du
+<NP>
+conditionnel	NOM	conditionnel
+</NP>
+</PP>
+.	SENT	.
+</s>
+<s>
+<PONCT:S>
+Oui	INT	oui
+</PONCT:S>
+<Sint>
+,	PUN	,
+</Sint>
+<VN>
+ça	PRO:DEM	cela
+serait	VER:cond	être
+</VN>
+<NP>
+Mme	NOM	madame
+Stirbois	NAM	<unknown>
+</NP>
+<NP>
+qui	PRO:REL	qui
+</NP>
+<VN>
+me	PRO:PER	me
+remplacerait	VER:cond	remplacer
+</VN>
+.	SENT	.
+</s>
+<s>
+<NP>
+Ben	ADV	ben
+écoutez	VER:pres	écouter
+,	PUN	,
+</NP>
+<VN>
+vous	PRO:PER	vous
+allez	VER:pres	aller
+</VN>
+<VN>
+le	PRO:PER	le
+voir	VER:infi	voir
+</VN>
+.	SENT	.
+</s>
+<s>
+<VN>
+Nous	PRO:PER	nous
+avons	VER:pres	avoir
+</VN>
+<NP>
+un	DET:ART	un
+congrès	NOM	congrès
+</NP>
+<PP>
+avec	PRP	avec
+<NP>
+environ	ADV	environ
+2	NUM	@card@
+000	NUM	@card@
+participants	NOM	participant
+,	PUN	,
+</NP>
+</PP>
+<VN>
+n'	ADV	ne
+est	VER:pres	être
+-ce	PRO:DEM	ce
+</VN>
+<NP>
+pas	NOM	pas
+,	PUN	,
+</NP>
+<PP>
+dont	PRO:REL	dont
+<NP>
+1	NUM	@card@
+500	NUM	@card@
+délégués	NOM	délégué
+</NP>
+</PP>
+<VPpart>
+élus	VER:pper	élire
+</VPpart>
+<PP>
+par	PRP	par
+<NP>
+les	DET:ART	le
+100	NUM	@card@
+congrès	NOM	congrès
+</NP>
+</PP>
+<AP>
+départementaux	ADJ	départemental
+</AP>
+<NP>
+qui	PRO:REL	qui
+</NP>
+<VN>
+se	PRO:PER	se
+sont	VER:pres	être
+</VN>
+<VPpart>
+tenus	VER:pper	tenir
+</VPpart>
+<PP>
+au	PRP:det	au
+<PP>
+cours	NOM	cour|cours
+<PP>
+des	PRP:det	du
+<NP>
+mois	NOM	moi|mois
+précédents	ADJ	précédent
+</NP>
+</PP>
+</PP>
+</PP>
+.	SENT	.
+</s>
+<s>
+<VN>
+Vous	PRO:PER	vous
+allez	VER:pres	aller
+</VN>
+<VN>
+voir	VER:infi	voir
+</VN>
+<NP>
+le	DET:ART	le
+sérieux	NOM	sérieux
+</NP>
+<PP>
+du	PRP:det	du
+<NP>
+travail	NOM	travail
+</NP>
+</PP>
+<NP>
+qui	PRO:REL	qui
+</NP>
+<VN>
+y	PRO:PER	y
+est	VER:pres	être
+accompli	VER:pper	accomplir
+</VN>
+<COORD>
+et	KON	et
+</COORD>
+<Ssub>
+que	KON	que
+</Ssub>
+<NP>
+le	DET:ART	le
+Front	NAM	<unknown>
+National	NAM	<unknown>
+</NP>
+<VN>
+est	VER:pres	être
+</VN>
+<NP>
+une	DET:ART	un
+grande	ADJ	grand
+formation	NOM	formation
+,	PUN	,
+</NP>
+<Sint>
+d'ailleurs	ADV	d'ailleurs
+</Sint>
+<VN>
+il	PRO:PER	il
+le	PRO:PER	le
+démontre	VER:pres	démontrer
+</VN>
+<PP>
+dans	PRP	dans
+<NP>
+les	DET:ART	le
+élections	NOM	élection
+</NP>
+</PP>
+<AP>
+partielles	ADJ	partiel
+</AP>
+<AP>
+cantonales	ADJ	cantonal
+</AP>
+<NP>
+où	PRO:REL	où
+</NP>
+<VN>
+il	PRO:PER	il
+a	VER:pres	avoir
+</VN>
+<VPpart>
+déjà	ADV	déjà
+regagné	VER:pper	regagner
+</VPpart>
+<PP>
+par	PRP	par
+<PP>
+rapport	NOM	rapport
+<PP>
+aux	PRP:det	au
+<NP>
+élections	NOM	élection
+</NP>
+</PP>
+</PP>
+</PP>
+<AP>
+européennes	ADJ	européen
+30	NUM	@card@
+</AP>
+<NP>
+%	SYM	%
+</NP>
+<PP>
+des	PRP:det	du
+<NP>
+voix	NOM	voix
+</NP>
+</PP>
+<Ssub>
+qu'	PRO:REL	que
+</Ssub>
+<VN>
+il	PRO:PER	il
+avait	VER:impf	avoir
+</VN>
+<AP>
+perdues	VER:pper	perdre
+</AP>
+.	SENT	.
+</s>
+<s>
+<NP>
+Euh	INT	euh
+,	PUN	,
+oui	INT	oui
+</NP>
+<COORD>
+enfin	ADV	enfin
+,	PUN	,
+</COORD>
+<PP>
+en	PRP	en
+<NP>
+l'	DET:ART	le
+occurrence	NOM	occurrence
+,	PUN	,
+</NP>
+</PP>
+<VN>
+y	PRO:PER	y
+en	PRO:PER	en
+a	VER:pres	avoir
+déjà	ADV	déjà
+</VN>
+<NP>
+trois	NUM	trois
+</NP>
+<PP>
+d'	PRP	de
+<PP>
+entre	PRP	entre
+<NP>
+elles	PRO:PER	elle
+</NP>
+</PP>
+</PP>
+<NP>
+qui	PRO:REL	qui
+</NP>
+<VN>
+ne	ADV	ne
+sont	VER:pres	être
+plus	ADV	plus
+</VN>
+<PP>
+de	PRP	de
+<NP>
+notre	DET:POS	notre
+obédience	NOM	obédience
+,	PUN	,
+</NP>
+</PP>
+<Ssub>
+si	KON	si
+</Ssub>
+<VN>
+j'	PRO:PER	je
+ose	VER:pres	oser
+</VN>
+<VN>
+dire	VER:infi	dire
+:	PUN	:
+</VN>
+<NP>
+<NP>
+Vitrolles	NAM	<unknown>
+,	PUN	,
+Marignane	NAM	<unknown>
+</NP>
+<COORD>
+et	KON	et
+</COORD>
+<NP>
+Toulon	NAM	Toulon
+</NP>
+</NP>
+.	SENT	.
+</s>
+<s>
+<NP>
+Ce	PRO:DEM	ce
+</NP>
+<VN>
+n'	ADV	ne
+est	VER:pres	être
+pas	ADV	pas
+</VN>
+<AP>
+certain	PRO:IND	certain
+</AP>
+<VN>
+,	PUN	,
+non	ADV	non
+,	PUN	,
+</VN>
+<PP>
+non	ADV	non
+</PP>
+.	SENT	.
+</s>
+<s>
+<VN>
+Nous	PRO:PER	nous
+allons	VER:pres	aller
+</VN>
+<PP>
+à	PRP	à
+<NP>
+Toulon	NAM	Toulon
+</NP>
+</PP>
+<VN>
+essayer	VER:infi	essayer|essayer
+</VN>
+<VPinf>
+de	PRP	de
+</VPinf>
+<VN>
+mener	VER:infi	mener
+</VN>
+<NP>
+une	DET:ART	un
+bataille	NOM	bataille
+</NP>
+<NP>
+qui	PRO:REL	qui
+</NP>
+<VN>
+nous	PRO:PER	nous
+permettrait	VER:cond	permettre
+</VN>
+<VPinf>
+de	PRP	de
+</VPinf>
+<VN>
+garder	VER:infi	garder
+</VN>
+<NP>
+la	DET:ART	le
+municipalité	NOM	municipalité
+</NP>
+<COORD>
+mais	KON	mais
+</COORD>
+<PP>
+sans	PRP	sans
+<NP>
+M.	NOM	monsieur
+</NP>
+</PP>
+<NP>
+Le	DET:ART	le
+Chevallier	NAM	<unknown>
+</NP>
+<COORD>
+et	KON	et
+</COORD>
+<PP>
+sans	PRP	sans
+<NP>
+les	DET:ART	le
+autres	ADJ	autre
+,	PUN	,
+</NP>
+</PP>
+<VN>
+je	PRO:PER	je
+pense	VER:pres	penser
+</VN>
+<Ssub>
+qu'	KON	que
+</Ssub>
+<VN>
+elles	PRO:PER	elle
+sont	VER:pres	être
+en	PRP	en
+effet	NOM	effet
+perdues	VER:pper	perdre
+</VN>
+<COORD>
+mais	KON	mais
+</COORD>
+<PP>
+à	PRP	à
+<NP>
+la	DET:ART	le
+vérité	NOM	vérité
+,	PUN	,
+</NP>
+</PP>
+<VN>
+c'	PRO:DEM	ce
+est	VER:pres	être
+</VN>
+<NP>
+la	DET:ART	le
+responsabilité	NOM	responsabilité
+</NP>
+<PP>
+des	PRP:det	du
+<NP>
+maires	NOM	maire
+</NP>
+</PP>
+<PP>
+de	PRP	de
+<NP>
+ces	PRO:DEM	ce
+villes	NOM	ville
+</NP>
+</PP>
+<NP>
+qui	PRO:REL	qui
+</NP>
+<VN>
+se	PRO:PER	se
+sont	VER:pres	être
+</VN>
+<VPpart>
+rattachés	VER:pper	rattacher
+</VPpart>
+<PP>
+à	PRP	à
+<NP>
+l'	DET:ART	le
+opération	NOM	opération
+Mégret	NAM	<unknown>
+</NP>
+</PP>
+.	SENT	.
+</s>
+<s>
+<COORD>
+Et	KON	et
+ben	ADV	ben
+</COORD>
+<VN>
+écoutez	VER:pres	écouter
+,	PUN	,
+pour	PRP	pour
+l'	DET:ART	le
+instant	ADJ	instant
+</VN>
+<NP>
+ce	PRO:DEM	ce
+</NP>
+<VN>
+n'	ADV	ne
+est	VER:pres	être
+pas	ADV	pas
+encore	ADV	encore
+désigné	VER:pper	désigner
+</VN>
+<AdP>
+officiellement	ADV	officiellement
+</AdP>
+<COORD>
+mais	KON	mais
+enfin	ADV	enfin
+,	PUN	,
+</COORD>
+<VN>
+on	PRO:PER	on
+parle	VER:pres	parler
+</VN>
+<PP>
+d'	PRP	de
+<NP>
+un	DET:ART	un
+certain	PRO:IND	certain
+nombre	NOM	nombre
+</NP>
+</PP>
+<PP>
+de	PRP	de
+<NP>
+gens	NOM	gens
+</NP>
+</PP>
+<COORD>
+et	KON	et
+en	PRP	en
+particulier	NOM	particulier
+,	PUN	,
+</COORD>
+<VN>
+vous	PRO:PER	vous
+le	PRO:PER	le
+savez	VER:pres	savoir
+bien	ADV	bien
+,	PUN	,
+</VN>
+<PP>
+de	PRP	de
+<NP>
+Charles	NAM	Charles
+</NP>
+</PP>
+<PP>
+de	PRP	de
+<NP>
+<NP>
+Gaulle	NAM	Gaulle
+</NP>
+<COORD>
+mais	KON	mais
+</COORD>
+<NP>
+la	DET:ART	le
+décision	NOM	décision
+</NP>
+</NP>
+</PP>
+<VN>
+n'	ADV	ne
+est	VER:pres	être
+pas	ADV	pas
+</VN>
+<AP>
+officielle	ADJ	officiel
+</AP>
+<COORD>
+et	KON	et
+</COORD>
+<VN>
+elle	PRO:PER	elle
+ne	ADV	ne
+le	PRO:PER	le
+sera	VER:futu	être
+qu'	KON	que
+</VN>
+<PP>
+après	PRP	après
+<NP>
+notre	DET:POS	notre
+congrès	NOM	congrès
+</NP>
+</PP>
+.	SENT	.
+</s>
+<s>
+<VN>
+Nous	PRO:PER	nous
+avons	VER:pres	avoir
+voulu	VER:pper	vouloir
+</VN>
+<VN>
+nous	PRO:PER	nous
+donner	VER:infi	donner
+le	DET:ART	le
+temps	NOM	temps
+</VN>
+<VPinf>
+de	PRP	de
+</VPinf>
+<VN>
+constituer	VER:infi	constituer
+</VN>
+<NP>
+nos	DET:POS	notre
+listes	NOM	liste
+</NP>
+<PP>
+pour	PRP	pour
+<NP>
+toute	PRO:IND	tout
+la	DET:ART	le
+France	NAM	France
+</NP>
+</PP>
+.	SENT	.
+</s>
+<s>
+<NP>
+Non	INT	non
+</NP>
+.	SENT	.
+</s>
+<s>
+<PONCT:S>
+D'abord	ADV	d'abord
+,	PUN	,
+</PONCT:S>
+<VN>
+nous	PRO:PER	nous
+n'	ADV	ne
+avons	VER:pres	avoir
+jamais	ADV	jamais
+fait	VER:pper	faire
+</VN>
+<NP>
+la	DET:ART	le
+chasse	NOM	chasse
+</NP>
+<PP>
+à	PRP	à
+<NP>
+l'	DET:ART	le
+immigration	NOM	immigration
+,	PUN	,
+</NP>
+</PP>
+<VN>
+nous	PRO:PER	nous
+sommes	VER:pres	sommer|être
+</VN>
+<NP>
+des	PRP:det	du
+adversaires	NOM	adversaire
+</NP>
+<VPpart>
+résolus	VER:pper	résoudre
+</VPpart>
+<PP>
+de	PRP	de
+<NP>
+la	DET:ART	le
+politique	NOM	politique
+d'	PRP	de
+immigration	NOM	immigration
+,	PUN	,
+</NP>
+</PP>
+<VN>
+nous	PRO:PER	nous
+considérons	VER:pres	considérer
+</VN>
+<Ssub>
+qu'	KON	que
+</Ssub>
+<VN>
+elle	PRO:PER	elle
+est	VER:pres	être
+</VN>
+<NP>
+un	NUM	un
+</NP>
+<PP>
+des	PRP:det	du
+<NP>
+éléments	NOM	élément
+</NP>
+</PP>
+<AP>
+fondamentaux	ADJ	fondamental
+</AP>
+<NP>
+qui	PRO:REL	qui
+</NP>
+<VN>
+justifie	VER:pres	justifier
+,	PUN	,
+enfin	ADV	enfin
+</VN>
+<NP>
+qui	PRO:REL	qui
+</NP>
+<VN>
+explique	VER:pres	expliquer
+</VN>
+<NP>
+le	DET:ART	le
+taux	NOM	tau|taux
+</NP>
+<PP>
+de	PRP	de
+<NP>
+chômage	NOM	chômage
+</NP>
+</PP>
+<PP>
+dans	PRP	dans
+<NP>
+notre	DET:POS	notre
+pays	NOM	pays
+,	PUN	,
+</NP>
+</PP>
+<NP>
+l'	DET:ART	le
+insécurité	NOM	insécurité
+,	PUN	,
+</NP>
+<NP>
+la	DET:ART	le
+fiscalité	NOM	fiscalité
+</NP>
+<AP>
+écrasante	ADJ	écrasant
+;	PUN	;
+</AP>
+<PP>
+par	PRP	par
+<NP>
+conséquent	ADJ	conséquent
+,	PUN	,
+</NP>
+</PP>
+<VN>
+nous	PRO:PER	nous
+réaffirmerons	VER:futu	réaffirmer
+</VN>
+<NP>
+notre	DET:POS	notre
+hostilité	NOM	hostilité
+</NP>
+<PP>
+à	PRP	à
+<NP>
+la	DET:ART	le
+politique	NOM	politique
+d'	PRP	de
+immigration	NOM	immigration
+</NP>
+</PP>
+<AP>
+massive	ADJ	massif
+</AP>
+<NP>
+qui	PRO:REL	qui
+</NP>
+<VN>
+est	VER:pres	être
+aujourd'hui	ADV	aujourd'hui
+permise	VER:pper	permettre
+</VN>
+<PP>
+par	PRP	par
+<PP>
+l'	DET:ART	le
+<PP>
+absence	NOM	absence
+<PP>
+de	PRP	de
+<NP>
+frontières	ADJ	frontière
+</NP>
+</PP>
+</PP>
+</PP>
+</PP>
+<COORD>
+mais	KON	mais
+</COORD>
+<VN>
+nous	PRO:PER	nous
+mettrons	VER:futu	mettre
+sans	PRP	sans
+doute	NOM	doute
+</VN>
+<NP>
+l'	DET:ART	le
+accent	NOM	accent
+</NP>
+<PP>
+sur	PRP	sur
+<NP>
+les	DET:ART	le
+moyens	NOM	moyen
+</NP>
+</PP>
+<VPinf>
+de	PRP	de
+</VPinf>
+<VN>
+rétablir	VER:infi	rétablir
+</VN>
+<NP>
+la	DET:ART	le
+sécurité	NOM	sécurité
+</NP>
+<PP>
+dans	PRP	dans
+<NP>
+le	DET:ART	le
+pays	NOM	pays
+</NP>
+</PP>
+<COORD>
+car	KON	car
+</COORD>
+<VN>
+il	PRO:PER	il
+nous	PRO:PER	nous
+parait	VER:impf	parer
+</VN>
+<Ssub>
+que	KON	que
+</Ssub>
+<NP>
+la	DET:ART	le
+vague	NOM	vague
+d'	PRP	de
+insécurité	NOM	insécurité
+</NP>
+<NP>
+qui	PRO:REL	qui
+</NP>
+<VN>
+gagne	VER:pres	gagner
+</VN>
+<NP>
+la	DET:ART	le
+France	NAM	France
+</NP>
+<VN>
+compromet	VER:pres	compromettre
+même	ADV	même
+</VN>
+<NP>
+la	DET:ART	le
+sécurité	NOM	sécurité
+</NP>
+<AP>
+intérieure	ADJ	intérieur
+</AP>
+<PP>
+du	PRP:det	du
+<NP>
+pays	NOM	pays
+</NP>
+</PP>
+<COORD>
+et	KON	et
+</COORD>
+<VN>
+fait	VER:pres	faire
+</VN>
+<VN>
+courir	VER:infi	courir
+</VN>
+<PP>
+au	PRP:det	au
+<NP>
+pays	NOM	pays
+</NP>
+</PP>
+<PP>
+des	PRP:det	du
+<NP>
+risques	NOM	risque
+graves	ADJ	grave
+d'	PRP	de
+affrontements	NOM	affrontement
+</NP>
+</PP>
+<AP>
+civils	ADJ	civil
+</AP>
+.	SENT	.
+</s>
+<s>
+<NP>
+Ma	DET:POS	mon
+foi	NOM	foi
+,	PUN	,
+rarement	ADV	rarement
+,	PUN	,
+</NP>
+<VN>
+je	PRO:PER	je
+dois	VER:pres	devoir
+</VN>
+<VN>
+dire	VER:infi	dire
+</VN>
+.	SENT	.
+</s>
+<s>
+<PONCT:S>
+Oui	INT	oui
+,	PUN	,
+</PONCT:S>
+<PP>
+pour	PRP	pour
+<NP>
+la	DET:ART	le
+Constitution	NOM	constitution
+</NP>
+</PP>
+<PP>
+de	PRP	de
+<NP>
+la	DET:ART	le
+Vème	NAM	<unknown>
+République	ADJ	<unknown>
+</NP>
+</PP>
+.	SENT	.
+</s>
+<s>
+<VN>
+C'	PRO:DEM	ce
+est	VER:pres	être
+</VN>
+<NP>
+ça	PRO:DEM	cela
+</NP>
+.	SENT	.
+</s>
+<s>
+<VN>
+Je	PRO:PER	je
+préférais	VER:impf	préférer
+</VN>
+<NP>
+la	DET:ART	le
+Vème	NAM	<unknown>
+</NP>
+<PP>
+à	PRP	à
+<NP>
+la	DET:ART	le
+IVème	NOM	<unknown>
+</NP>
+</PP>
+<PP>
+à	PRP	à
+<NP>
+laquelle	PRO:REL	lequel
+d'ailleurs	ADV	d'ailleurs
+</NP>
+</PP>
+<VN>
+on	PRO:PER	on
+est	VER:pres	être
+en	PRP	en
+train	NOM	train
+</VN>
+<VPinf>
+de	PRP	de
+</VPinf>
+<VN>
+revenir	VER:infi	revenir
+</VN>
+<PP>
+par	PRP	par
+<PP>
+la	DET:ART	le
+<PP>
+voie	NOM	voie
+<PP>
+de	PRP	de
+<NP>
+la	DET:ART	le
+modification	NOM	modification
+</NP>
+</PP>
+</PP>
+</PP>
+</PP>
+<PP>
+de	PRP	de
+<NP>
+la	DET:ART	le
+durée	NOM	durée
+</NP>
+</PP>
+<PP>
+du	PRP:det	du
+<NP>
+mandat	NOM	mandat
+</NP>
+</PP>
+<PP>
+du	PRP:det	du
+<NP>
+président	NOM	président
+</NP>
+</PP>
+<PP>
+de	PRP	de
+<NP>
+la	DET:ART	le
+République	NOM	république
+</NP>
+</PP>
+.	SENT	.
+</s>
+<s>
+<NP>
+Ah	INT	ah
+non	ADV	non
+,	PUN	,
+</NP>
+<AdP>
+pas	ADV	pas
+du	PRP:det	du
+tout	NOM	tout
+</AdP>
+.	SENT	.
+</s>
+<s>
+<VN>
+Je	PRO:PER	je
+n'	ADV	ne
+ai	VER:pres	avoir
+jamais	ADV	jamais
+condamné	VER:pper	condamner
+</VN>
+<NP>
+cet	PRO:DEM	ce
+élément	NOM	élément
+</NP>
+<PP>
+de	PRP	de
+<NP>
+l'	DET:ART	le
+autorité	NOM	autorité
+</NP>
+</PP>
+<PP>
+du	PRP:det	du
+<NP>
+président	NOM	président
+</NP>
+</PP>
+<PP>
+de	PRP	de
+<NP>
+la	DET:ART	le
+République	NOM	république
+</NP>
+</PP>
+.	SENT	.
+</s>
+<s>
+<VN>
+Elle	PRO:PER	elle
+est	VER:pres	être
+</VN>
+<VPpart>
+fondée	VER:pper	fonder
+</VPpart>
+<PP>
+dans	PRP	dans
+<NP>
+la	DET:ART	le
+Vème	NAM	<unknown>
+</NP>
+</PP>
+<AP>
+République	ADJ	<unknown>
+</AP>
+<PP>
+sur	PRP	sur
+<NP>
+un	DET:ART	un
+certain	PRO:IND	certain
+nombre	NOM	nombre
+</NP>
+</PP>
+<PP>
+de	PRP	de
+<NP>
+données	NOM	donnée
+,	PUN	,
+</NP>
+</PP>
+<VPinf>
+à	PRP	à
+</VPinf>
+<VN>
+savoir	VER:infi	savoir
+</VN>
+<NP>
+les	DET:ART	le
+pouvoirs	NOM	pouvoir
+</NP>
+<AP>
+exceptionnels	ADJ	exceptionnel
+</AP>
+<PP>
+de	PRP	de
+<NP>
+l'	DET:ART	le
+article	NOM	article
+16	NUM	@card@
+,	PUN	,
+</NP>
+</PP>
+<NP>
+le	DET:ART	le
+droit	NOM	droit
+</NP>
+<PP>
+de	PRP	de
+<NP>
+dissolution	NOM	dissolution
+,	PUN	,
+</NP>
+</PP>
+<NP>
+l'	DET:ART	le
+élection	NOM	élection
+</NP>
+<PP>
+au	PRP:det	au
+<NP>
+suffrage	NOM	suffrage
+</NP>
+</PP>
+<AP>
+universel	ADJ	universel
+</AP>
+<COORD>
+et	KON	et
+</COORD>
+<NP>
+la	DET:ART	le
+durée	NOM	durée
+</NP>
+<PP>
+du	PRP:det	du
+<NP>
+mandat	NOM	mandat
+</NP>
+</PP>
+<AP>
+supérieure	ADJ	supérieur
+</AP>
+<PP>
+à	PRP	à
+<NP>
+celle	PRO:DEM	celui
+</NP>
+</PP>
+<PP>
+des	PRP:det	du
+<NP>
+députés	NOM	député
+</NP>
+</PP>
+<COORD>
+mais	KON	mais
+</COORD>
+<AP>
+inférieure	ADJ	inférieur
+</AP>
+<PP>
+à	PRP	à
+<NP>
+celle	PRO:DEM	celui
+</NP>
+</PP>
+<PP>
+des	PRP:det	du
+<NP>
+sénateurs	NOM	sénateur
+</NP>
+</PP>
+<NP>
+qui	PRO:REL	qui
+,	PUN	,
+</NP>
+<VN>
+vous	PRO:PER	vous
+le	PRO:PER	le
+savez	VER:pres	savoir
+,	PUN	,
+</VN>
+<VN>
+sont	VER:pres	être
+</VN>
+<VPpart>
+élus	VER:pper	élire
+</VPpart>
+<PP>
+pour	PRP	pour
+<NP>
+neuf	ADJ	neuf
+ans	NOM	an
+</NP>
+</PP>
+.	SENT	.
+</s>
+<s>
+<COORD>
+Mais	KON	mais
+</COORD>
+<VN>
+je	PRO:PER	je
+crois	VER:pres	croire
+</VN>
+<Ssub>
+que	KON	que
+</Ssub>
+<VN>
+toucher	VER:infi	toucher
+,	PUN	,
+</VN>
+<VN>
+réduire	VER:infi	réduire
+</VN>
+<NP>
+ce	PRO:DEM	ce
+mandat	NOM	mandat
+,	PUN	,
+</NP>
+<NP>
+ce	PRO:DEM	ce
+</NP>
+<VN>
+n'	ADV	ne
+est	VER:pres	être
+pas	ADV	pas
+</VN>
+<NP>
+innocent	ADJ	innocent
+</NP>
+.	SENT	.
+</s>
+<s>
+<VN>
+On	PRO:PER	on
+aurait	VER:cond	avoir
+pu	VER:pper	pouvoir
+</VN>
+<VN>
+se	PRO:PER	se
+passer	VER:infi	passer
+</VN>
+<VPinf>
+de	PRP	de
+</VPinf>
+<VN>
+faire	VER:infi	faire
+</VN>
+<NP>
+ce	PRO:DEM	ce
+référendum	NOM	référendum
+</NP>
+<PP>
+à	PRP	à
+<NP>
+ce	PRO:DEM	ce
+moment	NOM	moment
+-ci	ADV	-ci
+,	PUN	,
+</NP>
+</PP>
+<VN>
+y	PRO:PER	y
+avait	VER:impf	avoir
+</VN>
+<NP>
+des	PRP:det	du
+sujets	NOM	sujet
+</NP>
+<AP>
+beaucoup	ADV	beaucoup
+plus	ADV	plus
+importants	ADJ	important
+</AP>
+<Ssub>
+que	KON	que
+</Ssub>
+<VPpart>
+celui-là	ADJ	<unknown>
+,	PUN	,
+</VPpart>
+<VPinf>
+à	PRP	à
+</VPinf>
+<VN>
+commencer	VER:infi	commencer
+</VN>
+<PP>
+par	PRP	par
+<NP>
+ceux	PRO:DEM	celui
+</NP>
+</PP>
+<PP>
+sur	PRP	sur
+<NP>
+lesquels	PRO:REL	lequel
+</NP>
+</PP>
+<NP>
+Jacques	NAM	Jacques
+Chirac	NAM	Chirac
+</NP>
+<VN>
+avait	VER:impf	avoir
+</VN>
+<VPpart>
+promis	VER:pper	promettre
+</VPpart>
+<PP>
+dans	PRP	dans
+<NP>
+sa	DET:POS	son
+campagne	NOM	campagne
+</NP>
+</PP>
+<AP>
+électorale	ADJ	électoral
+</AP>
+<AP>
+présidentielle	ADJ	présidentiel
+</AP>
+<VPinf>
+de	PRP	de
+</VPinf>
+<VN>
+faire	VER:infi	faire
+</VN>
+<NP>
+des	PRP:det	du
+référendums	NOM	référendum
+:	PUN	:
+</NP>
+<PP>
+sur	PRP	sur
+<NP>
+l'	DET:ART	le
+euro	NAM	euro
+,	PUN	,
+</NP>
+</PP>
+<PP>
+sur	PRP	sur
+<NP>
+le	DET:ART	le
+traité	NOM	traité
+</NP>
+</PP>
+<PP>
+d'	PRP	de
+<NP>
+Amsterdam	NAM	Amsterdam
+,	PUN	,
+</NP>
+</PP>
+<PP>
+sur	PRP	sur
+<NP>
+la	DET:ART	le
+politique	NOM	politique
+</NP>
+</PP>
+<PP>
+d'	PRP	de
+<NP>
+éducation	NOM	éducation
+</NP>
+</PP>
+.	SENT	.
+</s>
+<s>
+<COORD>
+Et	KON	et
+puis	ADV	puis
+</COORD>
+<VN>
+on	PRO:PER	on
+aurait	VER:cond	avoir
+pu	VER:pper	pouvoir
+</VN>
+<VN>
+prévoir	VER:infi	prévoir
+</VN>
+<VPinf>
+d'	PRP	de
+</VPinf>
+<VN>
+en	PRO:PER	en
+faire	VER:infi	faire
+aussi	ADV	aussi
+,	PUN	,
+</VN>
+<AdP>
+pourquoi	ADV	pourquoi
+pas	ADV	pas
+,	PUN	,
+</AdP>
+<PP>
+sur	PRP	sur
+<NP>
+la	DET:ART	le
+fiscalité	NOM	fiscalité
+,	PUN	,
+</NP>
+</PP>
+<PP>
+sur	PRP	sur
+<NP>
+l'	DET:ART	le
+immigration	NOM	immigration
+,	PUN	,
+</NP>
+</PP>
+<PP>
+sur	PRP	sur
+<PP>
+la	DET:ART	le
+<PP>
+peine	NOM	peine
+<PP>
+de	PRP	de
+<NP>
+mort	NOM	mort
+,	PUN	,
+</NP>
+</PP>
+</PP>
+</PP>
+</PP>
+<PP>
+sur	PRP	sur
+<NP>
+beaucoup	ADV	beaucoup
+de	PRP	de
+sujets	NOM	sujet
+</NP>
+</PP>
+<NP>
+qui	PRO:REL	qui
+</NP>
+<VN>
+intéressent	VER:pres	intéresser
+</VN>
+<NP>
+les	DET:ART	le
+Français	NAM	Français
+</NP>
+<AdP>
+beaucoup	ADV	beaucoup
+plus	ADV	plus
+directement	ADV	directement
+</AdP>
+<Ssub>
+qu'	KON	que
+</Ssub>
+<NP>
+une	DET:ART	un
+réforme	NOM	réforme
+</NP>
+<AP>
+constitutionnelle	ADJ	constitutionnel
+</AP>
+.	SENT	.
+</s>
+<s>
+<COORD>
+Mais	KON	mais
+</COORD>
+<NP>
+Jacques	NAM	Jacques
+Chirac	NAM	Chirac
+</NP>
+<VN>
+n'	ADV	ne
+a	VER:pres	avoir
+pas	ADV	pas
+fait	VER:pper	faire
+</VN>
+<NP>
+ces	PRO:DEM	ce
+référendums	NOM	référendum
+</NP>
+<COORD>
+et	KON	et
+aujourd'hui	ADV	aujourd'hui
+,	PUN	,
+</COORD>
+<PP>
+en	PRP	en
+<NP>
+accord	NOM	accord
+</NP>
+</PP>
+<PP>
+avec	PRP	avec
+<NP>
+Jospin	NAM	<unknown>
+,	PUN	,
+</NP>
+</PP>
+<VN>
+il	PRO:PER	il
+balance	VER:pres	balancer
+,	PUN	,
+</VN>
+<Ssub>
+si	KON	si
+</Ssub>
+<VN>
+j'	PRO:PER	je
+ose	VER:pres	oser
+</VN>
+<VN>
+dire	VER:infi	dire
+,	PUN	,
+</VN>
+<PP>
+au	PRP:det	au
+<PP>
+début	NOM	début
+<PP>
+de	PRP	de
+<NP>
+l'	DET:ART	le
+été	NOM	été
+</NP>
+</PP>
+</PP>
+</PP>
+<NP>
+un	DET:ART	un
+référendum	NOM	référendum
+</NP>
+<AP>
+constitutionnel	ADJ	constitutionnel
+</AP>
+<COORD>
+mais	KON	mais
+</COORD>
+<NP>
+qui	PRO:REL	qui
+</NP>
+<VN>
+n'	ADV	ne
+est	VER:pres	être
+pas	ADV	pas
+</VN>
+<AP>
+aussi	ADV	aussi
+dérisoire	ADJ	dérisoire
+</AP>
+<COORD>
+et	KON	et
+</COORD>
+<AP>
+aussi	ADV	aussi
+innocent	ADJ	innocent
+</AP>
+<Ssub>
+qu'	PRO:REL	que
+</Ssub>
+<VN>
+il	PRO:PER	il
+parait	VER:impf	parer
+</VN>
+<PP>
+au	PRP:det	au
+<NP>
+départ	NOM	départ
+</NP>
+</PP>
+.	SENT	.
+</s>
+<s>
+<VN>
+Je	PRO:PER	je
+crois	VER:pres	croire
+</VN>
+<Ssub>
+que	KON	que
+</Ssub>
+<VN>
+c'	PRO:DEM	ce
+est	VER:pres	être
+</VN>
+<NP>
+un	DET:ART	un
+retour	NOM	retour
+</NP>
+<PP>
+à	PRP	à
+<NP>
+la	DET:ART	le
+IVème	NOM	<unknown>
+</NP>
+</PP>
+<AP>
+République	ADJ	<unknown>
+</AP>
+<COORD>
+et	KON	et
+</COORD>
+<Ssub>
+que	KON	que
+</Ssub>
+<NP>
+la	DET:ART	le
+réduction	NOM	réduction
+</NP>
+<PP>
+du	PRP:det	du
+<NP>
+mandat	NOM	mandat
+</NP>
+</PP>
+<PP>
+du	PRP:det	du
+<NP>
+président	NOM	président
+</NP>
+</PP>
+<PP>
+de	PRP	de
+<NP>
+la	DET:ART	le
+République	NOM	république
+</NP>
+</PP>
+<VN>
+le	PRO:PER	le
+remet	VER:pres	remettre
+en	PRP	en
+quelque	PRO:IND	quelque
+sorte	NOM	sorte
+</VN>
+<PP>
+à	PRP	à
+<NP>
+égalité	NOM	égalité
+</NP>
+</PP>
+<PP>
+avec	PRP	avec
+<NP>
+les	DET:ART	le
+députés	NOM	député
+</NP>
+</PP>
+<PP>
+de	PRP	de
+<NP>
+l'	DET:ART	le
+Assemblée	NOM	assemblée
+</NP>
+</PP>
+<AP>
+nationale	ADJ	national
+</AP>
+<COORD>
+et	KON	et
+</COORD>
+<Ssub>
+que	KON	que
+</Ssub>
+<NP>
+aucun	PRO:IND	aucun
+</NP>
+<PP>
+des	PRP:det	du
+<NP>
+<NP>
+problèmes	NOM	problème
+,	PUN	,
+</NP>
+<COORD>
+et	KON	et
+surtout	ADV	surtout
+pas	ADV	pas
+</COORD>
+<NP>
+celui	PRO:DEM	celui
+</NP>
+</NP>
+</PP>
+<PP>
+de	PRP	de
+<NP>
+la	DET:ART	le
+cohabitation	NOM	cohabitation
+,	PUN	,
+</NP>
+</PP>
+<VN>
+ne	ADV	ne
+seront	VER:futu	être
+résolus	VER:pper	résoudre
+</VN>
+<PP>
+par	PRP	par
+<NP>
+cette	PRO:DEM	ce
+modification	NOM	modification
+,	PUN	,
+</NP>
+</PP>
+<PP>
+au	PRP:det	au
+<NP>
+contraire	NOM	contraire
+</NP>
+</PP>
+.	SENT	.
+</s>
+<s>
+<VPpart>
+Bien	ADV	bien
+sûr	ADJ	sûr
+</VPpart>
+.	SENT	.
+</s>
+<s>
+<PP>
+Pour	PRP	pour
+<PP>
+autant	ADV	autant
+<PP>
+que	KON	que
+<NP>
+Dieu	NOM	Dieu
+</NP>
+</PP>
+</PP>
+</PP>
+<VN>
+me	PRO:PER	me
+prête	VER:pres	prêter
+vie	NOM	vie
+</VN>
+<COORD>
+et	KON	et
+</COORD>
+<Ssub>
+que	KON	que
+</Ssub>
+<NP>
+mes	DET:POS	mon
+amis	NOM	ami
+</NP>
+<VN>
+me	PRO:PER	me
+soutiennent	VER:pres	soutenir
+,	PUN	,
+bien	ADV	bien
+sûr	ADJ	sûr
+,	PUN	,
+</VN>
+<VN>
+je	PRO:PER	je
+serai	VER:futu	être
+</VN>
+<NP>
+candidat	NOM	candidat
+</NP>
+.	SENT	.
+</s>
+<s>
+<NP>
+Ecoutez	NAM	<unknown>
+,	PUN	,
+</NP>
+<VN>
+j'	PRO:PER	je
+ai	VER:pres	avoir
+eu	VER:pper	avoir
+</VN>
+<NP>
+<NP>
+deux	NUM	deux
+fois	NOM	foi|fois
+quatre	NUM	quatre
+millions	NOM	million
+</NP>
+<COORD>
+et	KON	et
+</COORD>
+<NP>
+demi	NOM	demi
+de	PRP	de
+voix	NOM	voix
+,	PUN	,
+</NP>
+</NP>
+<VN>
+j'	PRO:PER	je
+étais	VER:impf	être
+somme	NOM	somme
+toute	PRO:IND	tout
+assez	ADV	assez
+</VN>
+<PP>
+près	ADV	près
+<PP>
+de	PRP	de
+<NP>
+Jacques	NAM	Jacques
+Chirac	NAM	Chirac
+</NP>
+</PP>
+</PP>
+<PP>
+au	PRP:det	au
+<NP>
+premier	NUM	premier
+tour	NOM	tour
+</NP>
+</PP>
+<PP>
+des	PRP:det	du
+<NP>
+élections	NOM	élection
+</NP>
+</PP>
+<AP>
+présidentielles	ADJ	présidentiel
+</AP>
+<COORD>
+et	KON	et
+</COORD>
+<VN>
+je	PRO:PER	je
+ne	ADV	ne
+crois	VER:pres	croire
+pas	ADV	pas
+que	KON	que
+fondamentalement	ADV	fondamentalement
+,	PUN	,
+</VN>
+<NP>
+<NP>
+les	DET:ART	le
+choses	NOM	chose
+aient	VER:subp	avoir
+changé	VER:pper	changer
+</NP>
+<COORD>
+car	KON	car
+</COORD>
+<NP>
+aucun	PRO:IND	aucun
+</NP>
+</NP>
+<PP>
+des	PRP:det	du
+<NP>
+grands	ADJ	grand
+problèmes	NOM	problème
+</NP>
+</PP>
+<PP>
+de	PRP	de
+<NP>
+notre	DET:POS	notre
+société	NOM	société
+</NP>
+</PP>
+<VN>
+n'	ADV	ne
+a	VER:pres	avoir
+été	VER:pper	être
+résolu	VER:pper	résoudre
+</VN>
+.	SENT	.
+</s>
+<s>
+<VPpart>
+Bien	ADV	bien
+sûr	ADJ	sûr
+,	PUN	,
+</VPpart>
+<PP>
+avec	PRP	avec
+<NP>
+les	DET:ART	le
+sondages	NOM	sondage
+,	PUN	,
+</NP>
+</PP>
+<VN>
+on	PRO:PER	on
+crée	VER:pres	créer
+</VN>
+<NP>
+une	DET:ART	un
+certaine	ADJ	certain
+croissance	NOM	croissance
+</NP>
+<PP>
+dont	PRO:REL	dont
+<VN>
+on	PRO:PER	on
+voit	VER:pres	voir
+bien	ADV	bien
+</VN>
+</PP>
+<Ssub>
+qu'	KON	que
+</Ssub>
+<VN>
+elle	PRO:PER	elle
+est	VER:pres	être
+</VN>
+<AP>
+très	ADV	très
+fragile	ADJ	fragile
+,	PUN	,
+</AP>
+<VN>
+on	PRO:PER	on
+crée	VER:pres	créer
+</VN>
+<NP>
+une	DET:ART	un
+euphorie	NOM	euphorie
+</NP>
+<COORD>
+et	KON	et
+</COORD>
+<VN>
+on	PRO:PER	on
+sort	VER:pres	sortir
+</VN>
+<PP>
+des	PRP:det	du
+<PP>
+sondages	NOM	sondage
+<PP>
+à	PRP	à
+<NP>
+65	NUM	@card@
+</NP>
+</PP>
+</PP>
+</PP>
+<NP>
+%	SYM	%
+</NP>
+<NP>
+qui	PRO:REL	qui
+</NP>
+<VN>
+découragent	VER:pres	décourager
+peut-être	ADV	peut-être
+</VN>
+<NP>
+un	DET:ART	un
+certain	PRO:IND	certain
+nombre	NOM	nombre
+</NP>
+<PP>
+de	PRP	de
+<NP>
+gens	NOM	gens
+</NP>
+</PP>
+<VPinf>
+d'	PRP	de
+</VPinf>
+<VN>
+affronter	VER:infi	affronter
+</VN>
+<NP>
+ceux	PRO:DEM	celui
+</NP>
+<NP>
+qui	PRO:REL	qui
+</NP>
+<VN>
+se	PRO:PER	se
+croient	VER:pres	croire
+</VN>
+<NP>
+le	DET:ART	le
+monopole	NOM	monopole
+</NP>
+<PP>
+de	PRP	de
+<NP>
+la	DET:ART	le
+représentation	NOM	représentation
+</NP>
+</PP>
+<AP>
+politique	ADJ	politique
+</AP>
+<AP>
+française	ADJ	français
+</AP>
+<VPpart>
+en	PRP	en
+</VPpart>
+<VN>
+étant	VER:ppre	être
+</VN>
+<NP>
+Jospin	NAM	<unknown>
+</NP>
+<COORD>
+et	KON	et
+Chirac	NAM	Chirac
+</COORD>
+.	SENT	.
+</s>
+<s>
+<NP>
+Moi	PRO:PER	moi
+,	PUN	,
+</NP>
+<VN>
+je	PRO:PER	je
+crois	VER:pres	croire
+pas	ADV	pas
+</VN>
+<PP>
+du	PRP:det	du
+<NP>
+tout	PRO:IND	tout
+</NP>
+</PP>
+<NP>
+ça	PRO:DEM	cela
+</NP>
+.	SENT	.
+</s>
+<s>
+<VN>
+Je	PRO:PER	je
+crois	VER:pres	croire
+</VN>
+<Ssub>
+que	KON	que
+</Ssub>
+<NP>
+les	DET:ART	le
+événements	NOM	événement
+</NP>
+<VN>
+vont	VER:pres	aller
+,	PUN	,
+</VN>
+<PP>
+à	PRP	à
+<NP>
+un	DET:ART	un
+moment	NOM	moment
+</NP>
+</PP>
+<VPpart>
+donné	VER:pper	donner
+</VPpart>
+<COORD>
+ou	KON	ou
+</COORD>
+<PP>
+à	PRP	à
+<NP>
+un	DET:ART	un
+autre	ADJ	autre
+,	PUN	,
+</NP>
+</PP>
+<Ssub>
+comme	KON	comme
+</Ssub>
+<VN>
+ils	PRO:PER	il
+l'	PRO:PER	la|le
+esquissent	VER:pres	esquisser
+d'ailleurs	ADV	d'ailleurs
+maintenant	ADV	maintenant
+</VN>
+<PP>
+avec	PRP	avec
+<NP>
+la	DET:ART	le
+crise	NOM	crise
+</NP>
+</PP>
+<PP>
+du	PRP:det	du
+<NP>
+pétrole	NOM	pétrole
+,	PUN	,
+</NP>
+</PP>
+<VN>
+révéler	VER:infi	révéler
+</VN>
+<PP>
+aux	PRP:det	au
+<NP>
+Français	NAM	Français
+</NP>
+</PP>
+<NP>
+quels	PRO:REL	quel
+</NP>
+<VN>
+sont	VER:pres	être
+</VN>
+<NP>
+les	DET:ART	le
+risques	NOM	risque
+</NP>
+<NP>
+qu'	PRO:REL	que
+</NP>
+<VN>
+ils	PRO:PER	il
+courent	VER:pres	courir
+,	PUN	,
+</VN>
+<NP>
+quels	PRO:REL	quel
+</NP>
+<VN>
+sont	VER:pres	être
+</VN>
+<NP>
+les	DET:ART	le
+dangers	NOM	danger
+</NP>
+<Srel>
+qui	PRO:REL	qui
+</Srel>
+<VN>
+d'	PRP	de
+ores	ADV	ores
+et	KON	et
+déjà	ADV	déjà
+</VN>
+<VN>
+les	PRO:PER	la|le
+cernent	VER:pres	cerner
+</VN>
+<COORD>
+et	KON	et
+</COORD>
+<PP>
+à	PRP	à
+<NP>
+ce	PRO:DEM	ce
+moment-là	NOM	<unknown>
+,	PUN	,
+</NP>
+</PP>
+<VN>
+ils	PRO:PER	il
+songeront	VER:futu	songer
+sans	PRP	sans
+doute	NOM	doute
+</VN>
+<NP>
+le	DET:ART	le
+vote	NOM	vote
+,	PUN	,
+</NP>
+<VN>
+ils	PRO:PER	il
+sanctionneront	VER:futu	sanctionner
+</VN>
+<NP>
+ceux	PRO:DEM	celui
+</NP>
+<NP>
+qu'	PRO:REL	que
+</NP>
+<VN>
+ils	PRO:PER	il
+estimeront	VER:futu	estimer
+</VN>
+<PP>
+comme	ADV	comme
+<NP>
+responsables	ADJ	responsable
+</NP>
+</PP>
+<PP>
+de	PRP	de
+<NP>
+la	DET:ART	le
+politique	ADJ	politique
+socialo-communiste	NOM	<unknown>
+</NP>
+</PP>
+<NP>
+qui	PRO:REL	qui
+</NP>
+<VN>
+est	VER:pres	être
+menée	VER:pper	mener
+toute	PRO:IND	tout
+uniment	ADV	uniment
+</VN>
+<PP>
+par	PRP	par
+<NP>
+M.	NOM	monsieur
+Jospin	NAM	<unknown>
+</NP>
+</PP>
+<COORD>
+mais	KON	mais
+</COORD>
+<PP>
+avec	PRP	avec
+<NP>
+la	DET:ART	le
+bénédiction	NOM	bénédiction
+</NP>
+</PP>
+<PP>
+de	PRP	de
+<NP>
+M.	NOM	monsieur
+Chirac	NAM	Chirac
+</NP>
+</PP>
+<COORD>
+et	KON	et
+</COORD>
+<VN>
+je	PRO:PER	je
+crois	VER:pres	croire
+</VN>
+<Ssub>
+qu'	KON	que
+à	PRP	à
+ce	PRO:DEM	ce
+moment-là	NOM	<unknown>
+,	PUN	,
+eh	INT	eh
+</Ssub>
+<Sint>
+bien	ADV	bien
+</Sint>
+<PONCT:S>
+,	PUN	,
+</PONCT:S>
+<NP>
+les	DET:ART	le
+candidats	NOM	candidat
+</NP>
+<AP>
+nationaux	ADJ	national
+</AP>
+<PP>
+comme	KON	comme
+<NP>
+moi	PRO:PER	moi
+</NP>
+</PP>
+<VN>
+retrouveront	VER:futu	retrouver
+</VN>
+<NP>
+les	DET:ART	le
+suffrages	NOM	suffrage
+</NP>
+<COORD>
+et	KON	et
+même	ADV	même
+au-delà	ADV	au-delà
+</COORD>
+<PP>
+de	PRP	de
+<NP>
+ce	PRO:DEM	ce
+</NP>
+</PP>
+<Ssub>
+qu'	PRO:REL	que
+</Ssub>
+<VN>
+ils	PRO:PER	il
+ont	VER:pres	avoir
+obtenu	VER:pper	obtenir
+,	PUN	,
+</VN>
+<Ssub>
+d'autant	ADV	d'autant
+que	KON	que
+</Ssub>
+<VN>
+nous	PRO:PER	nous
+avons	VER:pres	avoir
+beaucoup	ADV	beaucoup
+travaillé	VER:pper	travailler
+</VN>
+<PP>
+depuis	PRP	depuis
+<NP>
+un	DET:ART	un
+certain	PRO:IND	certain
+temps	NOM	temps
+</NP>
+</PP>
+.	SENT	.
+</s>
+<s>
+<VN>
+On	PRO:PER	on
+nous	PRO:PER	nous
+voit	VER:pres	voir
+pas	ADV	pas
+souvent	ADV	souvent
+</VN>
+<PP>
+sur	PRP	sur
+<NP>
+les	DET:ART	le
+écrans	NOM	écran
+</NP>
+</PP>
+<COORD>
+et	KON	et
+</COORD>
+<PP>
+sur	PRP	sur
+<NP>
+les	DET:ART	le
+antennes	NOM	antenne
+,	PUN	,
+</NP>
+</PP>
+<VN>
+c'	PRO:DEM	ce
+est	VER:pres	être
+</VN>
+<AP>
+vrai	ADJ	vrai
+,	PUN	,
+</AP>
+<VN>
+vous	PRO:PER	vous
+êtes	VER:pres	être
+</VN>
+<AP>
+très	ADV	très
+gentil	ADJ	gentil
+,	PUN	,
+</AP>
+<NP>
+une	DET:ART	un
+fois	NOM	foi|fois
+</NP>
+<PP>
+par	PRP	par
+<NP>
+an	NOM	an
+</NP>
+</PP>
+<COORD>
+et	KON	et
+</COORD>
+<VN>
+j'	PRO:PER	je
+en	PRO:PER	en
+profite	VER:pres	profiter
+</VN>
+<COORD>
+et	KON	et
+</COORD>
+<VN>
+je	PRO:PER	je
+vous	PRO:PER	vous
+en	PRO:PER	en
+remercie	VER:pres	remercier
+</VN>
+<COORD>
+mais	KON	mais
+</COORD>
+<VN>
+je	PRO:PER	je
+dois	VER:pres	devoir
+</VN>
+<VN>
+dire	VER:infi	dire
+</VN>
+<Ssub>
+que	KON	que
+</Ssub>
+<PP>
+malgré	PRP	malgré
+<PP>
+cela	PRO:DEM	cela
+<NP>
+,	PUN	,
+</NP>
+<VN>
+nous	PRO:PER	nous
+travaillons	VER:pres	travailler
+</VN>
+</PP>
+</PP>
+<COORD>
+et	KON	et
+</COORD>
+<VN>
+nous	PRO:PER	nous
+sommes	VER:pres	sommer|être
+</VN>
+<AP>
+présents	ADJ	présent
+</AP>
+.	SENT	.
+</s>
+<s>
+<NP>
+Le	DET:ART	le
+Front	NAM	<unknown>
+National	NAM	<unknown>
+</NP>
+<VN>
+est	VER:pres	être
+toujours	ADV	toujours
+</VN>
+<NP>
+la	DET:ART	le
+troisième	NUM	troisième
+force	NOM	force
+</NP>
+<AP>
+politique	ADJ	politique
+</AP>
+<AP>
+française	ADJ	français
+</AP>
+<COORD>
+et	KON	et
+</COORD>
+<NP>
+la	DET:ART	le
+première	NUM	premier
+force	NOM	force
+</NP>
+<PP>
+d'	PRP	de
+<NP>
+opposition	NOM	opposition
+</NP>
+</PP>
+<AP>
+nationale	ADJ	national
+</AP>
+<PP>
+à	PRP	à
+<NP>
+la	DET:ART	le
+politique	ADJ	politique
+socialo-communiste	NOM	<unknown>
+</NP>
+</PP>
+.	SENT	.
+</s>
+<s>
+<NP>
+Ca	NAM	<unknown>
+,	PUN	,
+</NP>
+<NP>
+<NP>
+un	DET:ART	un
+jour	NOM	jour
+</NP>
+<COORD>
+ou	KON	ou
+</COORD>
+<NP>
+l'	DET:ART	le
+autre	ADJ	autre
+,	PUN	,
+</NP>
+</NP>
+<NP>
+les	DET:ART	le
+Français	NAM	Français
+</NP>
+<VN>
+s'	KON	si
+en	PRO:PER	en
+apercevront	VER:futu	apercevoir
+</VN>
+.	SENT	.
+</s>

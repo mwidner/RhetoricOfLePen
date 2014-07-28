@@ -1,0 +1,31 @@
+* Use pandas; load entire tagged corpus into memory; drop everything but adjectives and stems of NOM
+* output as stemmed yearly data
+* run topic models, word freqs on that
+* load WoNoF XML, find synonyms and collapse into most common term?
+
+<NP>
+sordide	ADJ	sordide
+</NP>
+
+# noun phrase
+<PP>
+avec	PRP	avec
+<NP>
+ses	DET:POS	son
+petits	ADJ	petit
+tripotages	NOM	tripotage
+</NP>
+</PP>
+
+# verb clause
+<VN>
+Vous	PRO:PER	vous
+avez	VER:pres	avoir
+également	ADV	également
+supporté	VER:pper	supporter
+</VN>
+
+# Adjective
+<AP>
+gouvernementales	ADJ	gouvernemental
+</AP>

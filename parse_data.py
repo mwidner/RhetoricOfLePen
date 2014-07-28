@@ -1,8 +1,5 @@
 '''
 For Cécile Alduy's Rhetoric of LePen project
-Read in a series of CSV files with metadata describing corpus
-Count words in each text file
-Output CSV of word frequencies with metadata
 
 Mike Widner <mikewidner@stanford.edu>
 '''
@@ -12,6 +9,7 @@ import sys
 import string
 import numpy as np
 import pandas as pd
+import xmltodict
 
 # list of files holding metadata about our texts
 metadata = ['JMLP_discours.csv',
@@ -40,7 +38,49 @@ def count_words(filename):
 	return({'counts': counts, 'total': total})
 
 def main(): 
-	''' Loop through metadata files; count words in each text listed '''
+	''' Convert wordsmith output '''
+	# keyword, freq, percent, keyness, texts
+	fh = open(corpora + 'JMLP/' + 'keywords_all.xml', "r", encoding='utf-8')
+	data = fh.read()
+	fh.close()
+	fh = open(basedir + 'stopwords.txt', 'r')
+	stopwords = [w.rstrip() for w in fh]
+	fh.close()
+	keyword_data = xmltodict.parse(data)
+	keyword_data = keyword_data['WordSmith_XML_Data']['XML_Row']
+	keyword_df = pd.DataFrame([row for row in keyword_data])
+	# re-cast data types
+	data_types = {'int':['freq','texts','rc_freq'], 
+				'float':['keyness','percent','rc_percent']}
+	# for k,v in data_types:	#TODO: work w/ new data_types structure
+	# 	try:
+	# 		keyword_df[k] = keyword_df[k].astype(data_types[k])
+	# 	except ValueError as err:
+	# 		print(err, k)
+	# drop columns we don't want
+	keyword_df.drop('Lemmas', inplace=True, axis=1)
+	keyword_df.drop('N', inplace=True, axis=1)
+	keyword_df.drop('P', inplace=True, axis=1)
+	keyword_df.drop('Set', inplace=True, axis=1)
+	keyword_df.keyword = keyword_df.keyword.str.lower()
+	keyword_df = keyword_df[~keyword_df.keyword.isin(stopwords)] # strip stop words
+	keyword_df.sort_index(by=['freq'], ascending=False).to_csv('keywords.csv')
+
+
+	# keyword_df.to_csv('keywords.csv', encoding='utf-8')
+	# fh = open(basedir + 'words_of_interest', 'r')
+	# targets = [w.rstrip() for w in fh]
+	# fh.close()
+
+	# targets_df = pd.DataFrame(targets, columns=['keyword'])
+
+	# # actually not useful; words of interest mostly not found
+	# word_list_df = pd.merge(targets_df, keyword_df)
+	# print(keyword_df)
+	# word_list_df.to_csv('interest_freq.csv')
+	# print(keyword_df['keyword'].isin(stopwords_df))
+
+	exit()
 	texts = []	# build up data for a DataFrame
 	for filename in metadata:
 		with open(basedir + filename, 'r', encoding='utf-8') as fh:
@@ -87,10 +127,15 @@ def main():
 			except: 
 				c = 0
 			finally:
-				results[i][word] = c / row['total']
+				results[i][word] = c 
+
 				# print(word, c, c / tot)
+
+	# create many groupings
 	df_results = pd.DataFrame(results)
-	df_results.to_csv('results.csv', encoding='latin-1')
+	groups = ['date', 'author', 'type']
+	df_date = df_results.groupby('date')
+	df_author = df_date.groupby('author')
 
 if __name__ == '__main__':
 	if sys.version_info[0] != 3:

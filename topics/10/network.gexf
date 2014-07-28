@@ -1,0 +1,236 @@
+<gexf xmlns:ns0="http://www.gexf.net/1.1draft/viz" version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="2014" label="corpora-years-2014" />
+      <node id="2010" label="corpora-years-2010" />
+      <node id="2011" label="corpora-years-2011" />
+      <node id="2012" label="corpora-years-2012" />
+      <node id="2013" label="corpora-years-2013" />
+      <node id="6" label="national front politique président se ump gauche m lui chirac parti élections campagne élection électeurs candidats tour pen contre ">
+        <ns0:size value="0.45342" />
+      </node>
+      <node id="7" label="france peuple français chers histoire nation ont toujours veux amis projet avenir avons sommes toutes se oui aujourd compatriotes ">
+        <ns0:size value="0.37271" />
+      </node>
+      <node id="4" label="europe guerre france européenne monde peuples nations européen union frontières états armée unis algérie européens histoire effet souveraineté mondiale ">
+        <ns0:size value="0.21033" />
+      </node>
+      <node id="1997" label="corpora-years-1997" />
+      <node id="2" label="immigration droit justice sarkozy étrangers immigrés insécurité prison police délinquance peine nicolas société délinquants banlieues gauche clandestins ville nationalité ">
+        <ns0:size value="0.20045" />
+      </node>
+      <node id="3" label="sociale plus travail école enfants retraite jeunes ans social euros millions publics logement toujours formation éducation milliards système famille ">
+        <ns0:size value="0.23267" />
+      </node>
+      <node id="0" label="etat liberté nation république peuple autorité faut se valeurs loi ordre contre respect publique intérêt culture démocratie public société ">
+        <ns0:size value="0.26009" />
+      </node>
+      <node id="1" label="non moi oui ai bien dire m crois suis dit ailleurs ben pense était gens eh faire ont monsieur ">
+        <ns0:size value="0.82637" />
+      </node>
+      <node id="1998" label="corpora-years-1998" />
+      <node id="1999" label="corpora-years-1999" />
+      <node id="8" label="paysans agriculture bruxelles agricole r agriculteurs va m campagnes e nature mesures recherche fin capitalisme agricoles millions chine ruralité ">
+        <ns0:size value="0.06874" />
+      </node>
+      <node id="9" label="plus français ont se pays politique france bien hui faire ans aujourd leurs entre vie faut pouvoir eux temps ">
+        <ns0:size value="1.34675" />
+      </node>
+      <node id="5" label="euro pays plus économique français france non entreprises pouvoir faut aujourd milliards économie faire etat monnaie monsieur bien européenne ">
+        <ns0:size value="0.488" />
+      </node>
+      <node id="2003" label="corpora-years-2003" />
+      <node id="2002" label="corpora-years-2002" />
+      <node id="2001" label="corpora-years-2001" />
+      <node id="2000" label="corpora-years-2000" />
+      <node id="2007" label="corpora-years-2007" />
+      <node id="2006" label="corpora-years-2006" />
+      <node id="2005" label="corpora-years-2005" />
+      <node id="2004" label="corpora-years-2004" />
+      <node id="2009" label="corpora-years-2009" />
+      <node id="2008" label="corpora-years-2008" />
+    </nodes>
+    <edges>
+      <edge id="0" source="2014" target="6" weight="0.35822860173180004" />
+      <edge id="1" source="2014" target="7" weight="0.2655668284983154" />
+      <edge id="2" source="2014" target="4" weight="0.1328765332840132" />
+      <edge id="3" source="2014" target="5" weight="0.33090087950371444" />
+      <edge id="4" source="2014" target="2" weight="0.25416789315113947" />
+      <edge id="5" source="2014" target="3" weight="0.08919875687098885" />
+      <edge id="6" source="2014" target="0" weight="0.1507339251355663" />
+      <edge id="7" source="2014" target="1" weight="0.0957242965446535" />
+      <edge id="8" source="2014" target="8" weight="0.0002882862913130627" />
+      <edge id="9" source="2014" target="9" weight="0.5359851602601942" />
+      <edge id="10" source="2010" target="6" weight="0.5856012264869562" />
+      <edge id="11" source="2010" target="7" weight="0.5533270015890943" />
+      <edge id="12" source="2010" target="4" weight="0.11891482742190929" />
+      <edge id="13" source="2010" target="5" weight="0.11106602028002009" />
+      <edge id="14" source="2010" target="2" weight="0.1493580716977618" />
+      <edge id="15" source="2010" target="3" weight="0.07348732864683716" />
+      <edge id="16" source="2010" target="0" weight="0.18387630090856827" />
+      <edge id="17" source="2010" target="1" weight="0.08306145451717371" />
+      <edge id="18" source="2010" target="8" weight="0.04367065976904325" />
+      <edge id="19" source="2010" target="9" weight="0.4356738499868357" />
+      <edge id="20" source="2011" target="6" weight="0.5776460792129499" />
+      <edge id="21" source="2011" target="7" weight="0.5292318569873193" />
+      <edge id="22" source="2011" target="4" weight="0.5070618647792785" />
+      <edge id="23" source="2011" target="5" weight="0.6082994585384098" />
+      <edge id="24" source="2011" target="2" weight="0.38897502059419414" />
+      <edge id="25" source="2011" target="3" weight="0.7608355718256046" />
+      <edge id="26" source="2011" target="0" weight="0.7443901475511944" />
+      <edge id="27" source="2011" target="1" weight="0.6620329978853665" />
+      <edge id="28" source="2011" target="8" weight="0.1937198674398368" />
+      <edge id="29" source="2011" target="9" weight="0.5126470638358009" />
+      <edge id="30" source="2012" target="6" weight="0.5472942943826785" />
+      <edge id="31" source="2012" target="7" weight="0.6343880550638697" />
+      <edge id="32" source="2012" target="4" weight="0.46716469429202456" />
+      <edge id="33" source="2012" target="5" weight="0.6762160513274302" />
+      <edge id="34" source="2012" target="2" weight="0.44695099951053646" />
+      <edge id="35" source="2012" target="3" weight="0.7485372280581597" />
+      <edge id="36" source="2012" target="0" weight="0.7390017774699197" />
+      <edge id="37" source="2012" target="1" weight="0.6478575655479591" />
+      <edge id="38" source="2012" target="8" weight="0.2822101619788403" />
+      <edge id="39" source="2012" target="9" weight="0.506184472855891" />
+      <edge id="40" source="2013" target="6" weight="0.3503983028716154" />
+      <edge id="41" source="2013" target="7" weight="0.7226149005713566" />
+      <edge id="42" source="2013" target="4" weight="0.40476393164301633" />
+      <edge id="43" source="2013" target="5" weight="0.5181987446463358" />
+      <edge id="44" source="2013" target="2" weight="0.33486520128179736" />
+      <edge id="45" source="2013" target="3" weight="0.1339670544671458" />
+      <edge id="46" source="2013" target="0" weight="0.4152252306690192" />
+      <edge id="47" source="2013" target="1" weight="0.7255020636459003" />
+      <edge id="48" source="2013" target="8" weight="0.18415083831682735" />
+      <edge id="49" source="2013" target="9" weight="0.6028022981748428" />
+      <edge id="50" source="6" target="2003" weight="0.45142966937670403" />
+      <edge id="51" source="6" target="2002" weight="0.5224053529479366" />
+      <edge id="52" source="6" target="2001" weight="0.31857088638465864" />
+      <edge id="53" source="6" target="1997" weight="0.41862473036887005" />
+      <edge id="54" source="6" target="2007" weight="0.47720405219538636" />
+      <edge id="55" source="6" target="2006" weight="0.3317008846758796" />
+      <edge id="56" source="6" target="2005" weight="0.30006724919104893" />
+      <edge id="57" source="6" target="2004" weight="0.4284467571586702" />
+      <edge id="58" source="6" target="2000" weight="0.3548389102475113" />
+      <edge id="59" source="6" target="2009" weight="0.35057159291319545" />
+      <edge id="60" source="6" target="2008" weight="0.2968300491186896" />
+      <edge id="61" source="6" target="1998" weight="0.5612721966836272" />
+      <edge id="62" source="6" target="1999" weight="0.4685632325366382" />
+      <edge id="63" source="7" target="2003" weight="0.07166568875037639" />
+      <edge id="64" source="7" target="2002" weight="0.3263636758825183" />
+      <edge id="65" source="7" target="2001" weight="0.08333798853535226" />
+      <edge id="66" source="7" target="1997" weight="0.15823752968730356" />
+      <edge id="67" source="7" target="2007" weight="0.6004119394051014" />
+      <edge id="68" source="7" target="2006" weight="0.6355764215483684" />
+      <edge id="69" source="7" target="2005" weight="0.08925395320502882" />
+      <edge id="70" source="7" target="2004" weight="0.03359484693042603" />
+      <edge id="71" source="7" target="2000" weight="0.0017298334748390846" />
+      <edge id="72" source="7" target="2009" weight="0.3382220407786568" />
+      <edge id="73" source="7" target="2008" weight="0.11478975008317803" />
+      <edge id="74" source="7" target="1998" weight="0.12729355580681362" />
+      <edge id="75" source="7" target="1999" weight="0.1194844017615817" />
+      <edge id="76" source="4" target="2003" weight="0.261406452002924" />
+      <edge id="77" source="4" target="2002" weight="0.21296860363958814" />
+      <edge id="78" source="4" target="2001" weight="0.11354094439331142" />
+      <edge id="79" source="4" target="1997" weight="0.09886406298301575" />
+      <edge id="80" source="4" target="2007" weight="0.579717231587388" />
+      <edge id="81" source="4" target="2006" weight="0.5391856199288686" />
+      <edge id="82" source="4" target="2005" weight="0.08583355915495162" />
+      <edge id="83" source="4" target="2004" weight="0.005515044011792658" />
+      <edge id="84" source="4" target="2000" weight="0.04274737447207497" />
+      <edge id="85" source="4" target="2009" weight="0.21535314280096257" />
+      <edge id="86" source="4" target="2008" weight="0.32865325904135534" />
+      <edge id="87" source="4" target="1998" weight="0.222210117913974" />
+      <edge id="88" source="4" target="1999" weight="0.38832019710152704" />
+      <edge id="89" source="1997" target="5" weight="0.03246390374837708" />
+      <edge id="90" source="1997" target="2" weight="0.02371475413524448" />
+      <edge id="91" source="1997" target="3" weight="0.06170952113061173" />
+      <edge id="92" source="1997" target="0" weight="0.10047268361760345" />
+      <edge id="93" source="1997" target="1" weight="0.4157130178725821" />
+      <edge id="94" source="1997" target="8" weight="0.00028470449482079457" />
+      <edge id="95" source="1997" target="9" weight="0.35085027838477084" />
+      <edge id="96" source="2" target="2003" weight="0.20956431185740296" />
+      <edge id="97" source="2" target="2002" weight="0.3350289939790562" />
+      <edge id="98" source="2" target="2001" weight="0.16782203252094402" />
+      <edge id="99" source="2" target="2007" weight="0.4552189282647811" />
+      <edge id="100" source="2" target="2006" weight="0.5176386610127413" />
+      <edge id="101" source="2" target="2005" weight="0.01822640371627926" />
+      <edge id="102" source="2" target="2004" weight="0.009425395382052427" />
+      <edge id="103" source="2" target="2000" weight="0.025056414190722052" />
+      <edge id="104" source="2" target="2009" weight="0.38984765430758234" />
+      <edge id="105" source="2" target="2008" weight="0.05582540353604651" />
+      <edge id="106" source="2" target="1998" weight="0.16072118255185408" />
+      <edge id="107" source="2" target="1999" weight="0.07244169822964848" />
+      <edge id="108" source="3" target="2003" weight="0.1311162636806503" />
+      <edge id="109" source="3" target="2002" weight="0.22742922962026457" />
+      <edge id="110" source="3" target="2001" weight="0.009646030846780796" />
+      <edge id="111" source="3" target="2007" weight="0.5887830281560612" />
+      <edge id="112" source="3" target="2006" weight="0.7180785370236638" />
+      <edge id="113" source="3" target="2005" weight="0.06640226355972817" />
+      <edge id="114" source="3" target="2004" weight="0.353910043278828" />
+      <edge id="115" source="3" target="2000" weight="0.037309801520837425" />
+      <edge id="116" source="3" target="2009" weight="0.223198788002183" />
+      <edge id="117" source="3" target="2008" weight="0.04710512518995549" />
+      <edge id="118" source="3" target="1998" weight="0.03871795754203413" />
+      <edge id="119" source="3" target="1999" weight="0.020726751092712225" />
+      <edge id="120" source="0" target="2003" weight="0.031097837412238673" />
+      <edge id="121" source="0" target="2002" weight="0.1272093128164214" />
+      <edge id="122" source="0" target="2001" weight="0.14501553274936757" />
+      <edge id="123" source="0" target="2007" weight="0.2637202456561849" />
+      <edge id="124" source="0" target="2006" weight="0.26641928731855546" />
+      <edge id="125" source="0" target="2005" weight="0.02892035519021258" />
+      <edge id="126" source="0" target="2004" weight="0.025607864295756202" />
+      <edge id="127" source="0" target="2000" weight="0.017215285322226614" />
+      <edge id="128" source="0" target="2009" weight="0.13589821579477335" />
+      <edge id="129" source="0" target="2008" weight="0.05184856217565231" />
+      <edge id="130" source="0" target="1998" weight="0.13305349218146037" />
+      <edge id="131" source="0" target="1999" weight="0.0778312591748393" />
+      <edge id="132" source="1" target="2003" weight="0.5638914421888139" />
+      <edge id="133" source="1" target="2002" weight="0.5998112751543085" />
+      <edge id="134" source="1" target="2001" weight="0.49073592921515474" />
+      <edge id="135" source="1" target="2007" weight="0.5648616790521136" />
+      <edge id="136" source="1" target="2006" weight="0.5168266509955692" />
+      <edge id="137" source="1" target="2005" weight="0.49016855005372184" />
+      <edge id="138" source="1" target="2004" weight="0.49619559765275484" />
+      <edge id="139" source="1" target="2000" weight="0.4679596823604778" />
+      <edge id="140" source="1" target="2009" weight="0.48641141082600264" />
+      <edge id="141" source="1" target="2008" weight="0.6211941146831373" />
+      <edge id="142" source="1" target="1998" weight="0.5736014935260387" />
+      <edge id="143" source="1" target="1999" weight="0.5816631904729261" />
+      <edge id="144" source="1998" target="5" weight="0.16627373391201702" />
+      <edge id="145" source="1998" target="8" weight="0.05480487600280186" />
+      <edge id="146" source="1998" target="9" weight="0.5337842873546096" />
+      <edge id="147" source="1999" target="5" weight="0.06286568933237381" />
+      <edge id="148" source="1999" target="8" weight="0.025449789235077125" />
+      <edge id="149" source="1999" target="9" weight="0.29480810393181284" />
+      <edge id="150" source="8" target="2003" weight="0.01713447645043033" />
+      <edge id="151" source="8" target="2002" weight="0.0636487956374848" />
+      <edge id="152" source="8" target="2001" weight="0.00033458956047233883" />
+      <edge id="153" source="8" target="2007" weight="0.6307519617086706" />
+      <edge id="154" source="8" target="2006" weight="0.6269948338861713" />
+      <edge id="155" source="8" target="2005" weight="0.009557189164671374" />
+      <edge id="156" source="8" target="2004" weight="0.03819069659442332" />
+      <edge id="157" source="8" target="2000" weight="0.0003190604459921666" />
+      <edge id="158" source="8" target="2009" weight="0.25849405615460025" />
+      <edge id="159" source="8" target="2008" weight="0.07577279512260524" />
+      <edge id="160" source="9" target="2003" weight="0.48329597076590924" />
+      <edge id="161" source="9" target="2002" weight="0.42460653754238126" />
+      <edge id="162" source="9" target="2001" weight="0.392641095739181" />
+      <edge id="163" source="9" target="2007" weight="0.547618533444827" />
+      <edge id="164" source="9" target="2006" weight="0.5244230654212759" />
+      <edge id="165" source="9" target="2005" weight="0.36246888549250655" />
+      <edge id="166" source="9" target="2004" weight="0.4516561890967733" />
+      <edge id="167" source="9" target="2000" weight="0.30044004774560434" />
+      <edge id="168" source="9" target="2009" weight="0.4897044172578772" />
+      <edge id="169" source="9" target="2008" weight="0.3989974675952992" />
+      <edge id="170" source="5" target="2003" weight="0.17750643442105268" />
+      <edge id="171" source="5" target="2002" weight="0.3065556242330175" />
+      <edge id="172" source="5" target="2001" weight="0.09124417872565241" />
+      <edge id="173" source="5" target="2007" weight="0.3733700170752563" />
+      <edge id="174" source="5" target="2006" weight="0.24769916631856762" />
+      <edge id="175" source="5" target="2005" weight="0.20605786257448322" />
+      <edge id="176" source="5" target="2004" weight="0.03574502584786136" />
+      <edge id="177" source="5" target="2000" weight="0.05428649551113212" />
+      <edge id="178" source="5" target="2009" weight="0.3757582752251507" />
+      <edge id="179" source="5" target="2008" weight="0.04398229373360007" />
+    </edges>
+  </graph>
+</gexf>

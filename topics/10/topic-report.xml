@@ -1,0 +1,213 @@
+<?xml version='1.0' ?>
+<topicModel>
+  <topic id='0' alpha='0.2600863010348048' totalTokens='13412'>
+	<word rank='1'>etat</word>
+	<word rank='2'>liberté</word>
+	<word rank='3'>nation</word>
+	<word rank='4'>république</word>
+	<word rank='5'>peuple</word>
+	<word rank='6'>autorité</word>
+	<word rank='7'>faut</word>
+	<word rank='8'>se</word>
+	<word rank='9'>valeurs</word>
+	<word rank='10'>loi</word>
+	<word rank='11'>ordre</word>
+	<word rank='12'>contre</word>
+	<word rank='13'>respect</word>
+	<word rank='14'>publique</word>
+	<word rank='15'>intérêt</word>
+	<word rank='16'>culture</word>
+	<word rank='17'>démocratie</word>
+	<word rank='18'>public</word>
+	<word rank='19'>société</word>
+  </topic>
+  <topic id='1' alpha='0.8263701318471898' totalTokens='49569'>
+	<word rank='1'>non</word>
+	<word rank='2'>moi</word>
+	<word rank='3'>oui</word>
+	<word rank='4'>ai</word>
+	<word rank='5'>bien</word>
+	<word rank='6'>dire</word>
+	<word rank='7'>m</word>
+	<word rank='8'>crois</word>
+	<word rank='9'>suis</word>
+	<word rank='10'>dit</word>
+	<word rank='11'>ailleurs</word>
+	<word rank='12'>ben</word>
+	<word rank='13'>pense</word>
+	<word rank='14'>était</word>
+	<word rank='15'>gens</word>
+	<word rank='16'>eh</word>
+	<word rank='17'>faire</word>
+	<word rank='18'>ont</word>
+	<word rank='19'>monsieur</word>
+  </topic>
+  <topic id='2' alpha='0.20044831375139163' totalTokens='10112'>
+	<word rank='1'>immigration</word>
+	<word rank='2'>droit</word>
+	<word rank='3'>justice</word>
+	<word rank='4'>sarkozy</word>
+	<word rank='5'>étrangers</word>
+	<word rank='6'>immigrés</word>
+	<word rank='7'>insécurité</word>
+	<word rank='8'>prison</word>
+	<word rank='9'>police</word>
+	<word rank='10'>délinquance</word>
+	<word rank='11'>peine</word>
+	<word rank='12'>nicolas</word>
+	<word rank='13'>société</word>
+	<word rank='14'>délinquants</word>
+	<word rank='15'>banlieues</word>
+	<word rank='16'>gauche</word>
+	<word rank='17'>clandestins</word>
+	<word rank='18'>ville</word>
+	<word rank='19'>nationalité</word>
+  </topic>
+  <topic id='3' alpha='0.2326657024984732' totalTokens='13164'>
+	<word rank='1'>sociale</word>
+	<word rank='2'>plus</word>
+	<word rank='3'>travail</word>
+	<word rank='4'>école</word>
+	<word rank='5'>enfants</word>
+	<word rank='6'>retraite</word>
+	<word rank='7'>jeunes</word>
+	<word rank='8'>ans</word>
+	<word rank='9'>social</word>
+	<word rank='10'>euros</word>
+	<word rank='11'>millions</word>
+	<word rank='12'>publics</word>
+	<word rank='13'>logement</word>
+	<word rank='14'>toujours</word>
+	<word rank='15'>formation</word>
+	<word rank='16'>éducation</word>
+	<word rank='17'>milliards</word>
+	<word rank='18'>système</word>
+	<word rank='19'>famille</word>
+  </topic>
+  <topic id='4' alpha='0.21032893035855046' totalTokens='11691'>
+	<word rank='1'>europe</word>
+	<word rank='2'>guerre</word>
+	<word rank='3'>france</word>
+	<word rank='4'>européenne</word>
+	<word rank='5'>monde</word>
+	<word rank='6'>peuples</word>
+	<word rank='7'>nations</word>
+	<word rank='8'>européen</word>
+	<word rank='9'>union</word>
+	<word rank='10'>frontières</word>
+	<word rank='11'>états</word>
+	<word rank='12'>armée</word>
+	<word rank='13'>unis</word>
+	<word rank='14'>algérie</word>
+	<word rank='15'>européens</word>
+	<word rank='16'>histoire</word>
+	<word rank='17'>effet</word>
+	<word rank='18'>souveraineté</word>
+	<word rank='19'>mondiale</word>
+  </topic>
+  <topic id='5' alpha='0.4879968017571435' totalTokens='27689'>
+	<word rank='1'>euro</word>
+	<word rank='2'>pays</word>
+	<word rank='3'>plus</word>
+	<word rank='4'>économique</word>
+	<word rank='5'>français</word>
+	<word rank='6'>france</word>
+	<word rank='7'>non</word>
+	<word rank='8'>entreprises</word>
+	<word rank='9'>pouvoir</word>
+	<word rank='10'>faut</word>
+	<word rank='11'>aujourd</word>
+	<word rank='12'>milliards</word>
+	<word rank='13'>économie</word>
+	<word rank='14'>faire</word>
+	<word rank='15'>etat</word>
+	<word rank='16'>monnaie</word>
+	<word rank='17'>monsieur</word>
+	<word rank='18'>bien</word>
+	<word rank='19'>européenne</word>
+  </topic>
+  <topic id='6' alpha='0.4534224857369484' totalTokens='24303'>
+	<word rank='1'>national</word>
+	<word rank='2'>front</word>
+	<word rank='3'>politique</word>
+	<word rank='4'>président</word>
+	<word rank='5'>se</word>
+	<word rank='6'>ump</word>
+	<word rank='7'>gauche</word>
+	<word rank='8'>m</word>
+	<word rank='9'>lui</word>
+	<word rank='10'>chirac</word>
+	<word rank='11'>parti</word>
+	<word rank='12'>élections</word>
+	<word rank='13'>campagne</word>
+	<word rank='14'>élection</word>
+	<word rank='15'>électeurs</word>
+	<word rank='16'>candidats</word>
+	<word rank='17'>tour</word>
+	<word rank='18'>pen</word>
+	<word rank='19'>contre</word>
+  </topic>
+  <topic id='7' alpha='0.3727090960503549' totalTokens='21381'>
+	<word rank='1'>france</word>
+	<word rank='2'>peuple</word>
+	<word rank='3'>français</word>
+	<word rank='4'>chers</word>
+	<word rank='5'>histoire</word>
+	<word rank='6'>nation</word>
+	<word rank='7'>ont</word>
+	<word rank='8'>toujours</word>
+	<word rank='9'>veux</word>
+	<word rank='10'>amis</word>
+	<word rank='11'>projet</word>
+	<word rank='12'>avenir</word>
+	<word rank='13'>avons</word>
+	<word rank='14'>sommes</word>
+	<word rank='15'>toutes</word>
+	<word rank='16'>se</word>
+	<word rank='17'>oui</word>
+	<word rank='18'>aujourd</word>
+	<word rank='19'>compatriotes</word>
+  </topic>
+  <topic id='8' alpha='0.06874461162929314' totalTokens='6771'>
+	<word rank='1'>paysans</word>
+	<word rank='2'>agriculture</word>
+	<word rank='3'>bruxelles</word>
+	<word rank='4'>agricole</word>
+	<word rank='5'>r</word>
+	<word rank='6'>agriculteurs</word>
+	<word rank='7'>va</word>
+	<word rank='8'>m</word>
+	<word rank='9'>campagnes</word>
+	<word rank='10'>e</word>
+	<word rank='11'>nature</word>
+	<word rank='12'>mesures</word>
+	<word rank='13'>recherche</word>
+	<word rank='14'>fin</word>
+	<word rank='15'>capitalisme</word>
+	<word rank='16'>agricoles</word>
+	<word rank='17'>millions</word>
+	<word rank='18'>chine</word>
+	<word rank='19'>ruralité</word>
+  </topic>
+  <topic id='9' alpha='1.3467510254282686' totalTokens='57546'>
+	<word rank='1'>plus</word>
+	<word rank='2'>français</word>
+	<word rank='3'>ont</word>
+	<word rank='4'>se</word>
+	<word rank='5'>pays</word>
+	<word rank='6'>politique</word>
+	<word rank='7'>france</word>
+	<word rank='8'>bien</word>
+	<word rank='9'>hui</word>
+	<word rank='10'>faire</word>
+	<word rank='11'>ans</word>
+	<word rank='12'>aujourd</word>
+	<word rank='13'>leurs</word>
+	<word rank='14'>entre</word>
+	<word rank='15'>vie</word>
+	<word rank='16'>faut</word>
+	<word rank='17'>pouvoir</word>
+	<word rank='18'>eux</word>
+	<word rank='19'>temps</word>
+  </topic>
+</topicModel>

@@ -1,6 +1,6 @@
 '''
-Read output from TreeTagger
-filter based on desired parts of speech
+Read output from year-based corpus
+create bigrams, trigrams, and frequency distributions
 
 Mike Widner <mikewidner@stanford.edu>
 '''
@@ -12,11 +12,12 @@ FREQ_FILTER = 3
 # minimum length of words to include
 MIN_LENGTH = 3
 
-import string
-import nltk
 import csv
-import collections
+import nltk
+import string
 import itertools
+import collections
+
 from nltk.corpus import PlaintextCorpusReader
 from nltk.collocations import BigramAssocMeasures, BigramCollocationFinder, TrigramAssocMeasures, TrigramCollocationFinder
 
@@ -101,4 +102,3 @@ for filename in wordlists.fileids():
 # Synchronic results
 results = analyze_text(wordlists.words())
 write_results(results, "all")
-

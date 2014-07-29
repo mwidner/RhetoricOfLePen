@@ -19,17 +19,13 @@ import fileinput
 metadata = ['JMLP_discours.csv',
 			'MLP_discours.csv',
 			'JMLP_radio.csv',
+			'JMLP_letters.csv',
 			'MLP_radio.csv',
 			'JMLP_tv.csv',
 			'MLP_tv.csv']
 basedir = '/Users/widner/Projects/DLCL/Alduy/Rhetoric_of_LePen/'
 texts = basedir + 'texts/'
 corpora = basedir + 'corpora/'
-string.punctuation += '…'
-
-fh = open(basedir + 'stopwords.txt', 'r')
-stopwords = [w.rstrip() for w in fh]
-fh.close()
 
 def main(): 
 	''' Loop through metadata files; rename them all '''

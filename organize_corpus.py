@@ -1,19 +1,18 @@
 '''
 For Cécile Alduy's Rhetoric of LePen project
 Read in a series of CSV files with metadata describing corpus
-Organize the full text files for processing in Wordsmith Tools
+Organize the full text files for processing
 
 Mike Widner <mikewidner@stanford.edu>
 '''
+import os
 import csv
 import sys
-import os
-from datetime import date
-from shutil import copyfile
-import string
-from collections import defaultdict
 import fileinput
 
+from datetime import date
+from shutil import copyfile
+from collections import defaultdict
 
 # list of files holding metadata about our texts
 metadata = ['JMLP_discours.csv',
@@ -33,16 +32,16 @@ def main():
 	metadata_fh.write("author,genre,filename\n")
 	years = defaultdict(list)
 	for filename in metadata:
-		with open(basedir + "metadata/" + filename, 'r') as fh:
+		with open(basedir + "metadata/" + filename, 'r', encoding='utf-8') as fh:
 			try:
 				reader = csv.DictReader(fh)
-				print(filename)
-				# Columns: rid,filename,author,title,date,type,publication,place,length,collection,preparer
+				# Columns: rid,filename,author,title,date,media,publication,place,length,collection,preparer
 				for row in reader:
 					path = os.path.dirname(row['filename'])
 					filename = os.path.basename(row['filename'])
-					# new_path = row['author'] + '/' + row['type']
-					new_path = row["author"] + "/" + row["type"]
+					print("Processing", filename)
+					# new_path = row['author'] + '/' + row['media']
+					new_path = row["author"] + "/" + row["media"]
 					if not os.path.isdir(new_path):
 						os.makedirs(new_path)
 					(day, month, year) = row['date'].split('/')
@@ -56,24 +55,39 @@ def main():
 						year = "20" + year
 					# # living dangerously: could lead to filename collisions
 					new_file = new_path + '/' + year + month + day + '.txt'
-					# new_file = row["author"] + "-" + row['type'] + "-" + year + ".txt"
+					# new_file = row["author"] + "-" + row['media'] + "-" + year + ".txt"
 					years[year].append(corpora + new_file)
 					# # super kludgy
-					row['type'] = row['type'].strip()
-					metadata_fh.write(row["author"] + ',' + row['type'] + ',corpora/' + new_file + "\n")
+					row['media'] = row['media'].strip()
+					metadata_fh.write(row["author"] + ',' + row['media'] + ',corpora/' + new_file + "\n")
 					copyfile(texts + row['filename'], corpora + new_file)
 			except FileNotFoundError as err:
 				print("Missing file: " + basedir + row['filename'])
 				years[year].remove(corpora + new_file)
+			except UnicodeDecodeError as err:
+				print(filename, err)
 	metadata_fh.close()
 
 	# Join all text from a single year into one file
+	print("Grouping texts by year...")
 	years_path = corpora + "years/"
 	if not os.path.isdir(years_path):
 		os.makedirs(years_path)
 	for year in years:
-		with open(years_path + year + ".txt", 'w') as fout:
-			for line in fileinput.input(years[year]):
+		print(year, years[year])
+		# with open(years_path + year + ".txt", 'w') as fout:
+		# 	for line in fileinput.input(years[year]):
+		# 		fout.write(line)
+
+	# Join all texts by an author
+	print("Grouping texts by author...")
+	authors_path = corpora + "authors/"
+	if not os.path.isdir(authors_path):
+		os.makedirs(authors_path)
+	for author in authors:
+		print(author)
+		with open(authors_path + author + ".txt", "w") as fout:
+			for line in fileinput.input(authors[author]):
 				fout.write(line)
 
 if __name__ == '__main__':

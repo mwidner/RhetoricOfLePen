@@ -50,6 +50,7 @@ resource number,filename,author,title,date,media,name of publication / chaîne d
 10,JMLP-CLean-Txt/JMLP radio CLEAN .txt/JMLP20100311.txt,JMLP,Jean-Marie Le Pen,11/03/2010,DL Radio ,RMC,Paris,00 :23 :35,Bourdin direct,
 23,JMLP-CLean-Txt/JMLP radio CLEAN .txt/JMLP20100415.txt,JMLP,Jean-Marie Le Pen,15/04/2010,DL Radio ,Radio Classique,Paris,00 :14 :58,L’invité de Guillaume Durand,
 33,JMLP-CLean-Txt/JMLP radio CLEAN .txt/JMLP20100728.txt,JMLP,Jean-Marie Le Pen,28/07/2010,DL Radio ,Europe 1,Paris,00 :10 :01,L’interview de Thierry Guerrier,
-,JMLP-CLean-Txt/JMLP radio CLEAN .txt/JMLP20050213.txt,JMLP,Jean-Marie Le Pen,13/02/2005,,,,,,
-,JMLP-CLean-Txt/JMLP radio CLEAN .txt/JMLP20050912.txt,JMLP,Jean-Marie Le Pen,12/9/05,,,,,,
-,JMLP-CLean-Txt/JMLP radio CLEAN .txt/JMLP20050523.txt,JMLP,Jean-Marie Le Pen,23/05/2005,,,,,,
+,JMLP-CLean-Txt/JMLP radio CLEAN .txt/JMLP20050213.txt,JMLP,Jean-Marie Le Pen,13/02/2005,DL Radio ,,,,,
+,JMLP-CLean-Txt/JMLP radio CLEAN .txt/JMLP20050912.txt,JMLP,Jean-Marie Le Pen,"12/09/2005
+",DL Radio ,,,,,
+,JMLP-CLean-Txt/JMLP radio CLEAN .txt/JMLP20050523.txt,JMLP,Jean-Marie Le Pen,23/05/2005,DL Radio ,,,,,

@@ -1,0 +1,7444 @@
+0 bud 7:1
+1 g 7:3
+2 m 7:3
+3 t 7:5
+4 r 7:2
+5 i 7:2
+6 p 7:4
+7 e 7:3
+8 x 7:2
+9 tdsclbool 7:2
+10 dsdb 7:1
+11 cœur 9:65 4:34 3:14 1:10 7:4 6:1
+12 merci 1:42 9:11
+13 pays 5:301 2:266 4:251 9:138 1:84 3:76 7:28
+14 supérieur 0:30 2:12 1:6 7:5 3:2
+15 intérêt 4:148 2:107 9:57 3:11
+16 seul 3:160 2:136 1:120 5:72 9:70 4:12 7:1
+17 national 1:284 9:225 4:176 2:122 0:58 5:24 7:12
+18 assemblée 1:41 4:40 7:16
+19 propre 4:76 0:25 1:19 8:15 9:4
+20 main 4:80 3:51 1:20 9:2
+21 tête 1:45 3:31 9:2
+22 électoral 4:76 1:75 3:3 8:1 0:1
+23 bataille 1:30 9:25
+24 candidat 1:229 4:148 3:49 9:2
+25 soutien 9:34 4:21 1:16 5:5
+26 prochain 1:41 3:24
+27 dimanche 4:20 2:2
+28 an 1:377 5:299 2:194 0:99 9:53 7:24 6:17
+29 gauche 1:185 3:125 5:55 7:48
+30 droit 5:231 1:181 2:129 4:96 0:71 3:64 7:21 9:7 8:3
+31 question 4:170 2:41 1:37 9:13 7:1
+32 dénatalité 1:5
+33 corruption 1:20 7:14 4:8 9:1
+34 immigration 5:392 3:58 1:43 4:2
+35 insécurité 0:72 1:64 3:58 4:3 2:2 8:1
+36 chômage 5:79 2:67 3:56 4:14 0:3 1:1
+37 société 0:126 2:41 3:34 5:29 6:13
+38 solution 2:44 1:32 4:25 3:16
+39 problème 1:220 2:164 5:46
+40 vrai 4:183 1:90 0:18 7:3 9:2 5:1
+41 classe 2:78 4:47 0:28 7:21 9:9
+42 campagne 1:182 3:104 6:30 7:22 4:13 9:3
+43 marée 3:9
+44 vent 3:43 1:2 5:1 7:1
+45 affiche 5:6 7:5 4:4
+46 frappé 4:1
+47 militant 1:44 9:21 3:18 0:1
+48 réunion 4:7 1:6
+49 médias 8:27 1:19 3:16 7:3
+50 accès 5:20 2:18 8:7 7:7
+51 antenne 1:12
+52 scandaleux 1:37 7:4 0:4 3:1
+53 condition 0:52 2:45 5:25 1:19 6:11 4:11 7:7 9:4
+54 triomphe 8:7
+55 véritable 4:88 0:60 2:24 3:20
+56 patriote 4:48 3:23
+57 profond 4:16 8:11 3:10 7:7
+58 victoire 4:66 5:3 1:2
+59 surprise 1:18
+60 foi 1:220 4:204 2:102 8:40 0:7 7:3
+61 nouveau 4:112 8:70 3:38 9:36 6:17
+62 voix 1:141 3:45 4:1
+63 cas 1:125 5:46 2:38 7:1
+64 clair 4:53 2:13 7:9 8:2
+65 vote 4:116
+66 consigne 1:10 7:5 3:2 8:1
+67 utile 4:16 9:9 2:8 1:8 8:3 7:2
+68 temps 2:99 1:72 9:62 3:28 5:14
+69 lundi 1:4 4:1
+70 politique 1:527 4:339 5:203 9:162 3:126 7:61 0:46 6:15
+71 bureau 1:69 6:7
+72 inscrit 1:4 0:1 4:1
+73 électeur 1:180 7:5 0:1
+74 nombre 1:206 5:91 2:78
+75 grand 2:317 4:262 9:173 1:131 6:37 7:12
+76 médiocre 8:9
+77 fort 9:62 2:57 7:19 3:17 6:1
+78 succès 4:17 8:13 0:7
+79 semaine 1:56 2:17 4:14 6:4
+80 médiatique 1:37 3:12
+81 pouvoir 4:172 3:137 2:87 0:56 5:48 9:12
+82 communiste 1:50 6:5 7:2
+83 parti 4:187 1:92 3:27 9:18 6:4 2:4 0:1
+84 futur 4:14 0:14 5:6 2:4
+85 action 9:53 2:28 8:25 7:14 4:7 0:2
+86 blanc 1:17 3:13 7:1
+87 seing 4:3
+88 mesure 1:73 2:62 6:38 0:22 7:10 5:2
+89 certain 1:40 9:15 7:5
+90 conséquence 1:36 4:35 5:18 0:15 2:14 3:2
+91 république 1:146 4:108 9:79 3:49 7:32
+92 président 1:304 4:85 3:52 8:35 7:18
+93 massif 5:46 4:22 2:14 6:6
+94 français 1:302 5:266 9:205 2:147 3:144 4:143 6:6 8:1 7:1
+95 peuple 9:418 4:279 3:173 0:1
+96 ministre 1:125 3:40 4:19 6:8
+97 prérogative 3:10 1:6 7:2
+98 constitution 4:47 8:40 1:5 7:2
+99 article 8:12 2:8 1:6 9:2
+100 terme 2:30 4:17 6:13 7:3
+101 interview 1:10
+102 monsieur 1:1015 2:57 6:1
+103 réponse 4:37 5:14 9:5 1:1
+104 député 1:80 4:35
+105 général 7:84 1:77 9:17 8:10 2:10
+106 pudeur 8:2 2:2 5:1
+107 résultat 4:67 0:36 1:35
+108 scrutin 4:24 1:15
+109 mode 4:29 7:14 5:6 9:3 8:3
+110 suffrage 1:19 6:1
+111 majorité 1:93 0:21 3:16
+112 présidentiel 4:163 1:59 3:27 6:1
+113 chef 1:50 9:38 2:17 3:3 7:2 8:1
+114 part 4:51 1:36 2:23 6:16 5:5
+115 insupportable 5:20 4:10 3:8 7:3 8:1
+116 siège 1:15
+117 minorité 5:10 4:9 0:3 7:2 2:1
+118 parlement 8:29 1:10 7:5 6:5 4:3 0:2
+119 régional 1:62 4:14 7:12 2:1
+120 européen 4:291 8:175 2:141 6:38 3:2
+121 gens 1:395 2:79 5:10 0:1
+122 opinion 1:77 9:18 7:11
+123 sortant 1:6 2:5 3:4 4:3 7:1
+124 chose 1:218 4:124 0:28 2:22
+125 débat 4:163 1:14
+126 élection 1:234 4:196 3:7 6:3 5:1 7:1
+127 soir 4:44 0:3
+128 courtois 1:7
+129 premier 1:20 2:13 0:13 6:5
+130 tableau 8:6
+131 démocratie 4:123 9:21
+132 dernier 2:55 1:55 0:50 8:33 9:25 6:21 7:7 4:3
+133 exemple 2:78 1:48 5:19 7:13 6:6
+134 public 7:154 4:57 2:52 9:27 3:17 8:2
+135 année 5:174 4:142 2:39 8:34 0:30 6:24 1:4
+136 pauvre 5:50 7:13 0:9 2:8 1:7
+137 pain 5:6 1:2 2:1
+138 morceau 1:7 8:1
+139 victime 0:70 4:20 8:14 3:7
+140 moyen 2:98 1:67 0:64 7:34 3:24
+141 observateur 4:7 1:2 0:2 7:1
+142 meilleur 3:39 9:32 0:31 1:8
+143 prévision 1:9 9:1
+144 mauvais 1:37 2:24 3:14 7:11 8:7
+145 urne 3:9 1:9
+146 affectueux 1:2
+147 amical 8:4
+148 salut 9:7 1:6
+149 injustice 7:32 9:29 6:11 1:7 3:1
+150 provocation 4:6 8:2 5:1
+151 cible 8:5
+152 honnête 0:25 3:8
+153 libre 2:67 3:51 9:46 4:31
+154 populaire 4:47 2:20 1:13 7:8
+155 mouvement 1:150 9:32
+156 mondialiste 4:33 6:4 5:4 3:2 2:1
+157 lobby 6:5 8:3
+158 ordre 9:70 0:57 1:21 8:2
+159 bureaucrate 8:1
+160 énarque 8:7
+161 hiérarque 8:1 4:1
+162 prisonnier 8:10 5:6
+163 crime 5:42 1:20 0:19 8:3
+164 histoire 9:164 3:22 0:16 6:6 5:3
+165 bonneton 9:1
+166 existence 9:18 4:11 7:3 8:1 6:1
+167 absent 4:8 8:1 6:1
+168 scène 1:7 9:3
+169 impuissance 3:10 7:2 2:1
+170 décadence 0:9 1:8 2:3
+171 clownesque 1:1
+172 festival 8:5
+173 bande 0:13 5:12 7:7 6:5 1:5 8:1
+174 sondage 1:75 4:35 3:1
+175 promesse 3:78 1:36
+176 faux 4:36 3:26 1:17 8:3 0:3
+177 citoyen 0:74 1:56 3:34 6:1 5:1
+178 cru 0:1
+179 chèque 5:7 6:4 3:4 4:1
+180 exigence 0:24 3:17 5:7 7:5 8:1
+181 arbitraire 9:2 1:1
+182 dissolution 1:15 4:4
+183 habitude 1:29 3:12 7:5 5:1
+184 soirée 1:4
+185 mars 7:31 8:14
+186 cantonal 7:15 1:10 9:6 4:3
+187 fédération 4:8 0:2 5:1 1:1
+188 législatif 1:69 9:8 8:5
+189 social 2:375 5:140 0:72 7:62 3:10
+190 population 5:80 8:24 6:6 7:1
+191 seine 3:1
+192 regroupement 5:21
+193 fidélité 8:3 4:1 0:1
+194 progrès 9:17 5:6 6:2 3:1
+195 pire 3:24 1:18 2:17 0:9 7:8 9:4 8:3 4:3 6:1
+196 projet 4:115 3:77 2:68 0:3
+197 diplomatique 8:16 2:10 9:1
+198 économique 2:277 4:110 9:7
+199 indépendance 9:41 1:36 8:30
+200 nation 9:98 4:74 3:74 5:58
+201 trompeur 3:6
+202 apparence 4:15
+203 péril 8:8 5:5 1:2
+204 prospérité 9:23 3:17 0:17 5:16 8:1 7:1
+205 liberté 9:308 4:119 3:24 0:11
+206 cohésion 5:8 3:1
+207 défense 0:40 9:39 1:24 8:14
+208 souveraineté 9:93 2:38 4:22 5:1
+209 échec 4:61 5:15
+210 responsabilité 1:99 9:65 5:40 4:3
+211 impuissant 4:6 2:2
+212 souffle 9:9 3:4
+213 bout 1:5 5:4 3:4 2:1 0:1
+214 système 4:224 3:94 0:47 2:36 5:1
+215 défaite 0:6 9:4 8:2 1:2 4:1
+216 confiance 9:36 1:26 3:22 7:12 8:1
+217 mandat 1:49 4:19
+218 double 5:19 4:15 9:10 3:2
+219 quitte 1:2
+220 relatif 8:10 7:5 0:3
+221 demande 1:17 5:13 2:13 4:4 7:2
+222 mépris 8:20 0:9 5:6 3:5 6:1 7:1
+223 cabinet 4:15 9:1
+224 occurrence 1:45 4:39
+225 vie 0:110 9:78 4:56 3:45 5:34 8:33 6:24
+226 banal 1:4 3:1
+227 avatar 4:4 1:2
+228 tour 1:136 4:23
+229 innombrable 7:7 3:6 1:2
+230 républicain 9:40 1:22 0:22
+231 front 4:14 9:3 8:3 2:3
+232 stratégie 4:27 3:12 1:3
+233 fruit 6:15 0:15 1:5 5:1
+234 congrès 1:41
+235 unanimité 1:19
+236 économie 2:235 5:10 9:3
+237 capacité 4:30 9:23 1:6 5:1
+238 productivité 5:5 1:1
+239 impôt 2:106 1:45 7:4
+240 revenu 2:31 0:28
+241 hostile 1:12 8:10 4:1
+242 vivant 0:9 8:7 4:2
+243 breton 6:2 1:2
+244 celtique 1:1
+245 culture 9:43 4:39 0:8 5:1 2:1
+246 issu 2:20 0:12 4:8
+247 démantèlement 5:6 9:1
+248 levier 2:7 1:7
+249 régionalisme 3:1
+250 région 1:62 7:18 2:12 9:1 6:1
+251 ambigüité 1:4
+252 volonté 9:80 5:36 1:27 8:1 3:1
+253 souverain 3:35 2:13 8:8 1:5
+254 escroquerie 5:10
+255 scandale 7:14 1:13 2:8
+256 démocrate 1:12
+257 bénédiction 3:2 8:1
+258 manifestation 1:39 9:4 8:3
+259 violence 5:60 9:36 6:6 0:2 2:1
+260 meeting 1:22 6:2 8:1 5:1 3:1
+261 tolérance 7:4 4:2 5:1 6:1 9:1
+262 hypocrisie 2:8 1:4
+263 moindre 5:26 4:13 1:3
+264 expérience 4:13 0:12 9:8
+265 logement 5:51 2:47 7:11
+266 étranger 5:230 4:84 3:5
+267 accueil 5:11 3:2
+268 conseil 1:50 7:39 8:7
+269 genre 1:30 7:4 5:3
+270 démonstration 1:9 8:2
+271 catholique 8:6 1:2
+272 conviction 4:28 3:20 6:2 0:2
+273 madame 1:116 5:18 2:10
+274 marin 9:9 0:5 3:4 5:3 6:1
+275 égard 5:17 7:4 9:2
+276 utilisation 2:7 7:4 1:2
+277 décision 1:44 2:19 0:19 9:2 3:1
+278 risque 1:41 5:28 8:7 6:2 9:1
+279 harki 8:16 9:1
+280 sauf 5:5 7:1
+281 territoire 5:81 9:41 6:19 3:7 7:6
+282 partie 1:45 2:36 8:18 0:5 7:4
+283 monde 9:174 4:114 1:111 2:83 8:29 6:18 5:14
+284 ensemble 4:85 5:33 9:15 0:7
+285 expansion 8:2 7:1
+286 algérien 8:20
+287 repli 8:8
+288 démocratique 4:55 1:21
+289 logique 4:52
+290 simple 2:48 5:33 0:26 3:23 7:1
+291 musulman 5:36 8:19 2:1 9:1
+292 moment 2:53 4:51 1:45
+293 supplémentaire 2:28 1:27 4:4
+294 conclusion 4:11
+295 gaulliste 8:3 4:2
+296 homme 1:138 9:103 5:71 3:43 6:27
+297 exécution 1:4 0:4 7:2
+298 majeur 4:14 2:14 0:6 8:3 9:1
+299 déportation 4:1
+300 mineur 0:27 5:10
+301 minium 1:1
+302 guerre 8:160 5:29 4:20
+303 fusil 0:4 1:3 6:2
+304 père 0:28 1:20 6:10 7:4 8:1 9:1
+305 historique 8:18 9:16 5:7
+306 connaissance 1:14 0:11
+307 précision 9:3 4:1 3:1
+308 milliard 2:238 5:54 7:10 8:5
+309 solde 5:5 8:2 2:2
+310 augmentation 2:58 7:4 1:4 4:1
+311 diminution 3:6 0:5 5:3
+312 sévère 1:9
+313 dette 2:161 7:10 3:2
+314 gouvernement 1:141 4:119 5:69 2:37 7:9 6:7 9:3
+315 inverse 1:25 3:11 7:7 2:6
+316 contre 1:8 5:1 6:1 3:1
+317 pied 1:28 8:7
+318 récent 5:9 4:8 7:4 8:2
+319 loi 0:123 5:102 9:67 2:61 1:58 7:8 8:4
+320 peine 0:55 5:49 7:15
+321 commune 7:20 4:10 6:8
+322 engagement 3:17 0:11 4:8
+323 proche 5:34 4:13 2:1
+324 ferme 5:20 4:13 6:4 1:1
+325 position 1:63 2:1 3:1
+326 heureux 4:22 9:9
+327 contribuable 7:14 5:7 8:5 9:1 3:1
+328 trésor 9:9 3:3 7:2 6:1
+329 coûteux 7:17 0:5 6:1
+330 façon 1:73 5:14 9:2 2:1
+331 influence 2:18 8:13 5:5 3:5
+332 indifférent 8:3 1:3
+333 fréquentable 8:2
+334 aveugle 3:9 6:6 8:5 5:3
+335 borgne 8:2
+336 protégé 1:1
+337 derrière 4:2
+338 coup 4:42 2:33 8:15 5:6
+339 gouvernant 9:19 1:18 2:1
+340 thé 8:3
+341 tasse 4:2 7:1
+342 perfidie 9:2
+343 petit 3:146 1:128 2:108 7:35 4:1
+344 consommation 0:21 3:8 4:5
+345 alcool 1:5
+346 possible 1:59 3:26 9:18 2:10 7:6
+347 précédent 4:25 8:7 6:3
+348 journaliste 1:26 3:23 4:8
+349 désinformation 8:6
+350 aman 1:3
+351 obéissance 1:2 5:1
+352 tâche 8:7 9:4
+353 mécanicien 7:1
+354 second 1:10 0:5 2:1
+355 barre 1:19 5:1 0:1
+356 commandant 1:2
+357 maritime 6:6 8:5 9:1 5:1
+358 comparaison 4:5 0:3
+359 avion 2:14 6:8 5:4 8:3
+360 pilote 1:1
+361 désobéissance 4:1
+362 sortie 4:22 2:17 9:7 0:1
+363 couloir 1:1 0:1
+364 branche 2:7 0:2 1:1
+365 tronc 1:1
+366 arbre 6:6 4:6
+367 pépiniériste 0:2
+368 jardinier 1:3 6:2
+369 épatant 1:1
+370 extrême 1:40 4:12 0:4
+371 compromettant 8:1
+372 famille 0:105 5:51 9:34 1:8
+373 rien 4:73 3:25 8:6
+374 menace 5:32 8:18 3:12
+375 professionnel 0:60 7:7 6:6
+376 groupusculaire 1:2
+377 instant 1:34 4:33 3:4
+378 ami 3:114 1:96 9:42 7:29 6:8
+379 personne 5:107 1:73 4:61 7:51 3:1
+380 présent 9:20 4:12 8:3 7:2 0:1
+381 responsable 1:93 5:46 7:18
+382 pression 1:41 3:19 5:16
+383 neuf 1:12 6:2 5:2
+384 candidature 4:31 1:19 6:7
+385 félon 1:8
+386 maxima 1:2
+387 liste 1:63 9:9 3:2
+388 moi 1:172 2:72 5:44 4:42
+389 fractionniste 4:1
+390 scissionniste 1:2
+391 intention 9:14 1:10 7:1
+392 art 6:6 5:6 8:5 3:5 1:4 9:1
+393 santé 6:13 3:13 2:12 1:9 4:6
+394 maladie 0:19 2:2
+395 malade 1:12 4:5 0:4 5:1
+396 bronchite 9:1 6:1
+397 femme 5:59 4:51 9:37 1:16 0:14 6:1 7:1 3:1
+398 spectacle 1:9 3:8
+399 misère 3:26 5:22 7:4 4:1
+400 phénomène 5:25 1:13 9:4
+401 conscience 9:44 4:29 3:2 5:1
+402 partiel 4:7 3:7 7:4 1:4
+403 preuve 1:39 0:13 6:2
+404 abstention 4:11 6:1
+405 esprit 9:75 0:21 3:16 4:14 1:3
+406 transformation 6:3 1:2
+407 alternatif 4:13 6:1 1:1
+408 chemin 3:72 2:4
+409 collaborateur 1:8 3:5
+410 lourd 1:12 9:11 2:7 0:5 6:4
+411 occasion 4:31 1:14 3:8 9:1
+412 jour 1:156 3:75 4:54 5:36 9:17 6:1
+413 talent 3:19 4:9 5:3 1:2
+414 lumière 9:15 1:4 2:2
+415 local 7:63 8:7 1:2 4:1
+416 fauteuil 1:2 8:1
+417 faillite 4:16 2:11 9:5 5:1
+418 journal 1:25 3:11 8:8 0:4 5:1
+419 tir 1:3
+420 guenille 7:1
+421 nu 8:4 4:1
+422 dignité 9:33 4:11
+423 sentiment 1:38 4:36 9:28 0:11 5:1
+424 financement 2:22 1:8 7:7
+425 sou 4:1 5:1
+426 avril 3:21 5:13 6:4 7:2
+427 affaire 1:99 5:44 7:43 4:20 8:16 0:4
+428 enfant 0:141 5:123 9:25 3:17 2:16 4:1
+429 outrage 7:2
+430 plein 1:16 9:8 0:7 3:2
+431 avantage 1:26 8:8 2:7 5:6 7:1
+432 prébende 9:7 6:3 1:3
+433 facile 4:35 5:11 2:4 3:1
+434 mission 0:27 9:22 4:13 7:8 1:6
+435 million 5:258 1:134 6:65 7:32
+436 élu 1:73 3:2 8:1
+437 rôle 4:61 0:46 2:14
+438 vocation 4:28 0:5 3:1
+439 bref 1:7 0:6
+440 bienfait 0:9
+441 aphorisme 1:2
+442 investiture 1:6
+443 commission 1:45 4:15 8:8
+444 grief 1:3
+445 caisse 0:14 2:7 1:3
+446 secrétaire 1:14 7:3
+447 empêchement 1:1
+448 patriarche 1:2
+449 type 4:25 5:9
+450 brave 0:7 4:5
+451 heure 2:72 1:44 3:28 7:18
+452 sérieux 1:33 3:10
+453 unité 9:45 1:14
+454 agitation 1:12
+455 prétexte 4:19 1:1
+456 comploteur 1:1
+457 groupe 2:92 1:29 7:5 4:1
+458 statut 0:18 4:14 7:12
+459 règle 0:51 2:41 7:24
+460 incident 8:7 1:3
+461 formidable 1:13 8:4 7:4 6:3 3:1
+462 communication 4:26 3:17 8:5 7:5
+463 attaché 1:3
+464 dire 4:25 1:19 0:13 7:1
+465 fille 1:28 8:14 3:8
+466 mante 1:2
+467 attention 1:18 2:6
+468 appartement 1:8
+469 ban 1:7
+470 légion 7:3 6:2 5:2 3:1 1:1
+471 parachutisme 1:2 4:1
+472 officier 1:8 5:2
+473 armée 8:65 0:12
+474 chalutier 1:1 8:1
+475 pêcheur 9:15 8:5 6:3 5:1
+476 fond 1:39 2:37 3:13 5:3 7:1 0:1
+477 ouvrier 3:27 0:19 1:16 2:14 9:3
+478 strate 2:2 1:1
+479 côté 4:22 3:11
+480 départ 4:28 0:10 5:1
+481 sanction 0:29 7:7 9:1
+482 exclusion 1:12
+483 salvateur 9:6
+484 discipline 1:20 9:6 5:2
+485 crainte 9:6 1:6 8:1
+486 angoisse 3:19 9:2
+487 faute 5:13 1:13 7:2
+488 idée 4:109 1:55 8:14 3:11
+489 chapeau 1:8
+490 acceptation 1:4
+491 tel 8:9 1:1
+492 uni 9:9 7:1 5:1
+493 difficile 4:61 0:40 2:1
+494 spirituel 8:15 9:3
+495 clan 8:8
+496 fonctionnaire 7:45 9:31 1:21
+497 sicaire 9:1
+498 conséquent 1:232 0:2
+499 trouble 0:6 1:5 3:3
+500 reste 1:14 3:13 9:11 8:9
+501 exceptionnel 1:19 9:5 3:2
+502 circonstance 1:45 5:5 3:4 9:1
+503 argument 1:15
+504 gag 1:7
+505 dérisoire 1:25 7:7 2:2
+506 aberrant 6:2 3:2
+507 express 1:3
+508 échelon 8:14 1:5 7:2 3:2
+509 cadre 0:23 3:18 1:14 4:5
+510 promotion 0:23
+511 presse 4:57 1:19
+512 fuite 1:12 7:4 3:2
+513 vérité 3:77 4:45 5:44 0:22
+514 emprise 3:7 9:1
+515 équipe 0:16 7:8 3:7
+516 membre 1:18 9:17 8:6 5:1
+517 porte 4:35 5:16 8:1
+518 colloque 3:3 1:1
+519 professeur 0:27 9:7 4:2
+520 biologie 1:2
+521 concours 0:14 4:2 6:1
+522 prix 2:115 9:15 1:6
+523 remarquable 1:6 8:2 6:1 5:1
+524 intellectuel 0:30 1:13 4:2 3:1
+525 affectif 8:4 6:1 0:1 2:1
+526 inspiration 1:5 9:3 5:2 4:1
+527 brillant 0:7 1:3
+528 folle 3:16 2:16 9:7
+529 vache 6:7 4:2 1:2 3:1
+530 raison 1:104 2:60 4:32 6:11 0:3
+531 terrible 3:38 8:2 7:2
+532 travail 0:151 2:74 9:72 5:31 4:15
+533 naturel 4:13 6:12 2:8 0:5 9:2
+534 place 2:76 1:50 0:41 9:5 4:3
+535 persécution 1:9 5:1 3:1
+536 hypothèse 1:20 2:10
+537 judiciaire 0:30 8:23
+538 normal 4:47 1:14 2:1
+539 point 1:51 2:26 9:20
+540 concertation 9:2 8:1 2:1
+541 programme 1:63 0:28 4:26 6:6
+542 adhérent 4:34 7:3
+543 faille 7:5 1:1 8:1 9:1 2:1
+544 exécutif 1:16
+545 cheval 1:13 4:1
+546 formation 0:76 8:9 3:1
+547 institut 3:9 4:1
+548 organisme 1:13 5:9 2:4 8:1
+549 aide 5:58 2:33 7:27 1:15
+550 test 8:8 1:4 5:1
+551 base 0:28 1:8 8:5 4:3 3:2 9:1
+552 foule 1:8
+553 huée 8:2
+554 table 4:9 9:2 6:1 5:1
+555 trentaine 8:5
+556 demi 1:56 5:27
+557 couvert 8:1 0:1
+558 taureau 8:2
+559 matador 3:1
+560 agression 3:16 1:15 5:1
+561 manœuvre 4:16 8:4
+562 transparence 7:16 9:10 8:1 2:1
+563 loyauté 1:9 3:3 9:2 7:1
+564 mensonge 3:55 4:16 1:10
+565 secret 8:10 1:8 7:7 5:3
+566 cautèle 1:1
+567 criminel 0:45 5:23 8:10
+568 tas 1:5 5:1
+569 rumeur 8:1 3:1
+570 espèce 1:42 6:2
+571 financier 2:121 3:40 7:32 1:21 9:2
+572 impatience 1:1
+573 ambition 4:18 8:11
+574 attaque 8:17
+575 télégramme 1:1
+576 fédéral 8:16 5:4
+577 traité 8:39 4:21 3:20 2:14 9:4
+578 partisan 1:26 9:3 5:2 2:2
+579 facteur 0:15 3:2 6:1 4:1 5:1
+580 mort 5:42 8:40 1:25 0:13
+581 franc 2:59 1:6
+582 maçonnerie 1:1
+583 extérieur 4:8 2:7 0:7 6:5 9:2
+584 ennemi 1:17 3:12 9:4 6:2
+585 puissant 3:32 9:7 5:6
+586 motivation 1:2 6:1
+587 carrière 0:17
+588 stupidité 6:2 1:2
+589 retour 2:45 9:39 3:16 7:4
+590 dieu 1:28 8:17 9:9 6:1
+591 trêve 1:5 9:2 4:1
+592 vacance 4:12
+593 huitième 1:2
+594 quart 1:16
+595 parlementaire 1:21 8:9 5:7 9:1
+596 indulgent 8:1
+597 culturel 4:39 0:10 5:1
+598 référence 1:13 0:1
+599 clémence 0:3
+600 papa 1:5
+601 envie 4:25 2:7
+602 évident 1:60 0:12 2:7 6:4 5:4 9:1
+603 considérable 5:18 1:16 4:3
+604 foudroyant 1:2
+605 offensive 8:7 2:1
+606 piège 4:20 3:2
+607 tragique 8:9 0:7 5:2 6:1
+608 canif 1:1
+609 voisin 4:8 1:8 8:1 3:1
+610 terrifiant 4:7 2:7 0:1 5:1
+611 allemand 2:24 8:10
+612 tailleur 1:1
+613 tranchée 8:2 0:1
+614 sanglant 8:5 7:1
+615 civil 8:36 4:26 0:15
+616 originaire 8:8
+617 couleur 9:17 1:9 2:3
+618 amour 9:63 4:13 3:3
+619 attachement 0:6
+620 conception 9:15 8:13 0:4 7:2
+621 raciste 1:22 0:8 5:5 2:2
+622 racial 1:3 5:2
+623 nationalité 5:111
+624 jeune 0:76 8:55 3:51 5:33 1:24 6:14
+625 furieux 9:1
+626 fondateur 1:23 9:4
+627 tabac 8:3
+628 important 1:64 2:52 4:13 5:10
+629 actualité 8:6 1:5 7:3 6:1
+630 étape 3:12 8:9 4:2
+631 propagande 8:18
+632 élément 1:41 5:20 9:1
+633 journée 4:4 3:3 1:1
+634 conseiller 1:29 4:4 3:2 7:1
+635 machine 3:13 2:13 0:1
+636 formulaire 1:5
+637 semblant 4:14 8:4 2:1
+638 personnel 4:42 0:22 7:14 9:10
+639 directeur 1:7 2:4 4:2 9:1 3:1
+640 licenciement 2:5 7:1
+641 amusant 4:1
+642 nécessaire 0:52 4:36 1:14 3:1
+643 respect 9:43 0:25 4:20 8:13 6:11
+644 titre 4:43 0:5 7:3 8:1 5:1
+645 document 8:11 7:3
+646 actif 0:26 2:5 8:1
+647 noyautage 8:2
+648 entrisme 1:2
+649 horloge 8:3
+650 club 1:6
+651 ésotérique 5:1
+652 groupuscule 1:1
+653 intérieur 5:60 8:24 2:21
+654 ministère 6:13 5:13 1:12 7:5
+655 équilibre 0:44 8:23 2:9 1:1
+656 durée 2:15 1:6 5:3
+657 juriste 8:3 2:2
+658 polytechnicien 0:2 8:1
+659 extraordinaire 4:21 2:13 9:5 7:4 1:4
+660 roi 9:38
+661 ultime 8:6 3:2 0:1
+662 arme 8:31 5:30 6:3 4:3 0:1 3:1 9:1
+663 conjuration 8:2
+664 cabale 8:1
+665 serment 8:2
+666 habituel 1:12
+667 commensal 0:1
+668 fil 8:29 7:17 4:5
+669 parrain 1:4
+670 affection 4:2 3:1 0:1 5:1
+671 amitié 4:4 5:3 6:2 1:2 8:1
+672 poste 3:30 1:11 7:10 5:4
+673 sûr 1:47 2:29 3:22 9:9 4:9 0:6 5:1
+674 toge 8:1
+675 mi 8:1
+676 poignard 8:1
+677 adoptif 8:1
+678 fer 3:7 8:4 7:1
+679 appel 1:27 6:15 9:2 3:2
+680 fameux 0:18 3:6 2:4 8:2
+681 réserve 2:16 1:14 3:4
+682 jure 3:1
+683 faiblesse 4:19 0:15 7:1
+684 nom 1:31 0:24 3:20
+685 initiative 2:20 1:9
+686 processus 4:45 0:3
+687 secrétariat 8:2
+688 cinquième 1:12
+689 imparable 8:1
+690 composition 1:3
+691 cassation 1:4
+692 recours 1:18 0:9
+693 assidu 4:1
+694 hypothèque 1:1
+695 avoué 1:1
+696 fin 3:39 6:24 4:16 8:8 1:5 9:1
+697 évasif 1:1
+698 millénaire 9:17
+699 siècle 9:62 8:28 0:21 6:15 4:3 2:2
+700 chance 2:27 1:23 3:17 0:10
+701 ambitieux 0:7 1:2
+702 impatient 1:2
+703 inondation 0:8
+704 congressiste 0:1
+705 principe 9:84 0:31 7:19 5:18
+706 subversion 4:2
+707 opération 1:41 2:2
+708 clé 3:14 1:5 5:1
+709 suite 0:9 2:3
+710 référé 0:2
+711 tribunal 1:29 7:5 0:3
+712 postal 1:5
+713 boîte 4:13
+714 signature 1:46 8:3
+715 caducité 0:1
+716 illégalité 1:2
+717 éhonté 4:4 7:1
+718 après 1:8 5:1 3:1
+719 midi 1:11 3:4
+720 délégation 8:5
+721 matin 6:19 3:12 1:10
+722 adresse 0:3 7:1 2:1
+723 solitaire 1:2 3:1
+724 initiateur 8:2
+725 bluff 1:2
+726 tartufferie 1:1 8:1
+727 procès 1:17 8:6 9:4 2:4 4:1
+728 exagéré 1:1
+729 pensée 4:42 1:16 8:2 9:1
+730 impuni 1:1
+731 opposition 1:59 2:5
+732 débâcle 9:3 8:1 1:1
+733 nombreux 4:46 9:29 0:19 6:12 2:4 7:2
+734 suicidaire 5:7 6:2
+735 direct 1:22 7:13 2:7
+736 retrait 1:9
+737 égalité 0:42 9:30 2:19 6:3 4:1
+738 résolution 4:4 0:4 5:2 7:1
+739 consultation 7:9 1:4
+740 espoir 3:39 9:22 4:7
+741 fiscalité 2:14 1:13
+742 thème 7:8 2:6 1:6 4:2 3:2
+743 particulier 1:40 9:17 0:10 3:4
+744 niveau 2:64 4:58 7:34 0:15 5:2
+745 actuel 2:24 1:14 6:6 5:5
+746 situation 5:77 4:72 2:66 1:66
+747 plan 4:70 2:69 1:15 0:1
+748 accord 4:20 8:9 7:8 6:4
+749 tendance 5:7 9:5 4:3 7:2 0:2
+750 courant 1:13 8:8 7:3 9:2 2:2 4:1
+751 lutte 5:30 4:16 9:11
+752 profession 0:23 8:9 3:2
+753 fantasme 1:4 3:2
+754 ligne 4:19 2:16 1:16 9:4
+755 efficace 2:19 0:12 4:8 6:4 9:2
+756 méthode 0:22 1:13 2:9 3:5 4:1 8:1
+757 avis 1:46 4:22
+758 dégoût 1:3 2:1
+759 différent 4:58 1:34 0:25 2:9
+760 pertinent 0:1
+761 efficacité 1:17 2:4
+762 capable 2:31 1:29 4:21 9:9 7:1
+763 éternel 9:32
+764 absurde 3:22 4:9 2:6
+765 vanité 4:1
+766 poivre 1:1
+767 structure 4:23 5:12 7:10 1:4
+768 gestion 7:30 5:9 1:5 0:3
+769 choix 4:98 3:40 2:40 0:3
+770 népotisme 1:1
+771 leçon 4:26 1:17 3:3
+772 qualité 1:34 9:17 6:13 2:8 4:1
+773 souhait 1:4
+774 coalition 2:7 4:1
+775 venu 0:4
+776 alternance 0:9 1:5 4:4 3:3
+777 bipartisme 0:1 4:1
+778 fiscal 2:84 7:10 0:8 1:1
+779 administration 7:25 2:18 0:11
+780 privé 7:41 2:9
+781 activité 0:39 6:16 7:13 2:13 5:2
+782 personnalité 1:35
+783 armé 9:4 8:2 1:2 4:1
+784 préparé 1:1
+785 football 1:2 9:1
+786 fantôme 1:3
+787 coïncidence 1:4
+788 tort 1:10 3:4
+789 policier 0:56 3:5
+790 hiérarchie 0:16
+791 investigation 1:2
+792 police 0:81
+793 syndicat 2:53 0:38
+794 syndicalisme 0:10 9:3
+795 syndicaliste 1:5
+796 donneur 1:2 0:1
+797 dysfonctionnement 4:4 2:1 5:1
+798 politicien 5:23 0:21 1:17 3:10 7:2
+799 exclusif 9:9 0:3 8:2 4:2
+800 école 0:170 9:17 5:17 3:2
+801 rue 5:32 4:10 1:2
+802 banlieue 5:47 0:21 1:7 3:4 6:2
+803 méfait 5:3 1:1
+804 drogue 0:33 5:9
+805 trafic 5:15 7:7 1:2
+806 route 4:14 0:7 3:6 8:5
+807 automobiliste 0:7 3:2 9:1 6:1
+808 métier 0:31 7:8 3:6 6:1
+809 désordre 9:40 8:6 5:2
+810 sécurité 0:108 4:40 2:33 5:27 9:17 8:11 7:2
+811 philosophe 9:3 0:1
+812 conscient 4:24 0:2
+813 complot 1:10
+814 innocent 1:15
+815 opposant 3:3 4:2
+816 devoir 9:70 1:16 7:7 6:1
+817 combat 9:56 4:50 8:17
+818 prêt 4:41 1:14 0:9
+819 écrit 1:3 7:1
+820 injuste 8:10 2:7 1:7
+821 parler 3:11
+822 adversaire 1:71 9:15 4:3
+823 commando 1:2
+824 chapelet 5:1
+825 dizaine 1:38 6:1
+826 préférence 5:45 6:11 9:2
+827 conflit 8:22 7:10 5:8 9:2
+828 compatible 4:5
+829 intelligent 2:26 1:9
+830 démarche 1:22 2:3 7:2
+831 légalité 8:4 1:1
+832 communisme 1:15 3:1
+833 ours 9:2
+834 griffe 1:3 9:2
+835 copain 1:7 7:4 3:1
+836 grâce 2:19 8:16 1:16 9:12
+837 anarchiste 8:3 1:1
+838 abominable 1:1 5:1
+839 papier 3:8 1:6 8:4 4:2
+840 innocence 1:3 3:2
+841 présomption 0:7 1:3
+842 intact 9:3 8:2
+843 instruction 0:14 9:7 4:4
+844 juge 0:24 1:22 7:4
+845 examen 1:15 0:9 8:1
+846 mise 4:48 2:33
+847 condamnation 5:18 1:1
+848 trou 6:7 5:5 4:2 1:1 7:1
+849 téléspectateur 1:14
+850 contravention 1:2
+851 achat 2:95 3:16 4:13
+852 vente 2:10
+853 justice 0:125 1:40 7:24 3:1
+854 établissement 0:21 1:9 8:1
+855 bois 1:5 9:4 6:4
+856 langue 9:27 1:10 5:9 8:5 2:2
+857 chair 3:2 1:2 5:1
+858 contraire 1:29 9:16 3:11 6:2 2:2
+859 millionième 8:1
+860 gourmand 8:1 4:1
+861 manière 4:94 1:41 2:14
+862 coupable 8:13 5:9 3:7 1:3
+863 étant 1:8 0:5
+864 besoin 4:29 0:26 5:16 3:10 2:1
+865 moral 0:63 4:41 9:6 7:5
+866 américain 8:64 2:15 6:5 1:1
+867 trait 5:6
+868 grossièreté 7:1
+869 humour 1:2
+870 sen 4:67 9:46 2:22 6:9 7:4
+871 rouge 1:13 3:5 9:4
+872 période 5:21 7:20 1:17 4:16
+873 demain 4:3 7:2 8:1
+874 audience 4:3 8:1 6:1
+875 joint 1:1 6:1
+876 âge 0:25 1:17 9:7 8:3 3:2
+877 plaidoirie 1:2
+878 réquisitoire 1:3
+879 portrait 1:2 9:1
+880 faible 3:28 2:19 0:11 7:7 4:2
+881 destin 9:37 3:11 5:7
+882 critique 3:10 1:5 5:4 4:2 2:1
+883 successeur 4:4 8:2 5:1
+884 aventure 8:8 6:3
+885 dauphin 8:9 3:1 9:1
+886 fonction 1:38 9:30 7:30
+887 bord 3:10 1:3 2:1
+888 origine 5:55 9:35 7:3
+889 départemental 7:22 1:4 6:1
+890 dirigeant 4:62 2:45
+891 présidence 1:29 3:8 6:5
+892 désistement 1:6
+893 sorte 4:40 1:37 2:16 9:3
+894 revanche 1:17 2:4 5:2 9:1
+895 peur 9:101 5:21 4:11 1:7 0:6
+896 violent 5:16 3:5
+897 souci 2:13 9:1 5:1
+898 section 1:4 9:1
+899 disposition 1:27 3:2 6:1
+900 convention 8:6 3:1
+901 plaisir 9:10 1:6 3:3 0:1
+902 divergence 4:19 2:1
+903 mémoire 8:18 9:6 3:6 7:1 4:1
+904 mur 6:19 1:11 2:2
+905 dramatique 5:23 4:20 3:1 1:1
+906 air 4:22 3:10 6:8 5:1
+907 allié 1:12 9:5 8:4
+908 antidémocratique 4:5 8:3
+909 obstacle 2:12 9:7 1:4
+910 avenir 3:92 9:66 2:41 6:10 1:5
+911 total 5:43 2:41 7:4
+912 incapacité 3:6 2:6 5:5
+913 arrivé 2:25 5:7
+914 éventuel 1:5 7:3 5:2 2:1
+915 fonctionnement 4:27 0:10 9:1
+916 institution 0:36 4:26 9:2 1:1
+917 mécanisme 1:8 4:7 7:5 8:1 0:1
+918 complice 0:16 3:10 6:5
+919 poursuite 3:6 1:2
+920 enquête 4:14 7:4 5:2
+921 nervi 0:1
+922 tract 1:6 7:2
+923 distribution 2:20 6:7 1:7
+924 noble 7:13 3:4 8:2 9:1
+925 finalité 1:4 7:1 9:1
+926 objectif 9:45 2:34 4:29 8:2
+927 britannique 8:7 0:3
+928 banque 3:85 2:63 9:1
+929 masse 5:48 3:17 0:1
+930 aloi 1:1
+931 émission 1:24 9:3
+932 artificiel 4:7 0:5
+933 charitable 8:1
+934 considération 1:11 2:7
+935 positif 5:16 4:7 0:4 1:3
+936 gêne 1:4 5:3
+937 déclenche 1:1
+938 trotskiste 8:3 5:2
+939 mérite 1:26 0:11 9:6
+940 sympathique 1:10
+941 chômeur 5:68 2:18
+942 paradoxal 4:5
+943 homosexuel 4:43
+944 parleur 1:2
+945 télévision 4:28 1:13
+946 caractère 1:14 5:8 9:5 8:2
+947 favorable 0:26 7:1 5:1 2:1
+948 garantie 0:10 5:7 2:6
+949 statistique 0:20
+950 officine 1:3 3:1
+951 plateau 4:25 6:4
+952 communiqué 8:3 2:1
+953 vue 0:12 8:4 5:3 4:3 1:3
+954 milieu 1:9 5:8 4:6 3:4
+955 aise 1:2
+956 gueule 0:4 8:1
+957 volcan 0:3
+958 écart 4:22
+959 jugement 1:12 0:9 3:3 9:1 5:1
+960 antipathie 1:3
+961 risible 4:4
+962 ennui 8:3 3:1
+963 éditorial 1:1
+964 bénéficier 0:10 2:6 7:4
+965 moralité 5:2 7:1
+966 ripou 0:2
+967 super 4:4 0:3
+968 flic 0:5
+969 comète 7:2
+970 ancien 9:41 4:26 6:12 8:9 1:5 2:4
+971 hebdomadaire 2:5 0:3
+972 couverture 0:6
+973 boutade 6:1 5:1
+974 mec 7:2
+975 publique 7:117 9:59 0:33 3:8 1:7
+976 pari 1:3
+977 client 2:6 1:4 4:3 9:1
+978 annonceur 1:1
+979 corps 0:35 8:12 5:2 4:1
+980 invitation 6:2 4:2 1:2
+981 moyenne 7:23 2:10
+982 radio 1:12
+983 chiffre 5:102 2:36 9:1
+984 irresponsable 7:19 9:2 1:1
+985 instance 1:14 9:6 4:3
+986 contrôle 5:49 7:14 0:10
+987 jurisprudence 0:1 2:1
+988 lettre 0:11 7:5 1:3 8:2
+989 or 0:17 1:16 2:12 9:1
+990 crédit 0:14 6:8 2:6
+991 légal 5:51 2:13
+992 délégué 6:3 2:2
+993 traite 7:3
+994 fournisseur 0:3
+995 gouvernemental 5:9 7:4 1:2 3:1
+996 infraction 0:9
+997 matériel 5:20 0:17
+998 erreur 2:22 4:11 1:8 7:2 9:1
+999 rétractation 1:1
+1000 représentation 7:8 1:8 9:2
+1001 compte 1:28 2:18 0:13 7:5
+1002 dossier 5:14 7:10 4:2
+1003 sage 1:4 9:1
+1004 gnome 7:1 8:1
+1005 ignoble 8:4 5:4
+1006 ignominie 0:2
+1007 maintien 4:17 0:3
+1008 basque 3:1 8:1
+1009 tranquillité 5:7 9:5
+1010 argent 2:88 7:44 3:41
+1011 terrorisme 1:23 8:15
+1012 criminalité 0:28 5:7 4:4
+1013 délinquance 0:73 5:12
+1014 pratique 0:14 7:12 3:4 1:2 9:1 6:1
+1015 proie 8:3
+1016 département 7:76 6:3 3:1 4:1
+1017 île 0:3
+1018 terroriste 1:15 8:14 4:2 6:1
+1019 vraisemblable 1:1
+1020 accident 0:9 5:1
+1021 corse 1:11
+1022 conjonction 4:5
+1023 compromission 7:6 4:4 3:4
+1024 amer 2:4 8:1
+1025 attentat 4:3
+1026 outrageant 4:1 3:1
+1027 gendarme 0:16 9:4 8:1 5:1
+1028 préfet 0:17 7:1
+1029 assassinat 1:5 0:2 5:1
+1030 grave 4:42 1:24 5:14 7:6 2:6 3:3
+1031 collectif 9:35 2:10 3:6
+1032 inexact 1:8
+1033 message 9:14 3:12 4:6
+1034 patriotique 3:15 0:14 6:6
+1035 chanson 9:4 1:4
+1036 beau 9:58 3:25 1:15 4:11 0:3
+1037 talentueux 1:2
+1038 chanteur 4:9
+1039 cadeau 1:10 2:3
+1040 style 1:8 3:1
+1041 peau 2:11 5:1 0:1
+1042 maire 1:95 3:21 6:3
+1043 importance 4:27 7:7 1:4
+1044 hauteur 1:3
+1045 publicité 1:8 7:4 4:3
+1046 arbitre 2:10
+1047 honneur 9:42 1:18
+1048 perte 2:23 4:13 1:10 5:3
+1049 disparition 6:21 8:19 4:17 2:15
+1050 fusion 2:8 5:2 1:2
+1051 indispensable 0:33
+1052 conquête 6:6 0:5 3:2
+1053 désignation 1:12
+1054 emblématique 8:7 7:4 0:3
+1055 reprise 0:8 2:6 9:3 6:1
+1056 légitime 9:31 5:18 3:12
+1057 symbolique 4:12 5:7 8:3 0:1
+1058 résistance 9:27 8:7 1:2
+1059 désir 5:13 9:5 1:4
+1060 championnat 5:1
+1061 tablette 1:2
+1062 drapeau 9:36 1:4
+1063 discussion 4:11
+1064 affichage 2:3
+1065 intelligence 9:26 3:1
+1066 suprême 3:13 8:1 0:1
+1067 choc 3:5 7:1
+1068 troupe 8:8 2:1
+1069 totalitaire 4:13 6:4 1:1
+1070 visage 9:11 8:1
+1071 avocat 1:12 5:9 8:1 9:1
+1072 juin 6:10 8:9 4:9
+1073 compétition 1:14 2:10
+1074 inéligibilité 1:3 5:1
+1075 sort 3:14 8:10 7:2
+1076 prétoire 1:2
+1077 adage 2:3 8:1
+1078 indignation 1:6 6:3 4:2 3:1
+1079 manifestant 7:1
+1080 centaine 5:28 9:11 6:7 7:1
+1081 marché 2:203 3:20 7:3 9:2
+1082 visite 1:9
+1083 agresseur 9:5 8:1
+1084 compromis 2:3 1:3
+1085 prison 0:82 5:29 1:5 4:2
+1086 grotesque 0:5 3:1
+1087 incrimination 1:4
+1088 changement 3:37 4:31 2:12
+1089 complaisance 9:4 6:4 1:1
+1090 œil 3:47 4:17 5:5 2:2 0:2 8:1 6:1
+1091 clin 9:5
+1092 dose 4:5 1:1 6:1
+1093 morale 7:41 0:29
+1094 humanité 6:14 0:6 4:2
+1095 faim 5:10 1:1
+1096 irakien 8:9 1:1
+1097 blocus 1:2
+1098 nucléaire 8:22 4:19 5:2
+1099 théâtre 5:6 8:2
+1100 destruction 3:17 9:10 0:8 8:2 6:1 2:1 5:1
+1101 habitant 5:31 6:16 8:5 7:2
+1102 cellule 5:10 3:7
+1103 association 4:26 0:16 6:10 9:6 5:2
+1104 boiteux 7:2
+1105 canard 6:3 1:1 5:1
+1106 entreprise 2:387 9:2 7:1 0:1
+1107 subvention 2:19 7:4 1:4 9:1
+1108 municipalité 1:13 4:1 0:1
+1109 administratif 0:16 7:13 3:7 9:5
+1110 modèle 2:56 3:28 4:20 6:9
+1111 länder 1:1
+1112 dimension 5:12 4:5 9:2
+1113 but 4:26 3:14 9:7 2:1 1:1
+1114 agrandissement 7:1
+1115 contact 2:5 9:3 7:2 1:2 8:1
+1116 évolution 2:18 4:5 0:5
+1117 danger 1:44 2:8
+1118 noir 1:22 5:12 6:4 9:2
+1119 populo 1:3
+1120 direction 4:23 0:14 8:2 5:1
+1121 nature 6:47 0:9 8:3 3:3
+1122 alliance 4:26
+1123 électorat 4:14 6:1
+1124 stupide 1:6 3:3 7:1
+1125 socialiste 4:120 1:58 5:33
+1126 non 4:6 1:1
+1127 paca 1:14 0:1
+1128 insane 3:1
+1129 indigne 7:7 1:7 3:2 9:1
+1130 méchant 1:7
+1131 couillon 7:1
+1132 provençal 5:3
+1133 proverbe 4:7
+1134 précepte 5:1
+1135 arène 1:2
+1136 indu 4:1
+1137 unique 3:54 4:26 8:6 6:3 2:2
+1138 séance 1:10
+1139 représentant 4:23 7:12 6:5 0:3 3:2 1:1
+1140 mercredi 5:5
+1141 vide 4:9 3:8 6:3 0:3
+1142 banc 2:4
+1143 singulier 8:2 7:2
+1144 séjour 5:16 1:5 7:3
+1145 entrée 5:35 2:1
+1146 décembre 7:9 6:7 4:6 5:2 3:2 1:1
+1147 novembre 1:13 8:6 7:5 3:5 5:2 2:1
+1148 jeudi 1:3
+1149 budget 2:41 7:33 9:2 0:2
+1150 union 4:100 2:66 8:27
+1151 octobre 1:6 7:4
+1152 service 7:90 3:66 0:42 2:35 9:25 8:9
+1153 réforme 0:49 1:27 7:18 9:2
+1154 septembre 7:13 8:3 6:2 5:1
+1155 vague 3:21 1:9 6:4
+1156 emploi 2:261 0:15 9:12 1:1 8:1
+1157 amélioration 1:6 2:3 7:1 9:1
+1158 éducation 0:71 3:8 4:5
+1159 foyer 2:17
+1160 maman 1:4 7:1
+1161 humain 0:56 9:27 6:23 3:1
+1162 effort 0:49 2:23 7:15 5:4 3:2
+1163 réduction 0:11 4:6 7:5 8:2
+1164 élan 1:8 9:4 2:3
+1165 charge 2:54 0:6 7:2 6:1
+1166 bureaucratique 6:3 1:1 4:1
+1167 obligation 0:10 2:8 5:5 7:3
+1168 connaisseur 6:2 1:1
+1169 écrasant 0:16
+1170 bureaucratie 9:9 2:5 8:1
+1171 impossible 0:19 8:5 5:1 3:1
+1172 frontière 2:158 5:57 8:25
+1173 suppression 0:28 2:23 1:9 8:1 4:1
+1174 principal 0:37 4:28 3:4 8:1
+1175 cause 5:47 3:22 0:22
+1176 diagnostic 1:13 3:11
+1177 thérapeutique 5:4
+1178 anarchie 9:22 3:2
+1179 frère 9:13 8:3 6:1
+1180 auxiliaire 0:3
+1181 jambe 5:8
+1182 cautère 5:3 0:1
+1183 préoccupation 4:13 9:7 0:7 5:4
+1184 digne 3:25 0:11
+1185 incapable 0:12 5:10 3:9 9:5
+1186 désastreux 1:11 3:3 0:2
+1187 drame 5:18 3:12
+1188 cohérent 2:19 9:4
+1189 page 1:10 9:4 7:4
+1190 livre 1:20 0:9
+1191 habitat 6:4 5:3
+1192 criminogène 0:5
+1193 soi 4:20 0:10 3:1
+1194 disant 4:31
+1195 habitation 5:1
+1196 confortable 5:4 4:2
+1197 électricité 2:19 9:1
+1198 eau 6:28 1:15
+1199 sol 5:40 6:7
+1200 maison 7:17 4:13 9:6 1:4
+1201 propos 1:14 7:9 8:8 3:1
+1202 flamme 9:7
+1203 calme 1:12 8:2 0:1
+1204 auditeur 1:6 2:3
+1205 gong 4:2
+1206 procédé 5:5 8:1
+1207 mental 5:4
+1208 abandon 5:19 3:17 7:3
+1209 notion 9:15 0:12
+1210 domaine 4:43 0:41 2:17 3:2 9:1
+1211 maître 0:51 9:21 3:1
+1212 permanence 2:13 1:6 9:3 5:2
+1213 pierre 8:2 6:2 1:1
+1214 surveillant 0:3
+1215 lycée 4:10 2:2
+1216 laisser 9:8 3:4
+1217 aller 2:5 5:1
+1218 enseignement 0:37 3:4
+1219 assimilable 1:1
+1220 ville 5:54 9:32 2:32 6:23 3:6 1:3
+1221 parisien 1:10 5:2
+1222 féroce 5:6
+1223 urbanisation 6:5 0:1
+1224 complexe 9:15 8:1
+1225 multiple 5:18 8:6 2:3
+1226 extrémisme 1:4
+1227 racisme 1:17 9:3 6:3
+1228 alarmiste 5:1
+1229 demandeur 5:9 7:3 0:2
+1230 investissement 2:53 7:8
+1231 gouffre 7:3 1:3 3:1
+1232 empereur 4:1 0:1 8:1
+1233 mère 0:23 9:13 8:7 6:4
+1234 pourvu 5:2 8:1
+1235 racket 3:3 1:1
+1236 rapport 4:29 0:17 8:9 3:1 6:1 2:1
+1237 indifférencié 1:1
+1238 magique 3:8 0:2 1:1
+1239 baguette 2:9 5:1 0:1
+1240 fiscaliste 0:1
+1241 miracle 3:8 9:4
+1242 universel 9:18 1:3
+1243 politologue 1:5
+1244 couple 5:10 4:4 0:4 7:1 3:1
+1245 individuel 9:31 4:6 5:2 3:1
+1246 effet 0:65 2:29 8:12 6:7 7:5 5:4 3:1
+1247 strict 5:18 3:1
+1248 camarade 0:18 9:3 8:2 5:2
+1249 galéjade 1:1
+1250 députation 1:4
+1251 autorité 0:86 9:65
+1252 viole 1:1
+1253 bien 4:28 0:24 9:16 2:4 1:1
+1254 grève 5:15 4:1
+1255 faction 5:2
+1256 constant 5:9 2:6 7:2
+1257 déplorable 2:5 1:3 0:1 7:1
+1258 modéré 5:2 9:1
+1259 budgétaire 2:44
+1260 violation 1:5 5:1
+1261 fondement 9:10 0:8 5:4
+1262 matière 4:26 5:5 6:4 8:3 2:2 1:1
+1263 élémentaire 0:8 1:1 6:1
+1264 fermeté 9:10 5:6 2:3 0:2
+1265 devanture 1:1
+1266 organisation 9:26 2:16 1:15
+1267 billet 4:12
+1268 valise 4:10
+1269 désarmement 0:4
+1270 jeu 9:24 1:18 2:9
+1271 spécieux 0:1
+1272 longue 9:30 5:1
+1273 exclamation 5:2
+1274 assassin 2:5 8:3 1:2 0:2 3:1
+1275 curieux 1:3 5:2 0:1
+1276 commissaire 1:13 2:8 8:3
+1277 colt 1:3
+1278 identité 5:60 9:54 3:13
+1279 arrestation 0:4 8:1
+1280 circulation 5:28 6:9
+1281 mobile 1:1 0:1 5:1
+1282 voyou 3:18 0:3
+1283 quarantaine 0:1 1:1
+1284 aéroport 1:7 5:1
+1285 témoignage 5:6 0:2
+1286 complicité 5:17 3:5 9:1 6:1
+1287 auteur 2:5 7:2 6:2 0:1
+1288 kalachnikov 5:2
+1289 conférence 4:21
+1290 défi 3:10 0:3 9:2 6:2 1:1
+1291 capitaine 9:6
+1292 condoléance 0:2
+1293 officiel 5:30 8:17 7:7 6:4
+1294 façade 0:1 3:1
+1295 leader 1:7 5:5
+1296 conversation 1:6 6:1
+1297 distinction 7:7 1:1
+1298 net 2:20 7:7 6:1
+1299 minute 1:14 4:6 6:3
+1300 appareil 4:16 1:6 9:1
+1301 international 8:70 2:37 5:13
+1302 délinquant 0:69 5:18
+1303 connivence 7:4 0:3 1:1
+1304 cercueil 5:3
+1305 discours 3:37 4:32 1:15 5:9 2:1
+1306 malheureux 5:10 3:2
+1307 obsèques 5:3
+1308 hypocrite 4:7 2:1
+1309 rituel 1:1
+1310 espace 5:26 9:17 1:12 2:1
+1311 absolu 4:20 8:1
+1312 défensif 4:5
+1313 doigt 5:6 8:5 3:1
+1314 colonie 1:3
+1315 veto 1:1
+1316 bombardement 8:11
+1317 décennie 3:39 4:10 9:2 6:2 8:1
+1318 ethnique 5:7 9:3 8:1 1:1
+1319 épuration 4:1 3:1
+1320 goulag 1:1 0:1
+1321 ingérence 8:10 4:6
+1322 autonomie 7:6 8:4 4:1
+1323 écœurement 8:3
+1324 serbe 8:8
+1325 russe 8:5 2:2
+1326 geste 1:9 6:3 2:3 3:1
+1327 sénateur 1:7
+1328 olympique 1:3
+1329 infirme 1:1
+1330 binôme 7:2 1:2 4:1
+1331 paralytique 1:2
+1332 commun 9:40 5:20 2:9 7:4 1:3
+1333 reçu 8:1
+1334 rebelle 8:4 5:4 9:1 6:1
+1335 communauté 5:31 9:28 4:17 7:4
+1336 anticonformiste 1:1
+1337 libertaire 3:6 1:1
+1338 civilisation 9:37 3:30 5:2 0:1
+1339 possibilité 4:35 5:10 2:5 8:3
+1340 phase 4:10
+1341 mortel 4:7 8:4 7:4 1:4
+1342 mariage 4:49 5:13
+1343 pluvieux 8:1
+1344 lieu 0:25 9:24 8:22 6:4 7:1
+1345 avenue 1:1
+1346 avions 8:3 2:1
+1347 prestigieux 8:6 3:1 1:1
+1348 descendant 8:1 1:1
+1349 éligible 1:3
+1350 épreuve 8:10 5:1
+1351 gaullien 1:4
+1352 protection 2:136 0:13 1:1
+1353 enjeu 3:8 4:6
+1354 compatriote 9:80 5:58 3:51 7:18
+1355 mécontent 1:5
+1356 comparable 1:5 0:1
+1357 trahison 8:21 3:9 9:5 7:5
+1358 arrêt 8:11 2:6 3:5 6:2
+1359 concret 2:23 5:12 3:9
+1360 performance 2:8 1:3
+1361 sympathisant 1:11 3:10
+1362 fondamental 0:53 4:37 9:18
+1363 insurrection 8:3
+1364 putsch 1:6
+1365 immense 9:41 4:30 3:1 1:1
+1366 dixième 2:2 1:2 6:1
+1367 paria 1:3 4:2
+1368 déclaration 1:31 0:7 8:2
+1369 centième 8:4
+1370 égal 9:17 2:16
+1371 allégresse 4:1
+1372 joie 9:7 2:4 8:1
+1373 camp 8:37 4:13
+1374 combattant 9:7 8:6 5:1 2:1
+1375 vieux 3:47 8:29 0:5 6:4
+1376 vif 9:66 3:13 6:7
+1377 tendre 6:5 1:1 0:1
+1378 polémique 4:15 1:3 8:1
+1379 pointilleux 4:2
+1380 sourcilleux 4:1
+1381 associatif 8:3
+1382 contractuel 1:1
+1383 juridique 0:24 8:8 6:3
+1384 pilier 0:13 2:1
+1385 négatif 2:7 4:6 1:2
+1386 inutile 4:14 1:6 7:1
+1387 drôle 1:6 2:4
+1388 pessimiste 0:2 6:1
+1389 vision 4:69 2:42
+1390 sacrifice 2:33 9:8 8:7 1:5 6:4
+1391 simulacre 1:1 9:1
+1392 rassemblement 4:47 6:2
+1393 patrie 9:89 8:13 0:3 3:1
+1394 insurmontable 6:3 8:2
+1395 fracture 4:17 1:6 7:2
+1396 nécessité 0:18 2:7 8:6 6:4 5:1
+1397 méduse 1:4 5:1
+1398 radeau 4:3
+1399 échéance 4:7 9:4
+1400 optimisme 2:4 3:2 9:1
+1401 rédaction 1:6 4:1
+1402 municipal 4:27 1:19
+1403 démission 9:4 8:3
+1404 bruit 1:5
+1405 jeunesse 8:22 1:20 9:17 3:4 0:3
+1406 fibre 9:2
+1407 rodomontade 3:6 4:1
+1408 prudence 8:4
+1409 gros 2:38 4:10 5:1
+1410 fraude 2:15 7:10
+1411 magouille 7:6 1:5
+1412 analyste 4:7 1:3 8:1
+1413 pluie 6:2 4:2
+1414 aigri 1:2 8:1
+1415 différence 4:28 1:25 0:7 6:2
+1416 flatteur 7:4
+1417 gratifiant 4:1
+1418 colistier 1:1
+1419 piat 1:1
+1420 lit 8:1 2:1
+1421 invraisemblable 9:3 1:3
+1422 chantage 0:7 1:3 6:1
+1423 mairie 7:6 3:2 1:1
+1424 majoritaire 1:15 6:2
+1425 sud 6:16 5:14 8:11 0:2 1:1
+1426 adversité 3:1 1:1 4:1
+1427 printemps 4:9 8:8 9:2
+1428 vilain 1:3
+1429 hiver 4:5 8:1
+1430 charmant 1:3
+1431 domicile 7:7 8:2
+1432 invité 1:1 2:1
+1433 compétent 7:5 1:1
+1434 propriétaire 7:7 2:7 4:1
+1435 prétendu 8:5
+1436 loyer 2:7 3:1
+1437 pâte 3:2
+1438 rupture 8:18 3:8 7:7 2:7 0:3
+1439 souscription 8:1
+1440 raisonnement 1:5 4:2
+1441 emprunt 2:8
+1442 administrateur 8:1
+1443 blocage 1:5 3:1
+1444 plaie 8:3
+1445 indépendant 3:27 1:8 6:4 7:2
+1446 dissidence 9:2 1:1
+1447 rédacteur 1:2
+1448 négligeable 1:2
+1449 score 1:15
+1450 minimum 2:10 9:4 4:2
+1451 événement 8:22 5:6 4:1
+1452 attitude 1:16 9:7 8:2 3:1
+1453 versatile 8:1
+1454 vedette 1:2 2:1 6:1
+1455 série 4:27 1:11
+1456 courage 9:53 4:17 5:8 2:5 1:5
+1457 courageux 4:23 8:4 7:1
+1458 lucide 9:6 1:5
+1459 malsain 7:2 4:2 9:1
+1460 côte 6:8 8:6 0:1
+1461 hallucinant 1:1
+1462 matraquage 8:1 2:1
+1463 gracieux 1:2
+1464 deuxième 1:7 2:1
+1465 étonnant 1:14 8:10 4:1
+1466 répartition 7:16 2:4 0:3
+1467 parfait 0:7 5:2
+1468 chute 2:10 1:9 5:3
+1469 annonce 0:8 3:3 7:2 2:1
+1470 confrère 4:15 3:1
+1471 garde 0:14 8:12 9:2
+1472 doyen 1:2
+1473 sang 5:17 8:5 9:3 1:3 7:1
+1474 terrain 1:28 6:12 0:4 4:3
+1475 pacifiste 8:4
+1476 va 3:2
+1477 militaire 8:54 0:20
+1478 diplomatie 4:19 8:10
+1479 appoint 4:1 5:1
+1480 indou 4:2
+1481 poussée 1:7 4:3
+1482 pronostic 1:4
+1483 tenaille 3:1
+1484 usage 7:8 0:7
+1485 chaudron 1:1
+1486 mondial 8:53 2:30 5:22 6:16
+1487 paix 8:34 9:31
+1488 priorité 2:47 4:20 7:8 8:2 6:1
+1489 belligérant 8:2
+1490 hospitalité 0:2 1:1
+1491 immédiat 3:17 2:5 0:4
+1492 religieux 5:27 9:15
+1493 grecque 5:3 8:2 6:1
+1494 trace 4:1 6:1
+1495 dynamique 4:26 8:2 5:1
+1496 noyau 2:3 8:1 0:1
+1497 instauration 7:7 0:2 3:1
+1498 islam 5:31 6:1
+1499 injure 5:7 1:5 9:1
+1500 aspect 4:4 0:3 2:2 8:1
+1501 caractéristique 8:6
+1502 nord 6:25 5:12 8:11 0:3 1:2
+1503 antichrétien 1:1
+1504 extrémiste 8:6 9:2 6:1 1:1
+1505 fanatique 3:7
+1506 ultra 2:12 1:1
+1507 dictature 4:19
+1508 croate 8:2
+1509 incompatible 8:4 7:4 4:2 6:1
+1510 kilomètre 4:7 6:5 3:2
+1511 culotte 8:1
+1512 bouton 1:2
+1513 satellite 3:8 6:1
+1514 lendemain 3:18 4:5 0:2 9:1
+1515 tente 8:1 6:1
+1516 puissance 3:40 8:27 9:24 2:17 7:5 0:2
+1517 pitié 8:5 5:1
+1518 déferlement 1:4 7:1
+1519 évacuation 8:2
+1520 vêtement 2:2 8:1
+1521 ticket 8:2
+1522 misérable 3:14
+1523 occupation 8:11 7:9
+1524 janvier 5:12 8:10 4:9 6:2
+1525 aviation 8:2 5:1
+1526 millier 5:55 6:15 9:1
+1527 botte 8:6 0:1
+1528 massacre 8:10 9:2
+1529 torture 8:4 9:1
+1530 viol 1:2 9:1
+1531 logomachique 1:1
+1532 vocabulaire 3:1
+1533 psychologique 8:4 2:4 4:1 1:1
+1534 secours 1:7 7:1
+1535 quelconque 1:5 7:2 6:1
+1536 réflexion 4:12 7:9 8:3 9:1
+1537 orthodoxe 1:1 3:1
+1538 albanais 8:2
+1539 expert 3:21 4:15
+1540 sympathie 1:8 5:2 9:1 6:1
+1541 mer 6:10 5:10 9:7 3:1
+1542 soin 5:15 7:12 2:6 6:3
+1543 exactitude 8:1
+1544 dégât 1:4 5:2
+1545 immonde 3:6
+1546 lâche 9:4 8:1
+1547 brutal 3:6 8:2
+1548 désaccord 1:8
+1549 régularité 5:2
+1550 inexactitude 5:1
+1551 ski 1:1 3:1
+1552 entorse 8:2
+1553 skieur 4:1
+1554 fief 5:2 4:2
+1555 quorum 8:1
+1556 dissident 1:6
+1557 phrase 1:18 3:6
+1558 taille 8:6 2:3
+1559 gênant 2:2 1:1
+1560 limite 2:21 1:4 5:3
+1561 turbo 3:1
+1562 moteur 9:2 3:2 4:1 6:1
+1563 concitoyen 9:20 7:4 1:4 2:2
+1564 héro 8:7
+1565 informe 1:1
+1566 continuel 4:2 5:1
+1567 aggravation 2:15 8:2 3:1
+1568 revendication 9:16 5:13
+1569 pommier 8:1
+1570 pomme 8:2
+1571 habile 8:3
+1572 alternative 4:17 6:3 1:1
+1573 théoricien 5:3
+1574 répulsion 1:2
+1575 représentatif 4:14 1:3
+1576 interprétation 1:4 9:2
+1577 nazi 8:6 1:1
+1578 traitement 2:10 0:9 1:5 7:2 5:1
+1579 champ 6:15 7:11 2:2 8:1
+1580 convergence 9:2
+1581 certitude 1:9 2:6 5:2 3:1
+1582 os 1:2
+1583 coïncident 4:1
+1584 appui 6:5 4:4 1:2 5:1
+1585 supplétif 4:4
+1586 rendez 9:14 8:10 3:1
+1587 aile 4:13
+1588 bourgeois 9:2 3:2
+1589 négro 1:1
+1590 sale 3:4 1:1 5:1
+1591 antillais 1:2
+1592 précis 4:21 8:3 2:2
+1593 repoussant 5:1
+1594 ignominieux 8:1
+1595 dessin 1:2
+1596 boue 4:2 7:1
+1597 caricaturiste 1:1
+1598 inacceptable 1:7 5:6 3:6 6:2 4:1
+1599 cher 3:122 9:76 7:30 6:8
+1600 ironie 0:2
+1601 remplaçant 8:1
+1602 escabeau 1:1
+1603 physique 8:9 6:8 0:6 1:3 7:1 9:1
+1604 technique 4:17 0:2 8:1
+1605 compagnon 9:8
+1606 anniversaire 8:12 4:1
+1607 hôpital 5:17 9:10 0:4 8:1 7:1
+1608 intrigue 4:4
+1609 secte 0:2 1:1 3:1
+1610 hégémonique 1:1 9:1
+1611 tentative 0:7 9:3 4:3 1:1
+1612 éclatement 3:3 5:2
+1613 conspiration 8:1
+1614 monarchique 8:3
+1615 philosophie 8:7 1:2 6:1
+1616 présidentialiste 9:1
+1617 change 3:7 4:5 7:3
+1618 ingrat 1:1
+1619 ramassis 4:1
+1620 salle 4:17 5:1
+1621 thèse 8:6 6:4
+1622 dommage 1:7 6:2
+1623 mari 1:5 0:1
+1624 encadrement 0:5
+1625 honnêteté 0:9 1:7 6:1
+1626 honoraire 1:1 5:1
+1627 pique 4:1
+1628 juré 1:1
+1629 intervention 4:23 6:10 9:2
+1630 coulon 4:2
+1631 messieurs 0:152 5:2
+1632 machin 8:2 1:1
+1633 remarque 1:3 2:1
+1634 contradictoire 2:13 1:7
+1635 négociation 6:12 1:8 5:2
+1636 collatéral 1:2
+1637 infrastructure 2:3 9:2
+1638 dispersion 8:2
+1639 commandement 8:4 6:2
+1640 bombe 1:8 6:2
+1641 paon 1:2
+1642 aujourd 5:3 6:2
+1643 hui 6:4 1:1
+1644 fondation 0:4
+1645 maquereau 8:1
+1646 putain 1:1
+1647 exact 1:17 7:1
+1648 minime 1:3
+1649 concurrent 1:21 2:12
+1650 fasciste 8:5 2:2 3:1 0:1
+1651 fascisme 8:3 2:3
+1652 compagnie 2:8 6:4 0:4
+1653 convenable 4:3
+1654 portée 7:6
+1655 explication 2:6 1:5 0:3 8:2
+1656 réalité 4:129 3:31 2:23 6:2 0:2
+1657 machination 1:1
+1658 sournois 4:5
+1659 destinée 8:9
+1660 sable 4:7
+1661 cheap 4:1
+1662 proposition 4:71 2:42 7:3
+1663 ministériel 6:8 4:4 3:2 0:1
+1664 décadent 1:2 3:1
+1665 sauvetage 2:6 8:1
+1666 bouée 1:2
+1667 socialisme 4:9 1:6 2:4 5:2
+1668 mal 4:20 5:15 9:14 0:7 7:1
+1669 étudiant 0:11 4:8 5:6
+1670 chahuteur 4:1
+1671 clarté 9:10
+1672 cardiaque 1:1
+1673 crise 4:79 2:57 7:5 1:2
+1674 monnaie 2:185
+1675 nul 4:14 9:5 6:1
+1676 guise 8:3 3:1
+1677 bal 5:2 1:1
+1678 nain 1:1
+1679 conte 4:1 8:1
+1680 confidence 3:4 2:1
+1681 prostate 4:2
+1682 cancer 4:8
+1683 compassion 9:4 6:2
+1684 sordide 9:5 4:2
+1685 astuce 1:3
+1686 honte 4:16 9:5 7:5
+1687 faire 9:9 2:8 3:4
+1688 valoir 8:1
+1689 qualification 0:13
+1690 italien 2:7 4:3 0:1
+1691 espagnol 2:7 8:4 5:3
+1692 douanier 2:8 6:6 8:3
+1693 performant 9:12 2:8 7:2
+1694 orée 1:2
+1695 réseau 9:16 6:3 3:3 0:3 5:1
+1696 bœuf 8:2
+1697 grenouille 8:1
+1698 géographique 6:2 1:2 3:1
+1699 confédéral 8:1
+1700 écossais 8:1
+1701 nationaliste 8:3
+1702 implication 1:2
+1703 affreux 4:2 8:1
+1704 évocation 9:2 8:2
+1705 insensible 9:2 8:2
+1706 adolescent 0:8 6:1
+1707 génération 0:49 2:22 6:14 1:1
+1708 germanophile 1:1
+1709 mélange 4:2 1:1
+1710 classique 0:4 2:2 1:2 5:1
+1711 agriculture 6:71 2:14 8:2 4:1
+1712 formule 1:26 7:3 8:1
+1713 échange 4:27 3:23 7:6 5:6
+1714 collègue 6:2 1:2
+1715 concert 4:9 1:1
+1716 dérive 0:13 2:12 9:11 7:10 4:1
+1717 comité 8:6 5:2 2:1
+1718 censure 8:11 3:3
+1719 motion 4:10
+1720 chasse 6:22 7:6 1:6
+1721 pêche 3:10 6:6 1:5
+1722 ben 1:14 2:11
+1723 espère 0:2
+1724 compréhensible 1:3
+1725 remède 1:8 0:2 5:1
+1726 panacée 8:1
+1727 nuisance 8:1
+1728 fidèle 9:12 5:6 8:4
+1729 flamand 1:1
+1730 épidémie 0:7
+1731 bovin 6:9 7:1 2:1
+1732 spongiforme 1:1
+1733 développement 4:24 0:20 6:17
+1734 rebondissement 4:1
+1735 magma 3:7 8:3 0:2
+1736 forme 9:15 1:14 5:11 3:7 4:4
+1737 suspicion 1:2
+1738 avance 4:5 7:2 1:1
+1739 mai 8:38 0:17 3:5
+1740 chatière 1:1
+1741 torpille 1:1
+1742 dépôt 4:17 6:1
+1743 sponsor 0:1
+1744 redoutable 3:5 1:3 0:3
+1745 salutaire 8:5 3:1
+1746 juridiction 8:6
+1747 pénal 0:18 2:6
+1748 évidence 4:13 0:9 3:4 9:1 7:1
+1749 systématique 2:14 5:7 8:3
+1750 indulgence 1:6
+1751 zèle 3:4 7:1
+1752 léger 4:7
+1753 escroc 1:3
+1754 diffamation 1:14
+1755 cantine 5:8 6:2 8:1 0:1
+1756 fourniture 1:1
+1757 mensonger 9:2 2:2 3:1
+1758 accusation 1:8 4:6 8:1
+1759 abri 1:5 4:2
+1760 calomnie 8:5 5:3 7:2 2:1
+1761 sportule 4:1
+1762 poids 0:18 4:9
+1763 soupçon 4:12 7:1
+1764 juridictionnel 0:2
+1765 magistrat 0:44
+1766 culpabilité 8:2
+1767 commencement 1:7 4:1 3:1
+1768 chambre 8:5
+1769 rapide 4:7 0:5 3:4 2:1
+1770 lent 9:9 1:1
+1771 affirmation 1:5 0:3 2:2 4:1
+1772 information 4:29
+1773 expression 9:15 1:10 7:5 5:1
+1774 incontournable 9:4 2:4 0:3
+1775 poule 1:2
+1776 voleur 1:11
+1777 cour 0:18 2:5 4:3 3:3 8:2
+1778 texte 0:18 4:9 2:1
+1779 édile 1:2
+1780 dame 1:4 0:2 6:1 9:1 5:1
+1781 joujou 4:1
+1782 vulgaire 3:12 9:2
+1783 prédécesseur 3:5 1:3 4:2
+1784 allusif 4:1
+1785 cruche 4:1
+1786 paroisse 4:6 8:1
+1787 tueur 0:15
+1788 martyr 8:13
+1789 lucidité 9:12 4:7 8:1 1:1
+1790 orage 1:1 9:1 3:1
+1791 gentil 2:8 3:1 1:1
+1792 écran 4:6 1:3 2:2
+1793 pétrole 2:17 4:4 1:4 5:1
+1794 monopole 2:32 4:5
+1795 euphorie 0:1 5:1
+1796 fragile 9:8 7:4 3:3 1:3 2:1 0:1
+1797 croissance 2:77 8:2
+1798 modification 2:7 8:3 4:1 7:1
+1799 cohabitation 3:3 0:3 1:2 4:1
+1800 constitutionnel 1:9 8:5 2:1
+1801 référendum 4:62 2:21
+1802 inférieur 2:14 7:6 4:1
+1803 donnée 4:7
+1804 affrontement 0:8
+1805 accent 4:6 8:3
+1806 hostilité 8:5 2:4 0:1
+1807 tau 2:47 0:9 1:3
+1808 obédience 1:1
+1809 participant 1:2 9:1
+1810 conditionnel 7:2 1:2 0:1
+1811 extravagant 8:7 0:4 5:1
+1812 présence 9:15 5:12 4:6 1:5 0:1
+1813 législation 0:12 1:8 4:1
+1814 tradition 9:44 3:3 2:2 8:1
+1815 longueur 1:1 8:1
+1816 harcèlement 1:4 6:1
+1817 scission 1:4
+1818 chasseur 6:22 8:1 1:1 5:1
+1819 émergence 9:10 8:3
+1820 ordinaire 1:8 0:1
+1821 convalescence 1:1
+1822 reconstruction 8:4 1:1
+1823 tragédie 8:8 6:8 3:1 1:1
+1824 fenêtre 2:4 1:2
+1825 rêve 3:16 5:5 8:1
+1826 pénitentiaire 0:8 1:3 7:1
+1827 approfondissement 9:1
+1828 durcissement 5:2
+1829 pare 8:1
+1830 balles 9:1
+1831 gilet 7:2 9:1
+1832 détail 4:9
+1833 irrespect 9:1
+1834 froid 5:6 9:4 8:3
+1835 tremplin 1:5 3:1
+1836 émotion 0:4
+1837 médecin 2:12 9:11 6:11
+1838 tempête 3:5 5:1 0:1
+1839 ouragan 1:1
+1840 dangereux 5:19 1:11 6:4 4:3
+1841 civique 0:19 8:2
+1842 frais 7:9 5:3 3:3
+1843 coin 8:10 6:2 3:2
+1844 vin 6:18 1:2
+1845 char 2:3 8:2
+1846 roue 4:7
+1847 tempérament 8:2
+1848 entier 9:33 5:24 3:20 2:20 6:1
+1849 hallali 1:1
+1850 haïssable 1:1 5:1
+1851 piquant 1:1
+1852 court 2:15 9:12 1:1
+1853 guêpier 9:1
+1854 guérilla 1:1
+1855 marque 3:8 8:2 6:1
+1856 bombardier 0:1
+1857 afghan 8:3
+1858 soviétique 8:15 4:2
+1859 définitif 5:6
+1860 commerce 6:29 2:15 5:9 8:8 9:3
+1861 café 6:3 1:3
+1862 stratège 2:18 1:1
+1863 relève 8:3
+1864 doute 4:13 0:5 8:2 1:2 3:1
+1865 estime 1:4 4:1
+1866 possession 1:3
+1867 régression 4:13 8:4 9:1
+1868 signe 9:17 5:6
+1869 progressif 2:15 0:10
+1870 marge 2:16 3:7
+1871 présentation 1:7
+1872 formulation 1:2 5:1
+1873 exception 3:9 8:7 1:6
+1874 brochure 1:5 6:1
+1875 suffisant 1:10 7:9 2:9
+1876 difficulté 4:37 2:37 0:18 1:3 8:2
+1877 cinquante 0:9
+1878 éradication 9:1
+1879 amodiation 8:1
+1880 préalable 0:3 1:2 7:1
+1881 neutralité 0:14 3:1
+1882 chien 3:6 6:4 1:4 9:1
+1883 sinistre 8:3 1:3
+1884 caravane 1:2 4:1
+1885 université 0:15 5:9 3:6 6:1
+1886 cérémonie 1:6 7:1 3:1
+1887 marginal 9:3 0:3 2:1
+1888 organe 5:4 8:1 3:1
+1889 turpitude 9:3
+1890 avertissement 0:6 1:1
+1891 lointain 3:4 0:3 1:2
+1892 secteur 2:61 6:13 8:4 5:1
+1893 pérennité 9:5 7:2 0:1
+1894 absence 5:12 3:8 8:2 1:2
+1895 âme 9:29 3:21 0:13
+1896 rayonnement 9:7 2:2
+1897 chinois 2:14 7:9 9:1 4:1
+1898 obligatoire 0:21 5:3 4:1
+1899 rétrograde 1:1
+1900 charnel 9:10 1:1
+1901 indépendantiste 0:1
+1902 inéluctable 2:7 0:6
+1903 effondrement 2:34 0:12 5:1
+1904 palinodie 1:1
+1905 félonie 0:2
+1906 inéligible 1:3
+1907 parent 0:44 9:14 5:13 7:12
+1908 familial 0:41 5:34 3:1
+1909 constitutif 0:2 1:1
+1910 infirmier 0:3
+1911 passage 2:15 0:15 7:1 6:1
+1912 pourrissement 1:1
+1913 confiscation 0:2
+1914 solidaire 9:9 8:1
+1915 structurel 7:3
+1916 ras 0:4 5:2
+1917 bol 1:2 8:1
+1918 samedi 1:4
+1919 crédible 4:18 9:2 7:1
+1920 offre 2:13 6:12 1:5
+1921 détournement 7:3 4:1
+1922 orange 6:3
+1923 endroit 0:9 5:6 1:4 3:2
+1924 industrie 2:76 6:1
+1925 pan 2:5 3:4 9:2 5:1
+1926 production 2:69
+1927 agriculteur 6:30 9:21 4:9 2:2
+1928 hargne 9:1 0:1
+1929 train 2:11 3:5
+1930 intolérable 7:8 5:1 4:1
+1931 décence 5:3
+1932 commercial 2:39 6:9 0:3
+1933 baratin 9:1
+1934 bonheur 9:33 4:3
+1935 apothéose 4:1
+1936 syndic 5:5 4:3
+1937 menée 5:4
+1938 entretien 7:3 5:3
+1939 interlocuteur 1:7
+1940 pactole 1:1
+1941 indemnité 4:12
+1942 trimestre 2:8 5:5
+1943 médical 4:24 6:9 9:1
+1944 bénéficiaire 7:9 0:9 2:5
+1945 touriste 5:5
+1946 drastique 7:9 5:5
+1947 palestinien 8:7 1:1
+1948 turc 8:4 1:2
+1949 interethnique 1:1
+1950 réciproque 1:2
+1951 lien 9:17 0:9 3:8 4:1
+1952 illettré 0:5
+1953 cerveau 1:1 0:1
+1954 bras 5:15 9:13 8:13
+1955 moderne 9:20 0:7 8:5
+1956 travailleur 5:59 2:56 3:7 7:2 9:1
+1957 œuvre 4:49 5:31
+1958 déficit 2:66
+1959 diversité 9:14 5:8 7:7 2:1
+1960 parental 0:14 2:1 7:1
+1961 démographique 0:21 5:13 6:3
+1962 écurie 9:4
+1963 mouton 5:4 1:1
+1964 quantité 5:2
+1965 submersion 1:4 2:2 0:1
+1966 migratoire 5:26 9:9 8:5 3:5 1:1
+1967 torrent 5:8
+1968 émissaire 1:3 5:1
+1969 bouc 5:2 4:1
+1970 tentation 9:7 5:3
+1971 auditoire 9:1
+1972 soutenant 5:1
+1973 remboursement 2:9 7:2
+1974 comédie 3:9 9:3 1:2
+1975 irrésistible 9:3
+1976 content 4:10 2:5
+1977 savoir 0:32 2:26 7:3 6:3 4:3
+1978 sagesse 1:4 3:2 0:2
+1979 laxisme 5:27 3:12 0:3 4:2
+1980 légitimité 9:23 8:1
+1981 ronde 9:3 3:2
+1982 valse 2:9
+1983 baron 9:5
+1984 merveilleux 5:7 4:3 8:1
+1985 pitoyable 4:14 9:4
+1986 salop 9:1
+1987 rafale 2:4 5:2
+1988 balle 1:7 9:1
+1989 haine 5:19 4:2
+1990 don 9:7 7:4 5:1
+1991 dévouement 9:7 5:4 8:1 4:1
+1992 générosité 5:5 9:2 2:2
+1993 marxiste 0:8 5:1
+1994 civisme 8:5 1:2
+1995 pantomime 4:2
+1996 susceptible 4:9 9:1
+1997 dictatorial 1:1 0:1
+1998 adjuvant 5:1
+1999 moitié 5:26 0:11
+2000 mathématique 9:2
+2001 généreux 5:8 4:1
+2002 amnistie 1:3
+2003 sorcier 5:6 9:2 3:2 6:1
+2004 apprenti 5:7 1:3 6:2
+2005 lumineux 9:3 5:1
+2006 déroulement 6:2 5:2
+2007 réélection 7:3 8:1 1:1
+2008 essentiel 9:44 2:30 7:26 5:20 1:4
+2009 modestie 1:3 9:2
+2010 parrainage 1:26 4:7
+2011 suivant 8:13 7:5 9:1 5:1
+2012 acte 4:40 5:25 1:1
+2013 complémentarité 8:4
+2014 contradiction 9:6 2:3 0:2
+2015 scientifique 6:7 8:3 4:1
+2016 benêt 4:2
+2017 complémentaire 2:7
+2018 tissu 6:7 2:6
+2019 cité 5:8 2:8 9:1
+2020 prestation 2:20 0:15
+2021 accession 5:7 1:4
+2022 embauche 7:7 1:3 2:2 4:1
+2023 renvoi 4:3
+2024 transit 1:1
+2025 internement 0:1
+2026 agricole 6:68 2:16 0:1
+2027 produit 2:78 6:18
+2028 autonome 9:3 2:2
+2029 import 1:2
+2030 export 1:2
+2031 énergie 4:32 9:24 6:14 7:7
+2032 importation 2:33
+2033 inconvénient 2:5 1:4
+2034 exportation 2:27
+2035 douane 2:43
+2036 instrument 3:21 0:13
+2037 mondialisation 3:82 2:29 9:2 7:2
+2038 mondialisme 3:35 2:19 9:7
+2039 ouverture 2:27 4:8 3:6 7:4 1:2
+2040 artisanal 2:7 0:2
+2041 industriel 2:64 6:15 9:1
+2042 fermeture 2:11 4:9 6:4
+2043 distance 4:4
+2044 prise 4:27 1:1 0:1
+2045 dégagement 5:1
+2046 hélice 1:1
+2047 unijambiste 8:1
+2048 tranche 2:5
+2049 dépense 7:61 2:34
+2050 armement 6:6 7:2 1:1 0:1 5:1
+2051 régalien 6:6 4:4 5:1 2:1
+2052 décomposition 0:3 7:2 3:1
+2053 littéral 2:2
+2054 ramener 2:4
+2055 taxe 2:51 7:9 8:2
+2056 somme 9:7 5:7 7:6 4:6
+2057 réceptacle 8:1 7:1 0:1 3:1
+2058 divers 5:17 1:8 9:3 4:2
+2059 gaspillage 2:7 6:1
+2060 recette 4:10 7:2 5:2
+2061 fouet 1:1 2:1
+2062 euro 2:153 7:72
+2063 patrimoine 9:27 2:20 5:3 0:2
+2064 néfaste 4:7 0:4 6:1 3:1
+2065 succession 0:12 7:5 1:4 5:3
+2066 orientation 3:9 9:3
+2067 site 4:15 3:1 5:1
+2068 riche 2:11 3:10 7:4
+2069 intendance 1:1
+2070 détachement 4:2
+2071 option 2:7 9:6 4:3
+2072 référendaire 2:8 3:1
+2073 menteur 8:6 1:1 4:1
+2074 lèvre 1:3
+2075 abstentionniste 1:2
+2076 sursaut 9:11
+2077 syndical 2:16 3:12
+2078 conduite 0:5 7:1
+2079 printanier 8:2
+2080 baccalauréat 1:2
+2081 étude 0:34 5:11 3:3 2:1 9:1
+2082 central 2:12 0:11 8:5 1:3 7:1
+2083 péremptoire 3:2
+2084 minoritaire 1:6 9:5
+2085 écarté 1:1
+2086 volontaire 9:12 2:5 7:4
+2087 immoral 1:8
+2088 détestable 1:10
+2089 quinquennat 5:15 7:9 3:7 6:2 0:1
+2090 diffusion 9:5
+2091 solide 3:15
+2092 dilution 9:6
+2093 participation 2:12 9:5 8:1 0:1
+2094 distraction 7:1
+2095 déception 9:5 1:2 3:1
+2096 polytechnique 2:3
+2097 relation 2:37 8:8 6:2 3:2
+2098 centre 2:24 3:21 4:13 7:3 8:2 5:2 6:1
+2099 tonnerre 0:1
+2100 énorme 2:18 6:4 1:4
+2101 suggestif 0:1
+2102 grossier 1:2
+2103 anonyme 9:18 7:1
+2104 objet 2:9 8:4 0:3 7:1
+2105 téléphonique 2:2 3:1
+2106 écoute 5:5 4:4 1:2 9:1 3:1
+2107 taupe 0:1
+2108 spécifique 0:13
+2109 refus 5:13 0:4
+2110 recueil 2:3 1:1
+2111 tuyau 1:1
+2112 intéressant 1:16
+2113 pendule 7:3
+2114 pause 2:2
+2115 prélèvement 0:17 2:5 6:2
+2116 poche 5:5 2:3 7:1
+2117 entrepreneur 9:28 1:2
+2118 paralysant 0:2
+2119 rivalité 7:2
+2120 retraite 7:51 2:51 0:46 4:4
+2121 saupoudrage 0:1
+2122 original 4:3 7:1
+2123 pédophilie 0:4
+2124 vaste 9:9 0:7 3:4 7:2
+2125 gangster 0:2
+2126 truand 0:2
+2127 magistrature 0:32
+2128 bâtiment 0:12 5:6
+2129 neutre 0:2 4:1
+2130 arbitrage 0:5
+2131 procédure 2:8 1:2
+2132 cochon 6:3 0:2
+2133 patron 2:32 0:14 9:6 4:4 8:3
+2134 débiteur 0:2
+2135 créancier 0:4 2:2
+2136 proclamation 6:2 2:1
+2137 gauchiste 0:8 4:1
+2138 féodalité 9:16 5:1 1:1
+2139 plainte 1:9 0:3 7:1 5:1
+2140 fantastique 5:4 1:4
+2141 progression 8:6 3:6 5:3
+2142 urgence 5:15 6:7 9:5
+2143 pègre 1:1
+2144 représaille 0:6 4:1
+2145 terreur 9:7
+2146 triste 5:15 3:6 7:1
+2147 sport 0:8
+2148 figure 4:6 8:5
+2149 moto 8:1
+2150 explosion 0:15 5:11 7:2
+2151 face 3:13 9:2
+2152 bébé 8:2 2:1
+2153 basket 7:1
+2154 fessée 8:1
+2155 reportage 1:8 6:4
+2156 joli 0:3 5:2 7:1 2:1
+2157 répression 0:11
+2158 prévention 0:13 9:1
+2159 supériorité 8:3 7:1
+2160 préventif 0:3
+2161 adolescence 1:2
+2162 enfance 0:15
+2163 comportement 4:17 0:16
+2164 religion 5:57 9:35
+2165 naïf 8:8 3:4 6:1 2:1
+2166 aveuglement 5:7
+2167 grandissant 8:6 4:2 5:1
+2168 doctrinaire 8:2
+2169 serviteur 9:8 3:5
+2170 impunité 5:16 1:6 0:2
+2171 sursis 0:5
+2172 étranglement 0:6
+2173 goulot 0:6
+2174 télévisuel 0:1
+2175 radiophonique 1:3 4:1
+2176 détour 0:3 5:1
+2177 barbarie 0:8 9:4
+2178 horreur 0:5 4:3 3:1 5:1
+2179 hystérie 4:9
+2180 terre 6:67 8:24 3:16
+2181 sécuritaire 7:4 0:1
+2182 vivre 1:4 0:1
+2183 éditeur 1:2
+2184 fête 8:14 9:9
+2185 disque 1:8
+2186 triple 3:6 2:5
+2187 musique 9:9 3:1
+2188 œillère 8:2 0:2 2:1
+2189 édition 8:3
+2190 artisan 9:23 3:11 2:5 7:2 0:2
+2191 commerçant 9:13 2:13 3:6 1:2 0:1
+2192 présomptueux 0:2
+2193 débarquement 8:4
+2194 nue 2:2 8:1
+2195 film 8:10 2:1
+2196 déjeuner 3:2 0:1 8:1
+2197 zone 2:33 5:31 6:16 3:13 9:1
+2198 toit 0:4
+2199 résistant 9:2 5:2
+2200 oie 4:1
+2201 admirateur 0:2 9:1
+2202 nazisme 1:6
+2203 poncif 8:2
+2204 extrait 0:3
+2205 laborieux 9:5 0:2
+2206 revue 7:2 0:2
+2207 organisateur 8:4 6:3 1:3 9:1
+2208 bulletin 4:7
+2209 réciprocité 2:7 4:1
+2210 discrimination 5:27 6:2 7:1
+2211 intégré 0:2
+2212 naturalisation 5:18 8:1
+2213 devise 3:7 1:4
+2214 rassembleur 0:2
+2215 tabou 4:9 9:2 8:1
+2216 aggravant 0:1
+2217 rééducation 1:1
+2218 correction 0:2
+2219 insuffisant 1:6 0:2
+2220 tiers 2:10 4:9 6:6
+2221 dur 3:13 0:11 5:7 4:4
+2222 tortionnaire 0:1
+2223 violeur 0:3 7:1
+2224 brique 0:2
+2225 lynchage 0:1
+2226 assise 7:2 0:1
+2227 angélisme 5:6 0:3
+2228 quartier 5:39 9:18
+2229 montée 0:19 4:8
+2230 large 9:12 7:4
+2231 gouverneur 1:5 8:3 7:1
+2232 reconquête 3:8 9:1
+2233 dent 5:3 8:2
+2234 mammouth 0:2
+2235 groupement 4:1
+2236 réputation 1:5 4:3 7:1
+2237 perturbant 4:1
+2238 antimarxiste 8:1
+2239 parenthèse 2:13 3:1
+2240 notable 9:6 1:2 5:1 6:1
+2241 inhibition 8:1
+2242 éliminatoire 5:1
+2243 paradoxe 1:2 6:1
+2244 respectable 9:4
+2245 inconnu 9:7 8:1 0:1
+2246 trotskyste 8:3
+2247 passé 9:38 5:3 4:2
+2248 office 6:2 0:1
+2249 bancal 1:1
+2250 méprisant 9:5
+2251 silence 3:9 0:4 8:3
+2252 consensus 0:3 4:1
+2253 fantaisiste 1:9 8:1
+2254 humilité 9:7
+2255 course 4:17 2:1
+2256 superpuissance 8:2
+2257 réel 3:41 5:16 2:16 0:11
+2258 outil 2:18 9:14
+2259 popularité 8:5
+2260 viril 1:2
+2261 antiaméricanisme 0:1
+2262 éloge 1:3
+2263 velléitaire 9:2 1:1
+2264 velléité 3:2 9:1
+2265 louable 5:1
+2266 clandestin 5:105 7:1 6:1
+2267 nauséabond 5:3
+2268 insinuation 1:2
+2269 gâteau 3:4 7:3 1:3
+2270 démagogique 0:3 1:2 5:1
+2271 travaillisme 5:1
+2272 éclat 9:5 7:2 1:1
+2273 danse 3:2 1:1
+2274 session 1:2 8:1
+2275 suspense 5:1 8:1
+2276 salaire 2:141 5:25
+2277 manuel 0:32 1:7
+2278 époque 5:21 8:10 3:7 2:2
+2279 baisse 2:72 4:12 5:3 9:1
+2280 régularisation 5:21
+2281 illégal 5:28 1:5
+2282 convenance 1:1 4:1
+2283 intrinsèque 5:2 8:1
+2284 souffrance 4:16 0:7 8:4
+2285 positionnement 8:2 1:2 3:1
+2286 crématoire 4:2
+2287 colonel 7:1
+2288 acception 1:1
+2289 date 8:17 5:8 6:3
+2290 pardon 1:12
+2291 purgatoire 1:1
+2292 irréparable 4:2
+2293 réintégration 1:3
+2294 miséricorde 1:1
+2295 prévisible 4:5 5:3 9:1
+2296 prévu 7:2
+2297 bilan 5:31 4:22
+2298 ragot 7:1
+2299 invention 2:5
+2300 chemise 8:3 2:1
+2301 genou 4:5 0:1
+2302 touche 1:1 2:1
+2303 exemplaire 7:13 4:3
+2304 probabilité 1:2 5:1
+2305 injustifié 1:1
+2306 incroyable 3:15 5:5 1:3
+2307 digue 8:3
+2308 baïonnette 8:1
+2309 oukase 1:5
+2310 adieu 7:1
+2311 buffet 1:2
+2312 préfecture 5:10 3:1
+2313 rencontre 4:16 9:9
+2314 indécent 7:9 9:6 2:1
+2315 inadmissible 5:13 7:10
+2316 odieux 1:5 9:2
+2317 ridicule 8:11 4:1
+2318 exercice 4:13 0:10 1:3 3:2
+2319 confiture 1:2
+2320 pot 5:7
+2321 garçon 0:5 1:4
+2322 quitus 1:2
+2323 bénéfice 2:50 9:3 5:2
+2324 fonctionnel 1:1
+2325 immunité 4:3 3:3
+2326 contestable 4:4 6:1
+2327 menotte 5:2
+2328 propriété 0:10 6:7 2:5 8:3 5:3
+2329 gaz 3:14 6:7 0:4 1:1
+2330 usine 3:27 9:7 1:5 2:4
+2331 amoralisme 1:1
+2332 pédagogie 4:3 2:1 1:1
+2333 reproche 1:8
+2334 caleçon 1:1
+2335 cocotier 0:1
+2336 commentateur 3:5 1:2 8:1
+2337 passion 9:12 3:1 2:1
+2338 sincère 4:9 3:7 0:2
+2339 honorable 1:3
+2340 amende 2:4 7:3
+2341 maladroit 7:1
+2342 environnement 6:38 2:7
+2343 pugnace 1:3
+2344 retors 1:1
+2345 collier 1:1 3:1
+2346 quotidien 9:26 7:16 2:2
+2347 comptabilité 2:8 1:1
+2348 doré 9:3 1:1 3:1
+2349 solennité 9:3
+2350 discutable 1:3
+2351 menaçant 1:3 8:1
+2352 pompier 7:10 0:6
+2353 incendiaire 9:1
+2354 chevalier 1:4
+2355 révélateur 6:5 3:5 1:3
+2356 ostracisme 1:6
+2357 gloire 9:20 1:8
+2358 sondeur 1:2
+2359 opprobre 5:2
+2360 vulnérable 9:4
+2361 rapprochement 0:2 1:1
+2362 stabilité 0:11 5:7
+2363 subordonné 1:1
+2364 irréversible 1:8 8:5 3:1
+2365 révolution 6:25 5:19 2:9
+2366 outrecuidance 8:2
+2367 allusion 1:4
+2368 vœu 9:17 4:9
+2369 carte 5:32 2:8
+2370 compliment 1:6
+2371 tenant 5:7
+2372 flou 4:12
+2373 entourage 5:4
+2374 calcul 0:9 2:7
+2375 fureur 7:3 8:1
+2376 apocalypse 4:1
+2377 incontrôlé 0:11 9:1
+2378 aveu 9:8 1:6
+2379 septennat 1:4 6:2
+2380 institutionnel 9:13 5:10
+2381 classement 8:5 0:4
+2382 aboutissement 9:4 0:2 1:1
+2383 opimes 1:1
+2384 dépouille 8:1
+2385 virgule 1:2
+2386 bouche 1:11 9:10 6:3 5:1
+2387 censitaire 1:2
+2388 marche 4:15 6:2
+2389 chausse 4:2 8:1
+2390 trappe 1:3
+2391 disponibilité 1:2
+2392 maximum 2:6 1:2
+2393 numéro 4:3 3:3
+2394 match 0:2 4:1
+2395 idéal 9:10 1:4 5:2
+2396 contestation 4:12
+2397 giberne 0:1
+2398 maréchal 8:2
+2399 bâton 3:2 1:1
+2400 soldat 8:23 9:4 0:1
+2401 contrôleur 7:2 4:1
+2402 volontariste 6:2 1:1 7:1
+2403 insuffisance 0:8
+2404 politisation 0:4 1:1
+2405 naissance 5:30 9:1
+2406 flux 5:31 2:6
+2407 spécialiste 0:15 4:1
+2408 définition 4:15 1:4
+2409 broutille 1:2 0:1
+2410 rom 4:11
+2411 cortège 0:5 5:4
+2412 arrondissement 4:4 0:3
+2413 prostitution 1:2 4:1
+2414 délit 5:52 0:6
+2415 durable 0:16
+2416 provisoire 1:2 0:1
+2417 mobilisation 9:4 8:3 6:3
+2418 proportionnel 4:39 7:3
+2419 circonscription 4:10
+2420 triangulaire 1:2 3:1 7:1
+2421 duel 4:7
+2422 distorsion 5:3
+2423 affinité 8:1 4:1
+2424 escarcelle 5:2
+2425 agressivité 0:2
+2426 suivisme 5:2
+2427 panurge 1:1
+2428 entrainant 0:1
+2429 leurre 3:4 4:3 1:2
+2430 maçonnique 1:1
+2431 sportif 0:9 1:3
+2432 panique 4:7 7:4
+2433 unanimisme 1:1
+2434 sujétion 8:2
+2435 major 2:1
+2436 saint 9:13 8:11 0:3
+2437 liaison 1:2
+2438 antisémite 4:5
+2439 parallèle 9:5 0:2
+2440 dupe 4:15
+2441 sentimental 1:3
+2442 passif 0:3
+2443 autorisation 5:12
+2444 acteur 4:9 2:7 3:3
+2445 perspective 3:19 8:7 0:6 6:3
+2446 optique 0:4 8:2
+2447 producteur 2:21 3:3 6:1
+2448 salarial 2:14 5:6 9:2
+2449 sauvage 3:32 0:7 6:3
+2450 concurrence 2:119 9:2 7:1
+2451 adaptation 2:6
+2452 blé 6:6
+2453 ukrainien 8:1
+2454 communautaire 3:12 6:11
+2455 solidarité 2:34 9:30 7:13
+2456 modulant 8:1
+2457 suisse 2:2
+2458 canton 1:5
+2459 francophone 2:4
+2460 balte 8:1
+2461 écu 2:4 8:2
+2462 célèbre 8:12
+2463 équivoque 7:2 1:1
+2464 redistribution 2:2
+2465 partenaire 2:24 9:2
+2466 pénurie 1:5
+2467 comptable 4:4
+2468 piédestal 9:1 3:1
+2469 montage 8:2
+2470 potentiel 8:3 1:2
+2471 justiciable 0:5
+2472 justicier 1:1
+2473 machiavélique 3:1
+2474 stratagème 1:2 8:1
+2475 gazette 1:2 5:1
+2476 plume 9:5 1:1
+2477 évêque 8:5
+2478 déchainement 2:2
+2479 gant 1:3
+2480 nez 4:5 8:1
+2481 gogo 8:1 0:1 7:1
+2482 mythe 9:4 2:1
+2483 soulèvement 6:1
+2484 exécration 1:1
+2485 monstrueux 4:4 7:1
+2486 perpétuation 3:4
+2487 proprio 2:1
+2488 erroné 1:2
+2489 excellent 4:4 9:2
+2490 renaissance 9:8 6:3
+2491 opéra 2:1
+2492 fraternité 9:40 2:6
+2493 boutique 9:5 2:2
+2494 truc 1:2
+2495 cohérence 4:14 3:9 6:4
+2496 pauvreté 2:12 7:10 6:4 8:3 9:1 5:1
+2497 redressement 3:31 0:19 4:11 2:1
+2498 race 5:12
+2499 village 6:28 9:20 8:5 2:1
+2500 ruine 2:15 9:4 4:3 0:3
+2501 malversation 5:2
+2502 division 9:18
+2503 exclu 8:2
+2504 grade 3:3
+2505 espérance 3:40 9:28 7:10 4:2 8:1
+2506 bleu 3:16 8:1
+2507 béret 9:1 4:1
+2508 francophonie 9:4
+2509 enthousiasme 3:4
+2510 inestimable 9:3
+2511 remerciement 3:2 7:1
+2512 témoin 1:11 9:2
+2513 record 5:11 3:6
+2514 défaut 2:7
+2515 analyse 2:27 3:19 1:3 8:2 5:2 4:1
+2516 rejet 3:9 5:4 4:2 2:1
+2517 conforme 1:9
+2518 diversion 4:11
+2519 virage 1:6
+2520 révélé 9:1
+2521 hier 4:7 1:1
+2522 adverse 8:1
+2523 rude 3:4
+2524 décoffrage 2:1
+2525 brut 5:8 9:1
+2526 intégrationniste 9:1
+2527 sot 1:2 7:1
+2528 axe 7:10 0:9 1:1
+2529 juif 8:13
+2530 arabe 8:25 4:6 5:1
+2531 anticommuniste 8:1
+2532 francophile 1:1
+2533 xénophobe 5:9
+2534 interchangeable 5:5 7:4 9:3
+2535 rang 8:19 0:8 6:6 9:4
+2536 douzième 5:1
+2537 collection 8:1 1:1
+2538 passeport 4:4
+2539 monétaire 2:46
+2540 personnage 8:21
+2541 illustre 5:2 0:2
+2542 abrogation 3:3
+2543 considérant 0:1
+2544 asiatique 5:7
+2545 salon 5:7
+2546 détenu 0:10
+2547 brigand 0:1 5:1
+2548 bidon 3:2 1:1
+2549 savon 2:1
+2550 bulle 3:5
+2551 oisif 0:1
+2552 varié 5:1 7:1
+2553 survie 9:16 4:3 8:1
+2554 pénibilité 1:3 5:2
+2555 correspondant 1:2
+2556 rémunération 0:12 7:2
+2557 balayeur 3:1
+2558 homogénéité 6:1
+2559 charme 2:3
+2560 censé 4:13 5:4
+2561 cheftaine 1:1
+2562 soja 6:4
+2563 animal 6:19 5:1
+2564 nourriture 5:5 3:1 2:1
+2565 autosuffisance 5:1
+2566 filtre 0:4
+2567 protectionnisme 2:82 3:1
+2568 science 0:6
+2569 matérialiste 8:2 9:1
+2570 surplus 0:1
+2571 compensation 6:4
+2572 légèreté 0:3 3:1
+2573 richesse 2:34 9:16 3:3 5:1 7:1
+2574 paysan 6:104 9:14
+2575 barrière 6:9 4:2
+2576 coût 2:86 0:6 7:3
+2577 revient 0:3 1:1
+2578 voiture 1:14 6:13 5:3 2:1
+2579 province 9:15 0:1 6:1
+2580 pont 1:4 9:2
+2581 téléphone 4:7
+2582 secondaire 1:6 6:4
+2583 pyramide 0:5 8:1
+2584 immoralité 7:4
+2585 malheur 5:14 4:11 3:3
+2586 réaction 9:9 4:5
+2587 abstentionnisme 1:3
+2588 réticence 1:3
+2589 trafiquant 1:1 0:1 9:1
+2590 rétablissement 2:12 0:4
+2591 impitoyable 0:8 7:2
+2592 doux 9:2 0:1
+2593 interdiction 2:13 5:8 4:1
+2594 enviable 0:1 3:1
+2595 automobile 6:8 2:5 5:1
+2596 consommateur 3:15 2:12 0:2
+2597 engrenage 2:2
+2598 gardien 9:10 5:1
+2599 avortement 0:6 5:1
+2600 légalisation 4:3
+2601 démographie 5:3
+2602 déperdition 4:1
+2603 utilité 9:6 0:3 7:2
+2604 nuisible 2:5 8:4
+2605 création 2:35 0:16 6:6 7:4
+2606 formel 0:2
+2607 démenti 1:2
+2608 poil 1:7 9:2 6:1 8:1
+2609 cuir 1:5
+2610 subalterne 2:1 3:1
+2611 tourne 0:2
+2612 girouette 3:7 6:1
+2613 inquiétant 4:14
+2614 dévaluation 2:13 1:1
+2615 traumatisme 0:2
+2616 conventionnel 1:1
+2617 pluriel 8:1
+2618 atmosphère 2:3 8:1
+2619 facultatif 0:1
+2620 acceptant 1:1
+2621 libéral 2:7 0:5 3:3 6:1
+2622 anticonstitutionnel 1:3 8:1
+2623 défenseur 4:25 3:5 8:2
+2624 féminin 3:3 0:1
+2625 contestataire 5:1 7:1
+2626 loisir 3:9
+2627 quatre 1:1
+2628 concept 2:11 6:4 7:1
+2629 passionnel 5:2
+2630 antijudaïsme 5:1
+2631 israélien 8:6
+2632 bilatéral 5:4
+2633 totalité 0:6 9:2
+2634 parachutiste 9:3
+2635 casse 5:6 2:2 6:1
+2636 apocalyptique 8:1 4:1
+2637 malstrom 9:1
+2638 chrétien 9:19 8:5 5:3
+2639 hasard 0:11 3:1
+2640 anglo 5:10 6:3 9:1
+2641 épouse 5:6 9:1
+2642 foot 5:4
+2643 champion 4:3 0:3 6:2 9:1
+2644 banlieusard 1:1 6:1
+2645 admiration 3:6
+2646 joueur 8:2 5:1
+2647 métropolitain 7:3 8:2
+2648 sélection 0:10
+2649 vitesse 0:5
+2650 martiniquais 0:2 9:1
+2651 critère 0:19 4:2
+2652 africain 0:7 8:4 3:2 1:2
+2653 réalisation 9:5 8:2
+2654 voyage 8:3 9:1 6:1 0:1 7:1
+2655 précurseur 1:1
+2656 moratoire 0:5 2:3
+2657 image 8:11 4:11 1:8
+2658 perron 1:2
+2659 intermission 5:1
+2660 remplacement 0:6 9:1
+2661 échelle 0:7 4:6 1:1
+2662 caution 1:2
+2663 fou 3:13 2:3 5:2 1:1
+2664 dissuasif 5:10 1:1
+2665 périple 0:1
+2666 couvreur 5:1
+2667 gravissime 5:3 1:1
+2668 racine 9:17 6:7
+2669 plaisant 0:1
+2670 euphémisme 5:2
+2671 correctionnel 1:6 4:2
+2672 collège 0:17 7:5
+2673 proximité 4:8 6:7 7:5
+2674 antan 1:1 5:1
+2675 intensif 9:1 5:1
+2676 discret 0:2
+2677 apte 4:4
+2678 sélecteur 5:1
+2679 sinécure 1:1
+2680 bourse 0:5
+2681 précarité 3:18 0:4 6:1
+2682 vitalité 9:4 5:1
+2683 vecteur 5:3 4:1 1:1
+2684 moule 5:1 6:1
+2685 souhaitable 0:4 4:2
+2686 géographie 9:5 8:4 7:1
+2687 prudent 4:9 9:1
+2688 synagogue 1:1
+2689 délicat 3:2 0:1
+2690 long 2:19 9:8 1:5
+2691 déséquilibrant 1:1
+2692 inadapté 8:5 6:1
+2693 employé 2:14 0:5
+2694 naval 2:7
+2695 construction 9:26 2:24 0:5 8:1
+2696 textile 2:6 5:1 0:1 7:1
+2697 idéologie 3:36 0:18 6:9 5:3 4:3
+2698 permanent 0:27 3:22 1:3 7:2 5:2 4:1 8:1
+2699 catégorie 5:16 8:9
+2700 orgueilleux 1:1 2:1
+2701 modeste 1:15 3:6 5:1
+2702 indicible 1:2 2:1
+2703 islamiste 5:18 4:11
+2704 manque 2:18 3:4
+2705 accordé 5:1
+2706 prime 1:6 4:3
+2707 réformette 5:2
+2708 poêle 1:1
+2709 queue 4:2 2:2 5:1
+2710 corne 5:4 9:2
+2711 escargot 8:2
+2712 cagouille 5:1
+2713 comportemental 1:1
+2714 sexuel 4:6 1:2
+2715 dérapage 1:5 7:2
+2716 verbal 0:4 1:2
+2717 renne 4:3
+2718 trouille 2:2
+2719 pourcentage 4:8
+2720 avancé 1:1
+2721 apache 1:1
+2722 ciel 8:10 9:8 2:7
+2723 para 1:2
+2724 héroïque 8:4 0:1
+2725 régime 7:27 2:27
+2726 douzaine 1:1
+2727 otage 1:6 4:3 7:1
+2728 anglais 8:14 4:1
+2729 réprobation 4:1 7:1
+2730 invective 2:2
+2731 bec 8:5
+2732 épisode 4:9
+2733 continu 5:8 4:1
+2734 suspension 2:3 7:2
+2735 mirobolant 6:3 2:1 1:1
+2736 code 5:15 0:3
+2737 laisse 1:2
+2738 épargne 2:13 9:4
+2739 sensibilité 4:11
+2740 muet 5:2
+2741 excuse 5:7 3:4 4:1 2:1
+2742 août 7:9 5:9 1:1
+2743 détention 1:4 5:1
+2744 anormal 4:4
+2745 quadruple 3:1 8:1
+2746 colossal 5:2 9:1
+2747 petits 3:11
+2748 enfants 3:11
+2749 succulent 8:1 4:1
+2750 limitation 1:1
+2751 insurrectionnel 1:1
+2752 émeute 0:12
+2753 incursion 1:1
+2754 hôtel 5:5
+2755 médaille 5:3
+2756 désenchantement 5:1
+2757 illusion 3:8 4:6 9:5 5:1
+2758 dégradation 5:11 9:1
+2759 symptôme 5:4
+2760 dialectique 5:1
+2761 barrage 5:5 1:3
+2762 ubiquité 1:1
+2763 impression 5:13 9:2
+2764 rond 1:6 9:2 3:2
+2765 cage 9:4 5:1
+2766 panache 5:1 3:1 8:1
+2767 bonsoir 5:3
+2768 arrivant 0:2
+2769 rare 4:8 8:2 0:1 2:1
+2770 intermittent 4:4
+2771 sottise 5:1 7:1 4:1 3:1
+2772 substitution 5:5 8:1
+2773 éclatant 5:5 0:2
+2774 provision 5:2
+2775 restauration 8:9 9:5 2:4
+2776 finance 3:36 2:32
+2777 fur 5:4 2:3
+2778 langage 5:7 3:1
+2779 observation 5:3
+2780 canicule 4:1
+2781 optimiste 4:6
+2782 visa 4:7
+2783 constat 4:12 5:8 2:3 6:2
+2784 sourire 4:5 8:2
+2785 fleur 4:5 1:1
+2786 parlant 1:1
+2787 rhétorique 8:1
+2788 dissuasion 8:3 5:3 0:1
+2789 ouest 9:13 6:6 0:1
+2790 communisation 0:1
+2791 douze 8:1
+2792 infaisable 0:1
+2793 inefficacité 2:2 1:1
+2794 application 5:13 6:8 9:7 8:2
+2795 obsolète 2:5
+2796 modernisation 0:3 1:1
+2797 contrebande 8:1
+2798 marchandise 6:7 4:2
+2799 étoile 9:3 3:1
+2800 malveillant 0:1
+2801 regard 4:7 6:2
+2802 déclin 0:17 4:14
+2803 asphyxie 4:3
+2804 incurable 9:1
+2805 agréable 1:2
+2806 rein 2:2
+2807 divergent 2:3
+2808 théorie 0:10 3:2
+2809 pantalon 9:2
+2810 jupe 0:1 8:1 5:1
+2811 admiratif 8:1
+2812 veuf 0:7 8:2 1:2
+2813 lange 2:1
+2814 devant 8:2 1:1
+2815 navrant 2:2
+2816 pacte 7:5 3:4 8:3 9:2 2:1
+2817 célibataire 0:2
+2818 métal 8:3 3:1
+2819 église 5:7
+2820 traditionnel 4:22 0:7 6:4
+2821 incitation 2:9
+2822 planning 2:1
+2823 communicant 4:3
+2824 élargissement 2:3
+2825 protectorat 9:3
+2826 clou 8:2
+2827 fortuné 2:2 9:1
+2828 fortune 2:12 4:1
+2829 fabuleux 8:2
+2830 contexte 4:15 5:5 2:3
+2831 citation 9:3 1:3
+2832 corde 8:3
+2833 parcours 8:3 5:3 4:2 3:1
+2834 minier 5:4 2:1
+2835 pur 2:12 3:5 8:1 1:1
+2836 appétence 8:2
+2837 retard 0:8 9:1 1:1
+2838 pareil 1:4 4:2 3:2 7:1
+2839 vice 6:4 9:3 1:3 7:1
+2840 approbation 7:2 1:2
+2841 commentaire 1:7
+2842 commande 3:6 9:2
+2843 nuée 8:1
+2844 détersif 1:1
+2845 cocktail 8:1
+2846 château 4:2 0:1
+2847 conjecture 4:1 5:1
+2848 articulation 3:1
+2849 procureur 5:4 8:2
+2850 inexpliqué 1:1
+2851 inexplicable 4:1
+2852 impotent 0:3
+2853 goût 4:13
+2854 immeuble 4:5 8:1 9:1
+2855 paille 2:2 1:2
+2856 feu 5:8 7:4
+2857 antinomique 1:1
+2858 correct 0:5 9:3 1:1
+2859 précaution 0:3
+2860 censeur 1:3 0:1
+2861 biologique 3:3
+2862 substance 3:8
+2863 station 0:3
+2864 insulte 3:10 0:3 9:1
+2865 réussi 1:1 2:1
+2866 meurtre 5:6 1:1
+2867 cadavre 1:2 5:1
+2868 li 8:1
+2869 symbole 4:17 9:10
+2870 rebours 0:3
+2871 stèle 8:3
+2872 édification 8:1 6:1
+2873 marocain 5:3
+2874 crochet 1:1
+2875 patronat 5:13 2:12
+2876 rapatriement 0:2
+2877 aspirant 5:10
+2878 pompe 5:16 6:1 4:1
+2879 indonésien 1:1
+2880 continent 3:17 6:4 5:1
+2881 maghrébin 0:6 6:1 5:1
+2882 planétaire 6:27 3:1
+2883 polonais 5:3
+2884 immigrant 5:3 8:2
+2885 filiation 5:2
+2886 carence 9:2 1:2 7:1
+2887 illusionniste 4:1 0:1
+2888 préoccupant 6:3
+2889 tripe 5:1
+2890 perceptible 6:1 8:1
+2891 obsession 3:7 4:3
+2892 écho 5:4 2:3
+2893 existant 9:3 1:2
+2894 complet 5:6 3:3 1:3
+2895 arnaque 0:2 5:1
+2896 ouvert 2:6 4:5 1:1
+2897 cri 9:8 0:4 6:3
+2898 tombe 5:1 2:1 8:1
+2899 dénigrement 6:2 5:2
+2900 bas 2:25 5:19 3:10 9:3
+2901 guillemet 0:5 4:2
+2902 libération 9:8 2:3
+2903 oxygène 2:2 1:1
+2904 règlement 9:9 1:4 6:3
+2905 latent 4:1 5:1
+2906 frange 1:1
+2907 tranquille 0:3 8:2
+2908 fleuve 7:4
+2909 souche 5:6 8:5
+2910 tolérable 3:2 1:1
+2911 sociologique 1:1 2:1
+2912 allongement 0:9 3:1 7:1
+2913 bonnet 1:4 3:3 6:1 5:1
+2914 rose 6:5 1:5 7:1
+2915 élimination 6:4 4:3
+2916 amplification 1:1
+2917 bipolarisation 4:12 2:1
+2918 déclic 0:2
+2919 septentrional 0:1
+2920 cotisation 2:19 7:17 9:1 4:1
+2921 cotisant 5:2 0:2
+2922 égalisation 3:1
+2923 aval 5:2 2:1
+2924 bloc 9:4 4:1
+2925 soulier 1:4
+2926 galet 0:1
+2927 abysse 4:2
+2928 ressac 1:1
+2929 défiance 9:4 5:2 4:1
+2930 redevable 0:1
+2931 indice 0:2 7:1
+2932 stable 0:5
+2933 fantaisie 4:1
+2934 qualificatif 1:2
+2935 regret 1:3
+2936 capital 2:20 0:8 9:7
+2937 imbécile 3:4
+2938 aviateur 0:2
+2939 objection 1:2 2:1
+2940 stand 4:1
+2941 superbe 0:4
+2942 boucherie 6:2 0:2
+2943 réinsertion 0:9
+2944 diplôme 0:10 8:2 5:1
+2945 pénible 0:2 3:1
+2946 filière 0:16 3:4 2:4
+2947 psychologue 0:2
+2948 sociologue 0:5
+2949 viaduc 1:1
+2950 intempérie 0:1
+2951 embranchement 1:1
+2952 augure 4:3
+2953 aristocrate 7:1
+2954 élite 9:43 3:28 4:6 0:2
+2955 dé 4:3
+2956 panne 1:3
+2957 photo 4:8 8:3
+2958 métaphore 1:1
+2959 précipice 4:5 3:1
+2960 impasse 1:5 0:5
+2961 verdict 1:1 4:1
+2962 ampleur 4:11 2:3
+2963 marmorisation 8:1
+2964 compétiteur 1:1
+2965 mou 8:5 9:4 0:2
+2966 grandiose 4:1
+2967 réserviste 9:1
+2968 rappel 8:4 4:3
+2969 tromblon 7:1
+2970 escopette 1:1
+2971 armurerie 8:2
+2972 gesticulation 8:2 3:2 7:1
+2973 contrefacteur 4:1
+2974 inquiétude 4:11 2:11
+2975 compétence 7:31 2:23 4:1
+2976 honorabilité 7:1
+2977 fâché 8:1
+2978 rigoureux 7:2 1:1
+2979 pontage 1:1
+2980 artère 8:1
+2981 sensible 5:10 4:5
+2982 présentable 4:1 3:1
+2983 confidentiel 7:4 8:1 4:1
+2984 poussé 7:1
+2985 concurrentiel 1:2 4:1
+2986 beurre 4:2
+2987 gaulois 9:5 2:2 8:1
+2988 informel 4:1
+2989 mets 4:1
+2990 fable 1:4 4:1 8:1
+2991 tortue 1:2
+2992 agonie 4:4
+2993 palliatif 8:3
+2994 fesse 8:1
+2995 audiovisuel 4:3
+2996 paysage 6:23 9:8 8:3
+2997 diplomate 8:5 1:1
+2998 boréal 8:4
+2999 senior 3:9 9:2
+3000 cuillère 1:3
+3001 spectaculaire 2:10
+3002 envoi 1:1
+3003 déséquilibre 7:6 8:2 1:1
+3004 humide 2:1
+3005 indicateur 5:5 7:1
+3006 catastrophe 2:21 9:3 7:3
+3007 catastrophique 4:11 5:10 8:1
+3008 vertigineux 4:1 5:1 0:1
+3009 identique 4:3 7:1
+3010 oligarque 7:10 4:1
+3011 désert 4:9
+3012 retournement 2:1
+3013 désaveu 9:2 1:1
+3014 senti 1:1
+3015 détermination 9:18 7:6
+3016 prestige 8:6 7:1
+3017 probable 4:4
+3018 bile 1:1
+3019 allure 1:4
+3020 visuel 0:1
+3021 mosquée 5:27
+3022 islamique 5:8
+3023 préférentiel 0:3 5:1
+3024 laïcité 9:37 5:15 2:6 3:5
+3025 donné 4:2
+3026 spécial 7:7 0:6 2:1
+3027 égalitaire 0:3 8:1
+3028 excès 2:13 6:1
+3029 scolaire 0:28 7:6
+3030 midinette 1:1
+3031 bouclier 3:19 2:1
+3032 maîtrise 2:26 5:4
+3033 citoyenneté 5:12
+3034 raisonnable 5:9 3:3 0:1 6:1
+3035 invasion 8:15
+3036 tendresse 0:1 9:1
+3037 atout 9:12 4:4 1:1
+3038 individu 9:47
+3039 plongée 1:1
+3040 salarié 2:83 3:10
+3041 marasme 5:2 0:2
+3042 individualité 5:1
+3043 défilé 1:6
+3044 séduction 4:6
+3045 insultant 7:2 0:1
+3046 génocide 4:4 9:1
+3047 turque 5:4 1:1
+3048 veille 5:1 6:1
+3049 libellule 5:1
+3050 compagne 4:5
+3051 subliminal 1:1 2:1
+3052 sérail 1:1
+3053 gadget 9:5 1:3
+3054 inefficace 2:7 8:4 7:2 0:2
+3055 valorisant 8:1
+3056 chaise 4:1
+3057 arménien 1:3
+3058 archives 8:3
+3059 prioritaire 4:4 2:4 7:3 1:3 0:1
+3060 miette 1:3 4:1 6:1
+3061 évangile 5:1 6:1
+3062 publication 0:12 7:5
+3063 penser 4:2 8:1
+3064 fatigant 1:1
+3065 récurrent 2:3
+3066 panel 4:4
+3067 brève 0:2
+3068 cagoulard 1:2
+3069 escalade 4:1
+3070 orateur 0:1 9:1
+3071 caricatural 1:6 2:3 7:1 6:1
+3072 inassimilé 4:1
+3073 concentration 3:7 2:3 1:1
+3074 source 0:19 6:5 2:4
+3075 assaut 0:4 5:2 6:1
+3076 atomique 1:2 5:1
+3077 impétrant 8:2 2:1
+3078 employeur 0:3 4:1
+3079 idéologique 4:34 3:1
+3080 sanctification 1:1
+3081 homosexualité 1:1
+3082 chapitre 8:4 7:4 1:2
+3083 télé 3:9 0:1
+3084 chaîne 9:11 1:6
+3085 famine 8:1 9:1
+3086 disette 3:1
+3087 rouage 3:3 1:2
+3088 grain 4:1
+3089 partage 3:8 7:4 0:1 4:1
+3090 ancestral 9:3 8:2 6:1
+3091 gay 3:1
+3092 plage 3:4
+3093 nuance 8:1 9:1
+3094 mascarade 3:2 6:1
+3095 lurette 4:1
+3096 irréversibilité 3:1
+3097 antagoniste 3:1
+3098 collégien 7:4 4:4
+3099 commis 8:2 7:1
+3100 farine 6:5 9:1
+3101 inexistant 2:3 3:1
+3102 ballottage 3:2
+3103 offrant 3:1
+3104 centriste 9:3 3:3
+3105 mystère 9:2
+3106 report 8:1 7:1 5:1
+3107 caricature 9:8 2:4
+3108 vicomte 3:1
+3109 douceur 6:7 0:3
+3110 bac 3:3
+3111 courrier 6:6 4:1
+3112 manif 4:1
+3113 révolutionnaire 3:11 6:2
+3114 joufflu 2:1
+3115 rabatteur 3:3
+3116 destructeur 9:18 0:1
+3117 agent 9:11 7:9 3:7
+3118 atlantisme 3:2
+3119 valet 9:4
+3120 intransigeant 3:2 9:1
+3121 parlé 3:1
+3122 cravate 3:1
+3123 réglé 3:1
+3124 éléphant 0:1
+3125 compère 3:3
+3126 atlantiste 2:2 3:1
+3127 tactique 4:8 3:1
+3128 désirable 3:2
+3129 austère 3:2
+3130 intérim 3:1
+3131 cirque 3:5 6:1
+3132 hôte 3:1
+3133 perlimpinpin 3:1
+3134 poudre 3:5
+3135 estival 4:3
+3136 baignade 2:1
+3137 vieille 4:3
+3138 bobo 3:12 0:2
+3139 magazine 8:3
+3140 madone 3:1
+3141 nouveauté 9:5
+3142 tango 3:1
+3143 hésitation 2:2
+3144 rival 3:1
+3145 flore 6:6
+3146 atermoiement 5:1
+3147 reculade 9:4 3:2
+3148 parité 2:13 4:2 8:1
+3149 visible 3:5 7:4 6:4
+3150 délabrement 5:1
+3151 vergogne 3:3 4:1 8:1
+3152 étrange 3:2 8:1
+3153 bête 3:3 1:3
+3154 renoncement 3:31
+3155 apathie 3:1
+3156 colère 3:24 7:6
+3157 vivifiant 3:2
+3158 aune 9:6 3:3 2:1
+3159 héroïsme 9:1 6:1
+3160 joug 4:4
+3161 décisif 9:13 4:6 6:2
+3162 sape 3:1 0:1
+3163 démesure 1:1 4:1
+3164 souvenir 6:5 3:4 9:3
+3165 nerveux 3:1
+3166 dépression 0:3 8:1
+3167 fatalisme 3:6
+3168 grandeur 9:44
+3169 pusillanime 8:1
+3170 las 1:1
+3171 réveil 3:4 8:2
+3172 cinglant 0:2 3:1
+3173 renouveau 3:6
+3174 signal 4:12
+3175 persévérance 3:6 0:1
+3176 coureur 8:2
+3177 libéralisme 9:3 3:3
+3178 déroute 9:5
+3179 vaillant 0:1
+3180 décidé 7:1
+3181 croisée 9:1 8:1
+3182 euthanasie 6:3 7:1
+3183 sacre 3:3 0:2
+3184 historien 9:4
+3185 motif 4:6 7:1
+3186 farouche 3:4
+3187 règne 3:12 9:5 5:1
+3188 jacobin 8:1
+3189 centralisme 8:1
+3190 radical 5:26 3:8 9:1
+3191 virevoltant 1:1
+3192 génie 9:31 4:1
+3193 audacieux 4:3 7:1
+3194 novateur 0:1
+3195 napoléonien 0:1
+3196 épopée 9:10 0:1
+3197 capétien 8:2
+3198 monarchie 9:4 3:1
+3199 continuité 3:7 8:1 7:1
+3200 quolibet 9:1
+3201 incurie 9:5
+3202 acquis 7:11 3:5
+3203 héritage 9:12
+3204 préservation 0:5 9:3
+3205 moquerie 9:2
+3206 lazzi 5:1
+3207 fossoyeur 9:3
+3208 tartuffe 9:1
+3209 renversement 4:1
+3210 soumission 3:24 4:8 9:3
+3211 naïveté 3:3 8:1
+3212 égoïste 9:5 8:1
+3213 internationaliste 9:4
+3214 illégitime 9:13 3:3
+3215 héritier 9:14 6:5 7:4
+3216 fierté 9:30 3:5 5:2 0:1 6:1
+3217 ingéniosité 8:1 4:1
+3218 vacillant 0:2
+3219 canonnade 0:1
+3220 sceptique 9:2
+3221 incrédule 9:1
+3222 crucial 3:3 0:3 8:2
+3223 tournant 9:1 4:1
+3224 moulin 3:2 1:2
+3225 audit 5:6 0:4
+3226 irresponsabilité 8:5 4:1
+3227 incompétence 5:6 9:4 0:1
+3228 contentieux 3:1
+3229 napoléon 4:1
+3230 spécificité 9:5
+3231 mobilité 2:3 4:1
+3232 volet 7:1
+3233 poutre 8:4
+3234 pantouflage 8:1 7:1
+3235 stage 9:6 6:3 7:1
+3236 recrutement 0:8
+3237 instituteur 0:7
+3238 alimentaire 6:21 5:4 9:2 0:1
+3239 refuge 0:3 2:2 1:1
+3240 congé 2:2 8:1
+3241 incompatibilité 8:1
+3242 pendant 3:1
+3243 immobilisme 7:4
+3244 aventureux 7:1
+3245 montagne 6:11
+3246 hameau 6:3
+3247 télégraphique 7:1 6:1
+3248 poteau 0:1 2:1
+3249 rentabilité 2:13 6:1
+3250 admissible 7:1
+3251 marchand 0:10
+3252 garant 9:12 0:1
+3253 ressort 2:4
+3254 détresse 7:4 0:4
+3255 verre 7:2
+3256 bus 2:1 8:1
+3257 conducteur 7:2
+3258 étouffant 7:3
+3259 réglementation 7:12
+3260 privatisation 2:12 7:7
+3261 stérile 9:2 0:1 7:1
+3262 corporatisme 9:2
+3263 involontaire 6:1
+3264 découragement 7:3 2:1
+3265 absentéisme 7:1
+3266 ambulancier 5:1
+3267 transport 6:13 0:12 7:11
+3268 authentique 9:3 6:3 2:1
+3269 incarnation 3:2
+3270 caste 3:52 7:9 5:3
+3271 privilège 7:19 2:6 9:1 6:1
+3272 lancement 8:3 7:1
+3273 usager 9:9
+3274 lubie 7:2 2:2
+3275 gré 9:11
+3276 navire 7:1 5:1
+3277 arrière 4:9 0:6 2:1
+3278 impossibilité 4:2 0:2
+3279 productif 2:11 0:3
+3280 chagrin 8:4 0:3
+3281 obèse 3:1
+3282 vertige 7:3
+3283 bétail 6:2
+3284 climat 6:11 2:3 5:1 3:1
+3285 aléa 7:2 4:2
+3286 inflation 7:6 4:6 0:1
+3287 errements 6:2 1:1
+3288 litanie 3:2
+3289 effroyable 9:6
+3290 répétition 2:11
+3291 noblesse 9:6 2:1 4:1
+3292 atelier 3:2 0:2 2:1
+3293 providence 9:3
+3294 fatal 6:3 9:2
+3295 délocalisation 2:44 3:19 5:2
+3296 illettrisme 9:2 3:1
+3297 balance 2:13
+3298 vainqueur 8:6 1:1
+3299 mac 7:1
+3300 indécision 9:6 5:3
+3301 franchise 9:5 4:2
+3302 désespérance 3:10
+3303 label 6:2
+3304 endémique 0:1
+3305 restaurant 7:2 0:1
+3306 logis 5:2
+3307 trottoir 6:1
+3308 vital 2:21 7:3
+3309 carcan 2:13 4:1
+3310 handicapé 7:6
+3311 âgé 7:28 2:6 5:2 4:2
+3312 spiritualité 5:3 0:1
+3313 détestation 9:2
+3314 désamour 1:2 9:1
+3315 accueillant 5:2
+3316 atrocité 3:3 2:2 5:1
+3317 coulpe 8:3
+3318 bravoure 9:4
+3319 décent 2:7 4:2
+3320 contrepartie 2:13 9:4
+3321 équité 6:10 9:7 7:4
+3322 porteur 9:9 3:2
+3323 pacification 8:2
+3324 clef 9:11 6:5
+3325 conciliation 9:3 5:1
+3326 dialogue 2:8
+3327 chaos 4:17 8:5 5:2
+3328 confrontation 2:5 8:3
+3329 clientèle 9:10 8:1
+3330 partenariat 8:6 5:1
+3331 réorganisation 9:3 4:1
+3332 ressource 0:18 7:5
+3333 miséreux 9:4
+3334 coopération 9:10 8:8
+3335 contrat 7:19 3:14 2:14
+3336 monoparental 2:2 0:2
+3337 impératif 5:7 9:6
+3338 natalité 0:17
+3339 incitatif 2:6
+3340 renouvellement 6:5 4:1
+3341 ruralité 6:27
+3342 aménagement 6:11
+3343 harmonie 9:8 6:5
+3344 domestique 6:3
+3345 pétrolier 2:18
+3346 recherche 2:45 6:16 4:2
+3347 libéralisation 3:8
+3348 ruineux 2:4
+3349 énergétique 6:7 9:6
+3350 respectueux 8:7 3:4
+3351 conservateur 5:1
+3352 vert 6:15 4:12 8:1
+3353 écologie 6:18 2:1
+3354 impérieux 3:11
+3355 étatique 0:2
+3356 synergie 2:2 7:1
+3357 pesanteur 3:2 0:1
+3358 minimal 9:7
+3359 déloyal 2:56
+3360 carcéral 7:3 4:2 0:1
+3361 syndicalisation 2:1
+3362 impartial 0:4
+3363 facilité 4:6 3:3
+3364 anesthésie 9:1
+3365 démagogie 0:10 9:6
+3366 infantilisation 0:1
+3367 réaffirmation 0:2
+3368 éducatif 0:12
+3369 universitaire 0:6 6:5
+3370 cuisinier 5:2
+3371 apprentissage 0:33
+3372 philosophique 0:3 1:1
+3373 primaire 3:8 5:6 9:4
+3374 élève 0:46 9:2
+3375 transmission 0:22 1:1
+3376 insoutenable 0:2
+3377 réclamation 5:4 0:2
+3378 exclusivité 0:1 1:1
+3379 sacré 4:13 0:5
+3380 artistique 7:3
+3381 dealer 7:3 5:2
+3382 amoralité 0:1
+3383 égoïsme 0:2
+3384 lâcheté 2:19
+3385 droiture 9:6 2:1 3:1
+3386 fromage 6:3 7:1
+3387 providentiel 8:2 7:1
+3388 contrainte 2:16 9:5
+3389 compétitif 2:24
+3390 proportion 7:3 1:2
+3391 résidence 7:4 5:1
+3392 spéculatif 3:6
+3393 imposition 2:4
+3394 cession 2:8
+3395 plus 2:13
+3396 value 2:12 6:1
+3397 montant 2:13
+3398 seuil 2:14 7:8 5:2
+3399 déduction 7:2
+3400 quotient 2:2
+3401 complexité 7:4 2:2
+3402 transmissible 7:1
+3403 successif 0:28 7:7 4:1
+3404 stagnation 2:2
+3405 assistanat 2:7
+3406 économiste 2:24 3:1
+3407 jungle 9:16 2:2
+3408 gaspilleur 2:1
+3409 pléthorique 0:3 9:2 5:1
+3410 demeurant 0:3 1:2 2:1
+3411 interdit 9:4 6:4
+3412 cumul 1:6 7:3
+3413 superflu 2:1
+3414 entreprenant 2:1 4:1
+3415 couche 9:5
+3416 irremplaçable 9:5
+3417 terreau 9:4
+3418 exportateur 6:11 3:3 2:1
+3419 créateur 0:7 9:5
+3420 élévation 6:3 0:1
+3421 enrichissement 3:3 0:1
+3422 inégalité 7:7 9:5 0:3
+3423 relationnel 7:2
+3424 intégration 5:28 9:1
+3425 subsistance 9:3 5:2 3:1
+3426 inégalé 6:2 5:1
+3427 réussite 9:11 6:5
+3428 dynamisme 4:5
+3429 hémorragie 6:2 7:1
+3430 créatif 2:4
+3431 privilégié 6:2 2:1
+3432 craintif 2:2
+3433 rente 2:3 0:1
+3434 innovation 2:16
+3435 actionnaire 2:11 5:1
+3436 patrimonial 9:2
+3437 capitalisme 2:26
+3438 fulgurant 9:1
+3439 technologique 6:8 8:3
+3440 accélération 2:7
+3441 changeant 2:1
+3442 manipulation 4:6 0:5 7:2 3:1
+3443 émanation 7:2
+3444 intégral 4:8 9:6 7:1
+3445 soviet 6:1
+3446 jury 2:4
+3447 oligarchie 3:16
+3448 approvisionnement 6:6
+3449 stratégique 2:24 4:7 7:3
+3450 biomasse 9:1
+3451 végétal 6:2
+3452 carburant 6:2
+3453 assentiment 2:1
+3454 optimal 0:1 5:1
+3455 géopolitique 8:9 2:3
+3456 environnemental 2:16 4:1
+3457 autel 3:13
+3458 illusoire 3:2 8:1
+3459 asile 5:14 8:2
+3460 interne 4:15 9:1 6:1
+3461 territorial 2:16 9:14 7:9 6:3
+3462 applicable 6:2 1:1
+3463 norme 2:30
+3464 publicitaire 3:9
+3465 accroche 8:1 4:1
+3466 slogan 3:18 5:7
+3467 ravage 3:13
+3468 fatalité 3:17 7:7
+3469 insoumission 9:1 3:1
+3470 technocrate 3:14 4:9 6:7
+3471 fier 9:28 7:2 3:1
+3472 plaine 0:2
+3473 terril 2:1
+3474 réconciliation 3:1 8:1
+3475 populisme 6:2 3:2
+3476 populiste 4:3 2:1
+3477 coréen 3:1
+3478 suédois 6:2
+3479 ringard 5:6
+3480 chauvin 9:1
+3481 passéiste 0:1 4:1
+3482 paresseux 5:3
+3483 réputé 2:1 7:1
+3484 pute 3:1
+3485 suspect 8:3 3:1
+3486 pote 3:2 6:1
+3487 beur 6:4
+3488 sobriquet 3:3
+3489 primitif 7:2 4:2
+3490 sac 0:6
+3491 cul 8:2
+3492 rabais 9:3 6:1
+3493 solitude 9:10 4:2 7:1
+3494 crèche 2:5
+3495 urgent 3:10 6:2 2:1
+3496 abrutissant 3:1
+3497 lecture 0:12 9:2 7:1
+3498 hochet 3:1
+3499 idiot 3:3
+3500 salariat 2:3
+3501 quiétude 5:4
+3502 absentéiste 8:1
+3503 modernité 9:8
+3504 restructuration 2:3
+3505 liquidation 2:6 3:1
+3506 bourgade 8:1 3:1
+3507 abord 8:2 6:1
+3508 surface 9:11
+3509 épicier 8:2
+3510 profiteur 5:4 3:3 7:1
+3511 pension 2:14 7:13
+3512 stock 0:2
+3513 paternaliste 4:1
+3514 marketing 3:4 4:3 0:1
+3515 yaourt 1:2 6:1
+3516 pub 2:4
+3517 agence 3:13
+3518 stature 3:5
+3519 isoloir 8:1
+3520 payeur 5:2
+3521 conseilleur 3:1
+3522 univers 9:7 3:3
+3523 prophète 2:3
+3524 fée 8:2 5:2
+3525 virtuel 4:12
+3526 gaffeur 3:2
+3527 robot 5:1
+3528 froideur 5:1
+3529 sifflet 3:3
+3530 monologue 3:2
+3531 méchanceté 2:1 4:1
+3532 empoigne 3:1
+3533 foire 8:6
+3534 acharnement 3:4 6:1
+3535 tollé 3:1
+3536 miss 0:1 8:1
+3537 iranien 8:3
+3538 bourde 3:2
+3539 toilette 2:1
+3540 avantageux 3:2
+3541 coq 3:4
+3542 caniche 8:2
+3543 volte 3:2 6:1 0:1
+3544 incohérence 3:4 1:1
+3545 caméléon 3:1
+3546 mondiste 8:1
+3547 mentor 6:1
+3548 frénésie 7:1
+3549 calamiteux 4:1
+3550 tonne 6:9
+3551 hommage 8:10 4:2
+3552 périgueux 5:1
+3553 consubstantiel 3:1
+3554 authenticité 3:2
+3555 antériorité 3:1 4:1
+3556 reniement 3:2 4:1
+3557 concession 8:4
+3558 manipulateur 3:2
+3559 imminence 5:1
+3560 flexibilité 3:4
+3561 retraité 7:26 3:16
+3562 révolte 7:6 3:6
+3563 déferlant 8:3 1:2 5:1
+3564 rigueur 2:16
+3565 insensé 2:5
+3566 culot 8:3
+3567 endettement 2:13
+3568 demandant 3:1
+3569 once 3:2
+3570 injustifiable 3:2
+3571 inlassable 4:2
+3572 troublé 3:1
+3573 consumériste 6:3 2:1
+3574 individualisme 9:11
+3575 casseur 7:2
+3576 intuition 3:4 7:1
+3577 indéfectible 8:2 3:1
+3578 progressiste 4:1
+3579 sectaire 4:4
+3580 idéologue 5:10 8:1
+3581 arrogant 9:3 3:2
+3582 réactionnaire 3:2
+3583 alarme 6:5 4:3 9:1
+3584 stade 3:8 8:2
+3585 unanime 8:3 1:1
+3586 multiplication 2:17 4:4 9:1
+3587 capillarité 0:3
+3588 artisanat 2:4 6:3
+3589 ahurissant 1:2 0:2
+3590 kafkaïen 3:1
+3591 surproduction 9:3 3:1
+3592 banalisation 1:1
+3593 pornographie 2:1
+3594 mercantile 6:4 0:4 3:2
+3595 intériorité 3:1
+3596 soucieux 4:4 9:1
+3597 pervers 7:6
+3598 abstraction 6:1
+3599 sommet 4:14 3:12 5:1
+3600 abus 2:23 4:1
+3601 effectif 0:13 5:6 4:1
+3602 marginalisation 2:1
+3603 intégrateur 3:1
+3604 formateur 5:1 0:1
+3605 creuset 0:5 2:1
+3606 délire 0:2 9:1
+3607 pédagogique 0:4
+3608 expérimentation 2:1 0:1 6:1
+3609 devenir 5:3
+3610 contrée 9:2 8:1
+3611 unificateur 9:3
+3612 liberticide 9:4
+3613 sphère 9:9
+3614 illustration 4:3 9:1
+3615 peuplement 5:5
+3616 assimilation 9:20 0:10 2:2
+3617 sonnette 2:5 3:1
+3618 honteux 5:8 7:6
+3619 piteux 9:4
+3620 glorieux 9:20 4:1 1:1
+3621 global 0:14 2:10
+3622 essence 2:20
+3623 mixte 2:4 5:1
+3624 arrogance 9:7
+3625 conscription 0:5
+3626 tatillon 7:1
+3627 invraisemblance 1:1
+3628 inquiet 1:8 2:5
+3629 cynisme 3:10 7:3 1:2
+3630 gel 3:3
+3631 précaire 3:4 7:3 8:1
+3632 lait 2:9
+3633 pieux 2:1
+3634 luxe 2:8 4:1
+3635 immobilier 2:11
+3636 spéculation 3:9 8:3 5:2 7:1 4:1
+3637 tricolore 9:6 1:2
+3638 égaré 2:1
+3639 géostratégique 3:2
+3640 mesdames 0:108
+3641 berceau 5:3
+3642 maxime 9:3
+3643 récompense 5:4
+3644 profit 3:21 0:1
+3645 autoritaire 2:4
+3646 fixation 0:1 2:1
+3647 valorisation 0:4
+3648 précieux 9:5 3:5
+3649 capitalisation 2:8
+3650 versement 7:3
+3651 démagogue 3:2 8:1 9:1
+3652 paresse 2:2 4:1
+3653 gendre 0:2
+3654 malédiction 0:1
+3655 matrice 7:2
+3656 épanouissement 2:5 7:3 6:1
+3657 réhabilitation 9:2 2:2
+3658 mutualiste 7:1
+3659 étage 2:5 7:1
+3660 optionnel 7:1
+3661 défaillant 7:1
+3662 transition 0:1
+3663 opportun 2:1
+3664 sauvegarde 6:4 7:1 0:1 4:1
+3665 technocratique 7:3 2:1
+3666 robinetterie 0:1
+3667 plancher 0:4
+3668 corporatiste 0:2
+3669 biais 7:11 8:4
+3670 réversion 0:5
+3671 harmonisation 0:2
+3672 bénéfique 9:2 0:1
+3673 paiement 0:7
+3674 complément 0:2
+3675 folie 5:12 9:3 7:1
+3676 revalorisation 2:7 0:3 7:1
+3677 annuité 2:4 7:1
+3678 comparatif 0:1
+3679 déductible 0:1 2:1
+3680 restrictif 0:1
+3681 paie 7:4
+3682 exorbitant 7:4 4:2
+3683 choquant 7:1 9:1 2:1 0:1
+3684 désastre 0:19 3:1
+3685 arithmétique 7:1
+3686 sécu 0:3
+3687 unitaire 0:1
+3688 commissariat 2:8
+3689 marigot 6:1 4:1
+3690 faveur 1:2
+3691 malhonnêteté 4:3 6:1
+3692 défavorable 2:2
+3693 dispositif 0:8 6:3
+3694 renouvelable 6:6 0:1
+3695 agressif 8:4 3:2 9:1
+3696 passant 2:1
+3697 intimidation 7:3 4:1
+3698 vieillard 0:1
+3699 dangerosité 6:1
+3700 spectateur 2:4 4:2 0:2
+3701 habit 9:2 6:2 3:1
+3702 académicien 6:1
+3703 soleil 6:10 3:1
+3704 solstice 1:1
+3705 vigne 6:6
+3706 arrachage 6:2
+3707 viticole 6:8
+3708 excédent 6:2
+3709 hectare 6:13
+3710 vigneron 6:13
+3711 équitable 6:3
+3712 indication 6:2
+3713 multilatéral 6:3
+3714 registre 6:2
+3715 entrave 3:5 0:4 5:1
+3716 vignoble 6:10
+3717 remboursable 6:4 0:4
+3718 technologie 2:7 6:2 5:1
+3719 juillet 6:8 0:6 8:2
+3720 hémisphère 6:3
+3721 dumping 2:21 9:1
+3722 compétitivité 2:39
+3723 exonération 7:5 9:1
+3724 rural 6:70 7:3 3:1
+3725 programmation 6:3
+3726 multinational 6:9 0:6 9:2 4:2 8:1
+3727 brevet 2:6 1:4
+3728 dépendance 3:6 6:2 0:1
+3729 récolte 6:2
+3730 réensemencement 6:1
+3731 restitution 8:2
+3732 survivant 0:1
+3733 conjoint 0:4 6:1
+3734 rentrée 9:2 6:1 5:1 4:1
+3735 installation 6:13
+3736 exploitation 6:8 3:8
+3737 amortissement 6:1
+3738 agraire 6:2
+3739 rééquilibrage 1:3
+3740 bossu 2:1
+3741 rigide 7:3
+3742 implosion 9:4 0:1 5:1
+3743 doublement 2:1
+3744 supportable 2:4
+3745 ralentissement 6:3 2:1
+3746 apparition 0:4 8:3
+3747 prospère 9:13
+3748 préretraite 0:1 2:1
+3749 abondant 7:1
+3750 prélude 5:2
+3751 aumône 4:2
+3752 labeur 5:8 3:1
+3753 législature 4:1
+3754 minus 0:1
+3755 gravité 2:4 5:2
+3756 foncier 6:7
+3757 éminent 9:4 7:1
+3758 renommé 7:1
+3759 corrida 0:1
+3760 confins 8:3 0:1
+3761 banquet 7:6 6:1
+3762 incompressible 2:5
+3763 prompt 3:7
+3764 gendarmerie 7:16 5:6
+3765 édifice 9:6 0:3 8:1
+3766 séparation 9:8 2:5
+3767 équipement 0:10
+3768 hospitalier 5:6 9:4
+3769 caserne 2:8
+3770 assistance 7:3 0:1
+3771 braderie 0:1 5:1
+3772 emprisonnement 7:3 0:2
+3773 différenciation 7:2
+3774 prévenu 2:4
+3775 surpeuplé 7:1
+3776 inhumanité 0:1 4:1
+3777 dentaire 0:1
+3778 médicament 2:8 0:5 3:1
+3779 irrégulier 5:6
+3780 acquisition 5:21
+3781 manquement 7:1
+3782 figurant 0:1 9:1
+3783 blessé 8:7
+3784 émeutier 0:3
+3785 dénonciation 0:1
+3786 note 7:13 2:4 0:3
+3787 homogène 2:2 8:1
+3788 synthèse 0:3
+3789 thématique 7:4 8:2 4:1
+3790 bavure 0:3
+3791 brute 2:4
+3792 bateau 5:7 2:3 3:1
+3793 yacht 0:1
+3794 éducateur 0:3 2:1
+3795 moniteur 7:1
+3796 incarcération 0:2
+3797 abaissement 0:9
+3798 démoralisateur 7:1
+3799 détenteur 0:3
+3800 automaticité 0:1
+3801 individualisation 0:2
+3802 bénin 5:1
+3803 forfait 0:5 8:1
+3804 sérénité 9:3 0:3
+3805 accusé 7:2
+3806 prédateur 9:10 7:5
+3807 palais 0:4 8:1
+3808 greffier 7:1
+3809 disciplinaire 0:3
+3810 séminaire 7:1
+3811 justification 5:1
+3812 oppression 9:8
+3813 sûreté 9:6
+3814 concorde 9:9
+3815 serein 9:6
+3816 déni 7:6 5:1
+3817 déontologique 5:1
+3818 vierge 8:3 0:3
+3819 fastidieux 0:1
+3820 domiciliation 0:1
+3821 cruel 9:7 5:5 2:3 7:2 6:1 8:1
+3822 fumeur 0:2
+3823 establishment 0:3
+3824 clément 0:1
+3825 antiracisme 0:2
+3826 paralysie 0:1
+3827 inversion 0:4 8:2 9:1
+3828 écrou 0:3
+3829 interpellation 0:3
+3830 fumeux 5:2 0:2
+3831 partial 0:4 9:2 3:2
+3832 plaideur 9:1
+3833 écraseur 0:1
+3834 assurance 0:8 6:5
+3835 écrasé 0:1
+3836 préjugé 3:7
+3837 oreille 0:8 4:1 3:1
+3838 assistant 4:2 0:1 8:1
+3839 hydre 0:1 8:1
+3840 inoffensif 0:1
+3841 sieur 0:1 6:1
+3842 harangue 0:3
+3843 képi 1:1
+3844 comble 0:2
+3845 subversif 0:4
+3846 maille 5:2 7:1
+3847 prescription 0:1
+3848 répressif 0:1
+3849 larme 3:12
+3850 plafond 0:3 3:1
+3851 sortir 7:1 5:1 9:1
+3852 meurtrier 9:3 0:1 6:1
+3853 perpétuel 9:6 8:1
+3854 ramollissement 0:1
+3855 inconscience 8:2
+3856 fréquent 8:2
+3857 privatif 5:2
+3858 proportionné 0:1
+3859 transgression 0:5 8:1
+3860 pensionnaire 0:1
+3861 éphémère 0:1
+3862 ubuesque 0:2
+3863 propice 2:5
+3864 dénuement 5:1 2:1
+3865 complexification 0:1
+3866 alibi 0:2
+3867 normatif 7:1
+3868 annuel 7:10 6:9 8:2 2:1
+3869 adepte 9:2 0:2
+3870 laxiste 5:10
+3871 notoire 0:2
+3872 avancée 5:6 9:3
+3873 déliquescence 4:2 5:1
+3874 fosse 5:3
+3875 intraitable 2:1 8:1
+3876 fictif 0:3
+3877 mœurs 5:16
+3878 discrédit 0:1
+3879 bordelais 0:1
+3880 feuilleton 6:3 9:1
+3881 animation 1:1
+3882 invitant 7:1
+3883 fleuron 7:1 6:1 4:1 3:1
+3884 viticulture 5:1 8:1
+3885 ambassadeur 4:11
+3886 magnifique 9:9 8:2 0:1
+3887 port 5:4 9:2
+3888 capitale 9:5 8:3 3:2
+3889 vitrine 5:2
+3890 envergure 8:5
+3891 standing 5:1
+3892 réfection 0:1
+3893 prologue 8:1
+3894 abattoir 6:4
+3895 mors 6:2
+3896 saxon 9:6 5:4 6:1
+3897 finlandais 3:1
+3898 téléphonie 6:2
+3899 échangiste 6:2
+3900 géant 6:10 0:4
+3901 laitier 6:13 2:2
+3902 viande 6:10 7:2 2:2
+3903 néolithique 6:3
+3904 volaille 6:1
+3905 jus 6:1
+3906 éthanol 6:1
+3907 sucre 6:8 9:1
+3908 round 6:1 7:1
+3909 superficie 6:2 3:1
+3910 brésilien 6:4
+3911 fédéré 3:1
+3912 éleveur 6:13 3:2
+3913 aliment 6:2
+3914 dodu 6:1
+3915 poulet 6:5
+3916 riz 6:4 9:2
+3917 coton 6:4
+3918 alimentation 6:5
+3919 protéine 6:1
+3920 légume 6:6
+3921 champignon 7:1
+3922 bourgeoisie 6:1
+3923 importateur 6:3
+3924 roupie 6:2
+3925 pesticide 6:4
+3926 pendaison 6:2
+3927 indien 6:8 8:1
+3928 débit 6:1
+3929 équivalent 2:13 9:2 5:2 6:1
+3930 céréale 6:1 4:1
+3931 rythme 7:5 3:5 5:4
+3932 tubulaire 6:1
+3933 puits 6:4 2:1
+3934 forage 6:2
+3935 profondeur 9:5 6:1 8:1
+3936 mètre 2:9 9:4 4:1
+3937 cube 6:2
+3938 extraction 6:1
+3939 dollar 2:16 6:1
+3940 aquifère 6:1
+3941 nappe 6:5
+3942 cultivateur 6:3
+3943 canal 6:2
+3944 rivière 6:3 7:1
+3945 maïs 6:3
+3946 irrigation 6:1 2:1
+3947 sec 6:2 3:1
+3948 canne 6:1
+3949 luzerne 6:1
+3950 phréatique 6:4
+3951 désertification 6:5 1:2 5:1 8:1 7:1
+3952 exode 6:3
+3953 austérité 4:52
+3954 déréglementation 6:1 7:1
+3955 urbain 6:11 5:2
+3956 bidonville 4:2 3:1
+3957 amène 6:1
+3958 dantesque 6:2
+3959 gigantesque 2:9 6:1 5:1
+3960 raréfaction 8:4
+3961 pli 2:1 3:1
+3962 aurore 6:1
+3963 crépuscule 6:2
+3964 informatique 6:7 2:4
+3965 silicium 6:1 5:1
+3966 puce 6:3
+3967 quota 2:12 6:8 9:1
+3968 horizon 9:10 3:8 4:4
+3969 restant 6:1
+3970 élevage 6:8 0:1
+3971 latino 6:1
+3972 cycle 6:6 9:3 4:1 0:1
+3973 inscription 0:4
+3974 phytosanitaire 6:1
+3975 final 6:3 1:2 4:1
+3976 berger 4:4 6:1
+3977 ails 6:1
+3978 coque 6:1
+3979 énumération 6:2
+3980 miel 6:1
+3981 ruche 5:1
+3982 apiculteur 8:1
+3983 cargo 0:2
+3984 arboriculteur 6:1
+3985 betteravier 6:2
+3986 sidérurgie 6:8
+3987 exploitant 0:1 5:1
+3988 gris 5:3 6:1 4:1
+3989 pinot 6:1
+3990 gamay 6:1
+3991 autosuffisant 6:1
+3992 latin 0:6 6:3 8:2
+3993 altier 6:1
+3994 limousine 2:1
+3995 troupeau 6:1 3:1
+3996 agro 6:2
+3997 ténacité 8:2 6:1
+3998 laboureur 6:4
+3999 chalut 6:1
+4000 lignée 5:6
+4001 fils 6:2
+4002 contrefort 6:1
+4003 lavande 6:1
+4004 pâturage 6:1
+4005 maraîcher 6:2
+4006 céréalier 6:3 5:2
+4007 défaillance 5:4
+4008 perméable 6:1
+4009 terrestre 8:4 6:4
+4010 planétarisé 6:1
+4011 occidental 6:4 0:3 2:1
+4012 provenance 5:5
+4013 excellence 0:14 8:1
+4014 théorique 6:2
+4015 appliqué 6:1 9:1
+4016 suture 6:1
+4017 décloisonnement 6:1
+4018 télécommunication 6:2
+4019 aérospatial 6:2
+4020 pharmaceutique 6:3 5:2
+4021 chercheur 6:5 2:5 9:1
+4022 copiage 0:1 6:1
+4023 contrefaçon 6:2
+4024 espionnage 6:1
+4025 électronique 5:3 6:2
+4026 composant 6:2
+4027 laboratoire 8:4 2:2
+4028 métrologie 6:1
+4029 cursus 6:2
+4030 psychologie 0:3 6:1 2:1
+4031 généraliste 0:4
+4032 surcroît 4:5 0:3
+4033 bachelier 6:1 0:1
+4034 piètre 0:2
+4035 dévalorisation 5:5
+4036 niveleur 6:3
+4037 massificateur 6:2
+4038 inique 3:3 6:1 5:1
+4039 émulation 6:1 0:1
+4040 totalitarisme 3:19
+4041 technicien 0:3 8:1
+4042 plongeur 7:1
+4043 plombier 0:2
+4044 utopie 0:17 4:4 2:1
+4045 élitisme 0:6
+4046 préparation 0:5 4:4
+4047 dosage 0:2
+4048 cap 3:20 2:3 0:1
+4049 accroissement 2:3
+4050 scolarisation 5:5 0:1
+4051 essayiste 0:4
+4052 crétin 0:3
+4053 creux 0:2 7:1
+4054 caboche 0:2
+4055 colonisation 8:4 0:3
+4056 esclavage 2:16 1:2
+4057 contenu 0:3 8:2
+4058 enseignant 0:26
+4059 structuré 5:1
+4060 explicite 0:3
+4061 consultant 0:2
+4062 soupe 0:1 7:1
+4063 marmite 0:2
+4064 repas 0:1 2:1
+4065 natation 0:2
+4066 tenue 9:2 0:2
+4067 voile 5:11 4:1
+4068 méritocratie 5:5 1:1
+4069 reproduction 2:2
+4070 planification 2:5 9:1
+4071 mutuel 2:6 0:1 8:1 4:1
+4072 décharge 8:2 7:1
+4073 copinage 7:11
+4074 littérature 6:3 0:1
+4075 collectivité 7:34 2:21
+4076 zéro 2:7 0:7
+4077 copie 4:2 0:1 5:1
+4078 dictée 0:3
+4079 lycéen 0:3
+4080 méritant 0:3 5:1
+4081 notation 7:7 0:6
+4082 égalitarisme 0:1
+4083 contemporain 8:6 3:6 0:4
+4084 penseur 9:4 0:3
+4085 vénéneux 0:4
+4086 nomenklatura 0:4
+4087 hexagone 8:2 0:1
+4088 didacticien 0:2
+4089 inspecteur 7:1
+4090 directive 3:11 6:4
+4091 formatage 0:1
+4092 circulaire 0:1 2:1
+4093 coutume 5:14 9:13 0:1
+4094 analphabète 0:4
+4095 syllabique 0:2
+4096 spontanéité 0:3
+4097 découverte 0:2 1:1
+4098 dogmatique 2:2 7:1
+4099 renom 0:1
+4100 mathématicien 0:2
+4101 titulaire 0:7
+4102 doctrine 0:7 4:1
+4103 activisme 0:1
+4104 spontanéisme 0:1
+4105 masturbation 0:1
+4106 roman 4:6
+4107 contraste 8:2
+4108 animateur 0:5
+4109 foulée 0:2
+4110 délirant 0:4 8:1 6:1
+4111 boutoir 4:3 8:1
+4112 dam 5:1
+4113 reflet 9:7
+4114 piquet 0:1
+4115 fabrique 0:2 3:1
+4116 plastique 0:1
+4117 gourou 3:2 0:1
+4118 ego 3:2
+4119 minutieux 7:3 0:1
+4120 expertise 4:4
+4121 humaniste 9:6 0:2
+4122 prof 0:3
+4123 instit 0:2
+4124 attache 9:5 0:1
+4125 prométhéen 0:1
+4126 désordonné 0:2
+4127 cataclysme 2:3 5:2
+4128 cloison 6:1
+4129 adhésion 4:15 6:4 8:3 7:1
+4130 douloureux 3:7 8:4 7:1
+4131 écologique 6:15
+4132 contrepoids 8:2
+4133 arc 8:2
+4134 visée 2:1
+4135 vassal 9:3
+4136 antipode 8:2
+4137 pavillon 6:2 3:1
+4138 surveillance 9:5 5:2
+4139 opérationnel 0:4
+4140 renseignement 5:5 7:3 0:1
+4141 corollaire 5:4
+4142 hélicoptère 0:4
+4143 antiaérien 0:2
+4144 antichar 6:1 0:1
+4145 missile 0:2 2:1
+4146 arsenal 8:6
+4147 marine 8:5 3:1
+4148 renforcement 2:4
+4149 significatif 0:10
+4150 romain 8:2 6:1
+4151 riposte 8:1
+4152 colonisateur 0:1
+4153 fédéraliste 8:11 3:1
+4154 sanitaire 2:25
+4155 échangisme 5:12
+4156 grippe 6:3
+4157 cheptel 9:2
+4158 épizootie 9:1
+4159 tuberculose 7:1
+4160 sida 9:1
+4161 yougoslave 9:2
+4162 libanais 8:1
+4163 germe 0:4 9:1
+4164 fraternel 8:4 9:3
+4165 pacifique 8:10
+4166 occident 8:1
+4167 malnutrition 8:2
+4168 subit 5:3 2:1
+4169 mutation 9:3 2:1 4:1
+4170 soudanais 9:2
+4171 désespoir 4:9 9:4 3:1
+4172 généralisation 5:2 8:1 7:1
+4173 capitulation 8:3
+4174 rubrique 8:2 7:2
+4175 uniforme 9:1 3:1
+4176 vulnérabilité 9:1
+4177 empire 9:20 3:2
+4178 rébellion 2:6 0:1
+4179 médiation 8:4 2:1
+4180 posture 4:18 8:1
+4181 gratuit 5:8 8:4 2:1
+4182 objectivité 8:3
+4183 domination 3:3 8:2
+4184 couveuse 8:1
+4185 iraquien 8:1
+4186 suzerain 9:1
+4187 ost 8:1
+4188 version 9:2
+4189 bush 8:1
+4190 perturbateur 9:2
+4191 instigation 8:1
+4192 impérial 8:2
+4193 ère 4:10 8:1
+4194 utopique 1:2
+4195 célébration 8:2
+4196 universalisme 9:1 5:1
+4197 béat 2:3
+4198 zaïrois 8:1
+4199 tchécoslovaque 8:1
+4200 prégnance 2:1
+4201 fragmentation 9:2 3:1
+4202 ventre 9:5 3:1
+4203 négation 9:9
+4204 guerrier 9:3
+4205 nationalisme 8:5
+4206 entendu 8:1
+4207 divorce 9:10 8:1
+4208 protagoniste 8:1
+4209 interposé 9:1
+4210 ambigu 4:4
+4211 férule 9:1 6:1
+4212 dit 8:2 1:1 9:1
+4213 réaliste 8:2 7:2 9:1
+4214 biographe 8:1
+4215 colonial 4:1
+4216 posthume 9:1
+4217 consécration 8:1
+4218 évadé 9:1 4:1
+4219 amalgame 5:5
+4220 armistice 6:1
+4221 uhlan 8:1
+4222 embuscade 8:1
+4223 dragon 6:2
+4224 lieutenant 8:5
+4225 cavalier 8:1
+4226 dictateur 8:6 3:1
+4227 spectre 9:2
+4228 acclamation 8:1
+4229 surnom 8:1
+4230 défaitiste 8:1
+4231 tigre 8:2
+4232 brigade 9:3 7:1
+4233 solennel 9:6
+4234 vendéen 8:1 9:1
+4235 étendard 8:1 3:1
+4236 vestige 8:2
+4237 attentif 9:10
+4238 découpage 0:1
+4239 déplacement 4:6 6:3
+4240 exergue 1:1
+4241 confiant 9:2 3:2 0:1
+4242 poète 9:4
+4243 laïque 4:6 5:4 9:2
+4244 humble 9:6 4:1
+4245 assimilateur 8:1
+4246 indivisible 9:2 5:2
+4247 hétéroclite 9:2
+4248 dessein 9:9 4:1
+4249 savant 9:6
+4250 artiste 8:10 4:8
+4251 terroir 6:11 9:3
+4252 millionnaire 9:1 6:1
+4253 accessible 3:2
+4254 isolé 6:4 3:4
+4255 messe 1:6 3:1
+4256 goutte 2:1
+4257 imbroglio 2:2
+4258 névralgique 5:1
+4259 percée 0:1
+4260 testament 5:1 8:1
+4261 acceptable 6:4 5:4
+4262 éloignement 5:5
+4263 proportionnaliste 1:1
+4264 roumain 6:1 1:1 4:1
+4265 grands 2:5 0:5
+4266 parents 2:9 1:1
+4267 ressortissant 5:3
+4268 expulsion 2:5 5:2
+4269 fichier 4:4
+4270 identification 0:3
+4271 têtu 1:2
+4272 médiatisation 5:1
+4273 repère 9:5 0:3
+4274 yuan 1:1
+4275 gamme 4:3
+4276 redéploiement 5:1
+4277 ultralibéral 3:31 4:26 2:4
+4278 contagion 3:2
+4279 infime 5:1
+4280 cathédrale 7:4
+4281 condamnable 4:1
+4282 vertu 9:14 0:1
+4283 cadence 1:2
+4284 étendue 5:4 7:1 3:1 9:1
+4285 réchauffement 6:9
+4286 billard 5:1
+4287 ardu 0:2
+4288 vulgate 1:1 8:1
+4289 multiplicité 5:1
+4290 différend 7:1
+4291 couplet 5:3
+4292 déguisement 1:1
+4293 temporaire 5:3 8:2 1:1
+4294 attrait 1:2
+4295 métissage 5:3
+4296 copropriété 9:1
+4297 quadrilatère 2:1
+4298 audace 9:9 8:5 7:2
+4299 émergent 2:11 8:1
+4300 pousse 3:2 2:2
+4301 éthique 2:6
+4302 taxation 2:11
+4303 planète 6:12 4:8
+4304 hausse 2:26 3:15 7:5 5:1
+4305 délai 2:5
+4306 camisole 0:1
+4307 représentativité 7:6
+4308 protecteur 3:14 6:5 9:4
+4309 appauvrissement 5:17
+4310 fossile 0:1 4:1
+4311 épuisement 2:3
+4312 intégralité 7:5 2:5
+4313 impulsion 2:2
+4314 neutralisation 2:1
+4315 butin 6:1
+4316 cheville 2:1 0:1
+4317 spéculateur 4:4 3:2
+4318 internet 4:16
+4319 requin 6:2
+4320 saurien 2:1
+4321 gestionnaire 2:1
+4322 boursier 2:7
+4323 rendement 6:2 0:1
+4324 culte 5:11
+4325 invisible 3:27
+4326 quatrième 2:1
+4327 molécule 0:1
+4328 insoupçonné 6:1
+4329 médecine 6:3
+4330 transaction 2:2 0:1
+4331 cryptage 8:1
+4332 ordinateur 6:8
+4333 photon 6:2
+4334 ion 6:2
+4335 subatomique 6:1
+4336 quantique 8:2
+4337 transistor 2:1
+4338 physicien 8:1
+4339 troisième 6:1
+4340 cheveu 5:2
+4341 vieillissement 6:4 5:1
+4342 inconscient 8:1
+4343 décès 6:2 0:2
+4344 agroalimentaire 3:2
+4345 érosion 6:2
+4346 semonce 3:1
+4347 anarchique 6:2 3:1 5:1
+4348 tentaculaire 3:2 0:1
+4349 tension 2:6 5:3 0:2 4:1
+4350 suspens 8:1
+4351 tapis 8:5 6:1
+4352 tsunami 4:7 2:1
+4353 toile 2:4
+4354 décor 8:4 1:1
+4355 éolienne 2:2
+4356 gazier 2:8 5:1
+4357 gisement 6:1 8:1
+4358 in 4:6
+4359 pull 9:1
+4360 tamoul 8:3
+4361 mongol 4:1
+4362 flot 6:1
+4363 barbelé 2:1
+4364 massage 8:2
+4365 catégoriel 9:4
+4366 catalogue 3:3
+4367 royal 3:4
+4368 altesse 6:1 7:1
+4369 écrasement 5:6 3:3 4:1
+4370 régulation 2:4 8:1 4:1 6:1
+4371 resto 5:1
+4372 happy 8:1
+4373 tintamarre 3:1
+4374 silencieux 2:4 3:3 0:2
+4375 privation 9:5 2:1 0:1
+4376 admirable 2:6
+4377 congru 5:1
+4378 portion 6:2 2:1
+4379 apparat 9:1
+4380 cartel 7:1 0:1
+4381 inactif 2:2 6:1
+4382 traitance 6:2
+4383 aéronautique 3:2
+4384 bijouterie 9:1
+4385 horlogerie 5:1
+4386 brun 9:1 6:1
+4387 motocycle 6:2
+4388 réparation 7:5 6:1 5:1
+4389 chimique 6:4
+4390 métallurgie 6:2 7:1 2:1
+4391 payant 3:2
+4392 borné 9:2
+4393 passoire 5:8
+4394 communiant 7:1 4:1
+4395 maigre 5:1 4:1
+4396 paupérisation 4:3 7:2 5:1
+4397 exaltant 4:2
+4398 zélé 3:2 2:2
+4399 divin 2:1 3:1
+4400 porion 6:1
+4401 galibot 9:1
+4402 forge 6:2
+4403 inventif 3:2
+4404 attribut 9:6
+4405 rougeoiement 7:2
+4406 haveuse 5:2
+4407 grondement 6:1
+4408 laminoir 7:1
+4409 socle 9:10
+4410 négoce 5:2
+4411 portugais 9:3 2:3
+4412 vigueur 9:10 4:1 7:1
+4413 chaleur 6:3
+4414 pointe 9:5 3:1
+4415 rempart 9:3
+4416 sentinelle 0:1
+4417 vigilant 2:3
+4418 docker 6:1
+4419 charbon 6:5
+4420 grisou 9:1 6:1
+4421 poilu 8:2
+4422 géométrique 8:1
+4423 éternité 3:5 8:2 4:1
+4424 épique 3:1
+4425 glèbe 0:1
+4426 macadam 9:1
+4427 manant 8:1
+4428 seigneur 9:3 8:1 2:1
+4429 inviolable 8:1
+4430 immémorial 4:2
+4431 lance 2:4 9:2
+4432 désintégration 5:4 2:2
+4433 pseudopode 9:1
+4434 inflexion 9:1
+4435 bond 8:1 6:1
+4436 airbus 6:3 9:1
+4437 dispos 6:1
+4438 composite 8:1
+4439 matériau 6:1
+4440 approche 2:2
+4441 surévaluation 9:2
+4442 coûtant 9:2
+4443 addition 9:5 4:1
+4444 voyageur 8:3
+4445 boeing 8:2
+4446 interventionnisme 2:2
+4447 viscéral 0:3
+4448 avionneur 9:1
+4449 stérilisant 8:1
+4450 franco 2:5
+4451 bicéphale 4:1
+4452 ponctuel 6:1
+4453 peuplé 6:1
+4454 christianisme 9:4 5:1
+4455 bâtisseur 9:8
+4456 éventualité 9:2
+4457 bagage 5:2
+4458 ancêtre 8:6 6:4 9:2
+4459 aïeux 9:2 4:1
+4460 sueur 5:2 4:1
+4461 grognard 8:1
+4462 referendum 8:8 5:2
+4463 ivre 8:1
+4464 défunt 2:2
+4465 capitaliste 9:2
+4466 coquille 0:2
+4467 hermite 4:1
+4468 manquant 3:1 8:1
+4469 supplément 6:2 2:1
+4470 massue 3:1
+4471 manette 3:4
+4472 bric 4:1
+4473 brac 1:1
+4474 pléthore 4:1
+4475 flambe 9:1
+4476 évaluation 0:4 2:1
+4477 complaisant 3:3
+4478 chiffrage 2:14 3:2
+4479 dioxine 3:1
+4480 carné 4:2
+4481 haie 6:2
+4482 robinet 6:2 9:1
+4483 baisser 5:7
+4484 neige 9:4
+4485 chaussée 3:3
+4486 trésorier 3:1
+4487 ordonnance 6:1
+4488 affidé 9:2 2:2
+4489 frontalier 2:1
+4490 âne 8:2
+4491 croix 0:1
+4492 bannière 5:3 9:1
+4493 inexorable 3:6
+4494 globe 8:2
+4495 vanne 7:2
+4496 approximatif 7:2
+4497 guide 7:3
+4498 excédentaire 5:7
+4499 déficitaire 2:5
+4500 transfert 2:11 5:1 8:1 1:1
+4501 cavalerie 7:4
+4502 débudgétisation 2:2
+4503 excessif 0:2 7:1
+4504 instable 5:1 7:1 6:1
+4505 portefeuille 2:3 8:1 3:1
+4506 amaigrissement 8:1 4:1
+4507 cure 4:11 7:2
+4508 échevelé 2:1
+4509 débridé 2:7 0:1
+4510 difforme 5:1
+4511 turcophone 7:1
+4512 méditerranéen 5:3
+4513 bassin 2:6
+4514 attribution 9:5 5:2
+4515 sectateur 8:1
+4516 radieux 8:2 5:1
+4517 cinquantenaire 1:1
+4518 funèbre 8:2
+4519 friche 6:3 3:2
+4520 fonderie 6:2 9:1
+4521 opulence 8:1
+4522 ânerie 0:1
+4523 cimetière 8:7 9:1
+4524 autochtone 1:1 7:1
+4525 retentissant 8:1
+4526 architecture 5:1 8:1
+4527 dédain 7:3 0:1
+4528 abondance 8:1 0:1 5:1
+4529 prémisse 1:2
+4530 plumitif 0:2
+4531 rengaine 8:3
+4532 iota 8:1
+4533 impérissable 0:1
+4534 antinational 9:7
+4535 servilité 9:2 2:1
+4536 stalinisme 4:1
+4537 prune 8:1 9:1
+4538 forfaiture 9:4 8:2
+4539 congénital 8:2
+4540 docile 4:1
+4541 toutou 8:1
+4542 convive 8:1
+4543 indigestion 1:1
+4544 plat 1:3
+4545 cabri 6:1
+4546 joyeux 8:2
+4547 oligarchique 7:2 8:1 3:1
+4548 trémolo 1:1
+4549 louange 9:1
+4550 avare 8:2
+4551 chic 7:3 1:1
+4552 ambiance 0:2 6:1
+4553 ingrédient 8:1
+4554 mémorial 1:1
+4555 photographie 8:1
+4556 ouvrage 1:3 8:1 0:1
+4557 intégrité 9:3 0:2
+4558 extension 8:5
+4559 février 4:7 6:2
+4560 déshonneur 2:3 0:1
+4561 mausolée 8:1
+4562 rapatrié 0:2
+4563 confusion 1:1
+4564 irritation 6:1
+4565 rattachement 8:1
+4566 tracasserie 8:1
+4567 sépulture 8:1
+4568 désillusion 9:4
+4569 natal 5:1
+4570 civilisateur 8:1
+4571 poussière 8:1
+4572 désarroi 8:3 5:1
+4573 boucher 8:2 9:1
+4574 horrible 4:5 8:2
+4575 tuerie 8:2
+4576 cliché 5:1 3:1
+4577 ferré 8:1
+4578 esclave 3:15 2:7 4:4
+4579 piraterie 8:1
+4580 tribal 8:4
+4581 conquérant 3:9
+4582 confort 4:6 9:3 8:1
+4583 invisibilité 8:1
+4584 barbare 3:4 8:1
+4585 triomphant 9:4
+4586 anticolonial 8:1
+4587 clandestinité 9:1 4:1
+4588 eldorado 5:1
+4589 cruauté 8:2
+4590 raffinement 6:2
+4591 fiction 8:1
+4592 anticolonialiste 9:1
+4593 méditerrané 9:1 3:1
+4594 expéditionnaire 5:1
+4595 indigène 8:6
+4596 rive 9:2
+4597 automatique 5:17
+4598 décret 8:5 9:1
+4599 kabyle 8:2
+4600 colon 8:2
+4601 sénatus 9:1
+4602 consulte 6:1
+4603 coranique 8:1
+4604 intégrant 8:1
+4605 défrichement 5:1
+4606 lot 8:4
+4607 pionnier 8:3 6:1
+4608 fièvre 8:1
+4609 dysenterie 8:1
+4610 tache 5:2 3:2
+4611 émir 8:2 3:2
+4612 méridional 8:1 5:1
+4613 extrémité 8:1
+4614 côtier 8:2
+4615 littoral 6:2 8:1 2:1
+4616 tyran 8:1
+4617 mécontentement 8:3
+4618 comptoir 9:4 8:1
+4619 sultan 5:1
+4620 corsaire 8:1
+4621 bédouin 8:1
+4622 tribu 8:3 3:1
+4623 migration 8:4 7:1
+4624 arabisation 5:1
+4625 islamisation 4:2 8:1
+4626 berbère 5:1
+4627 essor 8:2
+4628 phénicien 8:1
+4629 bordure 8:1
+4630 incessant 9:2 8:1
+4631 ratio 3:1
+4632 posé 8:1
+4633 souplesse 8:2
+4634 émule 4:1 9:1
+4635 allocation 5:20 7:6
+4636 tchèque 3:1
+4637 royaume 8:3 3:1
+4638 renégociation 2:8
+4639 remise 9:10 4:2
+4640 intensité 8:2
+4641 obscur 9:7
+4642 gestation 2:1
+4643 utopiste 2:2 0:1
+4644 semestre 9:1 1:1
+4645 ratification 5:1
+4646 néerlandais 8:2
+4647 caduc 8:1
+4648 lisible 8:1 9:1
+4649 mini 8:1
+4650 dense 8:1
+4651 dénomination 8:1
+4652 cercle 2:12 8:6
+4653 concentrique 8:2
+4654 indigeste 2:2
+4655 protocole 8:1 6:1
+4656 hold 2:4
+4657 up 2:3 8:1
+4658 clignotant 8:1
+4659 tonneau 5:1
+4660 calembredaine 8:1
+4661 lapin 4:1 7:1
+4662 téméraire 9:1
+4663 empiètement 4:1
+4664 tutelle 4:7 2:3 3:1
+4665 exécuteur 9:2 8:1
+4666 foucade 8:1
+4667 technocratie 9:1 5:1
+4668 appelé 8:1
+4669 prétendant 3:2
+4670 bruxellois 9:7 8:2 2:1
+4671 semblable 8:5
+4672 égalitariste 8:1
+4673 compresseur 9:4
+4674 rouleau 9:3 0:1
+4675 larvé 8:1
+4676 eurocrate 8:1
+4677 inquisitorial 4:1
+4678 vigilance 2:1
+4679 dépens 9:1
+4680 patriotisme 4:29 9:20 2:20
+4681 collimateur 8:1
+4682 monument 1:1
+4683 architecte 3:3
+4684 notaire 8:1
+4685 dogme 3:27 9:6 5:5
+4686 fret 8:1
+4687 ferroviaire 6:2 4:2
+4688 dominant 3:3 4:1 2:1
+4689 cigarette 6:2
+4690 pharmacie 4:2
+4691 dessaisissement 8:1
+4692 media 3:2
+4693 atteinte 3:9
+4694 millénariste 6:2
+4695 carreau 2:1 8:1
+4696 tacite 8:1
+4697 tarif 3:10 7:4
+4698 initial 8:2 2:1
+4699 astre 3:1
+4700 autosatisfaction 6:1
+4701 pompeux 0:1
+4702 cérémonial 8:1
+4703 thuriféraire 1:1
+4704 réminiscence 8:1
+4705 chancelier 3:1
+4706 cinquantième 2:1
+4707 tristesse 1:2
+4708 moue 5:2 1:1
+4709 attente 2:2 1:2 9:1
+4710 tripatouillage 7:5
+4711 diktat 4:11 7:3
+4712 spécialité 4:3
+4713 contributif 5:1
+4714 détriment 5:1
+4715 handicap 2:5 5:1
+4716 cachet 5:1
+4717 mille 5:6
+4718 péripétie 5:1
+4719 offense 3:5 0:1
+4720 unilatéral 1:1
+4721 bastion 1:1 5:1
+4722 estrade 0:6
+4723 bizarre 7:1
+4724 désintéressement 4:1
+4725 décoration 4:2
+4726 zénith 5:1 1:1
+4727 extensible 4:1
+4728 affaiblissement 9:10 3:3 5:1
+4729 prénatal 0:3
+4730 adoption 4:14 0:8
+4731 législateur 4:2
+4732 pornographique 0:2
+4733 piscine 9:6 5:4
+4734 musée 7:5 0:2 9:1
+4735 cinéma 4:8
+4736 relance 4:5 0:3
+4737 rail 5:2 8:1
+4738 préjudice 5:2
+4739 chat 5:8
+4740 ressenti 0:1
+4741 sociologie 5:3
+4742 toxicomanie 0:1 9:1
+4743 alcoolisme 0:2
+4744 mortalité 9:2
+4745 suicide 5:7 9:4
+4746 psychiatrique 0:3 7:1
+4747 admission 0:1 9:1
+4748 tranquillisant 5:2
+4749 clinique 0:1
+4750 paradis 2:5
+4751 patent 5:3
+4752 sociable 0:1
+4753 célibat 0:1
+4754 spontané 9:3
+4755 inaction 3:6 5:1
+4756 surréaliste 8:2 0:1
+4757 hébergement 5:7
+4758 modalité 7:2 5:1
+4759 adulte 4:5 0:2 5:1
+4760 maternel 5:6
+4761 mimétisme 0:1 7:1
+4762 surtout 4:4 5:1
+4763 transcendant 8:1
+4764 matérialisme 0:4 9:3
+4765 déracinement 5:3 9:1
+4766 fécondité 5:3 9:2
+4767 prince 0:3 3:1
+4768 impardonnable 8:3 7:2
+4769 funeste 9:5 8:1
+4770 spiral 5:7 3:6
+4771 longévité 5:1
+4772 déformation 5:1
+4773 entraînant 5:1
+4774 époux 7:1
+4775 démographe 9:1
+4776 chaotique 2:2 8:1 0:1
+4777 ample 7:1
+4778 cosmique 5:1
+4779 aube 5:7
+4780 résident 5:1
+4781 sombre 5:4 3:1 4:1
+4782 nuage 7:1
+4783 ascension 3:8
+4784 mysticisme 6:1
+4785 gibier 6:4
+4786 indemnisation 2:3
+4787 coefficient 6:1
+4788 promoteur 6:6
+4789 dotation 6:6 2:3
+4790 charbonnier 6:1
+4791 mensuel 9:1
+4792 subsidiarité 6:2
+4793 salmonelle 0:1
+4794 névrose 0:1
+4795 forêt 6:9 9:1
+4796 oiseau 6:4 4:1
+4797 directif 6:4 4:3
+4798 cormoran 6:1
+4799 empilement 6:1
+4800 urbanisme 6:2
+4801 maquis 7:5
+4802 élagage 0:1
+4803 arpenteur 7:1
+4804 cynégétique 6:1
+4805 génétique 6:3 5:1 9:1
+4806 marais 6:3
+4807 chapon 9:1
+4808 palombe 6:4 9:1
+4809 perdreau 6:4
+4810 horaire 7:2 5:2 2:1
+4811 barbe 6:1
+4812 foulard 7:1
+4813 prière 5:14
+4814 pirate 6:1
+4815 vigie 6:2 5:1
+4816 lièvre 6:3
+4817 grive 6:1
+4818 loup 4:7
+4819 écologiste 4:8 6:4
+4820 méhariste 6:1
+4821 bocage 6:2
+4822 extermination 6:1
+4823 remembrement 6:3
+4824 révoltant 2:3 6:2
+4825 soixante 6:2
+4826 huitard 6:2
+4827 enseigne 6:1
+4828 parfum 4:2 1:2
+4829 flacon 6:2
+4830 dentifrice 6:2
+4831 tube 6:1
+4832 radar 4:2 6:1 0:1 3:1
+4833 permis 7:4 6:2
+4834 chauffeur 7:5 1:1
+4835 mièvrerie 6:1
+4836 repentance 4:11 6:1
+4837 tire 7:2
+4838 piqûre 6:1
+4839 perversion 2:3 7:1
+4840 fumet 9:1
+4841 compréhension 3:2
+4842 chauffard 6:1
+4843 fabricant 2:3 6:2
+4844 tortureur 6:1
+4845 empoisonneur 9:1
+4846 pollueur 6:2
+4847 nodal 9:1
+4848 bartavelle 6:2
+4849 venaison 6:2
+4850 hôtellerie 8:1
+4851 communal 7:3
+4852 pataugas 5:1
+4853 exclusive 9:1 6:1
+4854 forum 6:2
+4855 marbre 9:4 7:1 3:1
+4856 reconnaissance 9:15
+4857 ménager 7:1
+4858 splendeur 6:2 2:1
+4859 improbable 7:6
+4860 copieur 3:1
+4861 ornière 4:1
+4862 égout 0:1
+4863 établi 3:4
+4864 ombre 9:4 4:1
+4865 envahisseur 4:2
+4866 fisc 6:1
+4867 paperasse 7:1 2:1
+4868 humilié 6:1
+4869 cohorte 9:3 5:3
+4870 semelle 9:2
+4871 pieds 3:1
+4872 poisson 4:7
+4873 maquignon 7:1
+4874 rosière 1:1 7:1
+4875 coquin 4:1
+4876 mue 6:1
+4877 costume 3:2 6:1
+4878 rédemption 6:1
+4879 charité 0:4
+4880 caritatif 5:1
+4881 patronage 8:1
+4882 pèlerinage 9:1
+4883 caduque 3:1
+4884 pécheur 3:1
+4885 orphelin 9:1 5:1
+4886 sauveur 9:2
+4887 pillard 9:1
+4888 maraudeur 3:1
+4889 soupir 3:1 9:1
+4890 patriciat 7:1
+4891 bégaiement 7:1
+4892 ortie 9:2
+4893 alignement 3:5
+4894 auto 3:1
+4895 aristocratie 3:2
+4896 tromperie 9:4
+4897 renaissant 6:1
+4898 apôtre 8:3
+4899 caïd 7:2 6:2
+4900 fiasco 3:3
+4901 rage 9:3 7:2 3:2
+4902 passe 5:7 8:2 2:1
+4903 inflationniste 3:1
+4904 racaille 5:3 7:2 6:1
+4905 trajectoire 0:2
+4906 oméga 3:2 4:1
+4907 alpha 7:3
+4908 bistrot 0:1 9:1
+4909 déboussolé 8:1
+4910 gourmandise 1:2 5:1
+4911 tourbillon 3:2
+4912 logorrhée 8:1
+4913 partition 7:1
+4914 quadrature 5:2
+4915 ongle 8:2
+4916 protestataire 4:3
+4917 lustre 3:4
+4918 gratte 1:1
+4919 humanitaire 2:2 0:1
+4920 docteur 8:3 6:1
+4921 ineffable 3:1
+4922 ruse 8:2 4:1
+4923 indépassable 3:4
+4924 annexion 4:1 9:1
+4925 vain 8:7
+4926 perdant 3:2
+4927 supranational 3:7 7:4 0:2
+4928 amateur 8:3
+4929 barricade 9:1
+4930 confessionnel 8:1
+4931 immobiliste 8:1
+4932 lisse 4:1
+4933 mythomane 1:1
+4934 cocasse 3:1
+4935 outrageux 4:1
+4936 oncle 3:1
+4937 câlin 4:1
+4938 hétérosexuel 1:3
+4939 conjugal 4:1
+4940 féministe 0:1
+4941 prénom 8:1
+4942 ministresse 3:1
+4943 teint 9:1
+4944 papillon 3:1
+4945 chenille 0:1
+4946 métamorphose 8:1
+4947 imposture 3:7 5:1
+4948 conservatisme 9:2 3:2
+4949 ambulance 3:1
+4950 maton 4:1
+4951 disparité 9:1
+4952 week 9:3 2:1
+4953 end 3:4
+4954 promenade 5:1
+4955 citadin 7:2 0:1
+4956 dispendieux 2:1
+4957 récidiviste 5:8 4:5
+4958 monstre 9:7
+4959 abolition 0:1
+4960 abject 3:1 0:1
+4961 lénifiant 9:4
+4962 abstrait 9:3
+4963 chimère 3:3
+4964 farfelu 3:2
+4965 ethnie 0:1
+4966 malhonnête 4:5 3:2 9:1
+4967 tuteur 0:1 3:1
+4968 princesse 2:1
+4969 concédant 0:1
+4970 immuable 3:2
+4971 nudité 9:1
+4972 désolant 3:5
+4973 régénérateur 3:1
+4974 remords 3:2
+4975 scrupule 3:5 2:2
+4976 ovale 3:1
+4977 muraille 9:3
+4978 mardi 0:1 4:1
+4979 messager 5:1 3:1
+4980 imprévoyance 9:1
+4981 inconséquence 3:1
+4982 calamité 0:1 2:1
+4983 poison 9:5 2:4 3:1
+4984 chine 4:1
+4985 cristallerie 6:1
+4986 équipementier 9:1
+4987 frauduleux 2:2 5:1
+4988 jouet 2:3
+4989 chaussure 2:7 1:1
+4990 moribond 2:3
+4991 métallurgiste 5:2
+4992 acier 5:2
+4993 houillère 5:1 3:1
+4994 insertion 5:5
+4995 facture 2:3 3:2
+4996 escale 5:1
+4997 postier 2:2 7:1
+4998 gras 7:2
+4999 immortel 8:2
+5000 clerc 0:2 1:1
+5001 écrivain 8:4 2:2
+5002 aspiration 9:8 4:1
+5003 jardin 6:4 9:1
+5004 désertique 9:1
+5005 rarissime 8:1
+5006 affluent 6:1
+5007 hydrographique 6:1
+5008 carré 5:3 2:2
+5009 pré 9:1 8:1
+5010 beauté 9:12
+5011 sculpture 6:2
+5012 peinture 8:1
+5013 ver 4:1
+5014 manteau 1:1
+5015 météorologique 1:2
+5016 poème 8:2
+5017 éloquence 9:1
+5018 homélie 9:3
+5019 poésie 9:5
+5020 prose 8:3
+5021 deuil 9:2
+5022 fécond 9:3 6:1
+5023 usufruit 2:3 6:1
+5024 apport 9:2 8:1
+5025 tracteur 6:2
+5026 tac 8:2
+5027 participatif 9:1
+5028 prurit 0:1
+5029 belligérance 6:1
+5030 emblème 3:3 6:1
+5031 pasteur 4:1
+5032 gare 8:2
+5033 friand 6:1
+5034 pédophile 8:1
+5035 gène 4:1
+5036 furet 8:2
+5037 explorateur 9:1 6:1
+5038 indiscutable 2:1
+5039 négociable 9:3 6:1 2:1
+5040 soubresaut 8:1
+5041 vicissitude 9:2 4:1
+5042 victorieux 0:1
+5043 senteur 8:1
+5044 magnat 0:2
+5045 vorace 3:4
+5046 appétit 3:5
+5047 infortune 6:1
+5048 oracle 0:1
+5049 placebo 9:1
+5050 dividende 2:5
+5051 bouleversement 9:7 5:1
+5052 pib 4:1 3:1
+5053 réorientation 0:1
+5054 accointance 1:2
+5055 cuisine 8:3 3:1
+5056 bananier 3:1
+5057 infernal 4:6
+5058 relecture 1:2
+5059 convaincant 4:4
+5060 porter 5:3 4:2
+5061 ressentiment 9:4
+5062 terminal 4:2
+5063 imprévision 4:1
+5064 aversion 1:2
+5065 obligé 7:1
+5066 incommensurable 1:1
+5067 préservatif 7:1
+5068 antisémitisme 1:1 9:1
+5069 perspectif 5:3
+5070 impopularité 2:3
+5071 ascenseur 3:5 2:2 6:1
+5072 oubliette 3:2 5:1
+5073 maléfique 5:1
+5074 malfaisant 5:1
+5075 indignité 0:1
+5076 maudit 0:1
+5077 antiraciste 0:5
+5078 procédural 0:1
+5079 élucidation 3:1
+5080 socio 5:2
+5081 superstructure 5:1
+5082 jointe 0:1
+5083 faculté 0:2
+5084 sixième 0:2
+5085 balourd 0:1
+5086 professorat 3:1
+5087 qualifié 3:1
+5088 prolifique 2:1
+5089 affamé 0:1
+5090 migrant 5:3
+5091 ajustement 3:5 7:4
+5092 variable 5:4 2:2 3:1
+5093 denier 7:4
+5094 épaule 4:7
+5095 courbe 7:3 4:1
+5096 faramineux 3:4 2:1
+5097 discontinuité 5:1
+5098 inextricable 2:2
+5099 larigot 5:1
+5100 modération 5:4
+5101 quadruplement 5:1
+5102 agissant 7:1 9:1
+5103 électoralisme 2:3 4:2
+5104 régressif 0:1
+5105 conflictuel 5:2 8:1
+5106 recensement 5:2
+5107 lacune 0:1
+5108 tapageur 4:1
+5109 dédaigneux 8:1
+5110 pancarte 4:1
+5111 ilote 5:1
+5112 grincement 0:1
+5113 pleur 4:1
+5114 trucage 0:1
+5115 déformant 3:1
+5116 miroir 4:2
+5117 projecteur 3:2 7:1
+5118 cinématographique 3:1
+5119 magie 3:3
+5120 supercherie 3:1
+5121 bretelle 4:1
+5122 savonnette 4:1
+5123 district 7:1
+5124 poing 4:5 1:1
+5125 plumage 3:1
+5126 basse 2:1
+5127 bateleur 5:1
+5128 coiffeur 7:3
+5129 rasoir 5:2
+5130 blaireau 4:2
+5131 pigeon 1:3
+5132 infatigable 1:1
+5133 sensé 4:2 2:2
+5134 exploiteur 5:1
+5135 spoliation 7:4
+5136 archaïsme 0:1 7:1
+5137 lourdeur 7:1 8:1
+5138 flagrant 2:4 3:2 5:1 4:1
+5139 irréprochable 7:7 1:1 0:1 4:1
+5140 dessus 2:1
+5141 prébendier 9:1
+5142 fléau 3:5 7:3 5:2
+5143 égrotant 2:1
+5144 balai 9:2
+5145 placard 9:4
+5146 contraignant 4:2 2:1
+5147 pédal 9:1
+5148 accoutrement 1:2 5:1
+5149 condisciple 0:1
+5150 éveil 0:2
+5151 autrui 0:1 6:1
+5152 politesse 0:1 5:1
+5153 imitation 0:1
+5154 cocon 5:1
+5155 affectivité 0:1
+5156 croyant 9:3
+5157 incrédulité 5:1
+5158 indifférence 2:3 7:1 1:1
+5159 ardent 9:4
+5160 fardeau 9:2 3:1
+5161 perception 5:2 0:1
+5162 insu 9:6
+5163 traduction 9:1 4:1
+5164 temporel 9:2
+5165 fluctuation 9:1
+5166 enracinement 9:3
+5167 veulerie 9:2
+5168 instinct 9:3 7:2 0:1
+5169 frein 0:3
+5170 tourisme 9:1
+5171 morbide 9:2
+5172 enflure 0:1
+5173 libido 9:1
+5174 poubelle 9:2 2:1
+5175 démocratisation 9:1
+5176 hideux 9:2
+5177 séide 4:1
+5178 civilité 9:1
+5179 imprévoyant 9:1
+5180 ignorant 5:3
+5181 incompétent 9:2
+5182 fataliste 0:2
+5183 lancinant 0:1
+5184 mouroir 9:2
+5185 hospice 9:2
+5186 labyrinthe 9:1
+5187 parking 1:2
+5188 pilule 2:2
+5189 psychotrope 5:1
+5190 divorcé 0:1
+5191 écroulement 0:1
+5192 peureux 4:4
+5193 cassé 5:1
+5194 frai 7:3 2:2
+5195 fumée 9:2
+5196 betterave 9:2
+5197 gentillet 9:1
+5198 grammaire 0:2
+5199 unisson 9:1
+5200 monarchiste 9:1
+5201 mêlée 9:3
+5202 prodige 9:1
+5203 culinaire 9:2
+5204 chère 2:4 4:1
+5205 galanterie 6:1
+5206 subtil 9:1
+5207 réuni 0:1
+5208 croyance 9:7
+5209 apanage 9:4
+5210 révélation 7:5 5:5 3:3 6:1
+5211 infini 6:2 2:1
+5212 finesse 9:1
+5213 mélancolique 5:1
+5214 particularité 9:1
+5215 tyrannie 9:7
+5216 incomparable 9:5 7:2
+5217 vigoureux 0:2
+5218 despotisme 9:1
+5219 veilleur 9:1
+5220 littéraire 6:2
+5221 diatribe 4:1
+5222 haineux 6:2
+5223 exquis 4:1
+5224 chantre 6:1 2:1
+5225 angevin 0:1 3:1
+5226 mont 3:3
+5227 ardoise 9:3
+5228 entité 9:2
+5229 croissant 9:10 8:1
+5230 trente 9:2
+5231 ardeur 9:2
+5232 collaboration 9:4
+5233 abnégation 9:3
+5234 ingratitude 0:1
+5235 perdu 9:5
+5236 nuit 9:16
+5237 dilection 6:1
+5238 encan 6:1
+5239 véhicule 8:6 6:5
+5240 hydrogène 4:1
+5241 géothermie 2:1
+5242 solaire 6:1
+5243 éolien 6:1
+5244 pollution 6:10
+5245 agglomération 6:4 2:4
+5246 flottant 9:1
+5247 épave 6:1
+5248 navigant 6:1
+5249 naufrage 6:4
+5250 kilo 2:1
+5251 carbone 6:5 3:1 5:1
+5252 vendu 6:2 7:1
+5253 routier 2:5 6:1 8:1
+5254 aérien 8:4 7:4 6:2 4:1
+5255 batellerie 6:2
+5256 ferroutage 6:2
+5257 fabrication 8:2
+5258 pandémie 9:1
+5259 climatique 6:8
+5260 embellissement 6:1
+5261 méfiance 6:1
+5262 cueillette 6:2
+5263 antérieur 6:1 3:1
+5264 préindustriel 4:1
+5265 bucolique 6:1 4:1
+5266 credo 3:2 6:1
+5267 surpopulation 8:2 5:2 6:1
+5268 maoïste 6:1
+5269 évasion 6:3
+5270 embouteillage 6:2
+5271 carbonique 6:3
+5272 centimètre 2:1 7:1
+5273 serre 6:2
+5274 pétition 6:2
+5275 culminant 6:1
+5276 glaciaire 6:1
+5277 glace 9:3 7:2 5:1
+5278 température 6:2
+5279 mil 6:1
+5280 chaud 6:1
+5281 volcanique 6:1
+5282 orbite 6:3
+5283 vapeur 7:2 6:1
+5284 foudre 2:1 3:1
+5285 degré 6:2 4:2
+5286 fourchette 6:1
+5287 intergouvernemental 6:1
+5288 forestier 6:1
+5289 acide 3:1
+5290 ozone 6:3
+5291 ultraviolet 6:2
+5292 rayon 6:3 4:1
+5293 strapontin 6:1
+5294 traque 6:1 9:1
+5295 toxique 6:2 2:2
+5296 écolo 6:2 9:1
+5297 oral 6:1 9:1
+5298 centrale 2:10
+5299 exploit 6:1
+5300 expéditif 2:1
+5301 béton 6:3
+5302 minaret 5:2 4:1
+5303 détérioration 6:1
+5304 sommeil 6:1
+5305 générateur 9:1
+5306 entrepôt 8:1
+5307 prolifération 6:3 8:1
+5308 bouteille 1:2 9:1 6:1
+5309 disciple 2:2 8:1
+5310 harmonieux 8:2 5:1 1:1 7:1
+5311 inhumain 2:4
+5312 dortoir 6:1 3:1
+5313 rave 6:1
+5314 provenant 6:1
+5315 isolement 3:6 6:3
+5316 herbivore 6:1
+5317 atroce 9:2 3:1
+5318 hormone 6:1 3:1
+5319 porc 6:4 5:3
+5320 batterie 6:1
+5321 engrais 3:2
+5322 nitrate 6:1
+5323 désherbant 6:1
+5324 humus 6:1
+5325 productivisme 6:1
+5326 chronique 5:5
+5327 particule 6:2
+5328 exposition 6:3 2:1
+5329 azote 9:1
+5330 dioxyde 6:1
+5331 monoxyde 6:1
+5332 parc 6:5 5:1
+5333 gouvernance 7:3 9:2 2:2 6:1
+5334 locataire 6:1
+5335 écologisme 6:1
+5336 nihilisme 6:2
+5337 effréné 9:3 3:1
+5338 vallée 6:1
+5339 roux 6:1
+5340 aride 6:1
+5341 poitevin 6:1
+5342 coteau 6:1
+5343 insalubre 6:1
+5344 faune 6:5
+5345 bétonnage 6:1
+5346 agrément 6:1
+5347 déchéance 5:4
+5348 commisération 7:1
+5349 figuration 6:1
+5350 scooter 2:3 9:1
+5351 crapuleux 1:2 4:1
+5352 dictionnaire 4:1
+5353 oxygénation 2:2
+5354 svelte 0:1
+5355 gramme 1:2
+5356 œuf 4:2 3:1
+5357 diététique 1:1
+5358 luxueux 0:1
+5359 pôle 9:6 4:4
+5360 imaginable 2:1
+5361 improvisation 2:3 1:1
+5362 tribune 9:5
+5363 pétanque 3:1
+5364 boule 0:1 3:1
+5365 réfléchi 1:1 6:1
+5366 thym 4:2
+5367 serpolet 1:2
+5368 imposable 1:1
+5369 infructueux 4:1
+5370 investisseur 2:3
+5371 conservation 9:3 6:1
+5372 affligeant 7:1 0:1
+5373 aparté 6:1
+5374 lune 6:1 8:1
+5375 safari 2:1
+5376 ghetto 5:6
+5377 conservatoire 6:1
+5378 péréquation 6:2
+5379 acheteur 6:2 7:1
+5380 assiette 5:3
+5381 aubaine 6:1
+5382 lyonnais 6:1
+5383 cantonnement 6:1
+5384 pompiste 6:2
+5385 paysagiste 6:2 2:1
+5386 chantier 3:5 6:1
+5387 rhum 6:1
+5388 banane 1:2
+5389 crocodile 3:5 6:1
+5390 bonne 2:2
+5391 fourrière 6:2
+5392 do 5:1
+5393 jachère 6:3
+5394 trinité 9:2
+5395 lopin 5:1 7:1
+5396 saison 0:1
+5397 empathie 5:1 0:1
+5398 fatidique 6:1
+5399 justesse 3:3
+5400 émigration 5:4 7:1
+5401 paramètre 6:1
+5402 priori 7:1
+5403 vol 9:12 5:1 7:1
+5404 soubassement 6:1
+5405 dépossession 7:3
+5406 polygamie 5:4 3:1
+5407 excision 9:1
+5408 régulier 5:6
+5409 vidé 5:1
+5410 pécule 5:2
+5411 loisible 5:1
+5412 reconduite 5:3 9:1
+5413 prophétie 0:1
+5414 oriental 0:1
+5415 minima 5:4
+5416 smicard 0:1
+5417 disponible 3:3 0:1
+5418 laine 2:2
+5419 caddie 5:1
+5420 verse 5:1
+5421 excité 5:2
+5422 linguistique 5:3
+5423 encouragement 9:4 5:2 4:1
+5424 énoncé 5:1
+5425 hivernal 0:1
+5426 nuitée 5:1
+5427 accouchement 5:1
+5428 paternité 5:1
+5429 environ 0:3
+5430 promis 0:1 5:1
+5431 externe 7:2 5:1
+5432 opulent 4:1
+5433 incontestable 5:3 9:2
+5434 cécité 9:1
+5435 particularisme 7:2
+5436 géométrie 6:2
+5437 baroque 5:1
+5438 tunisien 2:10
+5439 cathédral 5:3 4:1
+5440 aplomb 8:2
+5441 groupie 6:1
+5442 récession 2:11 5:1
+5443 chaleureux 9:4
+5444 antiquité 5:2
+5445 clôture 0:1
+5446 passerelle 2:2
+5447 suivi 2:1
+5448 actionnariat 2:1
+5449 instar 5:3 0:1
+5450 assouplissement 2:2
+5451 simplification 2:3
+5452 desserrement 4:2 0:1
+5453 respectif 0:2 3:1
+5454 peloton 2:1 8:1
+5455 impalpable 0:2
+5456 responsabilisation 0:1
+5457 paire 1:2
+5458 sein 2:7
+5459 centrifuge 2:1
+5460 organique 0:2
+5461 paritaire 0:1
+5462 antagonisme 0:1
+5463 malais 2:2
+5464 antisocialiste 2:1
+5465 mesquinerie 2:1
+5466 amendement 2:7 4:3
+5467 manufacture 0:2
+5468 vertical 0:1
+5469 chapelier 5:1
+5470 compagnonnage 9:1
+5471 chimie 0:1
+5472 collectiviste 9:1
+5473 interentreprises 0:1
+5474 outrancier 2:3
+5475 moraliste 0:1
+5476 lime 5:1
+5477 écluse 2:5
+5478 sirène 2:2
+5479 prosaïque 0:1
+5480 mécanique 2:5
+5481 enchaînement 5:2
+5482 fortuit 6:1
+5483 masque 4:4 5:2
+5484 armure 2:1
+5485 inconsidéré 0:1
+5486 infection 6:1
+5487 sanguin 3:1
+5488 traçabilité 2:1 1:1 7:1
+5489 collecte 0:2
+5490 infectieux 5:1
+5491 virus 7:1
+5492 hémophile 5:1
+5493 contamination 6:1
+5494 exigeant 2:10 3:6
+5495 spécialisation 6:1
+5496 équation 6:1
+5497 dissertation 5:1
+5498 envolée 6:1
+5499 bancaire 2:10
+5500 acuité 5:3
+5501 douche 6:1
+5502 allocataire 6:1 2:1
+5503 comptabilisation 2:1
+5504 paru 5:2
+5505 recul 4:16 2:3
+5506 statisticien 0:2
+5507 pénétration 0:1
+5508 consécutif 2:2 8:1
+5509 ménage 2:6 5:3
+5510 pic 0:1
+5511 pipeau 3:8 8:1
+5512 concepteur 8:1
+5513 rapporteur 4:2 5:1
+5514 calculateur 2:1
+5515 thermonucléaire 0:1
+5516 simulation 2:1
+5517 régiment 8:1
+5518 bataillon 3:2
+5519 inutilisable 0:1
+5520 vétuste 2:1
+5521 munition 0:1
+5522 diminuant 8:1
+5523 omniprésent 8:1
+5524 professionnalisation 8:2 3:1
+5525 décroissance 8:1
+5526 roué 0:1
+5527 incendie 8:4 5:3
+5528 brûlé 0:1
+5529 inféodation 0:1
+5530 fauve 0:1 3:1
+5531 exaction 8:1 9:1
+5532 révisable 5:1
+5533 récidive 0:6
+5534 blâme 2:1
+5535 exemplarité 3:4
+5536 crachat 4:1
+5537 électoraliste 4:22 3:2
+5538 arracheur 7:1
+5539 horde 0:1 2:1
+5540 recrudescence 3:1
+5541 méningite 0:1
+5542 anxiogène 3:2
+5543 gaffe 6:1
+5544 opposable 0:1
+5545 fourmi 9:2
+5546 réanimation 6:1
+5547 drap 5:1
+5548 brûlant 6:1
+5549 pente 3:3 9:2
+5550 genêt 9:2
+5551 flanc 0:1
+5552 pouzzolane 3:1
+5553 amas 6:1
+5554 jaune 7:4
+5555 lunaire 0:1
+5556 pylône 6:3
+5557 lave 3:1
+5558 cratère 2:1
+5559 merveille 3:3
+5560 galaxie 6:1
+5561 océan 0:3
+5562 caravelle 6:1
+5563 vaisseau 0:1
+5564 passager 0:1
+5565 étonné 0:1
+5566 gavroche 9:1
+5567 accompagnement 0:2
+5568 nordiste 8:1
+5569 myope 8:1
+5570 baril 3:1
+5571 pupille 1:2
+5572 appréciation 1:1 2:1
+5573 recommandé 8:1
+5574 déluge 7:2 8:1
+5575 appréhension 8:1
+5576 favoritisme 8:1
+5577 étroit 8:1 9:1
+5578 chansonnier 8:2
+5579 holocauste 1:1
+5580 promenoir 1:1
+5581 rocket 4:1
+5582 fusée 0:1
+5583 proportionnalité 2:1
+5584 disproportion 2:1
+5585 amoureux 3:16
+5586 nostalgique 8:1 3:1 7:1
+5587 médiocrité 9:7
+5588 patronal 2:10 8:1
+5589 paternel 8:2
+5590 admonestation 8:1
+5591 rectification 1:1
+5592 prégnant 1:1
+5593 supermarché 2:2 9:1
+5594 américanisation 1:1
+5595 poujadiste 1:1
+5596 démonstratif 4:1 8:1
+5597 prestidigitateur 1:1
+5598 fuligineux 1:1
+5599 décontracté 8:1
+5600 minoratif 8:1
+5601 exagération 1:1
+5602 indéniable 1:1
+5603 poétique 1:1
+5604 introduction 4:4 2:1
+5605 infranchissable 8:1 0:1
+5606 décorum 1:1
+5607 clase 8:1
+5608 inopiné 1:1
+5609 bide 8:1
+5610 timidité 8:1
+5611 croche 8:1
+5612 déontologie 4:4
+5613 péché 0:2
+5614 poitrine 6:1
+5615 bourreau 8:1 0:1
+5616 brouhaha 0:1
+5617 plain 4:1
+5618 légende 4:4
+5619 phonographique 4:1
+5620 barreau 8:2 4:2
+5621 florentin 1:1
+5622 sillon 2:2 8:1
+5623 trois 8:1
+5624 mâts 8:1
+5625 mousse 8:1 1:1
+5626 coutier 8:1
+5627 ré 8:1
+5628 orchestre 1:1 8:1
+5629 violon 8:2
+5630 bienfaiteur 1:1
+5631 musicien 8:2
+5632 céleste 8:1
+5633 zoologie 8:1
+5634 naturaliste 1:1
+5635 naturiste 8:1
+5636 peintre 8:3
+5637 galant 1:1
+5638 automne 1:2
+5639 journalisme 4:5
+5640 sémantique 6:3
+5641 querelle 9:3 1:2
+5642 pesant 7:2
+5643 remontée 7:1
+5644 micro 7:5
+5645 amusement 6:1
+5646 souris 1:1
+5647 douteux 7:1
+5648 indument 0:1
+5649 piste 4:4
+5650 conjoncture 1:1 8:1
+5651 criant 9:4 6:1
+5652 fallacieux 1:1 3:1
+5653 zapatero 5:2
+5654 injection 4:2 7:1
+5655 adoucissement 7:1
+5656 manie 0:1 6:1
+5657 similitude 2:1
+5658 métropole 3:12
+5659 détonateur 7:2
+5660 catharsis 5:2
+5661 rationnel 7:4
+5662 dominicain 5:1
+5663 touristique 3:4
+5664 clairvoyance 2:1 5:1
+5665 vauclusien 5:1 1:1
+5666 papeterie 4:1
+5667 indicatif 7:1
+5668 riverain 4:3 7:1
+5669 hygiène 7:2
+5670 aquatique 7:1
+5671 iceberg 7:3
+5672 prémices 2:2
+5673 pontet 6:1
+5674 cambriolage 7:6
+5675 séculaire 8:2
+5676 halte 9:2 4:1
+5677 patronyme 5:1
+5678 ferveur 3:3
+5679 roboratif 9:1
+5680 diffamatoire 8:1
+5681 expirant 8:1
+5682 mâle 8:1
+5683 vengeur 9:1
+5684 requiem 8:2
+5685 cachot 9:3
+5686 ange 8:2
+5687 horion 8:1
+5688 pop 5:1
+5689 cabrette 8:1
+5690 biniou 8:1 3:1
+5691 tambour 8:3
+5692 ile 5:1
+5693 auvergnat 8:2
+5694 manceau 3:1
+5695 picard 5:1
+5696 rapière 7:1
+5697 cuistre 9:1
+5698 hémicycle 9:1
+5699 protestation 9:1
+5700 nocivité 5:3
+5701 veste 0:1
+5702 modem 8:1
+5703 avoine 5:1
+5704 surenchère 8:1
+5705 parachute 9:3
+5706 scoop 5:1
+5707 triche 4:4
+5708 chignon 0:1
+5709 cacophonie 9:1
+5710 opaque 5:2
+5711 croupion 5:2
+5712 remontrance 8:1
+5713 applaudissement 3:2 2:1
+5714 masochisme 5:1
+5715 ramadan 5:4
+5716 jeûne 4:1
+5717 montre 5:1
+5718 blasphème 5:2
+5719 pensant 8:1 6:1 3:1
+5720 branle 0:1
+5721 absolution 8:1
+5722 confirmation 8:1 2:1
+5723 docilité 6:1
+5724 aura 6:1
+5725 histrion 8:2
+5726 truqueur 1:1
+5727 servitude 9:12
+5728 séculier 8:2
+5729 vindicte 6:1 7:1
+5730 démesuré 4:4
+5731 déchet 6:3 4:2
+5732 comporte 0:2
+5733 fuel 6:1
+5734 ascèse 6:1
+5735 prêtre 2:5 3:3
+5736 folklorique 6:2
+5737 cynique 2:4 5:2
+5738 créature 6:2
+5739 gouailleur 6:1
+5740 mythique 1:1
+5741 prosélyte 9:2 3:1
+5742 familier 0:1
+5743 exotique 6:1
+5744 islamisme 3:11 5:7 6:1
+5745 climatisme 6:2
+5746 litham 8:1
+5747 mirage 9:2
+5748 électrique 2:1
+5749 redevance 6:1
+5750 mobilier 8:1
+5751 aiguë 8:1
+5752 inévitable 4:3 3:2
+5753 trésorerie 2:4
+5754 forcé 8:3
+5755 repos 3:2
+5756 circuit 3:4 6:1 4:1
+5757 tertiaire 3:1
+5758 aisé 5:3
+5759 humanisme 5:2 3:1
+5760 servile 3:8
+5761 singularité 0:1 9:1
+5762 signification 2:1 7:1
+5763 pape 5:1 8:1
+5764 thermal 7:3
+5765 dominical 8:1
+5766 azimut 2:1
+5767 abusif 8:1
+5768 radiation 7:1
+5769 épingle 2:1
+5770 pathétique 2:4
+5771 bracelet 5:2
+5772 probité 7:3 4:3 6:1
+5773 délitement 3:6
+5774 vivier 3:3
+5775 ininterrompu 4:2 5:1
+5776 répréhensible 5:2
+5777 amont 2:3
+5778 gagnant 4:2
+5779 préexistant 5:1
+5780 satisfecit 8:1
+5781 illusionnisme 8:1
+5782 babel 7:1
+5783 marchepied 4:1
+5784 xénophile 9:1
+5785 fellagha 7:1
+5786 collabo 5:2
+5787 étoilé 7:1
+5788 contribution 4:17 9:1
+5789 intervenant 4:6
+5790 intermède 4:1
+5791 insolence 4:1
+5792 attirance 7:1
+5793 tréfonds 9:1 3:1
+5794 prétention 9:1
+5795 escalier 3:3
+5796 démarchage 3:1
+5797 implantation 4:8
+5798 primordial 0:1 8:1
+5799 frontiste 9:1
+5800 présidentiable 4:1
+5801 bricolage 4:5
+5802 agrégat 9:1 7:1
+5803 interrogation 9:1
+5804 calendrier 9:3 5:1
+5805 suggestion 4:1
+5806 amendable 4:1
+5807 évidement 4:2
+5808 charte 3:7
+5809 jean 4:1
+5810 abîme 3:4 8:1
+5811 activiste 9:1
+5812 relégation 1:2
+5813 oripeau 4:1
+5814 miraculeux 4:1
+5815 hypothétique 4:1
+5816 inaccessible 4:2
+5817 ronchon 4:1
+5818 conversion 3:1
+5819 individualiste 9:3
+5820 mobilisateur 1:1 4:1
+5821 errance 9:3
+5822 corrupteur 8:4
+5823 testamentaire 6:1
+5824 émancipateur 9:1
+5825 incertain 9:4
+5826 tombeau 3:1
+5827 saisissant 8:1
+5828 description 6:1
+5829 glorification 8:1
+5830 effacement 3:12
+5831 revendicatif 0:1
+5832 énergique 3:2
+5833 catholicisme 4:1
+5834 protestant 3:1
+5835 schisme 8:1
+5836 basculement 4:3
+5837 féodal 9:6 4:2
+5838 morcellement 9:1
+5839 prédation 9:3 3:3
+5840 altruisme 9:1 1:1
+5841 récit 9:5
+5842 pillage 9:5 7:2 4:1
+5843 brutalité 4:5 2:1
+5844 péage 8:1
+5845 incohérent 2:3 8:1
+5846 aliénation 9:1
+5847 usurpation 6:1
+5848 débile 9:1
+5849 sceptre 3:1
+5850 séquence 9:2 4:1
+5851 inclinaison 9:1
+5852 combatif 0:1
+5853 saut 9:1
+5854 éveilleur 9:5
+5855 querelleur 9:1
+5856 asservissement 9:10
+5857 fau 9:1
+5858 émoustillant 3:1
+5859 résignation 7:5 0:2
+5860 surdoué 7:1
+5861 solvable 5:1
+5862 emprunteur 9:2
+5863 déclassement 9:4 6:1
+5864 alerte 1:3 5:1
+5865 veule 3:2
+5866 cambrioleur 9:1 2:1 4:1
+5867 marionnette 9:1 3:1
+5868 blanchiment 6:2
+5869 chimérique 6:2
+5870 victimaire 3:2
+5871 étonnement 9:2
+5872 déshonorant 3:2
+5873 minable 3:3
+5874 tripotage 6:1
+5875 nausée 9:1
+5876 compliqué 1:2
+5877 réarmement 4:3 2:2
+5878 apparatchik 1:1
+5879 aspérité 2:1
+5880 litre 5:4
+5881 salade 4:1
+5882 polygame 2:4
+5883 ficelle 0:3
+5884 épée 8:2 2:1
+5885 bandoulière 2:3
+5886 imam 5:13 9:1
+5887 vendredi 5:5 2:1
+5888 sénatorial 4:2
+5889 anéantissement 5:2 2:1
+5890 pluralisme 7:6
+5891 triangulation 4:1
+5892 découpe 2:2
+5893 projection 3:3 2:2
+5894 globalisation 9:2
+5895 républicanisme 2:1 1:1
+5896 siamois 5:3 3:2
+5897 jumeau 5:3 2:1
+5898 job 2:4
+5899 perpétuité 2:8 4:1
+5900 foie 2:1 5:1
+5901 comte 3:2
+5902 autan 5:1
+5903 trio 4:1 8:1
+5904 malentendu 8:1
+5905 diabolique 3:2
+5906 tunique 8:1
+5907 enrichissant 8:1
+5908 caméra 4:9 7:4 5:2
+5909 four 3:1
+5910 déposant 2:2
+5911 indigné 3:3
+5912 havane 3:1
+5913 raillerie 2:3
+5914 viable 2:9
+5915 taxi 2:6
+5916 meute 2:3
+5917 similaire 4:3
+5918 professionnalisme 4:2
+5919 plaque 8:2
+5920 attachant 2:1
+5921 étalon 4:3
+5922 agenda 2:1
+5923 prédiction 3:1
+5924 business 2:7
+5925 glacière 4:1
+5926 épouvantable 4:10 2:1
+5927 mark 4:1 0:1
+5928 chroniqueur 2:1
+5929 révision 4:2 2:1
+5930 rétorsion 4:6
+5931 pragmatique 2:10
+5932 surendettement 7:3 4:1
+5933 transparent 2:3 7:2
+5934 grec 2:7
+5935 niche 2:25
+5936 rustine 2:2
+5937 énième 4:3 3:3
+5938 pèse 3:4 5:1
+5939 protectionniste 2:1 0:1
+5940 laïc 5:2 2:2
+5941 agissements 2:3 3:2
+5942 légaliste 1:1
+5943 banquier 3:9
+5944 libyen 4:15
+5945 fondamentalisme 5:6
+5946 syrien 1:2
+5947 fondamentaliste 4:20 5:1
+5948 boulet 2:5
+5949 bandeau 2:1
+5950 sentier 2:2
+5951 sécurisation 5:2 1:1
+5952 superficiel 8:1
+5953 fédéralisme 4:8 2:1
+5954 parasite 8:1
+5955 critiquable 2:5
+5956 endogamie 1:1
+5957 conformisme 3:3 4:2
+5958 gage 2:4
+5959 coupe 3:3 2:2
+5960 philanthropie 5:1
+5961 humiliation 9:4
+5962 contraint 0:2
+5963 féodalisation 2:1
+5964 décentralisation 7:17 5:1
+5965 amabilité 4:1
+5966 restriction 2:5 5:1
+5967 stop 9:1
+5968 domino 4:1
+5969 intermédiaire 4:5 9:1 8:1
+5970 cauchemar 9:1 1:1
+5971 soda 2:4
+5972 lorgnette 4:1
+5973 livraison 2:1
+5974 entente 2:14
+5975 troïka 3:4 2:2
+5976 issue 3:10
+5977 attraction 2:3 4:1
+5978 pittoresque 2:1
+5979 amateurisme 4:3
+5980 imagination 4:10
+5981 pharamineux 2:1
+5982 récupération 7:3
+5983 planche 2:2
+5984 étiquette 2:13 3:2
+5985 précipitation 2:1
+5986 tenable 2:2
+5987 irlandais 2:4
+5988 alourdissement 2:3
+5989 bonjour 4:20
+5990 norvégien 2:1
+5991 problématique 4:14 5:2 2:2 6:1
+5992 géopoliticien 2:1
+5993 autocratique 8:1
+5994 viabilité 2:2 3:1
+5995 perfusion 2:3
+5996 centime 7:4 4:4
+5997 enfumage 4:4 3:1
+5998 renflouement 2:12
+5999 fraîcheur 0:1
+6000 antisioniste 4:2
+6001 purge 5:1
+6002 mariniste 4:3
+6003 ennuyeux 4:1
+6004 allégeance 5:5
+6005 tri 2:2
+6006 intime 4:2
+6007 sœur 8:5 5:3
+6008 sauce 4:3
+6009 subsidiaire 3:1
+6010 tympan 5:1
+6011 péjoratif 2:1
+6012 inapplicable 5:2
+6013 mégot 5:1
+6014 appréciable 5:2
+6015 avancement 4:1
+6016 éditorialiste 4:5
+6017 sincérité 9:8
+6018 consentant 2:2 0:1
+6019 retentissement 6:1
+6020 relax 3:1
+6021 enquêteur 4:3
+6022 déboire 4:1
+6023 ténor 4:1
+6024 préliminaire 4:1
+6025 craquement 8:1
+6026 provocateur 4:2
+6027 mouche 7:1
+6028 mail 4:2
+6029 consultatif 5:1
+6030 injurieux 1:1
+6031 narquois 0:1
+6032 néant 3:4
+6033 insurgé 4:3
+6034 rigolo 2:1 4:1
+6035 monte 1:1 4:1
+6036 archaïque 2:3 9:2 5:1
+6037 cannibalisme 1:1
+6038 sidéral 8:1
+6039 imputable 2:2
+6040 sain 7:3 9:2 2:2
+6041 refouillement 1:1
+6042 gazeuse 2:1
+6043 boisson 4:1
+6044 restaurateur 2:2
+6045 mafia 3:10 2:4 5:1
+6046 affairiste 3:4 4:2 9:1
+6047 horrifiant 4:1
+6048 mallette 2:1 3:1
+6049 cent 2:2
+6050 maternité 2:3 4:2
+6051 caissier 0:1
+6052 serveur 5:2
+6053 discriminant 5:1
+6054 rabbin 5:2 3:1
+6055 concordat 5:1
+6056 tropisme 4:1
+6057 marrant 9:1
+6058 fascination 9:1
+6059 plaisanterie 5:1
+6060 regrettable 2:2
+6061 génial 4:2
+6062 obtention 5:2
+6063 participe 4:3
+6064 afflux 4:1
+6065 rationalité 5:2
+6066 largesse 4:1 3:1
+6067 bain 1:2
+6068 maillot 4:1
+6069 boy 4:1
+6070 malotru 5:1
+6071 inadéquat 5:1
+6072 voyant 4:3
+6073 dérèglement 4:5
+6074 désorganisation 4:1 9:1
+6075 voyance 4:1
+6076 maroquin 5:1 3:1
+6077 strophe 2:2
+6078 huile 2:3
+6079 lampe 2:1
+6080 autoroute 3:6
+6081 revitalisation 1:1 2:1
+6082 vis 5:4
+6083 disparation 5:1
+6084 denrée 2:1
+6085 minéral 2:3
+6086 méfiant 2:2
+6087 intégriste 9:4 5:1
+6088 accolade 5:1
+6089 balancier 2:1
+6090 adoration 3:2
+6091 tutoiement 9:2
+6092 inculture 3:1
+6093 morgue 4:7
+6094 jetable 3:4
+6095 garage 3:1
+6096 artifice 3:7
+6097 joue 3:1
+6098 sauvageon 2:1
+6099 loyal 2:7 1:1
+6100 conformiste 3:1
+6101 case 9:1 2:1
+6102 taïwanais 2:2
+6103 aberration 0:1
+6104 passer 2:2
+6105 ingénieur 2:5 3:3
+6106 injonction 3:9 7:1
+6107 adorateur 3:2
+6108 démiurge 3:2
+6109 divinité 3:1
+6110 abdication 3:1
+6111 présidente 3:10
+6112 renonce 1:1
+6113 germanophobe 4:1
+6114 valable 3:1
+6115 transnational 3:1
+6116 poignée 3:4
+6117 imposteur 3:4
+6118 ralliement 3:2
+6119 réservoir 3:3
+6120 faussaire 3:3
+6121 francophobe 3:1 4:1
+6122 kleenex 3:1
+6123 boite 3:1
+6124 poignet 2:1
+6125 ceinture 6:1 5:1
+6126 scrupuleux 3:4
+6127 détourné 9:2
+6128 multiculturalisme 9:11 5:4
+6129 incivilité 9:4
+6130 moelle 3:1
+6131 engourdissement 5:1
+6132 berceuse 9:1
+6133 muse 3:1 4:1
+6134 cocardier 1:1
+6135 cosmopolite 0:1
+6136 segment 3:1
+6137 chenal 1:1
+6138 ostentatoire 9:6
+6139 potion 1:1
+6140 motivant 3:1
+6141 bassesse 3:3 1:1
+6142 vibrant 3:1
+6143 insubmersible 3:1
+6144 ambiant 0:1
+6145 foin 4:1
+6146 fiable 0:1
+6147 hasardeux 4:3
+6148 imposant 6:1
+6149 jacent 4:1
+6150 tank 7:2
+6151 détente 4:2
+6152 forain 6:20
+6153 inertie 3:3
+6154 flambée 4:1
+6155 traumatisant 0:1
+6156 nommé 0:1
+6157 gang 6:2
+6158 désengagement 3:3 7:2
+6159 créativité 3:3
+6160 convivial 5:1
+6161 divertissement 0:2
+6162 ferment 9:4 8:1
+6163 hygiénique 2:1
+6164 souk 2:2
+6165 chapardeur 8:1
+6166 manège 6:2 3:1
+6167 roulant 6:1
+6168 décrépitude 1:2
+6169 ancienneté 5:1
+6170 camion 2:2
+6171 vouloir 8:2 2:1
+6172 fiabilité 6:2
+6173 vérificateur 6:1
+6174 emplacement 8:1
+6175 quinzaine 8:3
+6176 abbé 6:1
+6177 épice 8:1
+6178 trône 6:2
+6179 étymologie 6:1
+6180 dual 6:1
+6181 pratiquant 9:1 6:1
+6182 émirat 7:2 8:1
+6183 paneuropéen 8:1
+6184 avènement 3:2 9:1
+6185 crédibilité 5:3 9:1 3:1
+6186 impérialisme 8:3
+6187 suprématie 0:2
+6188 multipolaire 9:2
+6189 primauté 8:1
+6190 contresens 9:1
+6191 cheminement 2:1
+6192 chronologique 8:1
+6193 endogamique 1:1
+6194 vielle 3:1
+6195 incompréhensible 5:2
+6196 consumérisme 9:2
+6197 prunelle 6:1
+6198 tomber 4:1
+6199 boussole 3:6
+6200 interminable 4:4
+6201 cigare 9:2 7:2
+6202 bouffée 9:1
+6203 revers 3:2 4:1
+6204 perroquet 0:1
+6205 himalayen 9:1
+6206 intouchable 3:1
+6207 soif 3:3
+6208 inimaginable 4:4 5:1
+6209 remaniement 4:3 8:2 5:1
+6210 empreinte 5:3
+6211 collusion 7:4 4:3 3:3 0:1
+6212 régionaliste 4:1
+6213 onde 4:1
+6214 mainmise 7:1 0:1
+6215 nomination 7:15
+6216 pertinence 7:1
+6217 réclusion 7:1
+6218 indirect 7:6
+6219 clause 7:2 2:1
+6220 seigneurie 7:1
+6221 inconcevable 9:1
+6222 pilleur 4:2
+6223 gangrène 9:3 5:1
+6224 effrayant 9:2
+6225 usurier 2:3 9:1
+6226 rêne 9:3
+6227 geôlier 7:1
+6228 marchant 7:1
+6229 veau 7:1
+6230 technostructure 8:1 1:1
+6231 paravent 4:1
+6232 assemblage 3:2
+6233 élaboration 9:1
+6234 cardinal 9:1
+6235 lire 3:1
+6236 manche 3:3 8:1
+6237 renversé 3:1
+6238 duperie 3:1
+6239 satisfaction 9:3
+6240 fi 9:3 1:1
+6241 pris 2:1 3:1
+6242 nomade 3:4 8:1
+6243 rêvé 8:1
+6244 cupidité 9:3 4:2
+6245 joyau 9:3
+6246 borne 8:1
+6247 douleur 9:1
+6248 biberon 9:1
+6249 carriériste 9:1
+6250 louis 3:1
+6251 malaisé 7:1
+6252 sophistiqué 7:1
+6253 niais 7:1
+6254 jouissance 2:2
+6255 curiosité 7:1 1:1
+6256 saisine 3:1
+6257 combine 3:2
+6258 diamant 3:1
+6259 arrangement 7:7 9:1 2:1
+6260 dégringolade 7:1
+6261 ravageur 3:1 6:1
+6262 croc 7:1
+6263 dépendant 7:5
+6264 désactivation 7:1
+6265 marteau 7:1
+6266 roitelet 7:3
+6267 réalisable 2:1
+6268 rayonnant 4:1
+6269 désireux 4:2 2:1
+6270 bénévole 3:4
+6271 majoration 2:1
+6272 candide 2:1
+6273 vertébral 2:4
+6274 colonne 9:2 7:1 1:1
+6275 vertueux 9:2 3:2
+6276 clip 3:1
+6277 doxa 3:1
+6278 corbeille 3:1
+6279 gouvernail 3:3
+6280 grille 2:3 4:1
+6281 déclenchement 2:3
+6282 marquise 2:1
+6283 desiderata 2:1
+6284 criminologue 5:3
+6285 émérite 5:2
+6286 gorge 3:2
+6287 invivable 2:1
+6288 impact 4:2 5:1 9:1
+6289 ineptie 5:1 3:1
+6290 décevant 2:1
+6291 emphytéotique 4:2
+6292 bail 5:2
+6293 chéquier 2:1
+6294 minimaliste 2:1
+6295 décideur 5:1
+6296 cou 0:1
+6297 soudeur 0:1
+6298 inopérant 5:1
+6299 guichet 2:4
+6300 enchère 5:3 3:2
+6301 coterie 5:1 9:1
+6302 sceau 2:1
+6303 étalage 4:1
+6304 rayé 9:1
+6305 antique 9:1
+6306 saignant 3:1
+6307 sévérité 9:5
+6308 fracassant 9:1
+6309 jaloux 2:1
+6310 archétype 9:2
+6311 mastodonte 3:1
+6312 connu 1:1
+6313 tenace 3:2
+6314 inébranlable 4:2
+6315 perdition 3:4
+6316 relâche 2:1
+6317 passionnant 3:1
+6318 ténèbre 9:4
+6319 caverne 0:1
+6320 relèvement 9:4 3:1
+6321 pérenne 3:1
+6322 bonus 3:2
+6323 optimisation 2:3 1:1
+6324 référencement 0:1
+6325 poulailler 9:1
+6326 renard 9:1
+6327 bouillonnement 3:1
+6328 descriptif 3:2
+6329 hérésie 9:1
+6330 déviant 3:1
+6331 monstruosité 3:2
+6332 encrier 7:2 9:1
+6333 opacité 9:3 7:1
+6334 hypermarché 3:1
+6335 nivellement 3:4
+6336 prêche 5:4
+6337 entraide 3:2
+6338 boulot 3:2
+6339 morose 9:1
+6340 fumier 2:2
+6341 cocorico 4:1
+6342 absoute 9:1
+6343 hymne 3:3 9:1
+6344 prolétarisation 9:1
+6345 voyoucratie 5:3
+6346 ignorance 9:5
+6347 hardi 3:1
+6348 vécu 3:1
+6349 ode 8:1
+6350 bûcher 8:3 3:1
+6351 supplice 9:2
+6352 souffrant 9:1
+6353 tumultueux 3:1
+6354 soudard 5:1 8:1
+6355 contour 3:1
+6356 aptitude 4:1
+6357 frileux 9:1 4:1 5:1
+6358 sillage 9:1
+6359 libérateur 9:2
+6360 aventurisme 8:1
+6361 attractif 2:3
+6362 anonymat 9:6
+6363 retranscription 5:1
+6364 captation 2:3
+6365 irrépressible 9:1
+6366 loyalisme 9:2
+6367 dislocation 9:2
+6368 occupant 8:2
+6369 onction 2:1
+6370 délivre 9:1
+6371 coule 3:1
+6372 vil 2:1
+6373 dissolvant 8:1
+6374 piété 3:1 4:1
+6375 aisance 5:1
+6376 simplicité 9:1
+6377 courtisanerie 4:1
+6378 pleutre 9:1
+6379 esseulé 9:1
+6380 pâle 8:2 3:1
+6381 armagnac 8:1
+6382 pacifisme 8:1
+6383 couronne 9:5
+6384 bourguignon 8:2
+6385 johannique 2:1
+6386 espiègle 3:1
+6387 pureté 9:1
+6388 maillon 8:1
+6389 héroïne 8:5
+6390 anachronique 9:1 5:1
+6391 paquebot 9:1
+6392 gratitude 6:1
+6393 retransmission 8:1
+6394 commémoration 6:1
+6395 météo 9:1
+6396 faiblard 6:1
+6397 haro 9:1
+6398 créneau 8:1
+6399 illogique 2:1
+6400 camouflage 8:1 6:1
+6401 lamentable 2:1 3:1
+6402 patrouilleur 4:1
+6403 impudence 7:1
+6404 réflexe 2:3 9:1
+6405 négrier 0:1 3:1
+6406 receleur 1:2
+6407 passeur 6:1
+6408 trilatéral 5:1
+6409 imminent 8:1
+6410 traversée 8:2
+6411 tergiversation 8:1
+6412 embarquement 8:1
+6413 bibi 5:2
+6414 rédhibitoire 4:1
+6415 prophétique 8:1
+6416 tonitruant 2:1
+6417 affront 9:1 8:1
+6418 sigle 8:1 3:1
+6419 calculette 5:1
+6420 émoi 8:1
+6421 auberge 3:1
+6422 autiste 8:1
+6423 somnambule 5:1
+6424 tâtonnement 8:1
+6425 fantomatique 6:1
+6426 joggeur 9:1
+6427 rite 9:1
+6428 oreillette 4:1
+6429 saturation 4:1
+6430 chocolat 5:3
+6431 canapé 5:1
+6432 contradicteur 5:1
+6433 raisonné 4:3
+6434 instabilité 5:1
+6435 convergent 1:2
+6436 égyptien 2:2
+6437 donne 2:1
+6438 raid 1:1
+6439 rampe 9:1
+6440 déliaison 3:1
+6441 fringant 3:3
+6442 éloquent 7:3
+6443 inavouable 1:1
+6444 file 2:3 7:1
+6445 sidérant 7:1
+6446 torpillage 8:1
+6447 diligence 5:1
+6448 mercantiliste 3:1 1:1
+6449 productiviste 6:1
+6450 développé 3:4
+6451 pair 9:1
+6452 asséchant 3:1
+6453 mutilant 8:1
+6454 pulsion 7:2
+6455 désincarné 4:1
+6456 schéma 3:3
+6457 appartenance 9:5 2:1
+6458 normalisation 5:1
+6459 clivage 4:8 0:1
+6460 délétère 3:3
+6461 distributeur 2:3
+6462 hall 3:1
+6463 enrichi 6:1
+6464 malfaisance 5:1
+6465 immanent 8:1
+6466 affaissement 9:3 5:1
+6467 contagieux 3:1
+6468 émancipation 0:1
+6469 prohibitif 6:1
+6470 ratissage 7:1
+6471 offensif 4:2
+6472 postulant 3:1
+6473 sourd 3:7
+6474 bénef 0:2
+6475 surtaxation 2:2 4:1 9:1
+6476 livreur 0:1
+6477 saccadé 2:1
+6478 pneu 2:4
+6479 gonflage 7:1
+6480 malin 3:1
+6481 duchesse 7:2
+6482 préjudiciable 5:1
+6483 attrape 7:1
+6484 commodité 5:1
+6485 égarement 7:1
+6486 effarant 7:3
+6487 rentier 3:2
+6488 concevable 3:1
+6489 carton 9:1
+6490 glissade 7:2
+6491 syndrome 5:2
+6492 feuille 4:6 0:1
+6493 odeur 3:1
+6494 envers 9:2 3:1
+6495 suranné 3:1
+6496 sublime 1:1 8:1
+6497 irréconciliable 1:1
+6498 implacable 0:3
+6499 irréductible 1:1
+6500 paroxysme 2:1
+6501 accessoire 3:2
+6502 cran 3:1 4:1
+6503 couvercle 9:1
+6504 resserre 4:2
+6505 blafard 4:1
+6506 marc 1:1
+6507 métronome 1:3
+6508 vase 7:1
+6509 cuve 7:1 5:1
+6510 vulgarité 7:4 1:1
+6511 aigu 4:2
+6512 paranoïa 7:1
+6513 shit 7:2
+6514 inénarrable 7:1
+6515 ballet 7:1
+6516 flambant 7:1
+6517 redoublé 7:1
+6518 bienveillance 4:1
+6519 constatation 7:1
+6520 satisfaisant 4:2
+6521 saccage 7:6 9:3 3:1
+6522 potentat 7:5
+6523 pluralité 7:4
+6524 missive 7:2
+6525 fautif 7:2
+6526 délibérant 7:2
+6527 volumineux 7:2
+6528 irrégularité 7:4 1:2
+6529 fréquentation 7:2
+6530 douteur 7:2
+6531 clique 7:4 1:2
+6532 donateur 7:4
+6533 déstabilisation 7:2 4:1
+6534 bijoutier 7:2
+6535 couturier 7:2
+6536 breloque 7:2
+6537 frasque 7:2
+6538 sève 7:4 6:1
+6539 triptyque 7:2
+6540 doublon 7:3
+6541 doctorat 7:2
+6542 illisible 7:3
+6543 baronnie 7:2
+6544 reconstitution 7:2
+6545 nièce 7:2
+6546 serf 7:5
+6547 somptuaire 7:4
+6548 alentour 7:2
+6549 golf 7:4
+6550 tennis 7:4
+6551 rénovation 7:2
+6552 affectation 7:3
+6553 délibération 7:2
+6554 visiteur 7:3
+6555 gabegie 7:2
+6556 captif 7:2 5:1
+6557 kyrielle 7:2
+6558 arrosage 7:2
+6559 fixe 4:1 7:1
+6560 indécence 7:3
+6561 immodéré 7:2 9:1
+6562 xénophilie 7:2
+6563 faîte 7:2
+6564 infâme 7:2 9:1
+6565 inapte 7:2
+6566 infertilité 7:2
+6567 accablant 7:2
+6568 frappant 7:4
+6569 ressemblance 7:2
+6570 contorsion 7:2
+6571 tambouille 7:2
+6572 stabilisation 7:9 9:1
+6573 dénégation 7:2
+6574 coude 7:2
+6575 impartialité 7:2
+6576 limpide 9:2 7:1
+6577 accessibilité 7:2
+6578 préparatif 9:2
+6579 dédale 9:2
+6580 gardé 9:1 2:1
+6581 initié 9:2
+6582 empressement 9:4
+6583 mutisme 4:1 9:1
+6584 cénacle 4:2
+6585 audible 9:2
+6586 pouls 4:1 9:1
+6587 opportunité 4:3
+6588 cacique 9:2
+6589 nullité 4:1 0:1
+6590 télégraphiste 9:3
+6591 destination 4:1
+6592 architectural 7:1
+6593 spatial 4:1
+6594 inexploité 6:1
+6595 rayonne 9:1
+6596 ruisseau 9:1
+6597 empiétement 3:1
+6598 théocratique 7:1
+6599 multiséculaire 4:1
+6600 airain 7:1
+6601 oppresseur 9:1
+6602 binaire 6:1
+6603 replâtrage 4:1
+6604 prééminence 9:3
+6605 biodiversité 7:1
+6606 paléolithique 6:1
+6607 dévastation 4:1
+6608 régulateur 9:1
+6609 inflexible 9:1
+6610 mondain 4:1
+6611 emballement 6:1
+6612 accaparement 2:1
+6613 hussard 9:2
+6614 déclinant 2:1
+6615 palier 5:1
+6616 pessimisme 5:2 9:1
+6617 névrotique 7:1
+6618 composante 4:3 9:1
+6619 consolidation 7:5
+6620 unification 9:6
+6621 patient 9:5 2:2
+6622 indissociable 4:1
+6623 milliardaire 8:1 3:1
+6624 insistant 4:1
+6625 courroie 0:1
+6626 coucou 2:1
+6627 remettant 9:1
+6628 antichambre 2:1
+6629 conglomérat 4:3
+6630 consulat 8:1
+6631 dissemblable 9:1
+6632 agglutinat 9:1
+6633 incantatoire 9:1
+6634 califat 9:2
+6635 aveulissement 9:1
+6636 cyclone 9:1
+6637 brimade 9:2
+6638 aboiement 4:1
+6639 faiseur 9:2
+6640 imprescriptible 9:1
+6641 maturité 1:3 3:2
+6642 désintéressé 3:1
+6643 blessure 3:1
+6644 carapace 9:1
+6645 déterminant 5:1
+6646 rectitude 9:2
+6647 flambeau 3:2
+6648 embûche 0:1
+6649 ultimatum 4:2
+6650 visibilité 4:4
+6651 réactif 4:2
+6652 réactivité 9:1
+6653 médiateur 6:1
+6654 pack 6:1
+6655 bêtise 4:1 3:1
+6656 enchanteur 4:2
+6657 atypique 6:1
+6658 besace 4:1
+6659 traîtrise 2:1
+6660 foison 2:1
+6661 verbe 3:4 8:1
+6662 désintérêt 7:1
+6663 semi 1:2 2:1
+6664 fermé 4:1 2:1
+6665 fiche 2:2
+6666 insincérité 7:1
+6667 paludisme 4:1
+6668 hollande 1:1
+6669 roulette 4:2
+6670 recentrage 2:1
+6671 ambassade 8:1
+6672 harceleur 4:1
+6673 pathologique 4:3
+6674 serpent 2:1
+6675 cancre 2:1
+6676 bachotage 2:1
+6677 lunette 2:3
+6678 summum 5:1
+6679 autarcie 2:2
+6680 déflationniste 2:2
+6681 relent 3:1
+6682 gain 2:5 3:1 1:1
+6683 mayonnaise 1:1
+6684 factice 5:1
+6685 xénophobie 2:3
+6686 portable 4:3 2:1
+6687 indiscipline 0:1
+6688 casier 5:3 9:1 4:1
+6689 tweeter 4:2
+6690 cloche 9:1
+6691 sanctuaire 5:2
+6692 couteau 3:1
+6693 partagé 1:1
+6694 consentement 4:1
+6695 journalier 2:1
+6696 structuration 2:2
+6697 coercitif 5:1
+6698 gradation 2:1
+6699 absurdité 0:4 5:2 8:1
+6700 observatoire 0:1
+6701 perçu 2:1
+6702 chaine 9:2 2:2
+6703 chandelle 7:2 2:1
+6704 saignée 3:3 5:1
+6705 énormité 0:1
+6706 enrayement 2:1
+6707 panier 2:2
+6708 enfer 4:3 3:3 2:1
+6709 rassembler 0:1
+6710 envisageable 4:2
+6711 pluridisciplinaire 9:2
+6712 shoot 4:3
+6713 exprès 7:1
+6714 cannabis 2:1
+6715 cordon 4:1
+6716 gué 2:1
+6717 séparatiste 4:1
+6718 séparatisme 4:1
+6719 intoxication 6:1
+6720 métro 5:1
+6721 mali 8:1
+6722 herbe 8:1
+6723 rétroviseur 5:1
+6724 hexagonal 5:1
+6725 bobard 5:1 1:1
+6726 cinq 8:1
+6727 aimant 4:2
+6728 rattrapage 8:1
+6729 décollage 5:2
+6730 crash 5:1 1:1
+6731 manœuvrier 5:1
+6732 roublard 8:2
+6733 divan 4:1
+6734 fanatisme 9:5
+6735 comique 4:1
+6736 goguenard 1:1
+6737 anodin 1:3
+6738 recomposition 4:2
+6739 liquidateur 4:1
+6740 mandataire 2:2
+6741 pouce 4:3 2:2
+6742 embargo 4:1
+6743 milice 4:4
+6744 orfraie 4:1
+6745 irrémédiable 4:1
+6746 malchance 1:2
+6747 barque 4:2
+6748 rétention 2:1
+6749 perche 5:1
+6750 paquetage 4:1
+6751 introuvable 4:1
+6752 dague 0:1
+6753 intenable 4:4
+6754 inintéressant 3:1
+6755 déflation 0:1
+6756 politologie 3:1
+6757 vingtaine 3:1
+6758 endive 2:1
+6759 poivrot 3:2
+6760 foutre 8:1
+6761 bagarre 3:1
+6762 graine 3:1
+6763 standard 4:1
+6764 défends 2:2
+6765 modélisation 5:1
+6766 moralisation 1:3
+6767 revente 5:1
+6768 extrascolaire 1:1
+6769 glaçant 4:1
+6770 block 1:1
+6771 minuscule 4:1
+6772 pansement 4:1
+6773 contingentement 4:1
+6774 carpe 5:1
+6775 inaudible 1:1
+6776 chauffage 9:3
+6777 échauffourée 7:1
+6778 fraudeur 5:2
+6779 gamin 0:4 4:1
+6780 ponte 7:1
+6781 rapidité 2:1
+6782 phénoménal 2:3
+6783 raccourci 1:2 2:1
+6784 intimité 4:1
+6785 discriminatoire 7:1
+6786 poser 2:1
+6787 charter 5:1
+6788 dépréciation 2:3 3:1
+6789 exponentiel 2:3
+6790 attendant 2:1
+6791 faisable 2:1
+6792 dessous 2:1
+6793 fébrile 1:1
+6794 intervieweur 1:1
+6795 tardif 4:1
+6796 sionisme 2:1
+6797 internationalisme 9:2 1:1
+6798 prêteur 1:3
+6799 constitutionnalité 1:1
+6800 résorption 4:3
+6801 déductibilité 1:1
+6802 allégement 7:1
+6803 cumulatif 2:1
+6804 traitant 2:9 6:1
+6805 progressivité 2:1
+6806 holding 2:1
+6807 filiale 2:1
+6808 magasin 2:2
+6809 bloque 2:1
+6810 irréaliste 2:3 0:1
+6811 immatériel 2:3
+6812 autorégulateur 4:1
+6813 babouche 2:1
+6814 microchirurgie 2:3
+6815 vicieux 4:3
+6816 incitateur 7:1
+6817 grippage 2:1
+6818 anathème 2:3
+6819 perturbation 9:2
+6820 cataclysmique 2:1
+6821 mortifère 3:2 2:1
+6822 trépied 2:1
+6823 piston 2:1
+6824 seringue 2:1
+6825 invincible 4:4
+6826 surnaturel 2:1
+6827 infect 9:2
+6828 résurrection 2:1
+6829 échine 4:2
+6830 enceinte 3:1
+6831 prisme 9:1
+6832 mire 8:1
+6833 phare 9:3
+6834 roc 9:2 3:2
+6835 humeur 8:1 9:1
+6836 aîné 3:1
+6837 autisme 8:1
+6838 prometteur 9:1
+6839 légiste 9:2
+6840 corset 4:1
+6841 trouvaille 2:1
+6842 bedonnant 8:2
+6843 boursicoteur 9:1
+6844 pavé 9:2
+6845 lanceur 9:2
+6846 idole 3:2
+6847 dévastateur 3:4
+6848 abaisse 0:2
+6849 malléable 8:2 0:1
+6850 multitude 8:1
+6851 intègre 4:1 2:1
+6852 élucubration 6:1
+6853 revendicateur 5:1 3:1
+6854 djellaba 7:1
+6855 vestimentaire 4:1
+6856 mixité 4:1
+6857 lamentation 8:1
+6858 couture 9:1
+6859 galerie 3:2
+6860 béant 3:1
+6861 crevasse 3:1
+6862 inchangé 3:1
+6863 muscle 3:4
+6864 martial 0:2
+6865 indestructible 3:1
+6866 normalité 3:5
+6867 feint 3:1
+6868 synonyme 3:2
+6869 tremble 4:1
+6870 demeuré 3:1
+6871 nocif 3:1
+6872 destinataire 8:1
+6873 chaland 3:1
+6874 crédule 2:2
+6875 mollesse 6:1 4:1
+6876 désunion 3:5
+6877 guéguerre 3:1
+6878 méprisable 4:1
+6879 démoralisant 3:1
+6880 gréement 5:1
+6881 aidant 1:1
+6882 diversification 2:1
+6883 découplage 6:1
+6884 servage 6:1
+6885 pâture 3:1
+6886 gosse 4:1
+6887 rideau 6:1
+6888 fioul 5:1
+6889 doléance 9:3
+6890 cahier 9:1
+6891 bagad 4:1
+6892 navigateur 9:1
+6893 terrien 9:1
+6894 rassurant 5:1
+6895 étriqué 2:1
+6896 noyade 3:1
+6897 chronologie 6:1
+6898 radicalisme 9:1
+6899 mythologie 9:2
+6900 forcing 4:1
+6901 aquarium 4:1
+6902 créance 5:1
+6903 imaginaire 5:1
+6904 intégrisme 5:1
+6905 humiliant 1:1
+6906 recommandable 8:1 9:1
+6907 putride 5:1
+6908 sornette 5:1
+6909 punition 5:1 0:1
+6910 urticaire 5:1
+6911 impondérable 9:1
+6912 barbarisme 5:1
+6913 déterminé 4:3
+6914 hybridation 5:2
+6915 prosélytisme 5:3
+6916 perquisition 5:1
+6917 endoctrinement 8:1
+6918 support 5:1 6:1
+6919 wahhabite 9:1
+6920 ballon 5:1
+6921 formalité 4:3
+6922 odyssée 9:1
+6923 rempli 0:1
+6924 venin 5:1 0:1
+6925 intrus 5:1
+6926 récalcitrant 5:1
+6927 cave 5:3
+6928 paroxystique 5:1
+6929 psychopathe 5:1
+6930 démon 9:3
+6931 apologie 5:1
+6932 djihad 5:1
+6933 travers 8:1 3:1
+6934 malfrat 5:1
+6935 vernis 8:1
+6936 forcené 3:1
+6937 lié 5:1
+6938 trivialité 3:2
+6939 crudité 3:2
+6940 désappointement 9:1
+6941 émouvant 1:1
+6942 toute 3:2
+6943 puissante 9:1
+6944 bouddhiste 9:2
+6945 inquisition 2:1
+6946 obscurantisme 3:1
+6947 splendide 0:1
+6948 alchimie 0:1
+6949 élitiste 1:1
+6950 alsacien 8:1
+6951 insoumis 0:1
+6952 irrespirable 9:1
+6953 fatigue 5:1
+6954 sectarisme 9:1
+6955 tiercé 9:1
+6956 délice 9:1
+6957 enlisement 9:1
+6958 dépressif 3:1
+6959 catalyseur 4:1
+6960 cupide 3:2
+6961 affameur 9:1
+6962 gifle 1:1
+6963 corporel 3:1
+6964 châtiment 0:1
+6965 flotteur 3:1
+6966 marqueur 1:2 0:2
+6967 abyssal 3:3
+6968 consort 2:1
+6969 quête 5:1
+6970 stigmatisation 5:1 3:1
+6971 avide 0:1 3:1
+6972 manifeste 0:1
+6973 discernement 0:2 5:1
+6974 personnalisation 0:1
+6975 écoulement 9:1
+6976 surreprésenté 9:2
+6977 empêcheur 7:1
+6978 atténuant 7:1
+6979 paisible 5:2
+6980 éclair 4:1
+6981 lassant 0:1
+6982 croisé 7:1
+6983 phocéen 5:1
+6984 fusillade 7:1
+6985 logiciel 3:1
+6986 prolifère 5:1
+6987 souterrain 0:1 9:1
+6988 percepteur 5:1
+6989 cossu 6:1
+6990 marquis 7:2
+6991 murmure 6:1
+6992 invariable 6:1
+6993 patenté 9:1
+6994 clapot 6:1
+6995 convocation 9:1
+6996 hégémonie 9:1
+6997 chant 5:2
+6998 indocile 5:1
+6999 poli 6:1
+7000 rivage 6:2
+7001 vallon 6:2
+7002 brume 9:1 4:1
+7003 clocher 6:5
+7004 tabernacle 5:1
+7005 méprise 4:2
+7006 oublie 0:1 9:1
+7007 essentialisme 6:1
+7008 nourricier 0:1
+7009 bitume 9:1
+7010 grisaille 9:1
+7011 morne 6:1
+7012 allogène 9:1
+7013 unidimensionnel 3:1
+7014 bouillie 6:1
+7015 diaprure 6:1
+7016 inédit 3:2
+7017 ose 6:1
+7018 reculé 9:1
+7019 maillage 4:1
+7020 scolarité 6:1
+7021 densité 6:2
+7022 resserrement 6:1
+7023 opérateur 6:1
+7024 numérique 9:3
+7025 trajet 4:1
+7026 glacé 0:1
+7027 chèvre 6:1
+7028 plantation 6:4
+7029 fertile 4:2 7:1
+7030 tumulte 6:2
+7031 gigantisme 6:1
+7032 giron 6:2
+7033 sono 3:1
+7034 razzia 6:1
+7035 festivité 6:1
+7036 bourg 8:3
+7037 exit 3:1
+7038 oubli 3:4 6:1
+7039 relais 3:5
+7040 transmetteur 3:1
+7041 parisianisme 6:1
+7042 dément 6:1
+7043 laideur 5:1
+7044 napalm 9:1
+7045 ligue 7:1
+7046 pacotille 7:1
+7047 intello 5:1
+7048 indécrottable 7:1 6:1
+7049 moderniste 7:1
+7050 sire 7:1
+7051 sélectif 7:1
+7052 vautour 7:1
+7053 indélicat 1:1
+7054 claque 7:1
+7055 oseille 2:2
+7056 droitier 1:3
+7057 décompte 4:1
+7058 informaticien 1:1
+7059 nanoseconde 4:1
+7060 casino 0:1
+7061 retenue 1:1 3:1
+7062 bouquet 7:1 2:1
+7063 sancerre 7:2
+7064 piment 9:1
+7065 bouchon 7:1
+7066 menuisier 7:2
+7067 faïencier 9:1
+7068 ébéniste 8:1
+7069 arable 7:1
+7070 infinité 7:1
+7071 équarrisseur 7:1
+7072 parabole 7:2
+7073 biblique 7:1
+7074 chauvinisme 4:1
+7075 cagnotte 9:1
+7076 cherté 7:1
+7077 incertitude 7:1 4:1
+7078 démolition 0:1
+7079 myopie 0:1
+7080 autoritarisme 9:2
+7081 désinvolture 2:1
+7082 illisibilité 3:1 7:1
+7083 brouillon 3:1
+7084 lisibilité 9:1
+7085 pondération 3:1
+7086 dualité 9:1
+7087 décalage 4:2
+7088 mielleux 7:1
+7089 causerie 9:1
+7090 aimable 9:1
+7091 off 3:3
+7092 acerbe 3:1
+7093 mûr 7:1
+7094 fanfaron 3:2
+7095 star 9:1
+7096 con 3:2
+7097 irrévérencieux 5:1
+7098 irrespectueux 9:1
+7099 jouisseur 3:1
+7100 enchaîné 3:1
+7101 juteux 6:1
+7102 courbette 3:1
+7103 affranchi 3:1
+7104 incestueux 4:1
+7105 dégradant 2:2
+7106 messie 4:1
+7107 âpre 2:1
+7108 dogmatisme 3:1 7:1
+7109 converti 4:1
+7110 bang 3:1
+7111 glaciation 3:1
+7112 box 3:1
+7113 imposé 3:2
+7114 vieillesse 3:1
+7115 corrélation 6:1
+7116 dépassement 6:1
+7117 désespérant 3:2
+7118 baraquement 6:1
+7119 biaisé 5:1
+7120 viticulteur 3:4
+7121 vinicole 5:1
+7122 maléfice 6:1
+7123 plomb 6:1
+7124 alchimiste 6:2
+7125 philosophal 3:1
+7126 obéissant 3:1
+7127 déstabilisateur 7:1
+7128 sésame 4:1
+7129 bonimenteur 3:1
+7130 inerte 3:1
+7131 exaspération 3:4
+7132 incantation 3:8
+7133 pyromane 3:1
+7134 rectiligne 3:1
+7135 démodé 3:1
+7136 camelote 3:1
+7137 fougueux 3:1
+7138 poulain 3:1
+7139 paquet 3:1
+7140 entourloupe 1:1
+7141 hypnotique 3:1
+7142 affairisme 4:1
+7143 inventaire 1:1
+7144 mime 3:1
+7145 instrumentalisation 1:1
+7146 croisière 3:3
+7147 monastère 3:1
+7148 festin 3:1
+7149 fiesta 3:1
+7150 firme 3:1
+7151 accumulation 3:1
+7152 ride 3:1
+7153 guérison 3:1
+7154 descente 3:2
+7155 rétrogradation 3:1
+7156 configuration 3:1
+7157 chevet 4:2
+7158 anecdotique 2:1
+7159 antirépublicain 1:2
+7160 réplique 9:1
+7161 ibérique 5:1
+7162 méconnaissance 8:1
+7163 athénien 9:1
+7164 férié 9:2
+7165 mormon 3:1
+7166 kurde 5:1
+7167 hindouiste 3:1
+7168 julien 8:1
+7169 liturgique 7:1
+7170 saugrenu 1:1
+7171 frise 9:1
+7172 relativisme 3:1
+7173 oppressant 5:1
+7174 déprimant 5:1
+7175 versant 3:1
+7176 nomadisme 4:1
+7177 intensification 4:1
+7178 boomerang 3:8
+7179 inconditionnel 3:1
+7180 indiscret 4:2
+7181 jalousie 3:2
+7182 aventurier 3:1
+7183 impréparation 3:1
+7184 tourmente 4:1
+7185 rez 3:1
+7186 antisocial 3:2
+7187 obsessionnel 3:1
+7188 inféodé 2:2
+7189 bastille 0:1
+7190 puéril 2:2
+7191 manne 2:1
+7192 effritement 3:1
+7193 déraisonnable 3:1
+7194 cogestion 2:1
+7195 récréation 2:1
+7196 insincère 2:2
+7197 descenseur 2:11 0:1
+7198 accidenté 2:1
+7199 hère 7:1
+7200 mensualité 4:1
+7201 col 2:2
+7202 tyrannique 2:1
+7203 parcelle 0:1
+7204 angoissant 0:2
+7205 enthousiasmant 3:2
+7206 rapace 9:1
+7207 démuni 0:1
+7208 possédant 2:1
+7209 rentable 3:1
+7210 fourni 3:1
+7211 rétribution 0:1
+7212 intérimaire 0:1
+7213 cerise 0:2
+7214 tangible 3:1
+7215 subside 3:1
+7216 assourdissant 2:1
+7217 descendance 5:1 8:1
+7218 ciment 5:1
+7219 mélodieux 3:1
+7220 mat 3:1
+7221 équipage 3:2
+7222 toupet 5:1
+7223 enchantement 3:1
+7224 favori 4:1
+7225 concerto 4:1
+7226 épiphanie 3:1
+7227 galette 3:1
+7228 incalculable 3:1
+7229 agacement 5:1
+7230 consensuel 3:1
+7231 tandem 9:1
+7232 perspicacité 2:1
+7233 baudruche 8:1
+7234 systémique 2:1
+7235 vivace 2:1 4:1
+7236 anomalie 2:1
+7237 résonance 1:1
+7238 instantanéité 8:1
+7239 tribut 9:1
+7240 lorrain 8:1
+7241 fillette 8:1
+7242 connétable 8:2
+7243 éblouissant 8:1
+7244 christique 8:1
+7245 virginité 5:1
+7246 bienveillant 9:1
+7247 équestre 9:1
+7248 statue 9:1
+7249 cultellaire 9:1
+7250 touffeur 3:1
+7251 orphique 8:1
+7252 chevalerie 8:3
+7253 immobile 1:1
+7254 chrétienté 9:1
+7255 lépreux 9:1
+7256 preux 9:1
+7257 gisant 8:1
+7258 livide 3:1
+7259 légendaire 9:1
+7260 irréfutable 5:1
+7261 ecclésiastique 8:1
+7262 pusillanimité 9:1
+7263 dynastie 9:1
+7264 escorte 8:1
+7265 briscard 9:1
+7266 gageure 9:1
+7267 mince 8:1
+7268 mystique 8:1
+7269 contemplation 9:1
+7270 mystérieux 8:1
+7271 banni 1:1
+7272 intrigant 8:1
+7273 peste 9:1
+7274 notoriété 8:2
+7275 charrette 5:1
+7276 gentillesse 5:1
+7277 réducteur 5:1
+7278 bestialité 1:1
+7279 parquet 5:1
+7280 persistance 6:2
+7281 mouvant 6:1
+7282 appelant 9:1
+7283 rétabli 6:1
+7284 cella 4:1
+7285 gyrophare 3:1
+7286 câble 1:2
+7287 trouillard 1:1
+7288 désagréable 4:1
+7289 stressant 1:1
+7290 parano 6:1
+7291 consciencieux 4:1
+7292 plénitude 3:1
+7293 inaperçu 6:1
+7294 audition 1:2
+7295 annulation 1:1
+7296 sidération 1:3
+7297 anti 1:1
+7298 hautain 5:1
+7299 tricheur 1:1
+7300 pourri 4:1
+7301 mouillé 7:1
+7302 désapprobation 4:1
+7303 ambiguïté 1:2
+7304 sommité 1:1
+7305 leitmotiv 4:1
+7306 chirurgien 2:1
+7307 lourdingue 1:1
+7308 morue 2:1
+7309 frontisme 1:2
+7310 marié 9:1
+7311 rétroactivité 4:1
+7312 virulent 4:1
+7313 mutinerie 4:1
+7314 allier 4:1
+7315 apolitique 2:1
+7316 fraternisation 1:2
+7317 factieux 9:1
+7318 pontifiant 0:1
+7319 lanterne 9:1
+7320 tunnel 3:3
+7321 désenchanté 3:1
+7322 épais 5:1
+7323 brouillard 2:1
+7324 pigiste 9:1
+7325 autocensure 9:2
+7326 périodicité 3:2
+7327 respectabilité 3:1
+7328 tendanciel 9:1
+7329 saveur 3:1
+7330 pasteurisation 3:1
+7331 renfort 1:1
+7332 uniformisation 9:1
+7333 galopant 4:1
+7334 connexion 4:1
+7335 vénérable 9:1
+7336 vénération 9:1
+7337 utilitariste 4:1
+7338 bienvenu 0:1
+7339 berne 7:1
+7340 lin 3:1
+7341 fatuité 3:1
+7342 évitable 3:1
+7343 défaitisme 4:1
+7344 contournement 1:1
+7345 sénat 8:1
+7346 inspection 1:1
+7347 rudesse 1:1
+7348 universalité 9:2
+7349 recommencement 9:1
+7350 simpliste 9:1
+7351 fossé 9:1
+7352 antidote 4:1
+7353 verdâtre 5:1
+7354 surplace 5:1
+7355 tarifaire 9:2
+7356 dinguerie 9:1
+7357 préau 9:1
+7358 sexe 9:1
+7359 rémunérateur 2:1
+7360 itinérant 3:1
+7361 pernicieux 2:1
+7362 constituant 5:1
+7363 rebond 0:1
+7364 antécédent 8:2
+7365 capacitaire 5:1
+7366 catin 8:1
+7367 sonnant 8:1
+7368 belliciste 8:1
+7369 placide 5:1
+7370 format 3:1
+7371 loin 1:1
+7372 constance 4:1
+7373 marseillais 9:1 8:1
+7374 préfiguration 3:1
+7375 pitrerie 9:1
+7376 inconséquent 4:1
+7377 inconsistant 9:1
+7378 méthodique 4:1
+7379 indigent 8:1
+7380 faïence 5:1
+7381 nombril 4:1
+7382 déconstruction 9:1
+7383 compteur 9:1
+7384 lassitude 9:2
+7385 prussien 9:1
+7386 conscrit 3:1
+7387 rapacité 5:1
+7388 jurisconsulte 9:1
+7389 essoufflé 0:1
+7390 dispute 8:1
+7391 nonchalance 5:1
+7392 inaptitude 9:1
+7393 vaniteux 9:1
+7394 infatuation 9:1
+7395 divinatoire 9:1
+7396 répétitif 3:1
+7397 rabaissement 9:1
+7398 lobbyiste 2:1
+7399 dérogatoire 9:1
+7400 absorption 9:2
+7401 maladresse 5:1
+7402 gaminerie 5:1
+7403 potache 2:1
+7404 blague 9:1
+7405 tenon 4:1
+7406 symposium 9:1
+7407 communion 3:1
+7408 transportable 8:1
+7409 marinier 3:1
+7410 nuptial 3:1
+7411 antithèse 3:1
+7412 laps 7:1
+7413 claquage 6:1
+7414 remorque 3:1
+7415 crin 9:1
+7416 sorcellerie 4:1
+7417 cicatrice 3:1
+7418 intense 4:1
+7419 tournée 5:1
+7420 ancrage 2:1
+7421 clarifiant 4:1
+7422 confus 4:2
+7423 surabondance 0:1
+7424 reculer 4:2
+7425 accroc 8:1
+7426 vidéo 7:1 2:1
+7427 résurgence 0:1
+7428 interprète 2:1
+7429 placement 4:1
+7430 bulgare 8:1
+7431 campement 8:1
+7432 transatlantique 6:1
+7433 pavlovien 4:1
+7434 déprime 0:1
+7435 blasphématoire 4:1
+7436 religiosité 4:1
+7437 réactivation 1:1
+7438 prolongement 8:1
+7439 moutonnier 7:1
+7440 abrutissement 4:2
+7441 panneau 4:1
+7442 menton 4:1
+7443 argumentaire 4:1

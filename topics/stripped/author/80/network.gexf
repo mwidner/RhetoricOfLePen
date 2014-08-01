@@ -1,0 +1,410 @@
+<gexf xmlns:ns0="http://www.gexf.net/1.1draft/viz" version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="56" label="économie prix pays monnaie économique social marché moi achat réalité hausse augmentation crise baisse dette croissance mise économiste produit ">
+        <ns0:size value="0.25081" />
+      </node>
+      <node id="66" label="jeune chômage français temps avenir insécurité petit jeunesse génération ouvrier moral gros dirigeant pire misère précarité conception long pauvreté ">
+        <ns0:size value="0.31664" />
+      </node>
+      <node id="MLP.txt" label="stripped-author-MLP.txt" />
+      <node id="64" label="maire signature droit arrêt appel midi administration point après preuve égalité bail publicité publique nécessaire gaz électricité délai immédiat ">
+        <ns0:size value="0.10017" />
+      </node>
+      <node id="72" label="monde nord sud démographique jeune retraité population mondial ville croissance eau humanité génération milliard planétaire révolution mesure commerce vieux ">
+        <ns0:size value="0.09442" />
+      </node>
+      <node id="60" label="presse année temps public dernier débat grand vie vrai médias moi journaliste respect important niveau information conférence utile journal ">
+        <ns0:size value="0.30015" />
+      </node>
+      <node id="63" label="nation argent peuple système mondialisation grand projet seul service choix modèle français ultralibéral véritable échange mondialisme meilleur idéologie enfant ">
+        <ns0:size value="0.28942" />
+      </node>
+      <node id="77" label="communiste vote parlement suffrage patrie communisme heure fête parlementaire premier socialisme politicien siège décadence dévouement calomnie moitié corruption scrutin ">
+        <ns0:size value="0.13943" />
+      </node>
+      <node id="53" label="milliard euro dette impôt déficit retraite dépense budget privé public système fonctionnaire fraude grand budgétaire baisse salaire seuil sacrifice ">
+        <ns0:size value="0.20425" />
+      </node>
+      <node id="62" label="formation recherche manuel humain meilleur métier intellectuel jeune indispensable civique professionnel enseignement citoyen supérieur étudiant filière étude réforme cause ">
+        <ns0:size value="0.14488" />
+      </node>
+      <node id="50" label="formule âge argument journal échelon adversaire attaque militant sérieux période thèse fondateur difficile esprit groupe bord qualification querelle vache ">
+        <ns0:size value="0.07708" />
+      </node>
+      <node id="57" label="loi ordre autorité territoire banlieue société quartier service police drogue désordre règle bande policier dérive ville anarchie permanent courage ">
+        <ns0:size value="0.20011" />
+      </node>
+      <node id="21" label="zone médecin association santé commerce campagne fermeture hôpital habitant terme gendarmerie visage centaine immeuble médical voiture concentration racine gendarme ">
+        <ns0:size value="0.08158" />
+      </node>
+      <node id="20" label="siècle national vie phénomène année historique nation langue dieu propos livre forme grand département lettre caractère défenseur fidèle cadre ">
+        <ns0:size value="0.13144" />
+      </node>
+      <node id="23" label="terre rural village environnement nature ville respect paysage territoire humain activité mer année siècle sen animal commune défense champ ">
+        <ns0:size value="0.10337" />
+      </node>
+      <node id="22" label="école éducation enfant élève parent autorité maître scolaire classe savoir enseignant enseignement société apprentissage professeur transmission fondamental délinquance effort ">
+        <ns0:size value="0.13858" />
+      </node>
+      <node id="25" label="patrie amour vif siècle homme terre honneur ancien cher saint beau sacrifice esprit passé armée âme œil espérance paysan ">
+        <ns0:size value="0.29265" />
+      </node>
+      <node id="24" label="français pays situation raison étranger domaine moyen partie nécessaire travail cas évident conséquence important condition échec chance solution intérêt ">
+        <ns0:size value="0.70815" />
+      </node>
+      <node id="27" label="extrême droit idée référendum coup sondage raison dynamique initiative journaliste gauche courage mandat victime referendum adversaire discours institut divergence ">
+        <ns0:size value="0.12833" />
+      </node>
+      <node id="26" label="public service fonction fonctionnaire publique administration mission concours agent chasseur neutralité effet noble pire métier ruralité chasse lieu secteur ">
+        <ns0:size value="0.10511" />
+      </node>
+      <node id="29" label="monsieur an président moi question élection conséquent intérêt candidat chose problème raison adversaire sûr position heure programme chef présidentiel ">
+        <ns0:size value="0.54101" />
+      </node>
+      <node id="28" label="femme avortement main homme choix meilleur route permis point crèche fil parité abus automobiliste radar confort art tactique diplôme ">
+        <ns0:size value="0.08743" />
+      </node>
+      <node id="41" label="social projet économique logement achat salaire protection national moyen classe pouvoir emploi plan système seul priorité aide modèle nouveau ">
+        <ns0:size value="0.30025" />
+      </node>
+      <node id="40" label="mort crime terroriste loi terrorisme unique indépendance international tragédie complice expérience coup libre libéral fanatique accord rebelle sang rencontre ">
+        <ns0:size value="0.10043" />
+      </node>
+      <node id="47" label="nouveau affaire mars parlementaire nombre mesure effort partie nombreux plan officiel scandale dirigeant grave suprême manifestation moyen chrétien procédure ">
+        <ns0:size value="0.13362" />
+      </node>
+      <node id="46" label="sécurité révolution droit menace international défense intérieur mondial équilibre esprit puissance action développement influence économique issu migratoire maritime ingérence ">
+        <ns0:size value="0.18341" />
+      </node>
+      <node id="45" label="ami parti mouvement socialiste chef général succès européen partiel nom populaire local consultation régime score lettre plein prochain centaine ">
+        <ns0:size value="0.11903" />
+      </node>
+      <node id="44" label="homme nouveau siècle américain logique industriel mérite naturel terre consommateur commercial climatique taxe mondial pollution modèle matière production marchandise ">
+        <ns0:size value="0.0784" />
+      </node>
+      <node id="8" label="gauche droit français homme parti politique pouvoir socialiste ministre pire politicien dur simple médiatique coupable or ouverture majorité complice ">
+        <ns0:size value="0.43533" />
+      </node>
+      <node id="9" label="politique monsieur foi réalité manière français vrai droit problème chose madame socialiste différent grave différence ensemble difficile ville affaire ">
+        <ns0:size value="0.52844" />
+      </node>
+      <node id="74" label="publique morale affaire niveau contrôle assemblée administration conflit nomination transparence ami argent règle exemplaire culture frais heure clair public ">
+        <ns0:size value="0.06667" />
+      </node>
+      <node id="51" label="droit français étranger nationalité loi national seul intérieur condition origine préférence sol délit aide principe territoire accès public service ">
+        <ns0:size value="0.3808" />
+      </node>
+      <node id="0" label="pays seul nouveau foi monde grand jour espoir redressement chemin avenir novembre énergie cœur engagement crise classe finance préoccupation ">
+        <ns0:size value="0.33561" />
+      </node>
+      <node id="1" label="parti mouvement démocratie main présidentiel rassemblement élu mandat démocratique responsable combat ami élément chose patriote moment grâce austérité interne ">
+        <ns0:size value="0.23502" />
+      </node>
+      <node id="2" label="politique foi sondage opinion part différent vrai principal partisan propre sentiment responsabilité médias rôle mauvais intérieur communiste déclaration secret ">
+        <ns0:size value="0.42449" />
+      </node>
+      <node id="3" label="entreprise grand foi petit vision problème pouvoir difficulté condition moment important droit choix part salarié augmentation programme bénéfice niveau ">
+        <ns0:size value="0.30942" />
+      </node>
+      <node id="4" label="impôt travail revenu français tour économie prélèvement obligatoire manifestation programme amnistie point argent chef principe fonction milliard volonté position ">
+        <ns0:size value="0.07192" />
+      </node>
+      <node id="5" label="immigration pays clandestin frontière étranger travailleur contrôle situation légal illégal salaire école identité prix régularisation moitié migratoire entrée mondial ">
+        <ns0:size value="0.34641" />
+      </node>
+      <node id="6" label="pays culture culturel histoire tradition civilisation respect élite humain retour lieu assimilation religion coutume œuvre fierté intégration effort transport ">
+        <ns0:size value="0.20539" />
+      </node>
+      <node id="7" label="électeur élection national voix parti tour député gouvernement seul assemblée opposition législatif socialiste gauche majorité électoral scrutin prochain démocratie ">
+        <ns0:size value="0.57313" />
+      </node>
+      <node id="54" label="national république identité principe histoire nation cœur homme langue devoir laïcité idée sentiment lien drapeau mission volonté revendication ensemble ">
+        <ns0:size value="0.36314" />
+      </node>
+      <node id="75" label="an retraite loi professionnel moi cotisation droit programme régime actif répartition vie durée mesure spécial réforme travail cadre capitalisme ">
+        <ns0:size value="0.16479" />
+      </node>
+      <node id="65" label="grand pays économie fiscal dernier groupe moyen moi massif classe sen mesure choix conséquence dirigeant nombre véritable situation impôt ">
+        <ns0:size value="0.39622" />
+      </node>
+      <node id="55" label="an million année politique chiffre personne social immigration gouvernement sécurité demi nombre jour chômeur population responsable vérité enfant milliard ">
+        <ns0:size value="0.73255" />
+      </node>
+      <node id="69" label="peuple projet grand débat vision démocratie liberté temps autorité sen conscience combat expert espérance intelligence conviction technocrate internet collectif ">
+        <ns0:size value="0.1793" />
+      </node>
+      <node id="61" label="candidat campagne présidentiel système élection vote immigration tour proposition heure promesse débat électoral maire place dernier candidature parrainage chômage ">
+        <ns0:size value="0.51087" />
+      </node>
+      <node id="49" label="entreprise emploi travail social travailleur temps salarié chômage heure syndicat économique salaire industrie effort richesse patron production création fiscal ">
+        <ns0:size value="0.31416" />
+      </node>
+      <node id="18" label="général local département service dépense conseil aide euro gestion social personne collectivité public compétence âgé publique région irresponsable départemental ">
+        <ns0:size value="0.16956" />
+      </node>
+      <node id="19" label="seul faux médias forain artisan fête commerçant poste commerce coup citoyen fond changement origine petit rupture sen différence rejet ">
+        <ns0:size value="0.06546" />
+      </node>
+      <node id="48" label="an roi mai grand chef foi guerre trahison martyr anglais fête temps moi mort ciel dauphin humain héroïne histoire ">
+        <ns0:size value="0.09431" />
+      </node>
+      <node id="JMLP.txt" label="stripped-author-JMLP.txt" />
+      <node id="78" label="frontière européen concurrence pays emploi économique produit protectionnisme chômage avenir déloyal industrie protection libre union industriel fort vrai douane ">
+        <ns0:size value="0.27335" />
+      </node>
+      <node id="10" label="gens nombre chose conséquent problème foi petit cas monde an loi homme candidat grand vie exemple jour avis pays ">
+        <ns0:size value="0.85179" />
+      </node>
+      <node id="11" label="français peuple national victoire courage compatriote militant jeunesse patriote famille changement cœur merci volonté nombreux déclin sympathisant patriotique dignité ">
+        <ns0:size value="0.29418" />
+      </node>
+      <node id="12" label="guerre armée militaire civil population arme paix international nation mondial risque intervention territoire conflit diplomatie arabe combattant musulman algérien ">
+        <ns0:size value="0.26847" />
+      </node>
+      <node id="13" label="violence peur victime républicain enfant mort jeune arme exemple individuel acte bien terrible esprit personne insécurité destruction travail éducation ">
+        <ns0:size value="0.16738" />
+      </node>
+      <node id="14" label="seul mouvement faux manifestation confiance rang otage mur acte propos commission ancien innocence spécialiste meeting leader journal politicien officier ">
+        <ns0:size value="0.11159" />
+      </node>
+      <node id="15" label="paysan agricole agriculture européen million agriculteur mur fin mesure terre matin quota alimentaire secteur rural pêche disparition exploitation laitier ">
+        <ns0:size value="0.09895" />
+      </node>
+      <node id="16" label="liberté pensée action expression censure totalitarisme statut individuel honneur exigence demande salle juif républicain lutte communauté interdiction préfecture boîte ">
+        <ns0:size value="0.13888" />
+      </node>
+      <node id="17" label="syndicat peur organisation syndical magistrature syndicalisme réforme âge apprenti sorcier chantage effondrement slogan contrôle esprit patronat angoisse moderne football ">
+        <ns0:size value="0.10238" />
+      </node>
+      <node id="32" label="musulman an religion religieux mosquée femme islam laïcité radical voile communauté fondamentaliste zone islamisme territoire fondamentalisme laxisme banlieue chrétien ">
+        <ns0:size value="0.12263" />
+      </node>
+      <node id="33" label="messieurs mesdames effet publique masse dernier résultat libre vie simple compatriote grand officiel successif politicien fameux camarade différent circulation ">
+        <ns0:size value="0.13797" />
+      </node>
+      <node id="30" label="mariage homosexuel nucléaire énergie recherche faux contrepartie référendum texte débat piège adoption résultat information niche déchet maman fiscal client ">
+        <ns0:size value="0.04784" />
+      </node>
+      <node id="31" label="enfant famille vie familial mère femme père homme vrai revenu activité natalité naissance allocation professionnel essentiel parental patrimoine accident ">
+        <ns0:size value="0.18641" />
+      </node>
+      <node id="36" label="vérité histoire élite mensonge discours réalité entier renoncement période idéologique disque destin vieux chose esclavage nuit drame nom matin ">
+        <ns0:size value="0.15384" />
+      </node>
+      <node id="37" label="gouvernement question situation place crise politique point problème européen réponse plan rôle essentiel ensemble union rapport fond structure année ">
+        <ns0:size value="0.52512" />
+      </node>
+      <node id="34" label="monnaie franc français retour modèle temps nouveau manière unique peur bilan initiative production échange parité simple prêt perpétuité baguette ">
+        <ns0:size value="0.11518" />
+      </node>
+      <node id="35" label="européen union constitution traité nation souveraineté frontière parlement indépendance référendum article majorité construction libre commission processus institution coopération mai ">
+        <ns0:size value="0.32074" />
+      </node>
+      <node id="76" label="national politique grand monde pays idée objectif action organisation véritable ligne ancien poste sorte propre terrain sen abandon camp ">
+        <ns0:size value="0.45879" />
+      </node>
+      <node id="68" label="politique ministre gouvernement façon combat adversaire débat général personnel expérience vérité avocat membre personnalité erreur particulier parlement précédent effet ">
+        <ns0:size value="0.24792" />
+      </node>
+      <node id="38" label="justice juge magistrat citoyen policier affaire judiciaire liberté préfet gouvernant jeune police moyen moral cause injustice ordre corruption responsabilité ">
+        <ns0:size value="0.19058" />
+      </node>
+      <node id="39" label="responsabilité responsable main propre victime rien leçon besoin cap chef raisonnable ligne agriculteur mauvais agriculture capacité capable heureux légitimité ">
+        <ns0:size value="0.16058" />
+      </node>
+      <node id="58" label="élection injustice parti système classe contrat électoral mars moyen populaire plateau cher télévision continent nombreux stabilisation oligarque cantonal privilège ">
+        <ns0:size value="0.07259" />
+      </node>
+      <node id="59" label="peuple politique pouvoir liberté français monde seul souveraineté économique intérêt puissance publique volonté avenir commun légitime fort essentiel souverain ">
+        <ns0:size value="0.7495" />
+      </node>
+      <node id="70" label="président république pays pouvoir peuple jour citoyen nouveau ministre affaire fonction personne constitution présidence compte stratégie mai civil véritable ">
+        <ns0:size value="0.47991" />
+      </node>
+      <node id="71" label="marché banque financier intérêt économie loi argent libre finance dette dirigeant zone public austérité milliard réel multinational allemand folle ">
+        <ns0:size value="0.23629" />
+      </node>
+      <node id="43" label="cher ami petit vie compatriote grand campagne caste beau rien confiance libre espérance sûr œil dogme moyen promesse travail ">
+        <ns0:size value="0.34827" />
+      </node>
+      <node id="79" label="égalité solidarité société fraternité injustice famille fort compatriote modèle unité base génération équité paix retour contrat égal origine horizon ">
+        <ns0:size value="0.14219" />
+      </node>
+      <node id="42" label="social travail société national prospérité coût sécurité système moral droit équilibre réel temps charge mal protection place année corps ">
+        <ns0:size value="0.3393" />
+      </node>
+      <node id="52" label="président ami jour moi mort défense équipe méthode risque confiance menace chef fille vrai allemand agression cause mandat semaine ">
+        <ns0:size value="0.30775" />
+      </node>
+      <node id="73" label="prison peine délinquant criminel justice délinquance insécurité criminalité crime ferme sanction délit pénal électoral victime place laxisme société police ">
+        <ns0:size value="0.17119" />
+      </node>
+      <node id="67" label="national politique région régional campagne liste mouvement européen élu électoral bureau dernier conseil voix conseiller congrès municipal élection exécutif ">
+        <ns0:size value="0.37102" />
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="56" target="MLP.txt" weight="0.2244654081966186" />
+      <edge id="1" source="56" target="JMLP.txt" weight="0.1364693828560492" />
+      <edge id="2" source="66" target="MLP.txt" weight="0.14960230446624434" />
+      <edge id="3" source="66" target="JMLP.txt" weight="0.084860424935721" />
+      <edge id="4" source="MLP.txt" target="61" weight="0.21580803598882756" />
+      <edge id="5" source="MLP.txt" target="64" weight="0.03961048124850471" />
+      <edge id="6" source="MLP.txt" target="72" weight="0.05082215390208464" />
+      <edge id="7" source="MLP.txt" target="60" weight="0.19442697112353646" />
+      <edge id="8" source="MLP.txt" target="63" weight="0.35065575631346135" />
+      <edge id="9" source="MLP.txt" target="77" weight="0.03653859183491521" />
+      <edge id="10" source="MLP.txt" target="53" weight="0.13840964602644248" />
+      <edge id="11" source="MLP.txt" target="62" weight="0.040334473467903906" />
+      <edge id="12" source="MLP.txt" target="50" weight="0.03513893590721822" />
+      <edge id="13" source="MLP.txt" target="57" weight="0.2280912351105697" />
+      <edge id="14" source="MLP.txt" target="21" weight="0.2489537876103637" />
+      <edge id="15" source="MLP.txt" target="20" weight="0.0830112608920617" />
+      <edge id="16" source="MLP.txt" target="23" weight="0.22048247713261224" />
+      <edge id="17" source="MLP.txt" target="22" weight="0.323931975725097" />
+      <edge id="18" source="MLP.txt" target="25" weight="0.07235029771979569" />
+      <edge id="19" source="MLP.txt" target="24" weight="0.07598090481216589" />
+      <edge id="20" source="MLP.txt" target="27" weight="0.14525563119640772" />
+      <edge id="21" source="MLP.txt" target="26" weight="0.1378811992200349" />
+      <edge id="22" source="MLP.txt" target="29" weight="0.14323035438615062" />
+      <edge id="23" source="MLP.txt" target="28" weight="0.13578225186572615" />
+      <edge id="24" source="MLP.txt" target="41" weight="0.26782609352137254" />
+      <edge id="25" source="MLP.txt" target="40" weight="0.11501847620319881" />
+      <edge id="26" source="MLP.txt" target="47" weight="0.02970605699994795" />
+      <edge id="27" source="MLP.txt" target="46" weight="0.1814791302242129" />
+      <edge id="28" source="MLP.txt" target="45" weight="0.08576031128095876" />
+      <edge id="29" source="MLP.txt" target="44" weight="0.09025685052964186" />
+      <edge id="30" source="MLP.txt" target="8" weight="0.11121270129682148" />
+      <edge id="31" source="MLP.txt" target="9" weight="0.24260393966415286" />
+      <edge id="32" source="MLP.txt" target="74" weight="0.4718254310991138" />
+      <edge id="33" source="MLP.txt" target="51" weight="0.18040483077521355" />
+      <edge id="34" source="MLP.txt" target="0" weight="0.12753723410514206" />
+      <edge id="35" source="MLP.txt" target="1" weight="0.17036252083680425" />
+      <edge id="36" source="MLP.txt" target="2" weight="0.07483652527055905" />
+      <edge id="37" source="MLP.txt" target="3" weight="0.4107516298009884" />
+      <edge id="38" source="MLP.txt" target="4" weight="0.03397763490385422" />
+      <edge id="39" source="MLP.txt" target="5" weight="0.1189219012531685" />
+      <edge id="40" source="MLP.txt" target="6" weight="0.13229283936475036" />
+      <edge id="41" source="MLP.txt" target="7" weight="0.1536238045292088" />
+      <edge id="42" source="MLP.txt" target="54" weight="0.2554766278379282" />
+      <edge id="43" source="MLP.txt" target="75" weight="0.027804310350104933" />
+      <edge id="44" source="MLP.txt" target="65" weight="0.2555869507910831" />
+      <edge id="45" source="MLP.txt" target="55" weight="0.0869528973926414" />
+      <edge id="46" source="MLP.txt" target="69" weight="0.23289052237095947" />
+      <edge id="47" source="MLP.txt" target="49" weight="0.12649168146645876" />
+      <edge id="48" source="MLP.txt" target="18" weight="0.6343552289647543" />
+      <edge id="49" source="MLP.txt" target="19" weight="0.11954616368160037" />
+      <edge id="50" source="MLP.txt" target="48" weight="0.058385019867909387" />
+      <edge id="51" source="MLP.txt" target="78" weight="0.19326458008561168" />
+      <edge id="52" source="MLP.txt" target="10" weight="0.15402600762262417" />
+      <edge id="53" source="MLP.txt" target="11" weight="0.10346150554785291" />
+      <edge id="54" source="MLP.txt" target="12" weight="0.08514218259744133" />
+      <edge id="55" source="MLP.txt" target="13" weight="0.23648883655969125" />
+      <edge id="56" source="MLP.txt" target="14" weight="0.08925110157208298" />
+      <edge id="57" source="MLP.txt" target="15" weight="0.11632685040936379" />
+      <edge id="58" source="MLP.txt" target="16" weight="0.19067561020164187" />
+      <edge id="59" source="MLP.txt" target="17" weight="0.04142224263506209" />
+      <edge id="60" source="MLP.txt" target="32" weight="0.21761602592612775" />
+      <edge id="61" source="MLP.txt" target="33" weight="0.0314307221778965" />
+      <edge id="62" source="MLP.txt" target="30" weight="0.20673833644274306" />
+      <edge id="63" source="MLP.txt" target="31" weight="0.07073417567729923" />
+      <edge id="64" source="MLP.txt" target="36" weight="0.13736106349254187" />
+      <edge id="65" source="MLP.txt" target="37" weight="0.1751426731618236" />
+      <edge id="66" source="MLP.txt" target="34" weight="0.169703223809855" />
+      <edge id="67" source="MLP.txt" target="35" weight="0.12974733379990042" />
+      <edge id="68" source="MLP.txt" target="76" weight="0.09963315831663085" />
+      <edge id="69" source="MLP.txt" target="68" weight="0.1363742733500996" />
+      <edge id="70" source="MLP.txt" target="38" weight="0.0802238189531747" />
+      <edge id="71" source="MLP.txt" target="39" weight="0.13099032699180274" />
+      <edge id="72" source="MLP.txt" target="58" weight="0.3721378436783542" />
+      <edge id="73" source="MLP.txt" target="59" weight="0.17862525428751724" />
+      <edge id="74" source="MLP.txt" target="70" weight="0.18716730326207665" />
+      <edge id="75" source="MLP.txt" target="71" weight="0.16828375056721626" />
+      <edge id="76" source="MLP.txt" target="43" weight="0.18359535313863432" />
+      <edge id="77" source="MLP.txt" target="79" weight="0.16844971380580043" />
+      <edge id="78" source="MLP.txt" target="42" weight="0.06923223115059543" />
+      <edge id="79" source="MLP.txt" target="52" weight="0.05478580691281333" />
+      <edge id="80" source="MLP.txt" target="73" weight="0.09576706282578767" />
+      <edge id="81" source="MLP.txt" target="67" weight="0.0740833370095908" />
+      <edge id="82" source="64" target="JMLP.txt" weight="0.13096481468754897" />
+      <edge id="83" source="72" target="JMLP.txt" weight="0.23493145906789825" />
+      <edge id="84" source="60" target="JMLP.txt" weight="0.13262531081007656" />
+      <edge id="85" source="63" target="JMLP.txt" weight="0.09449460719936033" />
+      <edge id="86" source="77" target="JMLP.txt" weight="0.15730709446606175" />
+      <edge id="87" source="53" target="JMLP.txt" weight="0.21785714845169926" />
+      <edge id="88" source="62" target="JMLP.txt" weight="0.43485640960250876" />
+      <edge id="89" source="50" target="JMLP.txt" weight="0.08573478253904267" />
+      <edge id="90" source="57" target="JMLP.txt" weight="0.11030188246739973" />
+      <edge id="91" source="21" target="JMLP.txt" weight="0.07985600960038014" />
+      <edge id="92" source="20" target="JMLP.txt" weight="0.11920299042599168" />
+      <edge id="93" source="23" target="JMLP.txt" weight="0.23412503462265505" />
+      <edge id="94" source="22" target="JMLP.txt" weight="0.3398185757007423" />
+      <edge id="95" source="25" target="JMLP.txt" weight="0.1945746096253403" />
+      <edge id="96" source="24" target="JMLP.txt" weight="0.16693361268711823" />
+      <edge id="97" source="27" target="JMLP.txt" weight="0.06062632463625766" />
+      <edge id="98" source="26" target="JMLP.txt" weight="0.31377241470373507" />
+      <edge id="99" source="29" target="JMLP.txt" weight="0.16960926477507576" />
+      <edge id="100" source="28" target="JMLP.txt" weight="0.1152243868621131" />
+      <edge id="101" source="41" target="JMLP.txt" weight="0.08449724318709985" />
+      <edge id="102" source="40" target="JMLP.txt" weight="0.13553788451429" />
+      <edge id="103" source="47" target="JMLP.txt" weight="0.10076668435887277" />
+      <edge id="104" source="46" target="JMLP.txt" weight="0.16622914216878582" />
+      <edge id="105" source="45" target="JMLP.txt" weight="0.16609682093206585" />
+      <edge id="106" source="44" target="JMLP.txt" weight="0.21425178535945763" />
+      <edge id="107" source="8" target="JMLP.txt" weight="0.1533473355145247" />
+      <edge id="108" source="9" target="JMLP.txt" weight="0.09818388796113785" />
+      <edge id="109" source="74" target="JMLP.txt" weight="0.0235472239317544" />
+      <edge id="110" source="51" target="JMLP.txt" weight="0.20017921163638103" />
+      <edge id="111" source="0" target="JMLP.txt" weight="0.122561967255917" />
+      <edge id="112" source="1" target="JMLP.txt" weight="0.05166392036324288" />
+      <edge id="113" source="2" target="JMLP.txt" weight="0.1328703548128571" />
+      <edge id="114" source="3" target="JMLP.txt" weight="0.0669523052888512" />
+      <edge id="115" source="4" target="JMLP.txt" weight="0.2685902993794809" />
+      <edge id="116" source="5" target="JMLP.txt" weight="0.14818968175092062" />
+      <edge id="117" source="6" target="JMLP.txt" weight="0.08120156357602733" />
+      <edge id="118" source="7" target="JMLP.txt" weight="0.24219623717284391" />
+      <edge id="119" source="54" target="JMLP.txt" weight="0.1310370236589328" />
+      <edge id="120" source="75" target="JMLP.txt" weight="0.2932700334430623" />
+      <edge id="121" source="65" target="JMLP.txt" weight="0.061029226123856674" />
+      <edge id="122" source="55" target="JMLP.txt" weight="0.1397504916293705" />
+      <edge id="123" source="69" target="JMLP.txt" weight="0.06851610504808316" />
+      <edge id="124" source="61" target="JMLP.txt" weight="0.13370476932482936" />
+      <edge id="125" source="49" target="JMLP.txt" weight="0.19965851823358804" />
+      <edge id="126" source="18" target="JMLP.txt" weight="0.055953526991803004" />
+      <edge id="127" source="19" target="JMLP.txt" weight="0.2221567977708809" />
+      <edge id="128" source="48" target="JMLP.txt" weight="0.5102388543456046" />
+      <edge id="129" source="JMLP.txt" target="78" weight="0.07273618777873789" />
+      <edge id="130" source="JMLP.txt" target="10" weight="0.1911508704296921" />
+      <edge id="131" source="JMLP.txt" target="11" weight="0.15626139184905855" />
+      <edge id="132" source="JMLP.txt" target="12" weight="0.20809718433270685" />
+      <edge id="133" source="JMLP.txt" target="13" weight="0.05008975748184065" />
+      <edge id="134" source="JMLP.txt" target="14" weight="0.15316762745584123" />
+      <edge id="135" source="JMLP.txt" target="15" weight="0.49210651548192735" />
+      <edge id="136" source="JMLP.txt" target="16" weight="0.10418487467788223" />
+      <edge id="137" source="JMLP.txt" target="17" weight="0.0754223292508222" />
+      <edge id="138" source="JMLP.txt" target="32" weight="0.08049547810564778" />
+      <edge id="139" source="JMLP.txt" target="33" weight="0.16358664281953184" />
+      <edge id="140" source="JMLP.txt" target="30" weight="0.04887901290223069" />
+      <edge id="141" source="JMLP.txt" target="31" weight="0.30673767742405916" />
+      <edge id="142" source="JMLP.txt" target="36" weight="0.08822902937880026" />
+      <edge id="143" source="JMLP.txt" target="37" weight="0.06711129000654929" />
+      <edge id="144" source="JMLP.txt" target="34" weight="0.08737572115417434" />
+      <edge id="145" source="JMLP.txt" target="35" weight="0.24307709222262286" />
+      <edge id="146" source="JMLP.txt" target="76" weight="0.10303179003413244" />
+      <edge id="147" source="JMLP.txt" target="68" weight="0.10844712125552765" />
+      <edge id="148" source="JMLP.txt" target="38" weight="0.21613665045520017" />
+      <edge id="149" source="JMLP.txt" target="39" weight="0.057653444997956" />
+      <edge id="150" source="JMLP.txt" target="58" weight="0.05272726225663107" />
+      <edge id="151" source="JMLP.txt" target="59" weight="0.1550202318715062" />
+      <edge id="152" source="JMLP.txt" target="70" weight="0.16120407324270022" />
+      <edge id="153" source="JMLP.txt" target="71" weight="0.041849381103052134" />
+      <edge id="154" source="JMLP.txt" target="43" weight="0.053057523047984806" />
+      <edge id="155" source="JMLP.txt" target="79" weight="0.08418879553874913" />
+      <edge id="156" source="JMLP.txt" target="42" weight="0.19499485535712552" />
+      <edge id="157" source="JMLP.txt" target="52" weight="0.13276267536064668" />
+      <edge id="158" source="JMLP.txt" target="73" weight="0.22214572128293156" />
+      <edge id="159" source="JMLP.txt" target="67" weight="0.19340917381556383" />
+    </edges>
+  </graph>
+</gexf>

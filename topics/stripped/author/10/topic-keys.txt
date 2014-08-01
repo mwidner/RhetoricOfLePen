@@ -1,0 +1,10 @@
+0	0.72746	social grand pays entreprise économique emploi milliard économie seul marché français européen immigration droit euro foi salaire projet choix 
+1	0.49665	travail social enfant famille école an national loi société jeune vie messieurs français éducation professionnel droit formation mesdames principe 
+2	0.15355	paysan million terre agriculture agricole monde rural agriculteur jeune campagne ville mesure européen vie grand village humain homme année 
+3	0.79369	peuple liberté politique français pays pouvoir seul grand avenir république système monde cher nation petit national histoire ami projet 
+4	0.50734	droit immigration français étranger loi peine justice prison an pays banlieue peur victime violence politique sécurité police crime délinquant 
+5	0.32728	an grand patrie pays foi national français chef histoire temps mai peuple vif siècle fête travail ancien guerre mort 
+6	0.34224	public publique an retraite politique million dépense impôt euro service social général fonctionnaire personne département local milliard fonction national 
+7	1.15184	monsieur politique gens français an chose foi problème candidat pays nombre président conséquent république gouvernement homme petit million monde 
+8	0.4583	européen politique nation pays français frontière peuple guerre constitution union souveraineté international nouveau indépendance mondial monde national traité économique 
+9	0.75572	national parti élection politique électoral droit électeur voix ami seul socialiste mouvement européen campagne gauche liste assemblée région régional 

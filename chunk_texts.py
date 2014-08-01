@@ -1,5 +1,6 @@
 '''
 Chunks a list of files into parts for topic modeling
+Reads in a CSV file of the filenames to chunk
 Uses rough word counts; nothing in this world is perfect
 
 Mike Widner <mikewidner@stanford.edu>

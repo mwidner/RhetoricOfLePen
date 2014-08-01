@@ -1,0 +1,60 @@
+<gexf xmlns:ns0="http://www.gexf.net/1.1draft/viz" version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="3" label="peuple liberté politique français pays pouvoir seul grand avenir république système monde cher nation petit national histoire ami projet ">
+        <ns0:size value="0.79369" />
+      </node>
+      <node id="2" label="paysan million terre agriculture agricole monde rural agriculteur jeune campagne ville mesure européen vie grand village humain homme année ">
+        <ns0:size value="0.15355" />
+      </node>
+      <node id="MLP.txt" label="stripped-author-MLP.txt" />
+      <node id="0" label="social grand pays entreprise économique emploi milliard économie seul marché français européen immigration droit euro foi salaire projet choix ">
+        <ns0:size value="0.72746" />
+      </node>
+      <node id="7" label="monsieur politique gens français an chose foi problème candidat pays nombre président conséquent république gouvernement homme petit million monde ">
+        <ns0:size value="1.15184" />
+      </node>
+      <node id="6" label="public publique an retraite politique million dépense impôt euro service social général fonctionnaire personne département local milliard fonction national ">
+        <ns0:size value="0.34224" />
+      </node>
+      <node id="5" label="an grand patrie pays foi national français chef histoire temps mai peuple vif siècle fête travail ancien guerre mort ">
+        <ns0:size value="0.32728" />
+      </node>
+      <node id="4" label="droit immigration français étranger loi peine justice prison an pays banlieue peur victime violence politique sécurité police crime délinquant ">
+        <ns0:size value="0.50734" />
+      </node>
+      <node id="9" label="national parti élection politique électoral droit électeur voix ami seul socialiste mouvement européen campagne gauche liste assemblée région régional ">
+        <ns0:size value="0.75572" />
+      </node>
+      <node id="8" label="européen politique nation pays français frontière peuple guerre constitution union souveraineté international nouveau indépendance mondial monde national traité économique ">
+        <ns0:size value="0.4583" />
+      </node>
+      <node id="1" label="travail social enfant famille école an national loi société jeune vie messieurs français éducation professionnel droit formation mesdames principe ">
+        <ns0:size value="0.49665" />
+      </node>
+      <node id="JMLP.txt" label="stripped-author-JMLP.txt" />
+    </nodes>
+    <edges>
+      <edge id="0" source="3" target="MLP.txt" weight="0.6307789814372013" />
+      <edge id="1" source="3" target="JMLP.txt" weight="0.4707981914683947" />
+      <edge id="2" source="2" target="MLP.txt" weight="0.43376025073688246" />
+      <edge id="3" source="2" target="JMLP.txt" weight="0.760572841056115" />
+      <edge id="4" source="MLP.txt" target="1" weight="0.4547135766719428" />
+      <edge id="5" source="MLP.txt" target="0" weight="0.81228805185039" />
+      <edge id="6" source="MLP.txt" target="7" weight="0.63402733296897" />
+      <edge id="7" source="MLP.txt" target="6" weight="0.9002012480291907" />
+      <edge id="8" source="MLP.txt" target="5" weight="0.33218015578735616" />
+      <edge id="9" source="MLP.txt" target="4" weight="0.6109203431065846" />
+      <edge id="10" source="MLP.txt" target="9" weight="0.333702267597063" />
+      <edge id="11" source="MLP.txt" target="8" weight="0.2555738944290857" />
+      <edge id="12" source="0" target="JMLP.txt" weight="0.4024653417237751" />
+      <edge id="13" source="7" target="JMLP.txt" weight="0.6160664960914506" />
+      <edge id="14" source="6" target="JMLP.txt" weight="0.619799296816914" />
+      <edge id="15" source="5" target="JMLP.txt" weight="0.7990817686763473" />
+      <edge id="16" source="4" target="JMLP.txt" weight="0.4780687443926624" />
+      <edge id="17" source="9" target="JMLP.txt" weight="0.5966593137191326" />
+      <edge id="18" source="8" target="JMLP.txt" weight="0.5732701952595967" />
+      <edge id="19" source="1" target="JMLP.txt" weight="0.6592365233025267" />
+    </edges>
+  </graph>
+</gexf>

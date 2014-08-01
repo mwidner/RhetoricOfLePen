@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model>
+<topic id='0' tokens='26256.0000' document_entropy='5.3755' word-length='6.3000' coherence='-143.6041' uniform_dist='2.9354' corpus_dist='1.0559' eff_num_words='218.7186' token-doc-diff='0.0041' rank_1_docs='0.1448' allocation_ratio='0.0707' allocation_count='0.1532'>
+<word rank='1' count='492' prob='0.01874' cumulative='0.01874' docs='186' word-length='6.0000' coherence='0.0000' uniform_dist='0.0955' corpus_dist='0.0239' token-doc-diff='0.0003'>social</word>
+<word rank='2' count='484' prob='0.01843' cumulative='0.03717' docs='192' word-length='5.0000' coherence='-0.3658' uniform_dist='0.0936' corpus_dist='0.0166' token-doc-diff='0.0001'>grand</word>
+<word rank='3' count='442' prob='0.01683' cumulative='0.05401' docs='182' word-length='4.0000' coherence='-0.3814' uniform_dist='0.0840' corpus_dist='0.0087' token-doc-diff='0.0001'>pays</word>
+<word rank='4' count='438' prob='0.01668' cumulative='0.07069' docs='134' word-length='10.0000' coherence='-0.7036' uniform_dist='0.0830' corpus_dist='0.0294' token-doc-diff='0.0011'>entreprise</word>
+<word rank='5' count='401' prob='0.01527' cumulative='0.08596' docs='163' word-length='10.0000' coherence='-0.4866' uniform_dist='0.0747' corpus_dist='0.0236' token-doc-diff='0.0001'>économique</word>
+<word rank='6' count='350' prob='0.01333' cumulative='0.09929' docs='136' word-length='6.0000' coherence='-0.6304' uniform_dist='0.0634' corpus_dist='0.0230' token-doc-diff='0.0001'>emploi</word>
+<word rank='7' count='308' prob='0.01173' cumulative='0.11102' docs='116' word-length='8.0000' coherence='-0.8166' uniform_dist='0.0543' corpus_dist='0.0192' token-doc-diff='0.0002'>milliard</word>
+<word rank='8' count='290' prob='0.01105' cumulative='0.12207' docs='131' word-length='8.0000' coherence='-0.7150' uniform_dist='0.0504' corpus_dist='0.0190' token-doc-diff='0.0000'>économie</word>
+<word rank='9' count='263' prob='0.01002' cumulative='0.13208' docs='140' word-length='4.0000' coherence='-0.6391' uniform_dist='0.0448' corpus_dist='0.0074' token-doc-diff='0.0002'>seul</word>
+<word rank='10' count='261' prob='0.00994' cumulative='0.14202' docs='113' word-length='6.0000' coherence='-0.8542' uniform_dist='0.0443' corpus_dist='0.0182' token-doc-diff='0.0000'>marché</word>
+<word rank='11' count='240' prob='0.00914' cumulative='0.15117' docs='135' word-length='8.0000' coherence='-0.6851' uniform_dist='0.0400' corpus_dist='-0.0018' token-doc-diff='0.0003'>français</word>
+<word rank='12' count='240' prob='0.00914' cumulative='0.16031' docs='134' word-length='8.0000' coherence='-0.6498' uniform_dist='0.0400' corpus_dist='0.0038' token-doc-diff='0.0003'>européen</word>
+<word rank='13' count='233' prob='0.00887' cumulative='0.16918' docs='111' word-length='11.0000' coherence='-0.9427' uniform_dist='0.0386' corpus_dist='0.0063' token-doc-diff='0.0000'>immigration</word>
+<word rank='14' count='231' prob='0.00880' cumulative='0.17798' docs='127' word-length='5.0000' coherence='-0.8017' uniform_dist='0.0382' corpus_dist='0.0023' token-doc-diff='0.0002'>droit</word>
+<word rank='15' count='220' prob='0.00838' cumulative='0.18636' docs='96' word-length='4.0000' coherence='-0.9851' uniform_dist='0.0359' corpus_dist='0.0133' token-doc-diff='0.0000'>euro</word>
+<word rank='16' count='207' prob='0.00788' cumulative='0.19424' docs='129' word-length='3.0000' coherence='-0.7595' uniform_dist='0.0333' corpus_dist='0.0032' token-doc-diff='0.0006'>foi</word>
+<word rank='17' count='206' prob='0.00785' cumulative='0.20209' docs='105' word-length='7.0000' coherence='-0.9273' uniform_dist='0.0331' corpus_dist='0.0147' token-doc-diff='0.0001'>salaire</word>
+<word rank='18' count='194' prob='0.00739' cumulative='0.20948' docs='94' word-length='6.0000' coherence='-1.0978' uniform_dist='0.0308' corpus_dist='0.0098' token-doc-diff='0.0000'>projet</word>
+<word rank='19' count='186' prob='0.00708' cumulative='0.21656' docs='89' word-length='5.0000' coherence='-1.2518' uniform_dist='0.0292' corpus_dist='0.0111' token-doc-diff='0.0000'>choix</word>
+<word rank='20' count='186' prob='0.00708' cumulative='0.22364' docs='113' word-length='2.0000' coherence='-0.8145' uniform_dist='0.0292' corpus_dist='-0.0019' token-doc-diff='0.0004'>an</word>
+</topic>
+<topic id='1' tokens='14317.0000' document_entropy='5.2482' word-length='6.7500' coherence='-218.8755' uniform_dist='2.7824' corpus_dist='1.4873' eff_num_words='240.7961' token-doc-diff='0.0046' rank_1_docs='0.0583' allocation_ratio='0.0278' allocation_count='0.0399'>
+<word rank='1' count='291' prob='0.02033' cumulative='0.02033' docs='134' word-length='7.0000' coherence='0.0000' uniform_dist='0.1052' corpus_dist='0.0389' token-doc-diff='0.0003'>travail</word>
+<word rank='2' count='277' prob='0.01935' cumulative='0.03967' docs='123' word-length='6.0000' coherence='-0.5537' uniform_dist='0.0992' corpus_dist='0.0253' token-doc-diff='0.0004'>social</word>
+<word rank='3' count='260' prob='0.01816' cumulative='0.05783' docs='120' word-length='6.0000' coherence='-0.7686' uniform_dist='0.0919' corpus_dist='0.0366' token-doc-diff='0.0003'>enfant</word>
+<word rank='4' count='216' prob='0.01509' cumulative='0.07292' docs='108' word-length='7.0000' coherence='-0.7385' uniform_dist='0.0736' corpus_dist='0.0336' token-doc-diff='0.0001'>famille</word>
+<word rank='5' count='211' prob='0.01474' cumulative='0.08766' docs='92' word-length='5.0000' coherence='-1.0255' uniform_dist='0.0715' corpus_dist='0.0339' token-doc-diff='0.0004'>école</word>
+<word rank='6' count='189' prob='0.01320' cumulative='0.10086' docs='108' word-length='2.0000' coherence='-0.9100' uniform_dist='0.0626' corpus_dist='0.0047' token-doc-diff='0.0000'>an</word>
+<word rank='7' count='169' prob='0.01180' cumulative='0.11266' docs='98' word-length='8.0000' coherence='-0.9156' uniform_dist='0.0547' corpus_dist='0.0041' token-doc-diff='0.0000'>national</word>
+<word rank='8' count='155' prob='0.01083' cumulative='0.12349' docs='96' word-length='3.0000' coherence='-1.0242' uniform_dist='0.0492' corpus_dist='0.0119' token-doc-diff='0.0001'>loi</word>
+<word rank='9' count='136' prob='0.00950' cumulative='0.13299' docs='71' word-length='7.0000' coherence='-1.1193' uniform_dist='0.0419' corpus_dist='0.0170' token-doc-diff='0.0000'>société</word>
+<word rank='10' count='131' prob='0.00915' cumulative='0.14214' docs='76' word-length='5.0000' coherence='-1.1224' uniform_dist='0.0401' corpus_dist='0.0139' token-doc-diff='0.0000'>jeune</word>
+<word rank='11' count='129' prob='0.00901' cumulative='0.15115' docs='79' word-length='3.0000' coherence='-1.0976' uniform_dist='0.0393' corpus_dist='0.0093' token-doc-diff='0.0001'>vie</word>
+<word rank='12' count='116' prob='0.00810' cumulative='0.15925' docs='44' word-length='9.0000' coherence='-1.6944' uniform_dist='0.0345' corpus_dist='0.0161' token-doc-diff='0.0005'>messieurs</word>
+<word rank='13' count='107' prob='0.00747' cumulative='0.16672' docs='82' word-length='8.0000' coherence='-1.0549' uniform_dist='0.0312' corpus_dist='-0.0030' token-doc-diff='0.0006'>français</word>
+<word rank='14' count='99' prob='0.00691' cumulative='0.17364' docs='55' word-length='9.0000' coherence='-1.5664' uniform_dist='0.0283' corpus_dist='0.0172' token-doc-diff='0.0000'>éducation</word>
+<word rank='15' count='94' prob='0.00657' cumulative='0.18021' docs='64' word-length='13.0000' coherence='-1.3653' uniform_dist='0.0266' corpus_dist='0.0159' token-doc-diff='0.0002'>professionnel</word>
+<word rank='16' count='93' prob='0.00650' cumulative='0.18670' docs='66' word-length='5.0000' coherence='-1.2695' uniform_dist='0.0262' corpus_dist='-0.0003' token-doc-diff='0.0003'>droit</word>
+<word rank='17' count='93' prob='0.00650' cumulative='0.19320' docs='59' word-length='9.0000' coherence='-1.4752' uniform_dist='0.0262' corpus_dist='0.0146' token-doc-diff='0.0001'>formation</word>
+<word rank='18' count='88' prob='0.00615' cumulative='0.19934' docs='35' word-length='8.0000' coherence='-1.9514' uniform_dist='0.0245' corpus_dist='0.0128' token-doc-diff='0.0003'>mesdames</word>
+<word rank='19' count='84' prob='0.00587' cumulative='0.20521' docs='64' word-length='8.0000' coherence='-1.4537' uniform_dist='0.0231' corpus_dist='0.0093' token-doc-diff='0.0005'>principe</word>
+<word rank='20' count='84' prob='0.00587' cumulative='0.21108' docs='61' word-length='7.0000' coherence='-1.6175' uniform_dist='0.0231' corpus_dist='0.0067' token-doc-diff='0.0003'>service</word>
+</topic>
+<topic id='2' tokens='5890.0000' document_entropy='4.2336' word-length='6.3500' coherence='-215.5398' uniform_dist='2.8338' corpus_dist='2.2042' eff_num_words='232.1101' token-doc-diff='0.0081' rank_1_docs='0.0870' allocation_ratio='0.0337' allocation_count='0.0652'>
+<word rank='1' count='129' prob='0.02190' cumulative='0.02190' docs='43' word-length='6.0000' coherence='0.0000' uniform_dist='0.1150' corpus_dist='0.0717' token-doc-diff='0.0015'>paysan</word>
+<word rank='2' count='128' prob='0.02173' cumulative='0.04363' docs='54' word-length='7.0000' coherence='-0.5022' uniform_dist='0.1139' corpus_dist='0.0366' token-doc-diff='0.0002'>million</word>
+<word rank='3' count='97' prob='0.01647' cumulative='0.06010' docs='42' word-length='5.0000' coherence='-0.8521' uniform_dist='0.0818' corpus_dist='0.0484' token-doc-diff='0.0001'>terre</word>
+<word rank='4' count='96' prob='0.01630' cumulative='0.07640' docs='39' word-length='11.0000' coherence='-0.8455' uniform_dist='0.0808' corpus_dist='0.0533' token-doc-diff='0.0003'>agriculture</word>
+<word rank='5' count='94' prob='0.01596' cumulative='0.09236' docs='33' word-length='8.0000' coherence='-1.0426' uniform_dist='0.0787' corpus_dist='0.0520' token-doc-diff='0.0008'>agricole</word>
+<word rank='6' count='74' prob='0.01256' cumulative='0.10492' docs='37' word-length='5.0000' coherence='-0.8964' uniform_dist='0.0590' corpus_dist='0.0127' token-doc-diff='0.0000'>monde</word>
+<word rank='7' count='73' prob='0.01239' cumulative='0.11732' docs='25' word-length='5.0000' coherence='-1.3470' uniform_dist='0.0580' corpus_dist='0.0412' token-doc-diff='0.0007'>rural</word>
+<word rank='8' count='68' prob='0.01154' cumulative='0.12886' docs='38' word-length='11.0000' coherence='-0.9629' uniform_dist='0.0532' corpus_dist='0.0377' token-doc-diff='0.0001'>agriculteur</word>
+<word rank='9' count='54' prob='0.00917' cumulative='0.13803' docs='36' word-length='5.0000' coherence='-1.1535' uniform_dist='0.0402' corpus_dist='0.0139' token-doc-diff='0.0006'>jeune</word>
+<word rank='10' count='52' prob='0.00883' cumulative='0.14686' docs='30' word-length='8.0000' coherence='-1.4208' uniform_dist='0.0383' corpus_dist='0.0097' token-doc-diff='0.0002'>campagne</word>
+<word rank='11' count='52' prob='0.00883' cumulative='0.15569' docs='35' word-length='5.0000' coherence='-1.2782' uniform_dist='0.0383' corpus_dist='0.0178' token-doc-diff='0.0006'>ville</word>
+<word rank='12' count='48' prob='0.00815' cumulative='0.16384' docs='19' word-length='6.0000' coherence='-2.0361' uniform_dist='0.0347' corpus_dist='0.0133' token-doc-diff='0.0002'>mesure</word>
+<word rank='13' count='44' prob='0.00747' cumulative='0.17131' docs='26' word-length='8.0000' coherence='-1.3535' uniform_dist='0.0312' corpus_dist='0.0016' token-doc-diff='0.0002'>européen</word>
+<word rank='14' count='44' prob='0.00747' cumulative='0.17878' docs='31' word-length='3.0000' coherence='-1.1535' uniform_dist='0.0312' corpus_dist='0.0063' token-doc-diff='0.0007'>vie</word>
+<word rank='15' count='42' prob='0.00713' cumulative='0.18591' docs='25' word-length='5.0000' coherence='-1.3816' uniform_dist='0.0294' corpus_dist='-0.0004' token-doc-diff='0.0002'>grand</word>
+<word rank='16' count='41' prob='0.00696' cumulative='0.19287' docs='19' word-length='7.0000' coherence='-2.0361' uniform_dist='0.0286' corpus_dist='0.0212' token-doc-diff='0.0000'>village</word>
+<word rank='17' count='39' prob='0.00662' cumulative='0.19949' docs='29' word-length='6.0000' coherence='-1.6396' uniform_dist='0.0268' corpus_dist='0.0139' token-doc-diff='0.0008'>humain</word>
+<word rank='18' count='39' prob='0.00662' cumulative='0.20611' docs='25' word-length='5.0000' coherence='-1.7840' uniform_dist='0.0268' corpus_dist='0.0042' token-doc-diff='0.0003'>homme</word>
+<word rank='19' count='39' prob='0.00662' cumulative='0.21273' docs='26' word-length='5.0000' coherence='-1.5526' uniform_dist='0.0268' corpus_dist='0.0036' token-doc-diff='0.0004'>année</word>
+<word rank='20' count='37' prob='0.00628' cumulative='0.21902' docs='16' word-length='6.0000' coherence='-2.2388' uniform_dist='0.0251' corpus_dist='0.0171' token-doc-diff='0.0000'>nature</word>
+</topic>
+<topic id='3' tokens='24160.0000' document_entropy='5.4153' word-length='6.2500' coherence='-160.8150' uniform_dist='2.7124' corpus_dist='1.0566' eff_num_words='223.3391' token-doc-diff='0.0085' rank_1_docs='0.1413' allocation_ratio='0.0617' allocation_count='0.1386'>
+<word rank='1' count='840' prob='0.03477' cumulative='0.03477' docs='230' word-length='6.0000' coherence='0.0000' uniform_dist='0.1986' corpus_dist='0.0563' token-doc-diff='0.0050'>peuple</word>
+<word rank='2' count='446' prob='0.01846' cumulative='0.05323' docs='162' word-length='7.0000' coherence='-0.5253' uniform_dist='0.0938' corpus_dist='0.0308' token-doc-diff='0.0008'>liberté</word>
+<word rank='3' count='441' prob='0.01825' cumulative='0.07148' docs='196' word-length='9.0000' coherence='-0.4141' uniform_dist='0.0925' corpus_dist='0.0059' token-doc-diff='0.0001'>politique</word>
+<word rank='4' count='291' prob='0.01204' cumulative='0.08353' docs='152' word-length='8.0000' coherence='-0.5781' uniform_dist='0.0560' corpus_dist='0.0009' token-doc-diff='0.0000'>français</word>
+<word rank='5' count='272' prob='0.01126' cumulative='0.09478' docs='142' word-length='4.0000' coherence='-0.6587' uniform_dist='0.0516' corpus_dist='0.0013' token-doc-diff='0.0000'>pays</word>
+<word rank='6' count='266' prob='0.01101' cumulative='0.10579' docs='133' word-length='7.0000' coherence='-0.7373' uniform_dist='0.0502' corpus_dist='0.0106' token-doc-diff='0.0000'>pouvoir</word>
+<word rank='7' count='258' prob='0.01068' cumulative='0.11647' docs='139' word-length='4.0000' coherence='-0.6929' uniform_dist='0.0484' corpus_dist='0.0085' token-doc-diff='0.0001'>seul</word>
+<word rank='8' count='238' prob='0.00985' cumulative='0.12632' docs='130' word-length='5.0000' coherence='-0.8589' uniform_dist='0.0438' corpus_dist='0.0027' token-doc-diff='0.0001'>grand</word>
+<word rank='9' count='204' prob='0.00844' cumulative='0.13477' docs='116' word-length='6.0000' coherence='-0.9439' uniform_dist='0.0363' corpus_dist='0.0131' token-doc-diff='0.0001'>avenir</word>
+<word rank='10' count='198' prob='0.00820' cumulative='0.14296' docs='111' word-length='10.0000' coherence='-0.9339' uniform_dist='0.0350' corpus_dist='0.0068' token-doc-diff='0.0001'>république</word>
+<word rank='11' count='194' prob='0.00803' cumulative='0.15099' docs='98' word-length='7.0000' coherence='-1.1031' uniform_dist='0.0341' corpus_dist='0.0081' token-doc-diff='0.0000'>système</word>
+<word rank='12' count='192' prob='0.00795' cumulative='0.15894' docs='105' word-length='5.0000' coherence='-0.9950' uniform_dist='0.0337' corpus_dist='0.0044' token-doc-diff='0.0001'>monde</word>
+<word rank='13' count='189' prob='0.00782' cumulative='0.16676' docs='95' word-length='4.0000' coherence='-1.0556' uniform_dist='0.0330' corpus_dist='0.0130' token-doc-diff='0.0000'>cher</word>
+<word rank='14' count='188' prob='0.00778' cumulative='0.17454' docs='96' word-length='6.0000' coherence='-1.1344' uniform_dist='0.0328' corpus_dist='0.0086' token-doc-diff='0.0000'>nation</word>
+<word rank='15' count='185' prob='0.00766' cumulative='0.18220' docs='119' word-length='5.0000' coherence='-0.8839' uniform_dist='0.0322' corpus_dist='0.0059' token-doc-diff='0.0004'>petit</word>
+<word rank='16' count='167' prob='0.00691' cumulative='0.18911' docs='113' word-length='8.0000' coherence='-0.8957' uniform_dist='0.0283' corpus_dist='-0.0013' token-doc-diff='0.0005'>national</word>
+<word rank='17' count='162' prob='0.00671' cumulative='0.19582' docs='96' word-length='8.0000' coherence='-1.0729' uniform_dist='0.0273' corpus_dist='0.0094' token-doc-diff='0.0002'>histoire</word>
+<word rank='18' count='157' prob='0.00650' cumulative='0.20232' docs='97' word-length='3.0000' coherence='-1.1550' uniform_dist='0.0262' corpus_dist='0.0061' token-doc-diff='0.0002'>ami</word>
+<word rank='19' count='155' prob='0.00642' cumulative='0.20873' docs='95' word-length='6.0000' coherence='-1.1356' uniform_dist='0.0258' corpus_dist='0.0076' token-doc-diff='0.0002'>projet</word>
+<word rank='20' count='141' prob='0.00584' cumulative='0.21457' docs='98' word-length='7.0000' coherence='-1.0432' uniform_dist='0.0229' corpus_dist='0.0055' token-doc-diff='0.0005'>nouveau</word>
+</topic>
+<topic id='4' tokens='14508.0000' document_entropy='5.2698' word-length='6.5000' coherence='-217.3074' uniform_dist='2.8960' corpus_dist='1.5215' eff_num_words='223.7890' token-doc-diff='0.0027' rank_1_docs='0.0610' allocation_ratio='0.0082' allocation_count='0.0523'>
+<word rank='1' count='291' prob='0.02006' cumulative='0.02006' docs='144' word-length='5.0000' coherence='0.0000' uniform_dist='0.1035' corpus_dist='0.0217' token-doc-diff='0.0000'>droit</word>
+<word rank='2' count='252' prob='0.01737' cumulative='0.03743' docs='106' word-length='11.0000' coherence='-0.7209' uniform_dist='0.0872' corpus_dist='0.0240' token-doc-diff='0.0004'>immigration</word>
+<word rank='3' count='251' prob='0.01730' cumulative='0.05473' docs='132' word-length='8.0000' coherence='-0.5387' uniform_dist='0.0868' corpus_dist='0.0076' token-doc-diff='0.0000'>français</word>
+<word rank='4' count='246' prob='0.01696' cumulative='0.07168' docs='117' word-length='8.0000' coherence='-0.7353' uniform_dist='0.0847' corpus_dist='0.0311' token-doc-diff='0.0001'>étranger</word>
+<word rank='5' count='231' prob='0.01592' cumulative='0.08761' docs='111' word-length='3.0000' coherence='-0.7647' uniform_dist='0.0785' corpus_dist='0.0236' token-doc-diff='0.0000'>loi</word>
+<word rank='6' count='171' prob='0.01179' cumulative='0.09939' docs='72' word-length='5.0000' coherence='-1.3052' uniform_dist='0.0546' corpus_dist='0.0289' token-doc-diff='0.0003'>peine</word>
+<word rank='7' count='168' prob='0.01158' cumulative='0.11097' docs='85' word-length='7.0000' coherence='-1.2346' uniform_dist='0.0534' corpus_dist='0.0244' token-doc-diff='0.0000'>justice</word>
+<word rank='8' count='160' prob='0.01103' cumulative='0.12200' docs='63' word-length='6.0000' coherence='-1.4422' uniform_dist='0.0503' corpus_dist='0.0275' token-doc-diff='0.0004'>prison</word>
+<word rank='9' count='158' prob='0.01089' cumulative='0.13289' docs='102' word-length='2.0000' coherence='-0.8697' uniform_dist='0.0496' corpus_dist='0.0018' token-doc-diff='0.0003'>an</word>
+<word rank='10' count='153' prob='0.01055' cumulative='0.14344' docs='91' word-length='4.0000' coherence='-0.9432' uniform_dist='0.0477' corpus_dist='0.0005' token-doc-diff='0.0001'>pays</word>
+<word rank='11' count='121' prob='0.00834' cumulative='0.15178' docs='60' word-length='8.0000' coherence='-1.6672' uniform_dist='0.0357' corpus_dist='0.0202' token-doc-diff='0.0000'>banlieue</word>
+<word rank='12' count='112' prob='0.00772' cumulative='0.15950' docs='54' word-length='4.0000' coherence='-1.6672' uniform_dist='0.0325' corpus_dist='0.0151' token-doc-diff='0.0000'>peur</word>
+<word rank='13' count='111' prob='0.00765' cumulative='0.16715' docs='68' word-length='7.0000' coherence='-1.3934' uniform_dist='0.0321' corpus_dist='0.0160' token-doc-diff='0.0001'>victime</word>
+<word rank='14' count='111' prob='0.00765' cumulative='0.17480' docs='57' word-length='8.0000' coherence='-1.4643' uniform_dist='0.0321' corpus_dist='0.0172' token-doc-diff='0.0000'>violence</word>
+<word rank='15' count='110' prob='0.00758' cumulative='0.18238' docs='75' word-length='9.0000' coherence='-1.2629' uniform_dist='0.0318' corpus_dist='-0.0042' token-doc-diff='0.0004'>politique</word>
+<word rank='16' count='109' prob='0.00751' cumulative='0.18990' docs='70' word-length='8.0000' coherence='-1.3934' uniform_dist='0.0314' corpus_dist='0.0102' token-doc-diff='0.0002'>sécurité</word>
+<word rank='17' count='107' prob='0.00738' cumulative='0.19727' docs='61' word-length='6.0000' coherence='-1.3596' uniform_dist='0.0307' corpus_dist='0.0181' token-doc-diff='0.0000'>police</word>
+<word rank='18' count='107' prob='0.00738' cumulative='0.20465' docs='59' word-length='5.0000' coherence='-1.5415' uniform_dist='0.0307' corpus_dist='0.0168' token-doc-diff='0.0000'>crime</word>
+<word rank='19' count='105' prob='0.00724' cumulative='0.21188' docs='49' word-length='10.0000' coherence='-1.5415' uniform_dist='0.0300' corpus_dist='0.0182' token-doc-diff='0.0000'>délinquant</word>
+<word rank='20' count='105' prob='0.00724' cumulative='0.21912' docs='66' word-length='6.0000' coherence='-1.5498' uniform_dist='0.0300' corpus_dist='0.0053' token-doc-diff='0.0002'>gauche</word>
+</topic>
+<topic id='5' tokens='10625.0000' document_entropy='4.9792' word-length='5.3000' coherence='-206.1834' uniform_dist='2.5989' corpus_dist='1.7393' eff_num_words='301.0987' token-doc-diff='0.0026' rank_1_docs='0.0724' allocation_ratio='0.0223' allocation_count='0.0483'>
+<word rank='1' count='223' prob='0.02099' cumulative='0.02099' docs='100' word-length='2.0000' coherence='0.0000' uniform_dist='0.1093' corpus_dist='0.0172' token-doc-diff='0.0010'>an</word>
+<word rank='2' count='162' prob='0.01525' cumulative='0.03624' docs='81' word-length='5.0000' coherence='-0.5974' uniform_dist='0.0745' corpus_dist='0.0108' token-doc-diff='0.0003'>grand</word>
+<word rank='3' count='155' prob='0.01459' cumulative='0.05082' docs='83' word-length='6.0000' coherence='-0.6926' uniform_dist='0.0707' corpus_dist='0.0376' token-doc-diff='0.0001'>patrie</word>
+<word rank='4' count='117' prob='0.01101' cumulative='0.06184' docs='71' word-length='4.0000' coherence='-0.8908' uniform_dist='0.0502' corpus_dist='0.0010' token-doc-diff='0.0000'>pays</word>
+<word rank='5' count='112' prob='0.01054' cumulative='0.07238' docs='71' word-length='3.0000' coherence='-0.8344' uniform_dist='0.0476' corpus_dist='0.0073' token-doc-diff='0.0000'>foi</word>
+<word rank='6' count='109' prob='0.01026' cumulative='0.08264' docs='72' word-length='8.0000' coherence='-0.7978' uniform_dist='0.0461' corpus_dist='0.0021' token-doc-diff='0.0001'>national</word>
+<word rank='7' count='90' prob='0.00847' cumulative='0.09111' docs='58' word-length='8.0000' coherence='-0.9921' uniform_dist='0.0364' corpus_dist='-0.0023' token-doc-diff='0.0000'>français</word>
+<word rank='8' count='89' prob='0.00838' cumulative='0.09948' docs='55' word-length='4.0000' coherence='-1.2163' uniform_dist='0.0359' corpus_dist='0.0166' token-doc-diff='0.0000'>chef</word>
+<word rank='9' count='86' prob='0.00809' cumulative='0.10758' docs='53' word-length='8.0000' coherence='-1.3723' uniform_dist='0.0344' corpus_dist='0.0129' token-doc-diff='0.0000'>histoire</word>
+<word rank='10' count='84' prob='0.00791' cumulative='0.11548' docs='53' word-length='5.0000' coherence='-1.4818' uniform_dist='0.0335' corpus_dist='0.0102' token-doc-diff='0.0000'>temps</word>
+<word rank='11' count='83' prob='0.00781' cumulative='0.12329' docs='48' word-length='3.0000' coherence='-1.2596' uniform_dist='0.0330' corpus_dist='0.0178' token-doc-diff='0.0000'>mai</word>
+<word rank='12' count='80' prob='0.00753' cumulative='0.13082' docs='55' word-length='6.0000' coherence='-1.4021' uniform_dist='0.0315' corpus_dist='0.0007' token-doc-diff='0.0001'>peuple</word>
+<word rank='13' count='80' prob='0.00753' cumulative='0.13835' docs='49' word-length='3.0000' coherence='-1.2596' uniform_dist='0.0315' corpus_dist='0.0179' token-doc-diff='0.0000'>vif</word>
+<word rank='14' count='76' prob='0.00715' cumulative='0.14551' docs='56' word-length='6.0000' coherence='-1.2596' uniform_dist='0.0296' corpus_dist='0.0130' token-doc-diff='0.0002'>siècle</word>
+<word rank='15' count='74' prob='0.00696' cumulative='0.15247' docs='37' word-length='4.0000' coherence='-1.6631' uniform_dist='0.0286' corpus_dist='0.0195' token-doc-diff='0.0001'>fête</word>
+<word rank='16' count='73' prob='0.00687' cumulative='0.15934' docs='45' word-length='7.0000' coherence='-1.3653' uniform_dist='0.0281' corpus_dist='0.0057' token-doc-diff='0.0000'>travail</word>
+<word rank='17' count='71' prob='0.00668' cumulative='0.16602' docs='48' word-length='6.0000' coherence='-1.3183' uniform_dist='0.0272' corpus_dist='0.0128' token-doc-diff='0.0001'>ancien</word>
+<word rank='18' count='71' prob='0.00668' cumulative='0.17271' docs='55' word-length='6.0000' coherence='-1.1718' uniform_dist='0.0272' corpus_dist='0.0073' token-doc-diff='0.0004'>guerre</word>
+<word rank='19' count='71' prob='0.00668' cumulative='0.17939' docs='48' word-length='4.0000' coherence='-1.3653' uniform_dist='0.0272' corpus_dist='0.0117' token-doc-diff='0.0001'>mort</word>
+<word rank='20' count='70' prob='0.00659' cumulative='0.18598' docs='38' word-length='8.0000' coherence='-1.7679' uniform_dist='0.0267' corpus_dist='0.0154' token-doc-diff='0.0000'>jeunesse</word>
+</topic>
+<topic id='6' tokens='9310.0000' document_entropy='4.8179' word-length='7.1500' coherence='-237.7074' uniform_dist='2.8580' corpus_dist='1.6109' eff_num_words='236.3318' token-doc-diff='0.0029' rank_1_docs='0.0331' allocation_ratio='0.0427' allocation_count='0.0364'>
+<word rank='1' count='187' prob='0.02009' cumulative='0.02009' docs='84' word-length='6.0000' coherence='0.0000' uniform_dist='0.1037' corpus_dist='0.0443' token-doc-diff='0.0002'>public</word>
+<word rank='2' count='180' prob='0.01933' cumulative='0.03942' docs='77' word-length='8.0000' coherence='-0.7412' uniform_dist='0.0991' corpus_dist='0.0467' token-doc-diff='0.0003'>publique</word>
+<word rank='3' count='160' prob='0.01719' cumulative='0.05661' docs='77' word-length='2.0000' coherence='-0.8464' uniform_dist='0.0861' corpus_dist='0.0107' token-doc-diff='0.0000'>an</word>
+<word rank='4' count='150' prob='0.01611' cumulative='0.07272' docs='68' word-length='8.0000' coherence='-1.1234' uniform_dist='0.0796' corpus_dist='0.0436' token-doc-diff='0.0001'>retraite</word>
+<word rank='5' count='138' prob='0.01482' cumulative='0.08754' docs='75' word-length='9.0000' coherence='-0.8511' uniform_dist='0.0720' corpus_dist='0.0017' token-doc-diff='0.0000'>politique</word>
+<word rank='6' count='115' prob='0.01235' cumulative='0.09989' docs='59' word-length='7.0000' coherence='-0.9333' uniform_dist='0.0578' corpus_dist='0.0138' token-doc-diff='0.0000'>million</word>
+<word rank='7' count='103' prob='0.01106' cumulative='0.11096' docs='40' word-length='7.0000' coherence='-1.3197' uniform_dist='0.0505' corpus_dist='0.0322' token-doc-diff='0.0004'>dépense</word>
+<word rank='8' count='92' prob='0.00988' cumulative='0.12084' docs='48' word-length='5.0000' coherence='-1.2729' uniform_dist='0.0440' corpus_dist='0.0208' token-doc-diff='0.0000'>impôt</word>
+<word rank='9' count='92' prob='0.00988' cumulative='0.13072' docs='40' word-length='4.0000' coherence='-1.4510' uniform_dist='0.0440' corpus_dist='0.0173' token-doc-diff='0.0001'>euro</word>
+<word rank='10' count='90' prob='0.00967' cumulative='0.14039' docs='54' word-length='7.0000' coherence='-1.3031' uniform_dist='0.0428' corpus_dist='0.0158' token-doc-diff='0.0002'>service</word>
+<word rank='11' count='85' prob='0.00913' cumulative='0.14952' docs='54' word-length='6.0000' coherence='-1.1641' uniform_dist='0.0399' corpus_dist='0.0051' token-doc-diff='0.0003'>social</word>
+<word rank='12' count='77' prob='0.00827' cumulative='0.15779' docs='41' word-length='7.0000' coherence='-1.5380' uniform_dist='0.0354' corpus_dist='0.0126' token-doc-diff='0.0000'>général</word>
+<word rank='13' count='73' prob='0.00784' cumulative='0.16563' docs='40' word-length='13.0000' coherence='-1.5115' uniform_dist='0.0331' corpus_dist='0.0178' token-doc-diff='0.0000'>fonctionnaire</word>
+<word rank='14' count='71' prob='0.00763' cumulative='0.17325' docs='38' word-length='8.0000' coherence='-1.5004' uniform_dist='0.0320' corpus_dist='0.0094' token-doc-diff='0.0000'>personne</word>
+<word rank='15' count='70' prob='0.00752' cumulative='0.18077' docs='27' word-length='11.0000' coherence='-2.2517' uniform_dist='0.0314' corpus_dist='0.0200' token-doc-diff='0.0003'>département</word>
+<word rank='16' count='65' prob='0.00698' cumulative='0.18776' docs='38' word-length='5.0000' coherence='-1.7364' uniform_dist='0.0287' corpus_dist='0.0175' token-doc-diff='0.0001'>local</word>
+<word rank='17' count='65' prob='0.00698' cumulative='0.19474' docs='37' word-length='8.0000' coherence='-1.4208' uniform_dist='0.0287' corpus_dist='0.0078' token-doc-diff='0.0001'>milliard</word>
+<word rank='18' count='62' prob='0.00666' cumulative='0.20140' docs='37' word-length='8.0000' coherence='-2.0696' uniform_dist='0.0270' corpus_dist='0.0138' token-doc-diff='0.0001'>fonction</word>
+<word rank='19' count='59' prob='0.00634' cumulative='0.20773' docs='42' word-length='8.0000' coherence='-1.3268' uniform_dist='0.0254' corpus_dist='-0.0017' token-doc-diff='0.0005'>national</word>
+<word rank='20' count='58' prob='0.00623' cumulative='0.21396' docs='35' word-length='6.0000' coherence='-1.6038' uniform_dist='0.0249' corpus_dist='0.0101' token-doc-diff='0.0001'>niveau</word>
+</topic>
+<topic id='7' tokens='40123.0000' document_entropy='5.5707' word-length='6.5500' coherence='-94.3784' uniform_dist='3.1018' corpus_dist='0.8120' eff_num_words='132.8159' token-doc-diff='0.0166' rank_1_docs='0.3583' allocation_ratio='0.0896' allocation_count='0.3663'>
+<word rank='1' count='1920' prob='0.04785' cumulative='0.04785' docs='256' word-length='8.0000' coherence='0.0000' uniform_dist='0.2886' corpus_dist='0.0721' token-doc-diff='0.0105'>monsieur</word>
+<word rank='2' count='1024' prob='0.02552' cumulative='0.07337' docs='274' word-length='9.0000' coherence='-0.1335' uniform_dist='0.1379' corpus_dist='0.0169' token-doc-diff='0.0004'>politique</word>
+<word rank='3' count='831' prob='0.02071' cumulative='0.09409' docs='218' word-length='4.0000' coherence='-0.3577' uniform_dist='0.1076' corpus_dist='0.0311' token-doc-diff='0.0004'>gens</word>
+<word rank='4' count='816' prob='0.02034' cumulative='0.11442' docs='260' word-length='8.0000' coherence='-0.2270' uniform_dist='0.1053' corpus_dist='0.0122' token-doc-diff='0.0000'>français</word>
+<word rank='5' count='727' prob='0.01812' cumulative='0.13254' docs='222' word-length='2.0000' coherence='-0.3504' uniform_dist='0.0917' corpus_dist='0.0122' token-doc-diff='0.0000'>an</word>
+<word rank='6' count='622' prob='0.01550' cumulative='0.14804' docs='224' word-length='5.0000' coherence='-0.3511' uniform_dist='0.0760' corpus_dist='0.0221' token-doc-diff='0.0000'>chose</word>
+<word rank='7' count='607' prob='0.01513' cumulative='0.16317' docs='221' word-length='3.0000' coherence='-0.3555' uniform_dist='0.0738' corpus_dist='0.0160' token-doc-diff='0.0001'>foi</word>
+<word rank='8' count='587' prob='0.01463' cumulative='0.17780' docs='203' word-length='8.0000' coherence='-0.4090' uniform_dist='0.0709' corpus_dist='0.0193' token-doc-diff='0.0000'>problème</word>
+<word rank='9' count='566' prob='0.01411' cumulative='0.19191' docs='197' word-length='8.0000' coherence='-0.4791' uniform_dist='0.0679' corpus_dist='0.0189' token-doc-diff='0.0000'>candidat</word>
+<word rank='10' count='547' prob='0.01363' cumulative='0.20554' docs='215' word-length='4.0000' coherence='-0.3958' uniform_dist='0.0651' corpus_dist='0.0042' token-doc-diff='0.0002'>pays</word>
+<word rank='11' count='509' prob='0.01269' cumulative='0.21823' docs='208' word-length='6.0000' coherence='-0.4312' uniform_dist='0.0597' corpus_dist='0.0155' token-doc-diff='0.0003'>nombre</word>
+<word rank='12' count='500' prob='0.01246' cumulative='0.23069' docs='194' word-length='9.0000' coherence='-0.4950' uniform_dist='0.0584' corpus_dist='0.0132' token-doc-diff='0.0001'>président</word>
+<word rank='13' count='456' prob='0.01137' cumulative='0.24206' docs='161' word-length='10.0000' coherence='-0.5838' uniform_dist='0.0522' corpus_dist='0.0171' token-doc-diff='0.0000'>conséquent</word>
+<word rank='14' count='352' prob='0.00877' cumulative='0.25083' docs='163' word-length='10.0000' coherence='-0.6278' uniform_dist='0.0380' corpus_dist='0.0079' token-doc-diff='0.0005'>république</word>
+<word rank='15' count='343' prob='0.00855' cumulative='0.25938' docs='160' word-length='12.0000' coherence='-0.6701' uniform_dist='0.0368' corpus_dist='0.0074' token-doc-diff='0.0005'>gouvernement</word>
+<word rank='16' count='326' prob='0.00813' cumulative='0.26750' docs='167' word-length='5.0000' coherence='-0.6777' uniform_dist='0.0346' corpus_dist='0.0068' token-doc-diff='0.0008'>homme</word>
+<word rank='17' count='326' prob='0.00813' cumulative='0.27563' docs='158' word-length='5.0000' coherence='-0.7084' uniform_dist='0.0346' corpus_dist='0.0068' token-doc-diff='0.0006'>petit</word>
+<word rank='18' count='323' prob='0.00805' cumulative='0.28368' docs='144' word-length='7.0000' coherence='-0.7454' uniform_dist='0.0342' corpus_dist='0.0056' token-doc-diff='0.0003'>million</word>
+<word rank='19' count='322' prob='0.00803' cumulative='0.29170' docs='169' word-length='5.0000' coherence='-0.5907' uniform_dist='0.0341' corpus_dist='0.0045' token-doc-diff='0.0009'>monde</word>
+<word rank='20' count='316' prob='0.00788' cumulative='0.29958' docs='163' word-length='3.0000' coherence='-0.6471' uniform_dist='0.0333' corpus_dist='0.0102' token-doc-diff='0.0008'>cas</word>
+</topic>
+<topic id='8' tokens='13166.0000' document_entropy='5.2234' word-length='8.0000' coherence='-184.9411' uniform_dist='2.9865' corpus_dist='1.5166' eff_num_words='150.3197' token-doc-diff='0.0085' rank_1_docs='0.0661' allocation_ratio='0.0128' allocation_count='0.0480'>
+<word rank='1' count='604' prob='0.04588' cumulative='0.04588' docs='165' word-length='8.0000' coherence='0.0000' uniform_dist='0.2748' corpus_dist='0.0932' token-doc-diff='0.0058'>européen</word>
+<word rank='2' count='273' prob='0.02074' cumulative='0.06661' docs='133' word-length='9.0000' coherence='-0.6397' uniform_dist='0.1077' corpus_dist='0.0094' token-doc-diff='0.0000'>politique</word>
+<word rank='3' count='246' prob='0.01868' cumulative='0.08530' docs='113' word-length='6.0000' coherence='-0.7236' uniform_dist='0.0951' corpus_dist='0.0370' token-doc-diff='0.0001'>nation</word>
+<word rank='4' count='228' prob='0.01732' cumulative='0.10261' docs='119' word-length='4.0000' coherence='-0.7489' uniform_dist='0.0869' corpus_dist='0.0094' token-doc-diff='0.0000'>pays</word>
+<word rank='5' count='221' prob='0.01679' cumulative='0.11940' docs='116' word-length='8.0000' coherence='-0.7182' uniform_dist='0.0837' corpus_dist='0.0068' token-doc-diff='0.0000'>français</word>
+<word rank='6' count='198' prob='0.01504' cumulative='0.13444' docs='107' word-length='9.0000' coherence='-0.7896' uniform_dist='0.0733' corpus_dist='0.0295' token-doc-diff='0.0000'>frontière</word>
+<word rank='7' count='193' prob='0.01466' cumulative='0.14910' docs='109' word-length='6.0000' coherence='-0.8082' uniform_dist='0.0711' corpus_dist='0.0111' token-doc-diff='0.0001'>peuple</word>
+<word rank='8' count='175' prob='0.01329' cumulative='0.16239' docs='83' word-length='6.0000' coherence='-1.1734' uniform_dist='0.0631' corpus_dist='0.0238' token-doc-diff='0.0000'>guerre</word>
+<word rank='9' count='166' prob='0.01261' cumulative='0.17500' docs='82' word-length='12.0000' coherence='-1.0799' uniform_dist='0.0592' corpus_dist='0.0300' token-doc-diff='0.0000'>constitution</word>
+<word rank='10' count='151' prob='0.01147' cumulative='0.18647' docs='82' word-length='5.0000' coherence='-1.1405' uniform_dist='0.0528' corpus_dist='0.0212' token-doc-diff='0.0000'>union</word>
+<word rank='11' count='148' prob='0.01124' cumulative='0.19771' docs='75' word-length='12.0000' coherence='-1.3723' uniform_dist='0.0515' corpus_dist='0.0245' token-doc-diff='0.0000'>souveraineté</word>
+<word rank='12' count='148' prob='0.01124' cumulative='0.20895' docs='89' word-length='13.0000' coherence='-1.1095' uniform_dist='0.0515' corpus_dist='0.0261' token-doc-diff='0.0002'>international</word>
+<word rank='13' count='138' prob='0.01048' cumulative='0.21943' docs='93' word-length='7.0000' coherence='-1.0043' uniform_dist='0.0473' corpus_dist='0.0160' token-doc-diff='0.0004'>nouveau</word>
+<word rank='14' count='130' prob='0.00987' cumulative='0.22930' docs='75' word-length='12.0000' coherence='-1.1945' uniform_dist='0.0440' corpus_dist='0.0227' token-doc-diff='0.0001'>indépendance</word>
+<word rank='15' count='121' prob='0.00919' cumulative='0.23849' docs='76' word-length='7.0000' coherence='-1.2270' uniform_dist='0.0403' corpus_dist='0.0197' token-doc-diff='0.0002'>mondial</word>
+<word rank='16' count='118' prob='0.00896' cumulative='0.24746' docs='79' word-length='5.0000' coherence='-1.1163' uniform_dist='0.0390' corpus_dist='0.0061' token-doc-diff='0.0003'>monde</word>
+<word rank='17' count='117' prob='0.00889' cumulative='0.25634' docs='83' word-length='8.0000' coherence='-1.0171' uniform_dist='0.0386' corpus_dist='0.0006' token-doc-diff='0.0005'>national</word>
+<word rank='18' count='111' prob='0.00843' cumulative='0.26477' docs='56' word-length='6.0000' coherence='-1.4421' uniform_dist='0.0362' corpus_dist='0.0191' token-doc-diff='0.0000'>traité</word>
+<word rank='19' count='110' prob='0.00835' cumulative='0.27313' docs='75' word-length='10.0000' coherence='-1.1216' uniform_dist='0.0358' corpus_dist='0.0079' token-doc-diff='0.0004'>économique</word>
+<word rank='20' count='106' prob='0.00805' cumulative='0.28118' docs='72' word-length='7.0000' coherence='-1.3208' uniform_dist='0.0342' corpus_dist='0.0175' token-doc-diff='0.0003'>défense</word>
+</topic>
+<topic id='9' tokens='22694.0000' document_entropy='5.4843' word-length='6.7500' coherence='-173.2301' uniform_dist='2.7538' corpus_dist='1.2496' eff_num_words='228.2673' token-doc-diff='0.0028' rank_1_docs='0.0730' allocation_ratio='0.0132' allocation_count='0.0865'>
+<word rank='1' count='614' prob='0.02706' cumulative='0.02706' docs='219' word-length='8.0000' coherence='0.0000' uniform_dist='0.1478' corpus_dist='0.0318' token-doc-diff='0.0014'>national</word>
+<word rank='2' count='398' prob='0.01754' cumulative='0.04459' docs='171' word-length='5.0000' coherence='-0.5214' uniform_dist='0.0882' corpus_dist='0.0304' token-doc-diff='0.0002'>parti</word>
+<word rank='3' count='389' prob='0.01714' cumulative='0.06173' docs='175' word-length='8.0000' coherence='-0.4320' uniform_dist='0.0858' corpus_dist='0.0249' token-doc-diff='0.0001'>élection</word>
+<word rank='4' count='357' prob='0.01573' cumulative='0.07747' docs='185' word-length='9.0000' coherence='-0.4331' uniform_dist='0.0774' corpus_dist='0.0028' token-doc-diff='0.0000'>politique</word>
+<word rank='5' count='273' prob='0.01203' cumulative='0.08950' docs='144' word-length='9.0000' coherence='-0.6662' uniform_dist='0.0560' corpus_dist='0.0244' token-doc-diff='0.0000'>électoral</word>
+<word rank='6' count='267' prob='0.01177' cumulative='0.10126' docs='140' word-length='5.0000' coherence='-0.6975' uniform_dist='0.0545' corpus_dist='0.0065' token-doc-diff='0.0000'>droit</word>
+<word rank='7' count='264' prob='0.01163' cumulative='0.11289' docs='121' word-length='8.0000' coherence='-0.8244' uniform_dist='0.0537' corpus_dist='0.0214' token-doc-diff='0.0000'>électeur</word>
+<word rank='8' count='249' prob='0.01097' cumulative='0.12387' docs='113' word-length='4.0000' coherence='-0.9667' uniform_dist='0.0500' corpus_dist='0.0196' token-doc-diff='0.0000'>voix</word>
+<word rank='9' count='249' prob='0.01097' cumulative='0.13484' docs='129' word-length='3.0000' coherence='-0.8349' uniform_dist='0.0500' corpus_dist='0.0161' token-doc-diff='0.0000'>ami</word>
+<word rank='10' count='238' prob='0.01049' cumulative='0.14532' docs='137' word-length='4.0000' coherence='-0.7348' uniform_dist='0.0473' corpus_dist='0.0082' token-doc-diff='0.0001'>seul</word>
+<word rank='11' count='236' prob='0.01040' cumulative='0.15572' docs='126' word-length='10.0000' coherence='-0.9200' uniform_dist='0.0469' corpus_dist='0.0169' token-doc-diff='0.0000'>socialiste</word>
+<word rank='12' count='204' prob='0.00899' cumulative='0.16471' docs='108' word-length='9.0000' coherence='-0.9217' uniform_dist='0.0392' corpus_dist='0.0151' token-doc-diff='0.0000'>mouvement</word>
+<word rank='13' count='190' prob='0.00837' cumulative='0.17309' docs='108' word-length='8.0000' coherence='-0.9644' uniform_dist='0.0359' corpus_dist='0.0028' token-doc-diff='0.0001'>européen</word>
+<word rank='14' count='178' prob='0.00784' cumulative='0.18093' docs='101' word-length='8.0000' coherence='-1.0742' uniform_dist='0.0331' corpus_dist='0.0077' token-doc-diff='0.0001'>campagne</word>
+<word rank='15' count='175' prob='0.00771' cumulative='0.18864' docs='101' word-length='6.0000' coherence='-1.0069' uniform_dist='0.0324' corpus_dist='0.0061' token-doc-diff='0.0001'>gauche</word>
+<word rank='16' count='158' prob='0.00696' cumulative='0.19560' docs='84' word-length='5.0000' coherence='-1.2516' uniform_dist='0.0286' corpus_dist='0.0143' token-doc-diff='0.0000'>liste</word>
+<word rank='17' count='156' prob='0.00687' cumulative='0.20248' docs='99' word-length='9.0000' coherence='-1.0513' uniform_dist='0.0281' corpus_dist='0.0135' token-doc-diff='0.0003'>assemblée</word>
+<word rank='18' count='155' prob='0.00683' cumulative='0.20931' docs='73' word-length='6.0000' coherence='-1.4620' uniform_dist='0.0279' corpus_dist='0.0127' token-doc-diff='0.0000'>région</word>
+<word rank='19' count='152' prob='0.00670' cumulative='0.21600' docs='90' word-length='8.0000' coherence='-1.4009' uniform_dist='0.0272' corpus_dist='0.0132' token-doc-diff='0.0001'>régional</word>
+<word rank='20' count='139' prob='0.00612' cumulative='0.22213' docs='80' word-length='3.0000' coherence='-1.3087' uniform_dist='0.0244' corpus_dist='0.0127' token-doc-diff='0.0001'>élu</word>
+</topic>
+</model>
+

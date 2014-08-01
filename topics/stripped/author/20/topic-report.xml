@@ -1,0 +1,423 @@
+<?xml version='1.0' ?>
+<topicModel>
+  <topic id='0' alpha='0.21314070239646468' totalTokens='5118'>
+	<word rank='1'>an</word>
+	<word rank='2'>patrie</word>
+	<word rank='3'>grand</word>
+	<word rank='4'>foi</word>
+	<word rank='5'>mai</word>
+	<word rank='6'>guerre</word>
+	<word rank='7'>vif</word>
+	<word rank='8'>fête</word>
+	<word rank='9'>roi</word>
+	<word rank='10'>homme</word>
+	<word rank='11'>siècle</word>
+	<word rank='12'>chef</word>
+	<word rank='13'>vie</word>
+	<word rank='14'>honneur</word>
+	<word rank='15'>victoire</word>
+	<word rank='16'>saint</word>
+	<word rank='17'>ciel</word>
+	<word rank='18'>terre</word>
+	<word rank='19'>ancien</word>
+  </topic>
+  <topic id='1' alpha='0.8820378895971582' totalTokens='18987'>
+	<word rank='1'>national</word>
+	<word rank='2'>élection</word>
+	<word rank='3'>politique</word>
+	<word rank='4'>parti</word>
+	<word rank='5'>droit</word>
+	<word rank='6'>électeur</word>
+	<word rank='7'>campagne</word>
+	<word rank='8'>gauche</word>
+	<word rank='9'>voix</word>
+	<word rank='10'>candidat</word>
+	<word rank='11'>tour</word>
+	<word rank='12'>électoral</word>
+	<word rank='13'>mouvement</word>
+	<word rank='14'>présidentiel</word>
+	<word rank='15'>seul</word>
+	<word rank='16'>président</word>
+	<word rank='17'>pouvoir</word>
+	<word rank='18'>socialiste</word>
+	<word rank='19'>ami</word>
+  </topic>
+  <topic id='2' alpha='0.22129978665046596' totalTokens='4385'>
+	<word rank='1'>république</word>
+	<word rank='2'>président</word>
+	<word rank='3'>peuple</word>
+	<word rank='4'>français</word>
+	<word rank='5'>citoyen</word>
+	<word rank='6'>ministre</word>
+	<word rank='7'>gauche</word>
+	<word rank='8'>gouvernement</word>
+	<word rank='9'>travail</word>
+	<word rank='10'>candidat</word>
+	<word rank='11'>idée</word>
+	<word rank='12'>faux</word>
+	<word rank='13'>présidence</word>
+	<word rank='14'>changement</word>
+	<word rank='15'>prochain</word>
+	<word rank='16'>politicien</word>
+	<word rank='17'>richesse</word>
+	<word rank='18'>mai</word>
+	<word rank='19'>manifestation</word>
+  </topic>
+  <topic id='3' alpha='0.29823288571570156' totalTokens='6961'>
+	<word rank='1'>peuple</word>
+	<word rank='2'>gouvernement</word>
+	<word rank='3'>politique</word>
+	<word rank='4'>grand</word>
+	<word rank='5'>européen</word>
+	<word rank='6'>manière</word>
+	<word rank='7'>mariage</word>
+	<word rank='8'>démocratie</word>
+	<word rank='9'>réalité</word>
+	<word rank='10'>union</word>
+	<word rank='11'>chose</word>
+	<word rank='12'>socialiste</word>
+	<word rank='13'>ensemble</word>
+	<word rank='14'>responsable</word>
+	<word rank='15'>droit</word>
+	<word rank='16'>parti</word>
+	<word rank='17'>idée</word>
+	<word rank='18'>acte</word>
+	<word rank='19'>résultat</word>
+  </topic>
+  <topic id='4' alpha='0.37443486547217164' totalTokens='7923'>
+	<word rank='1'>système</word>
+	<word rank='2'>pouvoir</word>
+	<word rank='3'>peuple</word>
+	<word rank='4'>homme</word>
+	<word rank='5'>vérité</word>
+	<word rank='6'>projet</word>
+	<word rank='7'>campagne</word>
+	<word rank='8'>promesse</word>
+	<word rank='9'>débat</word>
+	<word rank='10'>candidat</word>
+	<word rank='11'>jour</word>
+	<word rank='12'>gauche</word>
+	<word rank='13'>droit</word>
+	<word rank='14'>choix</word>
+	<word rank='15'>présidentiel</word>
+	<word rank='16'>élection</word>
+	<word rank='17'>réalité</word>
+	<word rank='18'>ami</word>
+	<word rank='19'>financier</word>
+  </topic>
+  <topic id='5' alpha='0.3210611967757197' totalTokens='6950'>
+	<word rank='1'>enfant</word>
+	<word rank='2'>école</word>
+	<word rank='3'>social</word>
+	<word rank='4'>famille</word>
+	<word rank='5'>travail</word>
+	<word rank='6'>jeune</word>
+	<word rank='7'>société</word>
+	<word rank='8'>éducation</word>
+	<word rank='9'>fondamental</word>
+	<word rank='10'>vie</word>
+	<word rank='11'>français</word>
+	<word rank='12'>parent</word>
+	<word rank='13'>élève</word>
+	<word rank='14'>familial</word>
+	<word rank='15'>autorité</word>
+	<word rank='16'>moral</word>
+	<word rank='17'>professionnel</word>
+	<word rank='18'>femme</word>
+	<word rank='19'>formation</word>
+  </topic>
+  <topic id='6' alpha='0.12750351514275843' totalTokens='4448'>
+	<word rank='1'>paysan</word>
+	<word rank='2'>agricole</word>
+	<word rank='3'>agriculture</word>
+	<word rank='4'>terre</word>
+	<word rank='5'>rural</word>
+	<word rank='6'>monde</word>
+	<word rank='7'>agriculteur</word>
+	<word rank='8'>million</word>
+	<word rank='9'>ville</word>
+	<word rank='10'>homme</word>
+	<word rank='11'>campagne</word>
+	<word rank='12'>nature</word>
+	<word rank='13'>environnement</word>
+	<word rank='14'>mesure</word>
+	<word rank='15'>jeune</word>
+	<word rank='16'>eau</word>
+	<word rank='17'>paysage</word>
+	<word rank='18'>zone</word>
+	<word rank='19'>planétaire</word>
+  </topic>
+  <topic id='7' alpha='0.1924801786120372' totalTokens='4846'>
+	<word rank='1'>public</word>
+	<word rank='2'>publique</word>
+	<word rank='3'>général</word>
+	<word rank='4'>politique</word>
+	<word rank='5'>service</word>
+	<word rank='6'>personne</word>
+	<word rank='7'>département</word>
+	<word rank='8'>local</word>
+	<word rank='9'>fonction</word>
+	<word rank='10'>administration</word>
+	<word rank='11'>morale</word>
+	<word rank='12'>affaire</word>
+	<word rank='13'>dépense</word>
+	<word rank='14'>gestion</word>
+	<word rank='15'>collectivité</word>
+	<word rank='16'>argent</word>
+	<word rank='17'>compétence</word>
+	<word rank='18'>mars</word>
+	<word rank='19'>niveau</word>
+  </topic>
+  <topic id='8' alpha='0.21882208303527745' totalTokens='5729'>
+	<word rank='1'>an</word>
+	<word rank='2'>messieurs</word>
+	<word rank='3'>mesdames</word>
+	<word rank='4'>retraite</word>
+	<word rank='5'>année</word>
+	<word rank='6'>travail</word>
+	<word rank='7'>million</word>
+	<word rank='8'>effet</word>
+	<word rank='9'>emploi</word>
+	<word rank='10'>libre</word>
+	<word rank='11'>nombre</word>
+	<word rank='12'>national</word>
+	<word rank='13'>prospérité</word>
+	<word rank='14'>dernier</word>
+	<word rank='15'>publique</word>
+	<word rank='16'>politique</word>
+	<word rank='17'>vérité</word>
+	<word rank='18'>population</word>
+	<word rank='19'>entreprise</word>
+  </topic>
+  <topic id='9' alpha='0.36933419798337264' totalTokens='7045'>
+	<word rank='1'>européen</word>
+	<word rank='2'>peuple</word>
+	<word rank='3'>constitution</word>
+	<word rank='4'>français</word>
+	<word rank='5'>union</word>
+	<word rank='6'>politique</word>
+	<word rank='7'>souveraineté</word>
+	<word rank='8'>traité</word>
+	<word rank='9'>nation</word>
+	<word rank='10'>économique</word>
+	<word rank='11'>gouvernement</word>
+	<word rank='12'>référendum</word>
+	<word rank='13'>monnaie</word>
+	<word rank='14'>frontière</word>
+	<word rank='15'>libre</word>
+	<word rank='16'>indépendance</word>
+	<word rank='17'>souverain</word>
+	<word rank='18'>liberté</word>
+	<word rank='19'>international</word>
+  </topic>
+  <topic id='10' alpha='0.820076250248838' totalTokens='19225'>
+	<word rank='1'>peuple</word>
+	<word rank='2'>français</word>
+	<word rank='3'>liberté</word>
+	<word rank='4'>pays</word>
+	<word rank='5'>grand</word>
+	<word rank='6'>politique</word>
+	<word rank='7'>national</word>
+	<word rank='8'>monde</word>
+	<word rank='9'>seul</word>
+	<word rank='10'>avenir</word>
+	<word rank='11'>nation</word>
+	<word rank='12'>histoire</word>
+	<word rank='13'>compatriote</word>
+	<word rank='14'>nouveau</word>
+	<word rank='15'>cher</word>
+	<word rank='16'>petit</word>
+	<word rank='17'>esprit</word>
+	<word rank='18'>temps</word>
+	<word rank='19'>fort</word>
+  </topic>
+  <topic id='11' alpha='0.5719266047707844' totalTokens='11517'>
+	<word rank='1'>immigration</word>
+	<word rank='2'>français</word>
+	<word rank='3'>pays</word>
+	<word rank='4'>droit</word>
+	<word rank='5'>étranger</word>
+	<word rank='6'>national</word>
+	<word rank='7'>an</word>
+	<word rank='8'>social</word>
+	<word rank='9'>travail</word>
+	<word rank='10'>politique</word>
+	<word rank='11'>nationalité</word>
+	<word rank='12'>clandestin</word>
+	<word rank='13'>frontière</word>
+	<word rank='14'>seul</word>
+	<word rank='15'>religion</word>
+	<word rank='16'>travailleur</word>
+	<word rank='17'>enfant</word>
+	<word rank='18'>gauche</word>
+	<word rank='19'>territoire</word>
+  </topic>
+  <topic id='12' alpha='0.40610576731717757' totalTokens='7054'>
+	<word rank='1'>politique</word>
+	<word rank='2'>affaire</word>
+	<word rank='3'>presse</word>
+	<word rank='4'>président</word>
+	<word rank='5'>débat</word>
+	<word rank='6'>responsabilité</word>
+	<word rank='7'>femme</word>
+	<word rank='8'>journaliste</word>
+	<word rank='9'>jour</word>
+	<word rank='10'>homme</word>
+	<word rank='11'>action</word>
+	<word rank='12'>mort</word>
+	<word rank='13'>nom</word>
+	<word rank='14'>ministre</word>
+	<word rank='15'>décision</word>
+	<word rank='16'>vrai</word>
+	<word rank='17'>temps</word>
+	<word rank='18'>père</word>
+	<word rank='19'>justice</word>
+  </topic>
+  <topic id='13' alpha='0.43415676939819625' totalTokens='8039'>
+	<word rank='1'>gouvernement</word>
+	<word rank='2'>million</word>
+	<word rank='3'>ministre</word>
+	<word rank='4'>homme</word>
+	<word rank='5'>an</word>
+	<word rank='6'>région</word>
+	<word rank='7'>loi</word>
+	<word rank='8'>monde</word>
+	<word rank='9'>mesure</word>
+	<word rank='10'>évident</word>
+	<word rank='11'>vie</word>
+	<word rank='12'>jour</word>
+	<word rank='13'>chiffre</word>
+	<word rank='14'>général</word>
+	<word rank='15'>gens</word>
+	<word rank='16'>part</word>
+	<word rank='17'>effet</word>
+	<word rank='18'>façon</word>
+	<word rank='19'>intérieur</word>
+  </topic>
+  <topic id='14' alpha='0.16000366724896892' totalTokens='3969'>
+	<word rank='1'>monsieur</word>
+	<word rank='2'>ami</word>
+	<word rank='3'>socialiste</word>
+	<word rank='4'>nouveau</word>
+	<word rank='5'>parlementaire</word>
+	<word rank='6'>électoral</word>
+	<word rank='7'>pays</word>
+	<word rank='8'>année</word>
+	<word rank='9'>mars</word>
+	<word rank='10'>suffrage</word>
+	<word rank='11'>communiste</word>
+	<word rank='12'>plan</word>
+	<word rank='13'>prochain</word>
+	<word rank='14'>populaire</word>
+	<word rank='15'>effort</word>
+	<word rank='16'>lettre</word>
+	<word rank='17'>jour</word>
+	<word rank='18'>patrie</word>
+	<word rank='19'>parti</word>
+  </topic>
+  <topic id='15' alpha='0.5496838751692801' totalTokens='13542'>
+	<word rank='1'>entreprise</word>
+	<word rank='2'>économique</word>
+	<word rank='3'>emploi</word>
+	<word rank='4'>économie</word>
+	<word rank='5'>pays</word>
+	<word rank='6'>marché</word>
+	<word rank='7'>grand</word>
+	<word rank='8'>seul</word>
+	<word rank='9'>frontière</word>
+	<word rank='10'>social</word>
+	<word rank='11'>concurrence</word>
+	<word rank='12'>monnaie</word>
+	<word rank='13'>droit</word>
+	<word rank='14'>loi</word>
+	<word rank='15'>protection</word>
+	<word rank='16'>intérêt</word>
+	<word rank='17'>foi</word>
+	<word rank='18'>modèle</word>
+	<word rank='19'>fiscal</word>
+  </topic>
+  <topic id='16' alpha='0.24630012687973846' totalTokens='4815'>
+	<word rank='1'>guerre</word>
+	<word rank='2'>armée</word>
+	<word rank='3'>international</word>
+	<word rank='4'>militaire</word>
+	<word rank='5'>mondial</word>
+	<word rank='6'>monde</word>
+	<word rank='7'>population</word>
+	<word rank='8'>civil</word>
+	<word rank='9'>sécurité</word>
+	<word rank='10'>paix</word>
+	<word rank='11'>défense</word>
+	<word rank='12'>terrorisme</word>
+	<word rank='13'>étranger</word>
+	<word rank='14'>révolution</word>
+	<word rank='15'>mort</word>
+	<word rank='16'>menace</word>
+	<word rank='17'>musulman</word>
+	<word rank='18'>risque</word>
+	<word rank='19'>condition</word>
+  </topic>
+  <topic id='17' alpha='1.024104055199689' totalTokens='25045'>
+	<word rank='1'>monsieur</word>
+	<word rank='2'>gens</word>
+	<word rank='3'>politique</word>
+	<word rank='4'>français</word>
+	<word rank='5'>problème</word>
+	<word rank='6'>nombre</word>
+	<word rank='7'>chose</word>
+	<word rank='8'>foi</word>
+	<word rank='9'>an</word>
+	<word rank='10'>pays</word>
+	<word rank='11'>conséquent</word>
+	<word rank='12'>moi</word>
+	<word rank='13'>petit</word>
+	<word rank='14'>cas</word>
+	<word rank='15'>monde</word>
+	<word rank='16'>situation</word>
+	<word rank='17'>vrai</word>
+	<word rank='18'>raison</word>
+	<word rank='19'>année</word>
+  </topic>
+  <topic id='18' alpha='0.25133456673336496' totalTokens='5655'>
+	<word rank='1'>loi</word>
+	<word rank='2'>peine</word>
+	<word rank='3'>prison</word>
+	<word rank='4'>justice</word>
+	<word rank='5'>délinquant</word>
+	<word rank='6'>violence</word>
+	<word rank='7'>police</word>
+	<word rank='8'>peur</word>
+	<word rank='9'>criminel</word>
+	<word rank='10'>insécurité</word>
+	<word rank='11'>délinquance</word>
+	<word rank='12'>crime</word>
+	<word rank='13'>ordre</word>
+	<word rank='14'>banlieue</word>
+	<word rank='15'>policier</word>
+	<word rank='16'>société</word>
+	<word rank='17'>liberté</word>
+	<word rank='18'>victime</word>
+	<word rank='19'>magistrat</word>
+  </topic>
+  <topic id='19' alpha='0.4667816607709257' totalTokens='9796'>
+	<word rank='1'>social</word>
+	<word rank='2'>milliard</word>
+	<word rank='3'>an</word>
+	<word rank='4'>euro</word>
+	<word rank='5'>grand</word>
+	<word rank='6'>million</word>
+	<word rank='7'>pays</word>
+	<word rank='8'>salaire</word>
+	<word rank='9'>dette</word>
+	<word rank='10'>crise</word>
+	<word rank='11'>impôt</word>
+	<word rank='12'>logement</word>
+	<word rank='13'>financier</word>
+	<word rank='14'>classe</word>
+	<word rank='15'>système</word>
+	<word rank='16'>européen</word>
+	<word rank='17'>moyen</word>
+	<word rank='18'>baisse</word>
+	<word rank='19'>aide</word>
+  </topic>
+</topicModel>

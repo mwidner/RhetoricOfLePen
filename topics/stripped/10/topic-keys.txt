@@ -1,0 +1,10 @@
+0	0.50843	école messieurs travail enfant société justice loi vie mesdames sécurité famille an autorité prison police jeune formation citoyen délinquance 
+1	0.79369	monsieur politique gens an président français national élection conséquent candidat foi problème chose nombre gauche campagne droit électeur moi 
+2	0.71747	entreprise social grand économique pays emploi milliard économie marché an monnaie problème dette frontière euro français salaire européen protection 
+3	0.51067	peuple seul petit français pouvoir politique gauche cher ami campagne système avenir banque mondialisation promesse vérité projet pays jour 
+4	0.92239	politique européen peuple grand pays système foi élection parti vrai national pouvoir question débat présidentiel candidat intérêt français année 
+5	0.6301	immigration pays an français million droit étranger politique année social enfant nationalité personne clandestin chiffre loi nombre territoire population 
+6	0.15991	paysan agriculture rural agricole terre million nature environnement européen mesure grand agriculteur campagne commerce village eau ruralité planétaire homme 
+7	0.2666	public publique service général département euro local social dépense politique retraite personne gauche fonctionnaire argent affaire morale privé conseil 
+8	0.28763	européen guerre international nouveau armée américain jeune militaire mondial mort constitution foi traité mai camp civil président paix année 
+9	0.54022	peuple liberté national français monde grand histoire politique pays homme peur nation souveraineté patrie principe compatriote volonté république vie 

@@ -1,11 +1,14 @@
 #!/bin/sh
 
-POS_PATH="/Applications/StanfordNLP/stanford-postagger-full-2014-01-04"
-JAVA="/usr/bin/java"
 DOC_PATH="/Users/widner/Projects/DLCL/Alduy/Rhetoric_of_LePen/corpora/authors"
 FILES=`ls ${DOC_PATH}/*.txt`
 TT_FR="/Applications/TreeTagger/cmd/tagger-chunker-french"
-RESULTS_DIR="/Users/widner/Projects/DLCL/Alduy/Rhetoric_of_LePen/results/treetagger"
+RESULTS_DIR="/Users/widner/Projects/DLCL/Alduy/Rhetoric_of_LePen/results/treetagger/authors"
+
+if [ ! -d $RESULTS_DIR ];
+	then
+		mkdir -p $RESULTS_DIR
+fi
 
 for FILE in ${FILES}
 	do

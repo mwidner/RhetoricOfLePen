@@ -1,23 +1,19 @@
-topic model networks of each author/corpus, by genre? bi-modal
-wait for JMLP data, then comparative x-y graph
 bar charts of frequencies, diachronic
 word cloud software?
-keyness x-y graph, too
-stemming of all texts
 
-n-grams of co-occurence
-strip everything but nouns, adjectives, maybe adverbs
 drop speech act topic models
 network graph of bigrams, trigrams, by speaker
-corpus of other politicians
+corpus of other politicians (maybe all FN website posts? find other political party posts, too!)
 
 web scraper for MLP works online
+
+add other edge weight calculations to mallet2graph
 
 Process
 
 1. organize corpus
-2. keyness, ngrams, pos
+2. keyness, ngrams (count freqs), pos
 3. strip unwanted pos
 4. chunk texts
 5. topic model
-6. graphs
+6. graphs -- topic models and bigrams (weight becomes distance?)

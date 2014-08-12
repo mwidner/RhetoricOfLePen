@@ -17,3 +17,7 @@ Process
 4. chunk texts
 5. topic model
 6. graphs -- topic models and bigrams (weight becomes distance?)
+
+Extract named entitities
+Find common ngrams across years, genres; graph likelihood by year
+Slice corpora by author *and* genre, analyze results

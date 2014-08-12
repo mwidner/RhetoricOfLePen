@@ -27,12 +27,28 @@ basedir = '/Users/widner/Projects/DLCL/Alduy/Rhetoric_of_LePen/'
 texts = basedir + 'corpora_unorganized/'
 corpora = basedir + 'corpora/'
 
+def group_texts(filelist, key):
+	'''
+	Group texts according to a dict of files
+	'''
+	print("Grouping texts by " + key)
+	path = corpora + key
+	if not os.path.isdir(path):
+		os.makedirs(path)
+	for item in filelist:
+		with open(path + item + ".txt", 'w') as fout:
+			for filename in filelist[item]:
+				with open(filename) as fin:
+					for line in fin:
+						fout.write(line)
+
 def main(): 
 	''' Loop through metadata files; rename them all '''
 	metadata_fh = open(basedir + 'filelist.csv', 'w')
 	metadata_fh.write("author,genre,filename\n")
 	years = defaultdict(list)
 	authors = defaultdict(list)
+	genres = defaultdict(list)
 	for filename in metadata:
 		# print("Reading", filename)
 		with open(basedir + "metadata/" + filename, 'r', encoding='utf-8') as fh:
@@ -66,6 +82,7 @@ def main():
 				# new_file = row["author"] + "-" + row['media'] + "-" + year + ".txt"
 				years[year].append(corpora + new_file)
 				authors[author].append(corpora + new_file)
+				genres[row['media']].append(corpora + new_file)
 				if not os.path.isdir(corpora + new_path):
 					os.makedirs(corpora + new_path)
 				# super kludgy
@@ -78,34 +95,14 @@ def main():
 					print("Missing file: '" + row['filename'] + "'")
 					years[year].remove(corpora + new_file)
 					authors[author].remove(corpora + new_file)
+					genres[row['media']].remove(corpora + new_file)
 				except UnicodeDecodeError as err:
 					print(filename, err)
 	metadata_fh.close()
 
-	# print(years, authors)
-	# Join all text from a single year into one file
-	print("Grouping texts by year...")
-	years_path = corpora + "years/"
-	if not os.path.isdir(years_path):
-		os.makedirs(years_path)
-	for year in years:
-		with open(years_path + year + ".txt", 'w') as fout:
-			for filename in years[year]:
-				with open(filename) as fin:
-					for line in fin:
-						fout.write(line)
-
-	# Join all texts by an author
-	print("Grouping texts by author...")
-	authors_path = corpora + "authors/"
-	if not os.path.isdir(authors_path):
-		os.makedirs(authors_path)
-	for author in authors:
-		with open(authors_path + author + ".txt", 'w') as fout:
-			for filename in authors[author]:
-				with open(filename) as fin:
-					for line in fin:
-						fout.write(line)
+	group_texts(authors, 'authors')
+	group_texts(years, 'years')
+	group_texts(genres, 'genres')
 
 if __name__ == '__main__':
 	if sys.version_info[0] != 3:

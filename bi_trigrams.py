@@ -2,6 +2,8 @@
 Read output from a corpus of text files
 Create bigrams, trigrams, and frequency distributions
 
+See documentation here: http://www.nltk.org/howto/collocations.html
+
 Mike Widner <mikewidner@stanford.edu>
 '''
 
@@ -9,7 +11,7 @@ Mike Widner <mikewidner@stanford.edu>
 TOT_NGRAMS = 500
 # how frequent must an n-gram be for inclusion
 FREQ_FILTER = 3
-# minimum character length for words to include
+# minimum character length of words to include
 MIN_LENGTH = 4
 
 import os
@@ -74,7 +76,6 @@ def write_results(results, prefix):
 def analyze_text(text):
 	words = [w.lower() for w in text 
 				if w not in string.punctuation 
-				and w not in stopwords
 				and len(w) >= MIN_LENGTH]
 
 	fdist = nltk.FreqDist(words)
@@ -83,7 +84,8 @@ def analyze_text(text):
 	# Bigrams
 	b_finder = BigramCollocationFinder.from_words(words)
 	b_finder.apply_freq_filter(FREQ_FILTER)
-	bigrams = b_finder.nbest(bigram_measures.pmi, TOT_NGRAMS)
+	b_finder.apply_word_filter(lambda w: w in stopwords)
+	bigrams = b_finder.nbest(bigram_measures.likelihood_ratio, TOT_NGRAMS)
 	b_scored = b_finder.score_ngrams(bigram_measures.likelihood_ratio)
 	b_prefix_keys = collections.defaultdict(list)
 	for key, scores in b_scored:
@@ -92,7 +94,8 @@ def analyze_text(text):
 	# Trigrams
 	t_finder = TrigramCollocationFinder.from_words(words)
 	t_finder.apply_freq_filter(FREQ_FILTER)
-	trigrams = t_finder.nbest(trigram_measures.pmi, TOT_NGRAMS)
+	t_finder.apply_word_filter(lambda w: w in stopwords)
+	trigrams = t_finder.nbest(trigram_measures.likelihood_ratio, TOT_NGRAMS)
 	t_scored = t_finder.score_ngrams(trigram_measures.likelihood_ratio)
 	t_prefix_keys = collections.defaultdict(list)
 	for key, scores in t_scored:

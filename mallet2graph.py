@@ -9,11 +9,12 @@ February 2014
 @author: widner
 '''
 
-import csv
 import os
-from optparse import OptionParser
-import networkx as nx
+import csv
 import sys
+import numpy
+import networkx as nx
+from optparse import OptionParser
 
 def parse_options():
     parser = OptionParser(usage='Usage: %prog -d doc-topics.txt -t topic-keys.txt -o output')
@@ -43,7 +44,7 @@ def parse_options():
 
 def split_doc_chunk(doc):
   '''
-  Returns the document name and the chunk name
+  Return the document name and the chunk name
   '''
   doc = doc.replace('file:', '', 1) # strip any leading "file:" string
   doc, chunk = os.path.split(doc)
@@ -53,39 +54,54 @@ def split_doc_chunk(doc):
   filename = doc[-1]
   return(filename, chunk, label)
 
-def calc_edge_weights(doc_topic_weights, doc_name, chunk_name, weights):
+def build_edge_weight_lists(weights):
   '''
-  Determines the edge weights for each document-topic link
-  Use the weight-method to determine how weights are calculated
+  Build a list of all edge weights by document and topic
+  Return aggregate weights and document labels
   '''
-  while len(weights) >= 2:
-    # grab pairs of items
-    tid = weights.pop(0)
-    weight = float(weights.pop(0))
-    if doc_name in doc_topic_weights.keys():
-      if tid in doc_topic_weights[doc_name].keys():
-        cur_weight = doc_topic_weights[doc_name][tid]
-        if cur_weight < weight:
-          doc_topic_weights[doc_name][tid] = weight
-      else:
-        doc_topic_weights[doc_name][tid] = weight
-    else:
-      doc_topic_weights[doc_name] = dict()
-      doc_topic_weights[doc_name][tid] = weight
-  return(doc_topic_weights)
-
-def main():
-  options = parse_options()
-  topics = csv.reader(open(options.topics, 'r'), delimiter='\t')
-  weights = csv.reader(open(options.doc_topics, 'r'), delimiter='\t')
-  doc_topic_weights = dict()
-  next(weights, None) # skip first line, which is a poorly-formatted header
+  all_weights = dict()
   labels = dict()
   for weight in weights:
-    filename, chunk_name, label = split_doc_chunk(weight[1])
-    labels[filename] = label
-    doc_topic_weights = calc_edge_weights(doc_topic_weights, filename, chunk_name, weight[2:])
-  
+    doc_name, chunk_name, label = split_doc_chunk(weight[1])
+    labels[doc_name] = label
+    weight = weight[2:] # first two items are index and file path
+    while len(weight) >= 2:
+      tid = weight.pop(0)
+      current_weight = float(weight.pop(0))
+      if doc_name not in all_weights.keys():
+        all_weights[doc_name] = dict()
+      if tid not in all_weights[doc_name].keys():
+        all_weights[doc_name][tid] = list()
+      all_weights[doc_name][tid].append(current_weight)
+  print(all_weights.keys())
+  return(all_weights, labels)
+
+def calc_edge_weights(all_weights, weight_method):
+  '''
+  Determine the edge weights for each document-topic link
+  Method varies based on option chosen
+  '''
+  doc_topic_weights = dict()
+  for doc_name in all_weights.keys():
+    if doc_name not in doc_topic_weights.keys():
+      doc_topic_weights[doc_name] = dict()
+    for tid in all_weights[doc_name].keys():
+      if weight_method == 'max':
+        doc_topic_weights[doc_name][tid] = max(all_weights[doc_name][tid])
+        print("max", doc_topic_weights[doc_name][tid])
+      elif weight_method == 'median':
+        doc_topic_weights[doc_name][tid] = numpy.median(all_weights[doc_name][tid])
+        print("median", doc_topic_weights[doc_name][tid])
+      elif weight_method == 'mean':
+        doc_topic_weights[doc_name][tid] = numpy.mean(all_weights[doc_name][tid])
+        print("mean", doc_topic_weights[doc_name][tid])
+
+  return(doc_topic_weights)
+
+def write_graph_file(topics, doc_topic_weights, labels, outfile):
+  ''' 
+  Generate the network graph and write it 
+  '''
   G = nx.Graph()
   for doc in doc_topic_weights.keys():
     G.add_node(doc, label=labels[doc])
@@ -98,9 +114,18 @@ def main():
           G.add_edge(tid, doc, weight=doc_topic_weights[doc][tid])
 
   try:
-    nx.write_gexf(G, options.out)
+    nx.write_gexf(G, outfile)
   except Exception as err:
-    print("Could not write graphfile", options.out, err)
+    print("Could not write graphfile", outfile, err)
+
+def main():
+  options = parse_options()
+  weights = csv.reader(open(options.doc_topics, 'r'), delimiter='\t')
+  next(weights, None) # skip first line, which is a poorly-formatted header
+  all_weights, labels = build_edge_weight_lists(weights)
+  doc_topic_weights = calc_edge_weights(all_weights, options.weight_method)  
+  topics = csv.reader(open(options.topics, 'r'), delimiter='\t')
+  write_graph_file(topics, doc_topic_weights, labels, options.out)
 
 if __name__ == '__main__':
   # nothing specific to Python 3 in here

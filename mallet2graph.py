@@ -73,7 +73,6 @@ def build_edge_weight_lists(weights):
       if tid not in all_weights[doc_name].keys():
         all_weights[doc_name][tid] = list()
       all_weights[doc_name][tid].append(current_weight)
-  print(all_weights.keys())
   return(all_weights, labels)
 
 def calc_edge_weights(all_weights, weight_method):
@@ -88,14 +87,11 @@ def calc_edge_weights(all_weights, weight_method):
     for tid in all_weights[doc_name].keys():
       if weight_method == 'max':
         doc_topic_weights[doc_name][tid] = max(all_weights[doc_name][tid])
-        print("max", doc_topic_weights[doc_name][tid])
       elif weight_method == 'median':
         doc_topic_weights[doc_name][tid] = numpy.median(all_weights[doc_name][tid])
-        print("median", doc_topic_weights[doc_name][tid])
       elif weight_method == 'mean':
         doc_topic_weights[doc_name][tid] = numpy.mean(all_weights[doc_name][tid])
-        print("mean", doc_topic_weights[doc_name][tid])
-
+ 
   return(doc_topic_weights)
 
 def write_graph_file(topics, doc_topic_weights, labels, outfile):

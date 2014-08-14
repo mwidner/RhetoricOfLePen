@@ -18,10 +18,11 @@
 MALLET_HOME=/Applications/mallet
 mallet=$MALLET_HOME/bin/mallet
 networks="/Users/widner/Projects/DLCL/Alduy/Rhetoric_of_LePen/py3env/bin/python /Users/widner/Projects/DLCL/Alduy/Rhetoric_of_LePen/mallet2graph.py"
-n_topics=(10 20 40 80)
+# n_topics=(10 20 40 80)
+n_topics=(40)
 PROJECT=LePen
 inputdir=chunks/stripped/author
-outputdir=topics/stripped/author
+outputdir=results/topics/author
 stopwords=stopwords.txt	# wherever they live
 
 if [ -d outputdir ];

@@ -15,7 +15,7 @@
   "legend": {
     "edgeLabel": "",
     "colorLabel": "",
-    "nodeLabel": "Year or topic"
+    "nodeLabel": "Author or topic"
   },
   "features": {
     "search": true,

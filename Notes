@@ -18,6 +18,7 @@ Process
 5. topic model
 6. graphs -- topic models and bigrams (weight becomes distance?)
 
-Extract named entitities
+Extract named entities
 Find common ngrams across years, genres; graph likelihood by year
 Slice corpora by author *and* genre, analyze results
+convert mallet2graph from OptionParser to docopt

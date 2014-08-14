@@ -10,8 +10,8 @@ import csv
 from bs4 import BeautifulSoup
 
 BASE_DIR = '/Users/widner/Projects/DLCL/Alduy/Rhetoric_of_LePen/'
-INPUT_DIR = BASE_DIR + 'results/treetagger/'
-OUTPUT_DIR = BASE_DIR + 'results/stripped/'
+INPUT_DIR = BASE_DIR + 'results/treetagger/author/'
+OUTPUT_DIR = BASE_DIR + 'results/stripped/author/'
 
 if not os.path.isdir(OUTPUT_DIR):
 	os.makedirs(OUTPUT_DIR)

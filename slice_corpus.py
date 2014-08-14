@@ -14,9 +14,9 @@ import pandas as pd
 import datetime as dt
 
 BASEDIR = '/Users/widner/Projects/DLCL/Alduy/Rhetoric_of_LePen/'
-WORKBOOK = BASEDIR + 'LePenMetadata-latest.xlsx'
+WORKBOOK = BASEDIR + 'metadata/LePen Corpus Metadata.xlsx'
 SOURCE = BASEDIR + 'corpora_raw/Database CLEAN Book LePen2014/'
-TARGET = BASEDIR + 'corpora/sliced/'
+TARGET = BASEDIR + 'corpora/'
 
 # sheets to ignore; names should be all lower-cased here
 ignore_sheets = ['all transcribed dropbox files', 'transcribed but not cleaned']
@@ -62,20 +62,19 @@ def load_words(filename):
 		# wordlist = nltk.corpus.PlaintextCorpusReader(SOURCE, filename)
 		# words = wordlist.words(fileids=[filename])
 	except OSError as err:
-		print("Missing: " + filename, err)
+		print("Missing: " + filename)
 	return(raw)
 
-def generate_text(df, dirname):
+def generate_text(df, dirname, filename):
 	'''
 	Takes all words for a given slice
 	Write out as a single text file
 	'''
-	print("Generating text " + dirname)
+	print("Generating " + dirname + filename + '.txt')
 	path = TARGET + dirname
 	if not os.path.isdir(path):
 		os.makedirs(path)
-
-	fh = open(path + '/all.txt', 'w')
+	fh = open(path + filename + '.txt', 'w')
 	for row in df['words']:
 		fh.write(row)
 	fh.close()
@@ -113,11 +112,17 @@ def main():
 
 	# now iterate through our desired slices and generate new text files
 	for year in years:
-		generate_text(df[df['year'] == year], 'year/' + str(year))
+		generate_text(df[df['year'] == year], 'year/', str(year))
 	for genre in genres:
-		generate_text(df[df['genre'] == genre], 'genre/' + str(genre))
+		generate_text(df[df['genre'] == genre], 'genre/', str(genre))
 	for author in authors:
-		generate_text(df[df['author'] == author], 'author/' + str(author))
+		generate_text(df[df['author'] == author], 'author/', str(author))
+		# by author and by genre
+		df_author = df[df['author'] == author]
+		for genre in genres:
+			df_genre = df[df['genre'] == genre]
+			df_join = df_author.combine_first(df_genre)
+			generate_text(df_join, 'author/genre/', str(author) + '_' + str(genre))
 	fh.close()
 
 if __name__ == '__main__':

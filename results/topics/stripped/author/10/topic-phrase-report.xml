@@ -1,413 +1,413 @@
 <?xml version='1.0' ?>
 <topics>
-  <topic id="0" alpha="0.7274628644389817" totalTokens="26256" titles="social, grand, pays, entreprise, économique, emploi, milliard, économie, seul, marché">
-	<word weight="0.018738574040219377" count="492">social</word>
-	<word weight="0.018433881779402802" count="484">grand</word>
-	<word weight="0.01683424741011578" count="442">pays</word>
-	<word weight="0.016681901279707496" count="438">entreprise</word>
-	<word weight="0.015272699573430835" count="401">économique</word>
-	<word weight="0.013330286410725168" count="350">emploi</word>
-	<word weight="0.011730652041438147" count="308">milliard</word>
-	<word weight="0.011045094454600854" count="290">économie</word>
-	<word weight="0.010016758074344911" count="263">seul</word>
-	<word weight="0.009940585009140768" count="261">marché</word>
-	<word weight="0.009140767824497258" count="240">français</word>
-	<word weight="0.009140767824497258" count="240">européen</word>
-	<word weight="0.008874162096282754" count="233">immigration</word>
-	<word weight="0.008797989031078611" count="231">droit</word>
-	<word weight="0.00837903717245582" count="220">euro</word>
-	<word weight="0.007883912248628885" count="207">foi</word>
-	<word weight="0.007845825716026813" count="206">salaire</word>
-	<word weight="0.00738878732480195" count="194">projet</word>
-	<word weight="0.007084095063985375" count="186">choix</word>
-	<phrase weight="0.004874482086278333" count="20">euro milliard</phrase>
-	<phrase weight="0.003168413356080916" count="13">financier marché</phrase>
-	<phrase weight="0.003168413356080916" count="13">déloyal concurrence</phrase>
-	<phrase weight="0.003168413356080916" count="13">entreprise grand</phrase>
-	<phrase weight="0.002924689251767" count="12">européen union</phrase>
-	<phrase weight="0.002680965147453083" count="11">achat pouvoir</phrase>
-	<phrase weight="0.0024372410431391664" count="10">salaire baisse</phrase>
-	<phrase weight="0.0021935169388252497" count="9">moyen classe</phrase>
-	<phrase weight="0.0021935169388252497" count="9">social protection</phrase>
-	<phrase weight="0.0021935169388252497" count="9">social logement</phrase>
-	<phrase weight="0.0019497928345113332" count="8">homosexuel mariage</phrase>
-	<phrase weight="0.0017060687301974165" count="7">social économique</phrase>
-	<phrase weight="0.0014623446258835" count="6">soi disant</phrase>
-	<phrase weight="0.0014623446258835" count="6">chômage tau</phrase>
-	<phrase weight="0.0014623446258835" count="6">entreprise entreprise</phrase>
-	<phrase weight="0.0014623446258835" count="6">économique modèle</phrase>
-	<phrase weight="0.0014623446258835" count="6">moi euro</phrase>
-	<phrase weight="0.0012186205215695832" count="5">économique crise</phrase>
-	<phrase weight="0.0012186205215695832" count="5">emploi emploi</phrase>
-	<phrase weight="0.0012186205215695832" count="5">économique patriotisme</phrase>
+  <topic id="0" alpha="0.16438135267139678" totalTokens="5930" titles="paysan, agriculture, million, agricole, terre, rural, agriculteur, européen, homme, grand">
+	<word weight="0.023946037099494097" count="142">paysan</word>
+	<word weight="0.018718381112984822" count="111">agriculture</word>
+	<word weight="0.016357504215851602" count="97">million</word>
+	<word weight="0.016188870151770656" count="96">agricole</word>
+	<word weight="0.013490725126475547" count="80">terre</word>
+	<word weight="0.012647554806070826" count="75">rural</word>
+	<word weight="0.010792580101180439" count="64">agriculteur</word>
+	<word weight="0.01011804384485666" count="60">européen</word>
+	<word weight="0.009443507588532884" count="56">homme</word>
+	<word weight="0.009106239460370995" count="54">grand</word>
+	<word weight="0.008768971332209106" count="52">ville</word>
+	<word weight="0.008600337268128162" count="51">monde</word>
+	<word weight="0.008263069139966273" count="49">mesure</word>
+	<word weight="0.007588532883642495" count="45">village</word>
+	<word weight="0.007588532883642495" count="45">environnement</word>
+	<word weight="0.007588532883642495" count="45">nature</word>
+	<word weight="0.005902192242833052" count="35">dernier</word>
+	<word weight="0.005733558178752108" count="34">eau</word>
+	<word weight="0.005396290050590219" count="32">campagne</word>
+	<phrase weight="0.004592422502870264" count="4">rural zone</phrase>
+	<phrase weight="0.004592422502870264" count="4">climatique réchauffement</phrase>
+	<phrase weight="0.003444316877152698" count="3">millier centaine</phrase>
+	<phrase weight="0.003444316877152698" count="3">communautaire préférence</phrase>
+	<phrase weight="0.003444316877152698" count="3">carbonique gaz</phrase>
+	<phrase weight="0.003444316877152698" count="3">rural territoire</phrase>
+	<phrase weight="0.003444316877152698" count="3">territoire aménagement</phrase>
+	<phrase weight="0.003444316877152698" count="3">pêche agricole</phrase>
+	<phrase weight="0.003444316877152698" count="3">agriculture industrie</phrase>
+	<phrase weight="0.002296211251435132" count="2">ruralité agriculture</phrase>
+	<phrase weight="0.002296211251435132" count="2">siècle siècle</phrase>
+	<phrase weight="0.002296211251435132" count="2">planète réchauffement</phrase>
+	<phrase weight="0.002296211251435132" count="2">agricole crédit nord</phrase>
+	<phrase weight="0.002296211251435132" count="2">agricole produit</phrase>
+	<phrase weight="0.002296211251435132" count="2">septembre douanier mur sud</phrase>
+	<phrase weight="0.002296211251435132" count="2">foncier phytosanitaire</phrase>
+	<phrase weight="0.002296211251435132" count="2">concentration plantation</phrase>
+	<phrase weight="0.002296211251435132" count="2">silicium puce</phrase>
+	<phrase weight="0.002296211251435132" count="2">compagnon vieux</phrase>
+	<phrase weight="0.001148105625717566" count="1">génération effet génétique raison</phrase>
   </topic>
-  <topic id="1" alpha="0.4966498106362851" totalTokens="14317" titles="travail, social, enfant, famille, école, national, loi, société, jeune, vie">
-	<word weight="0.02032548718306908" count="291">travail</word>
-	<word weight="0.019347628693161974" count="277">social</word>
-	<word weight="0.018160229098274777" count="260">enfant</word>
-	<word weight="0.015086959558566738" count="216">famille</word>
-	<word weight="0.014737724383599916" count="211">école</word>
-	<word weight="0.013201089613745897" count="189">an</word>
-	<word weight="0.011804148913878605" count="169">national</word>
-	<word weight="0.010826290423971503" count="155">loi</word>
-	<word weight="0.009499196759097576" count="136">société</word>
-	<word weight="0.009149961584130754" count="131">jeune</word>
-	<word weight="0.009010267514144025" count="129">vie</word>
-	<word weight="0.008102256059230286" count="116">messieurs</word>
-	<word weight="0.007473632744290005" count="107">français</word>
-	<word weight="0.006914856464343089" count="99">éducation</word>
-	<word weight="0.006565621289376266" count="94">professionnel</word>
-	<word weight="0.006495774254382901" count="93">droit</word>
-	<word weight="0.006495774254382901" count="93">formation</word>
-	<word weight="0.006146539079416079" count="88">mesdames</word>
-	<word weight="0.005867150939442621" count="84">principe</word>
-	<phrase weight="0.00605060506050605" count="11">messieurs mesdames</phrase>
-	<phrase weight="0.0049504950495049506" count="9">famille mère</phrase>
-	<phrase weight="0.0033003300330033004" count="6">messieurs mesdames messieurs mesdames</phrase>
-	<phrase weight="0.0027502750275027505" count="5">an an</phrase>
-	<phrase weight="0.0027502750275027505" count="5">mesdames messieurs mesdames</phrase>
-	<phrase weight="0.0027502750275027505" count="5">école famille</phrase>
-	<phrase weight="0.0027502750275027505" count="5">messieurs messieurs</phrase>
-	<phrase weight="0.0027502750275027505" count="5">travail travail</phrase>
-	<phrase weight="0.0022002200220022" count="4">travail revenu</phrase>
-	<phrase weight="0.0022002200220022" count="4">enfant éducation</phrase>
-	<phrase weight="0.0022002200220022" count="4">monoparental famille</phrase>
-	<phrase weight="0.0016501650165016502" count="3">national préférence</phrase>
-	<phrase weight="0.0016501650165016502" count="3">professionnel organisation</phrase>
-	<phrase weight="0.0016501650165016502" count="3">femme enfant</phrase>
-	<phrase weight="0.0016501650165016502" count="3">familial allocation</phrase>
-	<phrase weight="0.0016501650165016502" count="3">manuel métier</phrase>
-	<phrase weight="0.0016501650165016502" count="3">école enseignement</phrase>
-	<phrase weight="0.0016501650165016502" count="3">parental congé</phrase>
-	<phrase weight="0.0016501650165016502" count="3">scolaire manuel</phrase>
-	<phrase weight="0.0016501650165016502" count="3">professeur élève</phrase>
+  <topic id="1" alpha="0.41941383226875867" totalTokens="12377" titles="européen, guerre, an, français, peuple, foi, patrie, siècle, armée, constitution">
+	<word weight="0.029813363496808597" count="369">européen</word>
+	<word weight="0.01712854488163529" count="212">guerre</word>
+	<word weight="0.013088793730306213" count="162">an</word>
+	<word weight="0.012119253453987235" count="150">français</word>
+	<word weight="0.011634483315827745" count="144">peuple</word>
+	<word weight="0.010180172901349278" count="126">foi</word>
+	<word weight="0.010180172901349278" count="126">patrie</word>
+	<word weight="0.009937787832269533" count="123">siècle</word>
+	<word weight="0.009776197786216368" count="121">armée</word>
+	<word weight="0.009695402763189788" count="120">constitution</word>
+	<word weight="0.00929142764805688" count="115">mai</word>
+	<word weight="0.008968247555950553" count="111">pays</word>
+	<word weight="0.008725862486870808" count="108">grand</word>
+	<word weight="0.007352347095418922" count="91">souveraineté</word>
+	<word weight="0.007271552072392341" count="90">traité</word>
+	<word weight="0.007190757049365759" count="89">sécurité</word>
+	<word weight="0.006948371980286015" count="86">indépendance</word>
+	<word weight="0.006786781934232851" count="84">international</word>
+	<word weight="0.006786781934232851" count="84">histoire</word>
+	<phrase weight="0.008896797153024912" count="15">européen constitution</phrase>
+	<phrase weight="0.006524317912218268" count="11">européen union</phrase>
+	<phrase weight="0.004151838671411625" count="7">européen parlement</phrase>
+	<phrase weight="0.0035587188612099642" count="6">mondial guerre</phrase>
+	<phrase weight="0.0029655990510083037" count="5">siècle siècle</phrase>
+	<phrase weight="0.0029655990510083037" count="5">guerre guerre</phrase>
+	<phrase weight="0.0029655990510083037" count="5">européen traité</phrase>
+	<phrase weight="0.002372479240806643" count="4">intérieur sécurité</phrase>
+	<phrase weight="0.0017793594306049821" count="3">mai mai</phrase>
+	<phrase weight="0.0017793594306049821" count="3">français armée</phrase>
+	<phrase weight="0.0017793594306049821" count="3">contact mystérieux</phrase>
+	<phrase weight="0.0017793594306049821" count="3">juin européen</phrase>
+	<phrase weight="0.0017793594306049821" count="3">indépendant libre</phrase>
+	<phrase weight="0.0017793594306049821" count="3">paix puissance</phrase>
+	<phrase weight="0.0017793594306049821" count="3">guerre chef</phrase>
+	<phrase weight="0.0011862396204033216" count="2">rang rang</phrase>
+	<phrase weight="0.0011862396204033216" count="2">coûtant prix</phrase>
+	<phrase weight="0.0011862396204033216" count="2">patrie patrie</phrase>
+	<phrase weight="0.0011862396204033216" count="2">abandon trahison</phrase>
+	<phrase weight="0.0011862396204033216" count="2">patrie saint</phrase>
   </topic>
-  <topic id="2" alpha="0.1535469334786173" totalTokens="5890" titles="paysan, million, terre, agriculture, agricole, monde, rural, agriculteur, jeune, campagne">
-	<word weight="0.021901528013582344" count="129">paysan</word>
-	<word weight="0.02173174872665535" count="128">million</word>
-	<word weight="0.016468590831918505" count="97">terre</word>
-	<word weight="0.01629881154499151" count="96">agriculture</word>
-	<word weight="0.01595925297113752" count="94">agricole</word>
-	<word weight="0.012563667232597622" count="74">monde</word>
-	<word weight="0.012393887945670628" count="73">rural</word>
-	<word weight="0.011544991511035654" count="68">agriculteur</word>
-	<word weight="0.009168081494057725" count="54">jeune</word>
-	<word weight="0.008828522920203734" count="52">campagne</word>
-	<word weight="0.008828522920203734" count="52">ville</word>
-	<word weight="0.008149405772495755" count="48">mesure</word>
-	<word weight="0.007470288624787776" count="44">européen</word>
-	<word weight="0.007470288624787776" count="44">vie</word>
-	<word weight="0.007130730050933786" count="42">grand</word>
-	<word weight="0.0069609507640067915" count="41">village</word>
-	<word weight="0.006621392190152802" count="39">humain</word>
-	<word weight="0.006621392190152802" count="39">homme</word>
-	<word weight="0.006621392190152802" count="39">année</word>
-	<phrase weight="0.0036363636363636364" count="3">paysan matin</phrase>
-	<phrase weight="0.0036363636363636364" count="3">millier centaine</phrase>
-	<phrase weight="0.0036363636363636364" count="3">million million</phrase>
-	<phrase weight="0.0036363636363636364" count="3">vigneron viticole</phrase>
-	<phrase weight="0.0024242424242424242" count="2">automobile pollution</phrase>
-	<phrase weight="0.0024242424242424242" count="2">climatique réchauffement</phrase>
-	<phrase weight="0.0024242424242424242" count="2">million vie</phrase>
-	<phrase weight="0.0024242424242424242" count="2">douanier barrière</phrase>
-	<phrase weight="0.0024242424242424242" count="2">million ville</phrase>
-	<phrase weight="0.0024242424242424242" count="2">siècle siècle</phrase>
-	<phrase weight="0.0024242424242424242" count="2">pêcheur paysan</phrase>
-	<phrase weight="0.0024242424242424242" count="2">hospitalier structure</phrase>
-	<phrase weight="0.0024242424242424242" count="2">élevage élevage millier disparition</phrase>
-	<phrase weight="0.0024242424242424242" count="2">houillère charbon charbon</phrase>
-	<phrase weight="0.0024242424242424242" count="2">agriculteur million agriculture</phrase>
-	<phrase weight="0.0024242424242424242" count="2">paysan paysan</phrase>
-	<phrase weight="0.0024242424242424242" count="2">concentration plantation</phrase>
-	<phrase weight="0.0024242424242424242" count="2">agro alimentaire</phrase>
-	<phrase weight="0.0024242424242424242" count="2">foncier phytosanitaire environnemental</phrase>
-	<phrase weight="0.0024242424242424242" count="2">médecin tiers</phrase>
+  <topic id="2" alpha="0.8122752216633088" totalTokens="24322" titles="français peuple, liberté, politique, seul, pays, nation, grand, monde, avenir, cher">
+	<word weight="0.034865553819587204" count="848">peuple</word>
+	<word weight="0.01911849354493874" count="465">liberté</word>
+	<word weight="0.016446015952635475" count="400">français</word>
+	<word weight="0.013115697722226791" count="319">politique</word>
+	<word weight="0.012992352602582025" count="316">seul</word>
+	<word weight="0.01249897212400296" count="304">pays</word>
+	<word weight="0.012087821725187074" count="294">nation</word>
+	<word weight="0.011388866047200066" count="277">grand</word>
+	<word weight="0.009785379491818107" count="238">avenir</word>
+	<word weight="0.009785379491818107" count="238">monde</word>
+	<word weight="0.00966203437217334" count="235">cher</word>
+	<word weight="0.008346353095962503" count="203">ami</word>
+	<word weight="0.007647397417975496" count="186">système</word>
+	<word weight="0.007400707178685963" count="180">histoire</word>
+	<word weight="0.007154016939396431" count="174">république</word>
+	<word weight="0.006907326700106899" count="168">pouvoir</word>
+	<word weight="0.006619521420935778" count="161">petit</word>
+	<word weight="0.006537291341172601" count="159">national</word>
+	<word weight="0.006496176301291012" count="158">compatriote</word>
+	<phrase weight="0.005602988260405549" count="21">français peuple</phrase>
+	<phrase weight="0.003735325506937033" count="14">ami cher</phrase>
+	<phrase weight="0.0032017075773745998" count="12">peuple peuple</phrase>
+	<phrase weight="0.0021344717182497333" count="8">liberté liberté</phrase>
+	<phrase weight="0.0018676627534685165" count="7">compatriote cher</phrase>
+	<phrase weight="0.0016008537886872999" count="6">petits enfants</phrase>
+	<phrase weight="0.0013340448239060833" count="5">pays avenir</phrase>
+	<phrase weight="0.0013340448239060833" count="5">nation peuple</phrase>
+	<phrase weight="0.0013340448239060833" count="5">patriotique bouclier</phrase>
+	<phrase weight="0.0010672358591248667" count="4">métropole compatriote cher</phrase>
+	<phrase weight="0.0010672358591248667" count="4">avenir avenir</phrase>
+	<phrase weight="0.0010672358591248667" count="4">femme homme</phrase>
+	<phrase weight="0.0010672358591248667" count="4">français citoyen</phrase>
+	<phrase weight="0.0010672358591248667" count="4">nation nation</phrase>
+	<phrase weight="8.004268943436499E-4" count="3">cher ami cher</phrase>
+	<phrase weight="8.004268943436499E-4" count="3">sentiment nation</phrase>
+	<phrase weight="8.004268943436499E-4" count="3">peuple intérêt</phrase>
+	<phrase weight="8.004268943436499E-4" count="3">honte véritable</phrase>
+	<phrase weight="8.004268943436499E-4" count="3">peuple liberté</phrase>
+	<phrase weight="8.004268943436499E-4" count="3">œil clin</phrase>
   </topic>
-  <topic id="3" alpha="0.7936910486780818" totalTokens="24160" titles="peuple, liberté, politique, français, pays, pouvoir, seul, grand, avenir, république">
-	<word weight="0.0347682119205298" count="840">peuple</word>
-	<word weight="0.01846026490066225" count="446">liberté</word>
-	<word weight="0.018253311258278147" count="441">politique</word>
-	<word weight="0.012044701986754967" count="291">français</word>
-	<word weight="0.011258278145695364" count="272">pays</word>
-	<word weight="0.011009933774834437" count="266">pouvoir</word>
-	<word weight="0.010678807947019867" count="258">seul</word>
-	<word weight="0.009850993377483444" count="238">grand</word>
-	<word weight="0.008443708609271523" count="204">avenir</word>
-	<word weight="0.008195364238410595" count="198">république</word>
-	<word weight="0.008029801324503311" count="194">système</word>
-	<word weight="0.007947019867549669" count="192">monde</word>
-	<word weight="0.007822847682119206" count="189">cher</word>
-	<word weight="0.007781456953642384" count="188">nation</word>
-	<word weight="0.007657284768211921" count="185">petit</word>
-	<word weight="0.006912251655629139" count="167">national</word>
-	<word weight="0.006705298013245033" count="162">histoire</word>
-	<word weight="0.0064983443708609276" count="157">ami</word>
-	<word weight="0.006415562913907285" count="155">projet</word>
-	<phrase weight="0.004784688995215311" count="18">français peuple</phrase>
-	<phrase weight="0.004253056884635832" count="16">ami cher</phrase>
-	<phrase weight="0.002658160552897395" count="10">peuple peuple</phrase>
-	<phrase weight="0.002126528442317916" count="8">compatriote cher</phrase>
-	<phrase weight="0.0018607123870281765" count="7">public service</phrase>
-	<phrase weight="0.001594896331738437" count="6">peuple volonté</phrase>
-	<phrase weight="0.001594896331738437" count="6">entier monde</phrase>
-	<phrase weight="0.001594896331738437" count="6">peuple liberté</phrase>
-	<phrase weight="0.0013290802764486975" count="5">liberté liberté</phrase>
-	<phrase weight="0.0013290802764486975" count="5">femme homme</phrase>
-	<phrase weight="0.001063264221158958" count="4">liberté peuple</phrase>
-	<phrase weight="0.001063264221158958" count="4">histoire histoire</phrase>
-	<phrase weight="0.001063264221158958" count="4">gauche droit</phrase>
-	<phrase weight="0.001063264221158958" count="4">avenir avenir</phrase>
-	<phrase weight="0.001063264221158958" count="4">presse liberté</phrase>
-	<phrase weight="7.974481658692185E-4" count="3">présidentiel élection</phrase>
-	<phrase weight="7.974481658692185E-4" count="3">échange libre</phrase>
-	<phrase weight="7.974481658692185E-4" count="3">souveraineté peuple</phrase>
-	<phrase weight="7.974481658692185E-4" count="3">français république</phrase>
-	<phrase weight="7.974481658692185E-4" count="3">élite peuple</phrase>
+  <topic id="3" alpha="0.2839874621239366" totalTokens="7119" titles="public service, publique, politique, général, social, local, département, administration, euro, personne">
+	<word weight="0.02753195673549656" count="196">public</word>
+	<word weight="0.017699115044247787" count="126">service</word>
+	<word weight="0.017277707543194267" count="123">publique</word>
+	<word weight="0.012220817530552043" count="87">politique</word>
+	<word weight="0.012080348363534204" count="86">général</word>
+	<word weight="0.011518471695462846" count="82">social</word>
+	<word weight="0.01039471835932013" count="74">local</word>
+	<word weight="0.00997331085826661" count="71">département</word>
+	<word weight="0.009270965023177412" count="66">administration</word>
+	<word weight="0.008568619188088215" count="61">euro</word>
+	<word weight="0.008287680854052536" count="59">personne</word>
+	<word weight="0.008147211687034696" count="58">classe</word>
+	<word weight="0.007866273352999017" count="56">république</word>
+	<word weight="0.007585335018963337" count="54">dépense</word>
+	<word weight="0.007444865851945498" count="53">conseil</word>
+	<word weight="0.007304396684927658" count="52">affaire</word>
+	<word weight="0.00688298918387414" count="49">collectivité</word>
+	<word weight="0.00688298918387414" count="49">moyen</word>
+	<word weight="0.0064615816828206205" count="46">niveau</word>
+	<phrase weight="0.028277634961439587" count="22">public service</phrase>
+	<phrase weight="0.006426735218508998" count="5">local collectivité</phrase>
+	<phrase weight="0.006426735218508998" count="5">fiscal administration</phrase>
+	<phrase weight="0.005141388174807198" count="4">république président</phrase>
+	<phrase weight="0.005141388174807198" count="4">publique morale</phrase>
+	<phrase weight="0.005141388174807198" count="4">publique dépense</phrase>
+	<phrase weight="0.005141388174807198" count="4">général conseil</phrase>
+	<phrase weight="0.0038560411311053984" count="3">public agent</phrase>
+	<phrase weight="0.0038560411311053984" count="3">moyen classe</phrase>
+	<phrase weight="0.0038560411311053984" count="3">mars cantonal</phrase>
+	<phrase weight="0.0038560411311053984" count="3">mars mars</phrase>
+	<phrase weight="0.0038560411311053984" count="3">niveau clique</phrase>
+	<phrase weight="0.0038560411311053984" count="3">publique fonction</phrase>
+	<phrase weight="0.002570694087403599" count="2">collusion fiscal fraude</phrase>
+	<phrase weight="0.002570694087403599" count="2">révoltant injustice</phrase>
+	<phrase weight="0.002570694087403599" count="2">grand pervers</phrase>
+	<phrase weight="0.002570694087403599" count="2">conseil primitif budget</phrase>
+	<phrase weight="0.002570694087403599" count="2">importance récupération avance remboursement administration département âgé personne succession recours</phrase>
+	<phrase weight="0.002570694087403599" count="2">droit âgé personne golf tennis golf tennis activité rénovation euro</phrase>
+	<phrase weight="0.002570694087403599" count="2">frai note</phrase>
   </topic>
-  <topic id="4" alpha="0.5073432475251631" totalTokens="14508" titles="droit, immigration, français, étranger, loi, peine, justice, prison, pays, banlieue">
-	<word weight="0.020057899090157153" count="291">droit</word>
-	<word weight="0.017369727047146403" count="252">immigration</word>
-	<word weight="0.017300799558864075" count="251">français</word>
-	<word weight="0.01695616211745244" count="246">étranger</word>
-	<word weight="0.015922249793217536" count="231">loi</word>
-	<word weight="0.011786600496277916" count="171">peine</word>
-	<word weight="0.011579818031430935" count="168">justice</word>
-	<word weight="0.011028398125172319" count="160">prison</word>
-	<word weight="0.010890543148607665" count="158">an</word>
-	<word weight="0.01054590570719603" count="153">pays</word>
-	<word weight="0.008340226082161567" count="121">banlieue</word>
-	<word weight="0.007719878687620623" count="112">peur</word>
-	<word weight="0.007650951199338296" count="111">victime</word>
-	<word weight="0.007650951199338296" count="111">violence</word>
-	<word weight="0.0075820237110559695" count="110">politique</word>
-	<word weight="0.007513096222773642" count="109">sécurité</word>
-	<word weight="0.007375241246208988" count="107">police</word>
-	<word weight="0.007375241246208988" count="107">crime</word>
-	<word weight="0.007237386269644334" count="105">délinquant</word>
-	<phrase weight="0.003970223325062035" count="8">prison peine</phrase>
-	<phrase weight="0.0034739454094292804" count="7">positif discrimination</phrase>
-	<phrase weight="0.002977667493796526" count="6">crime délit</phrase>
-	<phrase weight="0.0024813895781637717" count="5">atomique bombe</phrase>
-	<phrase weight="0.0024813895781637717" count="5">ferme prison</phrase>
-	<phrase weight="0.0024813895781637717" count="5">peur peur</phrase>
-	<phrase weight="0.0024813895781637717" count="5">gauche droit</phrase>
-	<phrase weight="0.0024813895781637717" count="5">mort peine</phrase>
-	<phrase weight="0.0019851116625310174" count="4">droit étranger</phrase>
-	<phrase weight="0.0019851116625310174" count="4">délit crime</phrase>
-	<phrase weight="0.0019851116625310174" count="4">délit crime délit crime</phrase>
-	<phrase weight="0.0019851116625310174" count="4">peine double</phrase>
-	<phrase weight="0.0019851116625310174" count="4">justice police</phrase>
-	<phrase weight="0.0019851116625310174" count="4">musulman religion</phrase>
-	<phrase weight="0.0019851116625310174" count="4">étranger étranger</phrase>
-	<phrase weight="0.0019851116625310174" count="4">islamique fondamentaliste</phrase>
-	<phrase weight="0.0019851116625310174" count="4">victime victime</phrase>
-	<phrase weight="0.001488833746898263" count="3">islamiste fondamentalisme</phrase>
-	<phrase weight="0.001488833746898263" count="3">mosquée mosquée</phrase>
-	<phrase weight="0.001488833746898263" count="3">pays étranger</phrase>
+  <topic id="4" alpha="1.285785814563155" totalTokens="37948" titles="république président, politique, gens, français, foi, chose, problème, pays, nombre, conséquent">
+	<word weight="0.03193844207863392" count="1212">politique</word>
+	<word weight="0.02147675766838832" count="815">gens</word>
+	<word weight="0.020317276272794352" count="771">français</word>
+	<word weight="0.01586381363971751" count="602">an</word>
+	<word weight="0.015125961842521345" count="574">foi</word>
+	<word weight="0.014915147043322441" count="566">chose</word>
+	<word weight="0.014229998945926005" count="540">problème</word>
+	<word weight="0.013887424897227786" count="527">pays</word>
+	<word weight="0.01312322125013176" count="498">président</word>
+	<word weight="0.012780647201433541" count="485">nombre</word>
+	<word weight="0.011990091704437652" count="455">conséquent</word>
+	<word weight="0.01127859175714135" count="428">candidat</word>
+	<word weight="0.010461684410245599" count="397">république</word>
+	<word weight="0.009855591862548752" count="374">élection</word>
+	<word weight="0.009565721513650259" count="363">monde</word>
+	<word weight="0.00940761041425108" count="357">petit</word>
+	<word weight="0.008169073468957521" count="310">vrai</word>
+	<word weight="0.007826499420259302" count="297">raison</word>
+	<word weight="0.007615684621060399" count="289">cas</word>
+	<phrase weight="0.005898834980091432" count="40">république président</phrase>
+	<phrase weight="0.0023595339920365727" count="16">an an</phrase>
+	<phrase weight="0.0017696504940274296" count="12">politique responsable</phrase>
+	<phrase weight="0.0017696504940274296" count="12">politique homme</phrase>
+	<phrase weight="0.0016221796195251437" count="11">présidentiel élection</phrase>
+	<phrase weight="0.0016221796195251437" count="11">demi million</phrase>
+	<phrase weight="0.0013272378705205723" count="9">gens gens</phrase>
+	<phrase weight="0.0011797669960182864" count="8">foi foi</phrase>
+	<phrase weight="0.0011797669960182864" count="8">français politique</phrase>
+	<phrase weight="0.0011797669960182864" count="8">présidentiel campagne</phrase>
+	<phrase weight="0.0010322961215160006" count="7">politique vie</phrase>
+	<phrase weight="0.0010322961215160006" count="7">après midi</phrase>
+	<phrase weight="8.848252470137148E-4" count="6">chose nombre</phrase>
+	<phrase weight="8.848252470137148E-4" count="6">clair chose</phrase>
+	<phrase weight="8.848252470137148E-4" count="6">candidat candidat</phrase>
+	<phrase weight="8.848252470137148E-4" count="6">chose chose</phrase>
+	<phrase weight="8.848252470137148E-4" count="6">partie grand</phrase>
+	<phrase weight="8.848252470137148E-4" count="6">femme homme</phrase>
+	<phrase weight="8.848252470137148E-4" count="6">millier centaine</phrase>
+	<phrase weight="7.37354372511429E-4" count="5">problème problème</phrase>
   </topic>
-  <topic id="5" alpha="0.32728400968769494" totalTokens="10625" titles="an, grand, patrie, pays, foi, national, français, chef, histoire, temps">
-	<word weight="0.020988235294117648" count="223">an</word>
-	<word weight="0.015247058823529412" count="162">grand</word>
-	<word weight="0.014588235294117647" count="155">patrie</word>
-	<word weight="0.011011764705882353" count="117">pays</word>
-	<word weight="0.010541176470588236" count="112">foi</word>
-	<word weight="0.010258823529411765" count="109">national</word>
-	<word weight="0.008470588235294117" count="90">français</word>
-	<word weight="0.008376470588235294" count="89">chef</word>
-	<word weight="0.008094117647058823" count="86">histoire</word>
-	<word weight="0.007905882352941176" count="84">temps</word>
-	<word weight="0.007811764705882353" count="83">mai</word>
-	<word weight="0.0075294117647058826" count="80">peuple</word>
-	<word weight="0.0075294117647058826" count="80">vif</word>
-	<word weight="0.0071529411764705885" count="76">siècle</word>
-	<word weight="0.0069647058823529414" count="74">fête</word>
-	<word weight="0.006870588235294118" count="73">travail</word>
-	<word weight="0.006682352941176471" count="71">ancien</word>
-	<word weight="0.006682352941176471" count="71">guerre</word>
-	<word weight="0.006682352941176471" count="71">mort</word>
-	<phrase weight="0.002260738507912585" count="3">camarade cher</phrase>
-	<phrase weight="0.002260738507912585" count="3">an an</phrase>
-	<phrase weight="0.0015071590052750565" count="2">mai mai</phrase>
-	<phrase weight="0.0015071590052750565" count="2">épreuve référence</phrase>
-	<phrase weight="0.0015071590052750565" count="2">français travailleur</phrase>
-	<phrase weight="0.0015071590052750565" count="2">patrie salut</phrase>
-	<phrase weight="0.0015071590052750565" count="2">an moi an an humain histoire</phrase>
-	<phrase weight="0.0015071590052750565" count="2">anniversaire mai</phrase>
-	<phrase weight="0.0015071590052750565" count="2">comble révolutionnaire fureur</phrase>
-	<phrase weight="0.0015071590052750565" count="2">naissance anniversaire</phrase>
-	<phrase weight="0.0015071590052750565" count="2">beau frère</phrase>
-	<phrase weight="0.0015071590052750565" count="2">chef grand guerre chef grand chef</phrase>
-	<phrase weight="0.0015071590052750565" count="2">foi pays</phrase>
-	<phrase weight="0.0015071590052750565" count="2">adultération effacement adultération</phrase>
-	<phrase weight="0.0015071590052750565" count="2">patrie effacement</phrase>
-	<phrase weight="0.0015071590052750565" count="2">ombre proie</phrase>
-	<phrase weight="0.0015071590052750565" count="2">peuple peuple</phrase>
-	<phrase weight="0.0015071590052750565" count="2">an révolution</phrase>
-	<phrase weight="0.0015071590052750565" count="2">sympathisant militant</phrase>
-	<phrase weight="0.0015071590052750565" count="2">siècle sœur</phrase>
+  <topic id="5" alpha="0.5530518729576586" totalTokens="16397" titles="travail, social, an, enfant, famille, vie, retraite, jeune, école, société">
+	<word weight="0.02073550039641398" count="340">travail</word>
+	<word weight="0.018783923888516192" count="308">social</word>
+	<word weight="0.015856559126669514" count="260">an</word>
+	<word weight="0.012380313471976582" count="203">enfant</word>
+	<word weight="0.011160578154540465" count="183">famille</word>
+	<word weight="0.01036775019820699" count="170">vie</word>
+	<word weight="0.009940842837104348" count="163">retraite</word>
+	<word weight="0.009818869305360736" count="161">jeune</word>
+	<word weight="0.00963590900774532" count="158">école</word>
+	<word weight="0.008294200158565591" count="136">société</word>
+	<word weight="0.0077453192657193385" count="127">emploi</word>
+	<word weight="0.007379398670488504" count="121">impôt</word>
+	<word weight="0.007135451607001281" count="117">économique</word>
+	<word weight="0.006830517777642251" count="112">entreprise</word>
+	<word weight="0.0065255839482832225" count="107">travailleur</word>
+	<word weight="0.006159663353052388" count="101">effort</word>
+	<word weight="0.00597670305543697" count="98">national</word>
+	<word weight="0.005854729523693358" count="96">effet</word>
+	<word weight="0.005854729523693358" count="96">français</word>
+	<phrase weight="0.002275830678197542" count="5">obligatoire prélèvement</phrase>
+	<phrase weight="0.0018206645425580337" count="4">travail revenu impôt</phrase>
+	<phrase weight="0.0018206645425580337" count="4">social aide</phrase>
+	<phrase weight="0.0018206645425580337" count="4">travailleur travail</phrase>
+	<phrase weight="0.0013654984069185253" count="3">an an</phrase>
+	<phrase weight="0.0013654984069185253" count="3">revenu impôt</phrase>
+	<phrase weight="0.0013654984069185253" count="3">issu jeune</phrase>
+	<phrase weight="0.0013654984069185253" count="3">publique fonction</phrase>
+	<phrase weight="0.0013654984069185253" count="3">publique dépense</phrase>
+	<phrase weight="0.0013654984069185253" count="3">professionnel formation</phrase>
+	<phrase weight="0.0013654984069185253" count="3">an retraite</phrase>
+	<phrase weight="0.0013654984069185253" count="3">social protection</phrase>
+	<phrase weight="0.0013654984069185253" count="3">excès travail</phrase>
+	<phrase weight="0.0013654984069185253" count="3">consommation achat</phrase>
+	<phrase weight="0.0013654984069185253" count="3">emploi emploi</phrase>
+	<phrase weight="9.103322712790169E-4" count="2">politique classe</phrase>
+	<phrase weight="9.103322712790169E-4" count="2">pauvreté seuil</phrase>
+	<phrase weight="9.103322712790169E-4" count="2">cité cité</phrase>
+	<phrase weight="9.103322712790169E-4" count="2">travail revenu</phrase>
+	<phrase weight="9.103322712790169E-4" count="2">épargne achat</phrase>
   </topic>
-  <topic id="6" alpha="0.3422401206409137" totalTokens="9310" titles="public, publique, an, retraite, politique, million, dépense, impôt, euro, service">
-	<word weight="0.0200859291084855" count="187">public</word>
-	<word weight="0.01933404940923738" count="180">publique</word>
-	<word weight="0.017185821697099892" count="160">an</word>
-	<word weight="0.01611170784103115" count="150">retraite</word>
-	<word weight="0.014822771213748658" count="138">politique</word>
-	<word weight="0.012352309344790547" count="115">million</word>
-	<word weight="0.011063372717508057" count="103">dépense</word>
-	<word weight="0.009881847475832439" count="92">impôt</word>
-	<word weight="0.009881847475832439" count="92">euro</word>
-	<word weight="0.00966702470461869" count="90">service</word>
-	<word weight="0.009129967776584319" count="85">social</word>
-	<word weight="0.008270676691729323" count="77">général</word>
-	<word weight="0.007841031149301826" count="73">fonctionnaire</word>
-	<word weight="0.007626208378088077" count="71">personne</word>
-	<word weight="0.007518796992481203" count="70">département</word>
-	<word weight="0.006981740064446832" count="65">local</word>
-	<word weight="0.006981740064446832" count="65">milliard</word>
-	<word weight="0.006659505907626208" count="62">fonction</word>
-	<word weight="0.0063372717508055855" count="59">national</word>
-	<phrase weight="0.01092896174863388" count="12">public service</phrase>
-	<phrase weight="0.01092896174863388" count="12">publique fonction</phrase>
-	<phrase weight="0.00546448087431694" count="6">publique morale</phrase>
-	<phrase weight="0.0036429872495446266" count="4">publique dépense</phrase>
-	<phrase weight="0.0036429872495446266" count="4">obligatoire prélèvement</phrase>
-	<phrase weight="0.00273224043715847" count="3">succession impôt</phrase>
-	<phrase weight="0.00273224043715847" count="3">compatriote cher</phrase>
-	<phrase weight="0.00273224043715847" count="3">revenu impôt</phrase>
-	<phrase weight="0.00273224043715847" count="3">local collectivité</phrase>
-	<phrase weight="0.00273224043715847" count="3">moyen classe</phrase>
-	<phrase weight="0.00273224043715847" count="3">fiscal prélèvement</phrase>
-	<phrase weight="0.00273224043715847" count="3">fonctionnaire public</phrase>
-	<phrase weight="0.00273224043715847" count="3">personne million</phrase>
-	<phrase weight="0.00273224043715847" count="3">euro million</phrase>
-	<phrase weight="0.00273224043715847" count="3">euro milliard</phrase>
-	<phrase weight="0.00273224043715847" count="3">âgé personne</phrase>
-	<phrase weight="0.0018214936247723133" count="2">congru portion</phrase>
-	<phrase weight="0.0018214936247723133" count="2">ressemblance total collusion privilège acquis privilège acquis</phrase>
-	<phrase weight="0.0018214936247723133" count="2">accessibilité seuil</phrase>
-	<phrase weight="0.0018214936247723133" count="2">présent général conseil</phrase>
+  <topic id="6" alpha="0.7132135155201488" totalTokens="24153" titles="européen union, économique, entreprise, grand, pays, social, économie, milliard, emploi, marché">
+	<word weight="0.018134393243075395" count="438">économique</word>
+	<word weight="0.017140727859893182" count="414">européen</word>
+	<word weight="0.01639547882250652" count="396">entreprise</word>
+	<word weight="0.016188465201010225" count="391">grand</word>
+	<word weight="0.014490953504740611" count="350">pays</word>
+	<word weight="0.013207469051463586" count="319">économie</word>
+	<word weight="0.013207469051463586" count="319">social</word>
+	<word weight="0.012959052705668033" count="313">milliard</word>
+	<word weight="0.010930319215004347" count="264">emploi</word>
+	<word weight="0.010888916490705088" count="263">marché</word>
+	<word weight="0.009605432037428063" count="232">union</word>
+	<word weight="0.009398418415931769" count="227">monnaie</word>
+	<word weight="0.009398418415931769" count="227">euro</word>
+	<word weight="0.009274210243033992" count="224">frontière</word>
+	<word weight="0.008860183000041403" count="214">projet</word>
+	<word weight="0.008777377551442886" count="212">droit</word>
+	<word weight="0.008735974827143627" count="211">intérêt</word>
+	<word weight="0.00861176665424585" count="208">dette</word>
+	<word weight="0.007369684925268082" count="178">financier</word>
+	<phrase weight="0.008868022952529996" count="34">européen union</phrase>
+	<phrase weight="0.004694835680751174" count="18">euro milliard</phrase>
+	<phrase weight="0.003129890453834116" count="12">financier marché</phrase>
+	<phrase weight="0.0028690662493479394" count="11">social économique</phrase>
+	<phrase weight="0.0028690662493479394" count="11">déloyal concurrence</phrase>
+	<phrase weight="0.0026082420448617634" count="10">économique modèle</phrase>
+	<phrase weight="0.0026082420448617634" count="10">salaire baisse</phrase>
+	<phrase weight="0.0020865936358894104" count="8">moyen classe</phrase>
+	<phrase weight="0.0020865936358894104" count="8">achat pouvoir</phrase>
+	<phrase weight="0.0018257694314032342" count="7">homosexuel mariage</phrase>
+	<phrase weight="0.0018257694314032342" count="7">social protection</phrase>
+	<phrase weight="0.0018257694314032342" count="7">soi disant</phrase>
+	<phrase weight="0.001564945226917058" count="6">dette intérêt</phrase>
+	<phrase weight="0.001564945226917058" count="6">économique patriotisme</phrase>
+	<phrase weight="0.001564945226917058" count="6">vital carte</phrase>
+	<phrase weight="0.0013041210224308817" count="5">frontière protection</phrase>
+	<phrase weight="0.0013041210224308817" count="5">protection système</phrase>
+	<phrase weight="0.0013041210224308817" count="5">pays pays</phrase>
+	<phrase weight="0.0013041210224308817" count="5">entreprise entreprise</phrase>
+	<phrase weight="0.0013041210224308817" count="5">patronat grand</phrase>
   </topic>
-  <topic id="7" alpha="1.1518442850335369" totalTokens="40123" titles="monsieur monsieur, république président, politique, gens, français, chose, foi, problème, candidat, pays">
-	<word weight="0.04785285247862822" count="1920">monsieur</word>
-	<word weight="0.02552152132193505" count="1024">politique</word>
-	<word weight="0.020711312713406274" count="831">gens</word>
-	<word weight="0.020337462303416994" count="816">français</word>
-	<word weight="0.018119283204147248" count="727">an</word>
-	<word weight="0.015502330334222266" count="622">chose</word>
-	<word weight="0.015128479924232984" count="607">foi</word>
-	<word weight="0.01463001271091394" count="587">problème</word>
-	<word weight="0.014106622136928943" count="566">candidat</word>
-	<word weight="0.013633078284275851" count="547">pays</word>
-	<word weight="0.012685990578969669" count="509">nombre</word>
-	<word weight="0.012461680332976099" count="500">président</word>
-	<word weight="0.011365052463674202" count="456">conséquent</word>
-	<word weight="0.008773022954415174" count="352">république</word>
-	<word weight="0.008548712708421604" count="343">gouvernement</word>
-	<word weight="0.008125015577100415" count="326">homme</word>
-	<word weight="0.008125015577100415" count="326">petit</word>
-	<word weight="0.008050245495102559" count="323">million</word>
-	<word weight="0.008025322134436607" count="322">monde</word>
-	<phrase weight="0.004560697518443998" count="34">monsieur monsieur</phrase>
-	<phrase weight="0.004158283031522468" count="31">république président</phrase>
-	<phrase weight="0.002146210596914822" count="16">an an</phrase>
-	<phrase weight="0.0014755197853789403" count="11">politique responsable</phrase>
-	<phrase weight="0.0014755197853789403" count="11">problème problème</phrase>
-	<phrase weight="0.0014755197853789403" count="11">politique homme</phrase>
-	<phrase weight="0.001073105298457411" count="8">présidentiel élection</phrase>
-	<phrase weight="9.389671361502347E-4" count="7">gens conséquent</phrase>
-	<phrase weight="9.389671361502347E-4" count="7">gouvernement gouvernement</phrase>
-	<phrase weight="9.389671361502347E-4" count="7">gens gens</phrase>
-	<phrase weight="9.389671361502347E-4" count="7">monsieur chose</phrase>
-	<phrase weight="9.389671361502347E-4" count="7">femme homme</phrase>
-	<phrase weight="8.048289738430583E-4" count="6">foi foi</phrase>
-	<phrase weight="8.048289738430583E-4" count="6">monsieur monsieur monsieur monsieur</phrase>
-	<phrase weight="8.048289738430583E-4" count="6">conséquent an</phrase>
-	<phrase weight="8.048289738430583E-4" count="6">français politique</phrase>
-	<phrase weight="8.048289738430583E-4" count="6">monsieur monsieur monsieur</phrase>
-	<phrase weight="8.048289738430583E-4" count="6">candidat candidat</phrase>
-	<phrase weight="8.048289738430583E-4" count="6">gens nombre</phrase>
-	<phrase weight="8.048289738430583E-4" count="6">chose chose</phrase>
+  <topic id="7" alpha="0.34645987115383287" totalTokens="9680" titles="loi, peine, prison, justice, crime, insécurité, délinquant, victime, société, peur">
+	<word weight="0.021074380165289255" count="204">loi</word>
+	<word weight="0.016115702479338842" count="156">peine</word>
+	<word weight="0.015805785123966944" count="153">prison</word>
+	<word weight="0.015392561983471074" count="149">justice</word>
+	<word weight="0.013739669421487603" count="133">crime</word>
+	<word weight="0.013223140495867768" count="128">insécurité</word>
+	<word weight="0.01084710743801653" count="105">délinquant</word>
+	<word weight="0.010330578512396695" count="100">victime</word>
+	<word weight="0.010227272727272727" count="99">société</word>
+	<word weight="0.01012396694214876" count="98">peur</word>
+	<word weight="0.01012396694214876" count="98">violence</word>
+	<word weight="0.010020661157024793" count="97">criminel</word>
+	<word weight="0.009504132231404958" count="92">délinquance</word>
+	<word weight="0.00909090909090909" count="88">autorité</word>
+	<word weight="0.008987603305785123" count="87">ordre</word>
+	<word weight="0.008884297520661158" count="86">police</word>
+	<word weight="0.008677685950413223" count="84">sécurité</word>
+	<word weight="0.008677685950413223" count="84">policier</word>
+	<word weight="0.008367768595041323" count="81">délit</word>
+	<phrase weight="0.008620689655172414" count="11">mort peine</phrase>
+	<phrase weight="0.006269592476489028" count="8">anglo saxon</phrase>
+	<phrase weight="0.004702194357366771" count="6">prison place</phrase>
+	<phrase weight="0.004702194357366771" count="6">délit crime</phrase>
+	<phrase weight="0.003918495297805642" count="5">islamique fondamentaliste</phrase>
+	<phrase weight="0.003134796238244514" count="4">crime délit</phrase>
+	<phrase weight="0.003134796238244514" count="4">insécurité insécurité</phrase>
+	<phrase weight="0.003134796238244514" count="4">criminalité délinquance criminalité délinquance</phrase>
+	<phrase weight="0.003134796238244514" count="4">délinquance criminalité</phrase>
+	<phrase weight="0.003134796238244514" count="4">criminalité délinquance</phrase>
+	<phrase weight="0.0023510971786833857" count="3">délit crime délit crime</phrase>
+	<phrase weight="0.0023510971786833857" count="3">peur peur</phrase>
+	<phrase weight="0.0023510971786833857" count="3">prison peine</phrase>
+	<phrase weight="0.0023510971786833857" count="3">perpétuel prison</phrase>
+	<phrase weight="0.0023510971786833857" count="3">ordre ordre</phrase>
+	<phrase weight="0.0023510971786833857" count="3">prison prison</phrase>
+	<phrase weight="0.0023510971786833857" count="3">civil paix</phrase>
+	<phrase weight="0.0023510971786833857" count="3">judiciaire casier</phrase>
+	<phrase weight="0.0023510971786833857" count="3">islamiste fondamentaliste</phrase>
+	<phrase weight="0.0023510971786833857" count="3">violence violence</phrase>
   </topic>
-  <topic id="8" alpha="0.4583018714050537" totalTokens="13166" titles="européen union, politique, nation, pays, français, frontière, peuple, guerre, constitution, international">
-	<word weight="0.045875740543825004" count="604">européen</word>
-	<word weight="0.020735227100106335" count="273">politique</word>
-	<word weight="0.01868449035394197" count="246">nation</word>
-	<word weight="0.01731733252316573" count="228">pays</word>
-	<word weight="0.016785660033419414" count="221">français</word>
-	<word weight="0.01503873613853866" count="198">frontière</word>
-	<word weight="0.014658970074434148" count="193">peuple</word>
-	<word weight="0.013291812243657906" count="175">guerre</word>
-	<word weight="0.012608233328269786" count="166">constitution</word>
-	<word weight="0.011468935135956251" count="151">union</word>
-	<word weight="0.011241075497493544" count="148">souveraineté</word>
-	<word weight="0.011241075497493544" count="148">international</word>
-	<word weight="0.01048154336928452" count="138">nouveau</word>
-	<word weight="0.009873917666717302" count="130">indépendance</word>
-	<word weight="0.00919033875132918" count="121">mondial</word>
-	<word weight="0.008962479112866474" count="118">monde</word>
-	<word weight="0.008886525900045572" count="117">national</word>
-	<word weight="0.008430806623120159" count="111">traité</word>
-	<word weight="0.008354853410299255" count="110">économique</word>
-	<phrase weight="0.020903954802259886" count="37">européen union</phrase>
-	<phrase weight="0.0062146892655367235" count="11">européen parlement</phrase>
-	<phrase weight="0.004519774011299435" count="8">européen constitution</phrase>
-	<phrase weight="0.003389830508474576" count="6">messieurs mesdames</phrase>
-	<phrase weight="0.003389830508474576" count="6">européen commission</phrase>
-	<phrase weight="0.002824858757062147" count="5">circulation libre</phrase>
-	<phrase weight="0.0022598870056497176" count="4">européen nation</phrase>
-	<phrase weight="0.0022598870056497176" count="4">constitution article</phrase>
-	<phrase weight="0.0022598870056497176" count="4">constitution référendum</phrase>
-	<phrase weight="0.0022598870056497176" count="4">frontière frontière</phrase>
-	<phrase weight="0.0022598870056497176" count="4">international politique</phrase>
-	<phrase weight="0.001694915254237288" count="3">mondial guerre</phrase>
-	<phrase weight="0.001694915254237288" count="3">étranger politique</phrase>
-	<phrase weight="0.001694915254237288" count="3">européen traité</phrase>
-	<phrase weight="0.001694915254237288" count="3">européen directif</phrase>
-	<phrase weight="0.001694915254237288" count="3">français présidence</phrase>
-	<phrase weight="0.001694915254237288" count="3">russe peuple</phrase>
-	<phrase weight="0.001694915254237288" count="3">monétaire politique</phrase>
-	<phrase weight="0.001694915254237288" count="3">nation nation</phrase>
-	<phrase weight="0.001694915254237288" count="3">intérieur sécurité</phrase>
+  <topic id="8" alpha="0.7279197869920642" totalTokens="17417" titles="immigration, droit, pays, français, étranger, national, million, politique, social, année">
+	<word weight="0.038927484641442266" count="678">immigration</word>
+	<word weight="0.030774530630992707" count="536">droit</word>
+	<word weight="0.027674111500258367" count="482">pays</word>
+	<word weight="0.02635356261124189" count="459">français</word>
+	<word weight="0.02560716541310214" count="446">an</word>
+	<word weight="0.023367973818682896" count="407">étranger</word>
+	<word weight="0.020439800195211574" count="356">national</word>
+	<word weight="0.01797094792444164" count="313">million</word>
+	<word weight="0.013837055750129184" count="241">politique</word>
+	<word weight="0.013607395073778492" count="237">social</word>
+	<word weight="0.013492564735603146" count="235">année</word>
+	<word weight="0.011597864155709939" count="202">gauche</word>
+	<word weight="0.010679221450307171" count="186">pouvoir</word>
+	<word weight="0.010564391112131826" count="184">personne</word>
+	<word weight="0.009530918068553712" count="166">chiffre</word>
+	<word weight="0.009473502899466038" count="165">situation</word>
+	<word weight="0.00912901188494" count="159">nationalité</word>
+	<word weight="0.008956766377676983" count="156">clandestin</word>
+	<word weight="0.008038123672274215" count="140">gouvernement</word>
+	<phrase weight="0.006741573033707865" count="15">massif immigration</phrase>
+	<phrase weight="0.004943820224719101" count="11">gauche droit</phrase>
+	<phrase weight="0.004044943820224719" count="9">immigration immigration</phrase>
+	<phrase weight="0.0035955056179775282" count="8">sol droit</phrase>
+	<phrase weight="0.003146067415730337" count="7">an an</phrase>
+	<phrase weight="0.003146067415730337" count="7">million million</phrase>
+	<phrase weight="0.002696629213483146" count="6">positif discrimination</phrase>
+	<phrase weight="0.002696629213483146" count="6">clandestin immigration</phrase>
+	<phrase weight="0.002696629213483146" count="6">chiffre chiffre</phrase>
+	<phrase weight="0.002696629213483146" count="6">aspirant pompe</phrase>
+	<phrase weight="0.0022471910112359553" count="5">atomique bombe</phrase>
+	<phrase weight="0.0022471910112359553" count="5">national préférence</phrase>
+	<phrase weight="0.0022471910112359553" count="5">incontrôlé immigration</phrase>
+	<phrase weight="0.0022471910112359553" count="5">droit étranger</phrase>
+	<phrase weight="0.0022471910112359553" count="5">pauvre travailleur</phrase>
+	<phrase weight="0.0022471910112359553" count="5">personne million</phrase>
+	<phrase weight="0.0022471910112359553" count="5">masse immigration</phrase>
+	<phrase weight="0.0022471910112359553" count="5">étranger origine</phrase>
+	<phrase weight="0.0022471910112359553" count="5">gauche droit gauche</phrase>
+	<phrase weight="0.0022471910112359553" count="5">pays étranger</phrase>
   </topic>
-  <topic id="9" alpha="0.7557245698809755" totalTokens="22694" titles="socialiste parti, national, élection, politique, électoral, droit, électeur, ami, voix, seul">
-	<word weight="0.02705560941217943" count="614">national</word>
-	<word weight="0.01753767515642901" count="398">parti</word>
-	<word weight="0.01714109456243941" count="389">élection</word>
-	<word weight="0.015731030228254166" count="357">politique</word>
-	<word weight="0.012029611351017891" count="273">électoral</word>
-	<word weight="0.011765224288358156" count="267">droit</word>
-	<word weight="0.01163303075702829" count="264">électeur</word>
-	<word weight="0.010972063100378954" count="249">voix</word>
-	<word weight="0.010972063100378954" count="249">ami</word>
-	<word weight="0.010487353485502776" count="238">seul</word>
-	<word weight="0.010399224464616198" count="236">socialiste</word>
-	<word weight="0.00898916013043095" count="204">mouvement</word>
-	<word weight="0.008372256984224904" count="190">européen</word>
-	<word weight="0.007843482858905437" count="178">campagne</word>
-	<word weight="0.0077112893275755705" count="175">gauche</word>
-	<word weight="0.006962192650039658" count="158">liste</word>
-	<word weight="0.00687406362915308" count="156">assemblée</word>
-	<word weight="0.006829999118709791" count="155">région</word>
-	<word weight="0.0066978055873799245" count="152">régional</word>
-	<phrase weight="0.006933976484775399" count="23">socialiste parti</phrase>
-	<phrase weight="0.0051251130539644255" count="17">communiste parti</phrase>
-	<phrase weight="0.003316249623153452" count="11">présidentiel élection</phrase>
-	<phrase weight="0.003316249623153452" count="11">électoral campagne</phrase>
-	<phrase weight="0.0030147723846849564" count="10">national assemblée</phrase>
-	<phrase weight="0.002411817907747965" count="8">gauche droit</phrase>
-	<phrase weight="0.0021103406692794696" count="7">législatif élection</phrase>
-	<phrase weight="0.0018088634308109737" count="6">scrutin mode</phrase>
-	<phrase weight="0.0018088634308109737" count="6">municipal conseiller</phrase>
-	<phrase weight="0.0018088634308109737" count="6">droit gauche</phrase>
-	<phrase weight="0.0018088634308109737" count="6">vue point</phrase>
-	<phrase weight="0.0015073861923424782" count="5">voix demi</phrase>
-	<phrase weight="0.0015073861923424782" count="5">ami ami</phrase>
-	<phrase weight="0.0015073861923424782" count="5">national préférence</phrase>
-	<phrase weight="0.0015073861923424782" count="5">universel suffrage</phrase>
-	<phrase weight="0.0015073861923424782" count="5">élection prochain</phrase>
-	<phrase weight="0.0015073861923424782" count="5">liste tête</phrase>
-	<phrase weight="0.0012059089538739825" count="4">voix voix</phrase>
-	<phrase weight="0.0012059089538739825" count="4">rose rose</phrase>
-	<phrase weight="0.0012059089538739825" count="4">électoral échéance</phrase>
+  <topic id="9" alpha="0.8361101749325156" totalTokens="23461" titles="national assemblée, droit, parti, politique, voix, élection, électoral, européen, électeur, président">
+	<word weight="0.032735177528664595" count="768">national</word>
+	<word weight="0.01666595626784877" count="391">parti</word>
+	<word weight="0.01666595626784877" count="391">droit</word>
+	<word weight="0.014492135885085888" count="340">politique</word>
+	<word weight="0.013426537658241337" count="315">voix</word>
+	<word weight="0.01329866587101999" count="312">élection</word>
+	<word weight="0.011678956566216274" count="274">électoral</word>
+	<word weight="0.010570734410297941" count="248">européen</word>
+	<word weight="0.010442862623076594" count="245">électeur</word>
+	<word weight="0.010101871190486339" count="237">gauche</word>
+	<word weight="0.010101871190486339" count="237">président</word>
+	<word weight="0.009973999403264993" count="234">mouvement</word>
+	<word weight="0.009931375474191212" count="233">ami</word>
+	<word weight="0.00865265760197775" count="203">campagne</word>
+	<word weight="0.008396914027535058" count="197">socialiste</word>
+	<word weight="0.00801329866587102" count="188">tour</word>
+	<word weight="0.007714931162354546" count="181">député</word>
+	<word weight="0.007544435446059418" count="177">seul</word>
+	<word weight="0.007075572226247815" count="166">grand</word>
+	<phrase weight="0.006969612489545581" count="25">national assemblée</phrase>
+	<phrase weight="0.004460551993309172" count="16">socialiste parti</phrase>
+	<phrase weight="0.003345413994981879" count="12">électoral campagne</phrase>
+	<phrase weight="0.003345413994981879" count="12">communiste parti</phrase>
+	<phrase weight="0.002509060496236409" count="9">droit gauche</phrase>
+	<phrase weight="0.002230275996654586" count="8">voix voix</phrase>
+	<phrase weight="0.002230275996654586" count="8">législatif élection</phrase>
+	<phrase weight="0.0019514914970727628" count="7">politique parti</phrase>
+	<phrase weight="0.0019514914970727628" count="7">présidentiel élection</phrase>
+	<phrase weight="0.0016727069974909396" count="6">municipal conseiller</phrase>
+	<phrase weight="0.0016727069974909396" count="6">vote vote</phrase>
+	<phrase weight="0.0016727069974909396" count="6">ami ami</phrase>
+	<phrase weight="0.0013939224979091162" count="5">national droit</phrase>
+	<phrase weight="0.0013939224979091162" count="5">élection tour</phrase>
+	<phrase weight="0.0013939224979091162" count="5">droit extrême</phrase>
+	<phrase weight="0.001115137998327293" count="4">européen parlement</phrase>
+	<phrase weight="0.001115137998327293" count="4">national mouvement</phrase>
+	<phrase weight="0.001115137998327293" count="4">gauche droit</phrase>
+	<phrase weight="0.001115137998327293" count="4">électeur voix</phrase>
+	<phrase weight="0.001115137998327293" count="4">européen élection</phrase>
   </topic>
 </topics>

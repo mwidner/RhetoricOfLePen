@@ -1,9 +1,9 @@
 #!/bin/sh
 
-DOC_PATH="/Users/widner/Projects/DLCL/Alduy/Rhetoric_of_LePen/corpora/authors"
+DOC_PATH="/Users/widner/Projects/DLCL/Alduy/Rhetoric_of_LePen/corpora/author"
 FILES=`ls ${DOC_PATH}/*.txt`
 TT_FR="/Applications/TreeTagger/cmd/tagger-chunker-french"
-RESULTS_DIR="/Users/widner/Projects/DLCL/Alduy/Rhetoric_of_LePen/results/treetagger/authors"
+RESULTS_DIR="/Users/widner/Projects/DLCL/Alduy/Rhetoric_of_LePen/results/treetagger/author"
 
 if [ ! -d $RESULTS_DIR ];
 	then
